@@ -11,7 +11,7 @@ from util.data_load.google_sheet import get_now_datetime
 from util.data_load.google_sheet import GoogleSheet
 
 
-
+KAKAO_JAVASCRIPT_KEY = str(st.secrets["KAKAO_JAVASCRIPT_KEY"])
 
 class SecureLoginApp:
     """Streamlit 로그인/잠금 기능을 관리하는 클래스"""
@@ -22,8 +22,6 @@ class SecureLoginApp:
         self.googlesheet = GoogleSheet("오토바이 추적DB")
         self.USER_DB = self._init_loginDB()        
         self.map_data = self.get_map_data()
-        
-        self.KAKAO_JAVASCRIPT_KEY = st.secrets["KAKAO_JAVASCRIPT_KEY"]
 
     # -----------------------
     # 유틸 함수들
@@ -148,7 +146,7 @@ class SecureLoginApp:
             <div id="map" style="width:100%;height:280px;margin-top:5px;"></div>
 
             <script type="text/javascript"
-                src="https://dapi.kakao.com/v2/maps/sdk.js?appkey={self.KAKAO_JAVASCRIPT_KEY}">
+                src="https://dapi.kakao.com/v2/maps/sdk.js?appkey={KAKAO_JAVASCRIPT_KEY}">
             </script>
             <script>
                 // 공통 중심 좌표
