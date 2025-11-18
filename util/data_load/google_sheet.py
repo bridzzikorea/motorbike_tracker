@@ -4,9 +4,12 @@ import re
 import time
 import json
 import gspread
+from typing import List, Dict, Any, Optional
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import pandas as pd
-from zoneinfo import ZoneInfo
+import streamlit as st
 from google.auth.exceptions import TransportError
 from gspread.exceptions import APIError
 from requests.exceptions import HTTPError
@@ -16,8 +19,6 @@ from urllib3.exceptions import ReadTimeoutError
 from urllib3.exceptions import ProtocolError
 from google.oauth2 import service_account
 from gspread.utils import ValueInputOption
-from typing import List, Dict, Any, Optional
-from datetime import datetime
 
 import util.error_log.errors as errors
 import util.error_log.logger as loggers
@@ -95,7 +96,7 @@ def exception_handler(method):
 
 
 class GoogleSheet:
-    def __init__(self, json_file_name: str, spreadsheet_name: str):
+    def __init__(self, spreadsheet_name: str):
         """
         구글 시트 인증 및 스프레드시트 선택 초기화
 
@@ -103,24 +104,17 @@ class GoogleSheet:
         :param spreadsheet_name: 액세스할 스프레드시트 이름
         """
 
-        if '\\' in json_file_name or '/' in json_file_name:
-            self.json_path = json_file_name
-        else:
-            self.json_path = fr"data/{json_file_name}"           
-            
-        if path_util.is_valid_path(self.json_path) == False:
-            raise FileNotFoundError(f"파일을 찾을 수 없습니다: {self.json_path}")
-
         SCOPE = [
             "https://www.googleapis.com/auth/spreadsheets",
             "https://www.googleapis.com/auth/drive.file",
             "https://www.googleapis.com/auth/drive" 
-        ]    
+        ]
 
-        self.credentials = None
+        info = dict(st.secrets["google_service_account"])
+        self.credentials = None        
         try:
             self.credentials = service_account.Credentials.from_service_account_file(
-                self.json_path, 
+                info, 
                 scopes=SCOPE
             )
             logging.info("Success 자격증명 로드")

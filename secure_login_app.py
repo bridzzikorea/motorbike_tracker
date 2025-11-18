@@ -3,8 +3,8 @@ import hashlib
 import streamlit as st
 import streamlit.components.v1 as components
 
-from util.google_sheet import get_now_datetime
-from util.google_sheet import GoogleSheet
+from util.data_load.google_sheet import get_now_datetime
+from util.data_load.google_sheet import GoogleSheet
 
 
 class SecureLoginApp:
@@ -13,7 +13,7 @@ class SecureLoginApp:
     def __init__(self):
         # ✅ 이 부분은 세션당 한 번만 실행되도록 밖에서 cache_resource로 감쌀 거라,
         #    여기서 무거운 초기화 해도 괜찮음.
-        self.googlesheet = GoogleSheet("bridzzi_naver_google.json", "오토바이 추적DB")
+        self.googlesheet = GoogleSheet("오토바이 추적DB")
         self.USER_DB = self._init_loginDB()        
         self.map_data = self.get_map_data()
 

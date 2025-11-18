@@ -9,10 +9,6 @@ import streamlit.components.v1 as components
 
 from secure_login_app import SecureLoginApp
 
-BASE_DIR = Path(__file__).resolve().parents[2]  # Bridzzi 폴더
-if str(BASE_DIR) not in sys.path:
-    sys.path.insert(0, str(BASE_DIR))
-
 from util.data_load.google_sheet import get_now_datetime
 from util.data_load.google_sheet import GoogleSheet
 
