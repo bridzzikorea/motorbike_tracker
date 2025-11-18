@@ -1,0 +1,139 @@
+2025-07-18 16:31:20,659 - INFO - ==================================
+2025-07-18 16:31:21,960 - INFO - 자동블로그 작업 선택 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-18 16:31:21,960 - INFO - 연예 뉴스 데이터 처리 - 시작
+2025-07-18 16:31:23,556 - INFO - RSS연예 입력 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-18 16:31:23,556 - INFO - 기사 리스트 선정 - 시작
+2025-07-18 16:31:34,045 - INFO - 기사 리스트 선정 - 완료
+2025-07-18 16:31:34,048 - INFO - 연예 뉴스 데이터 업로드 - 시작
+2025-07-18 16:31:41,458 - INFO - 연예 뉴스 데이터 업로드 - 완료
+2025-07-18 16:31:41,458 - INFO - 연예 뉴스 데이터 처리 - (최종완료)
+2025-07-18 16:31:41,458 - INFO - -----------------------------
+2025-07-18 16:31:41,458 - INFO - 정치 뉴스 데이터 처리 - 시작
+2025-07-18 16:31:42,987 - INFO - RSS정치 입력 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-18 16:31:42,987 - INFO - 기사 리스트 선정 - 시작
+2025-07-18 16:32:09,886 - INFO - 기사 리스트 선정 - 완료
+2025-07-18 16:32:09,892 - INFO - 정치 뉴스 데이터 업로드 - 시작
+2025-07-18 16:32:17,676 - INFO - 정치 뉴스 데이터 업로드 - 완료
+2025-07-18 16:32:17,676 - INFO - 정치 뉴스 데이터 처리 - (최종완료)
+2025-07-18 16:32:17,676 - INFO - -----------------------------
+2025-07-18 16:32:17,676 - INFO - 경제 뉴스 데이터 처리 - 시작
+2025-07-18 16:32:19,287 - INFO - RSS경제 입력 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-18 16:32:19,287 - INFO - 기사 리스트 선정 - 시작
+2025-07-18 16:32:43,691 - INFO - 기사 리스트 선정 - 완료
+2025-07-18 16:32:43,699 - INFO - 경제 뉴스 데이터 업로드 - 시작
+2025-07-18 16:32:51,424 - INFO - 경제 뉴스 데이터 업로드 - 완료
+2025-07-18 16:32:51,424 - INFO - 경제 뉴스 데이터 처리 - (최종완료)
+2025-07-18 16:32:51,424 - INFO - -----------------------------
+2025-07-18 16:32:51,424 - INFO - 스포츠 뉴스 데이터 처리 - 시작
+2025-07-18 16:32:53,157 - INFO - RSS스포츠 입력 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-18 16:32:53,157 - INFO - 기사 리스트 선정 - 시작
+2025-07-18 16:33:22,559 - INFO - 기사 리스트 선정 - 완료
+2025-07-18 16:33:22,569 - INFO - 스포츠 뉴스 데이터 업로드 - 시작
+2025-07-18 16:33:30,305 - INFO - 스포츠 뉴스 데이터 업로드 - 완료
+2025-07-18 16:33:30,306 - INFO - 스포츠 뉴스 데이터 처리 - (최종완료)
+2025-07-18 16:33:30,306 - INFO - -----------------------------
+2025-07-18 16:33:30,306 - INFO - 법률 뉴스 데이터 처리 - 시작
+2025-07-18 16:33:31,658 - INFO - RSS법률 입력 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-18 16:33:31,658 - INFO - 기사 리스트 선정 - 시작
+2025-07-18 16:33:31,994 - INFO - 기사 리스트 선정 - 완료
+2025-07-18 16:33:32,003 - ERROR - 1/3번째 [ AutoBlog_main.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\AutoBlog\AutoBlog_main.py", line 947, in <module>
+    news_bot.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\AutoBlog\AutoBlog_main.py", line 760, in run
+    self.update_oneday_new_article_info_list()
+  File "C:\Users\user\Desktop\Bridzzi\src\AutoBlog\AutoBlog_main.py", line 158, in update_oneday_new_article_info_list
+    df_diff = df_article_info_list[~df_article_info_list["뉴스 URL"].isin(df_old_article_info["뉴스 URL"])]
+                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\indexes\range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: '뉴스 URL'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-07-18 16:33:32,003 - ERROR - Traceback (most recent call last):
+2025-07-18 16:33:32,004 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\AutoBlog\AutoBlog_main.py", line 947, in <module>
+    news_bot.run()
+2025-07-18 16:33:32,004 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\AutoBlog\AutoBlog_main.py", line 760, in run
+    self.update_oneday_new_article_info_list()
+2025-07-18 16:33:32,004 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\AutoBlog\AutoBlog_main.py", line 158, in update_oneday_new_article_info_list
+    df_diff = df_article_info_list[~df_article_info_list["뉴스 URL"].isin(df_old_article_info["뉴스 URL"])]
+                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+2025-07-18 16:33:32,004 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-18 16:33:32,005 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\indexes\range.py", line 417, in get_loc
+    raise KeyError(key)
+2025-07-18 16:33:32,005 - ERROR - KeyError: '뉴스 URL'
+2025-07-18 16:33:32,182 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-07-18 16:33:32,183 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-07-18 16:33:33,184 - INFO - ==================================
+2025-07-18 16:33:33,184 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-07-18 16:33:33,290 - INFO - [현재 크롬 버전] : 138.0.7204.158
+2025-07-18 16:36:36,448 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\runpy.py", line 198, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\runpy.py", line 88, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\launcher/../..\debugpy\__main__.py", line 71, in <module>
+    cli.main()
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\launcher/../..\debugpy/..\debugpy\server\cli.py", line 501, in main
+    run()
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\launcher/../..\debugpy/..\debugpy\server\cli.py", line 351, in run_file
+    runpy.run_path(target, run_name="__main__")
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 310, in run_path
+    return _run_module_code(code, init_globals, run_name, pkg_name=pkg_name, script_name=fname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 127, in _run_module_code
+    _run_code(code, mod_globals, init_globals, mod_name, mod_spec, pkg_name, script_name)
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 118, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\user\Desktop\Bridzzi\src\AutoBlog\AutoBlog_main.py", line 1020, in <module>
+    pcdriver.update_chromedriver()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 82, in update_chromedriver
+    update_chrome()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 35, in update_chrome
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 47, in __init__
+    super().__init__(
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 257, in __init__
+    self.start_session(capabilities)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0x7ff69f4de925+77845]
+	GetHandleVerifier [0x0x7ff69f4de980+77936]
+	(No symbol) [0x0x7ff69f299cda]
+	(No symbol) [0x0x7ff69f2d8909]
+	(No symbol) [0x0x7ff69f2d29e5]
+	(No symbol) [0x0x7ff69f3262ce]
+	(No symbol) [0x0x7ff69f325a60]
+	(No symbol) [0x0x7ff69f3186a3]
+	(No symbol) [0x0x7ff69f2e1791]
+	(No symbol) [0x0x7ff69f2e2523]
+	GetHandleVerifier [0x0x7ff69f7b683d+3059501]
+	GetHandleVerifier [0x0x7ff69f7b0bfd+3035885]
+	GetHandleVerifier [0x0x7ff69f7d03f0+3164896]
+	GetHandleVerifier [0x0x7ff69f4f8c2e+185118]
+	GetHandleVerifier [0x0x7ff69f50053f+216111]
+	GetHandleVerifier [0x0x7ff69f4e72d4+113092]
+	GetHandleVerifier [0x0x7ff69f4e7489+113529]
+	GetHandleVerifier [0x0x7ff69f4ce288+10616]
+	BaseThreadInitThunk [0x0x7ffd85d8e8d7+23]
+	RtlUserThreadStart [0x0x7ffd8675c34c+44]
+

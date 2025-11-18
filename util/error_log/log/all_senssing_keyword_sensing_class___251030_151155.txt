@@ -1,0 +1,684 @@
+2025-10-30 15:11:59,408 - INFO - ==================================
+2025-10-30 15:11:59,408 - INFO - ==================================
+2025-10-30 15:11:59,408 - INFO - [ 15시] - 키워드 센싱을 시작합니다
+2025-10-30 15:11:59,408 - INFO - ==================================
+2025-10-30 15:11:59,408 - INFO - -----------------------------
+2025-10-30 15:11:59,408 - INFO - 시트이름: #3 브랜드_커뮤니티선별
+2025-10-30 15:11:59,408 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:12:00,989 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:12:01,608 - INFO - #3 브랜드_커뮤니티선별 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 15:12:01,624 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 15:12:01,624 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:12:03,107 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:12:03,704 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 15:12:03,715 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 15:12:03,715 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:12:05,273 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:12:05,928 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 15:12:05,928 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 15:12:05,928 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:12:07,676 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:12:08,098 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 15:12:08,098 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:12:09,514 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:12:09,998 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 15:12:10,403 - INFO - C:\program_cookies 폴더 크기: 2.17 GB
+2025-10-30 15:12:10,465 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-10-30 15:12:10,465 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-10-30 15:12:10,465 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-10-30 15:12:10,465 - INFO - fixed UA가 있습니다.
+2025-10-30 15:12:10,465 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36입니다.
+2025-10-30 15:12:10,465 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-30 15:12:10,465 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-10-30 15:12:13,546 - INFO - ==================================
+2025-10-30 15:12:13,546 - INFO - devicemetrics를 override 합니다..
+2025-10-30 15:12:13,561 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-30 15:12:13,561 - INFO - FIXED gps 정보를 적용합니다.
+2025-10-30 15:12:13,562 - INFO - FIXED gps 정보는 {'latitude': 47.6653341, 'longitude': 137.075382, 'accuracy': 100} 입니다.
+2025-10-30 15:12:13,567 - INFO - 모든 변경이 완료되었습니다...
+2025-10-30 15:12:13,567 - INFO - ~~~~~~~~~~
+2025-10-30 15:12:13,568 - INFO - ==================================
+2025-10-30 15:12:13,568 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 디시인사이드 / 게시판 분류 : 게시물(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 15:12:14,927 - INFO - -----------------------------
+2025-10-30 15:12:14,984 - INFO - 제목 : Z10 울 VS T80 VS S9 MAXV 울 중 뭐가 좋죠
+2025-10-30 15:12:15,030 - INFO - -----------------------------
+2025-10-30 15:12:17,497 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44643
+2025-10-30 15:12:22,772 - INFO - -----------------------------
+2025-10-30 15:12:22,812 - INFO - 제목 : X50 로청 나오려면 몇센치 이상 틈이 있어야함?
+2025-10-30 15:12:22,837 - INFO - -----------------------------
+2025-10-30 15:12:23,128 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44642
+2025-10-30 15:12:26,886 - INFO - -----------------------------
+2025-10-30 15:12:26,930 - INFO - 제목 : 로보락보다가 유원트까지 내려왔다
+2025-10-30 15:12:26,955 - INFO - -----------------------------
+2025-10-30 15:12:27,354 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44640
+2025-10-30 15:12:31,141 - INFO - -----------------------------
+2025-10-30 15:12:31,156 - INFO - 오늘 로보락할인하네 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:12:31,157 - INFO - -----------------------------
+2025-10-30 15:12:31,198 - INFO - 제목 : L40S 좋은데 식탁 의자 아래는 청소 못하네
+2025-10-30 15:12:31,222 - INFO - -----------------------------
+2025-10-30 15:12:31,636 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44620
+2025-10-30 15:12:34,206 - INFO - -----------------------------
+2025-10-30 15:12:34,249 - INFO - 제목 : 궁금한거몇개 ㅇㅇ
+2025-10-30 15:12:34,275 - INFO - -----------------------------
+2025-10-30 15:12:34,714 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44618
+2025-10-30 15:12:35,956 - INFO - -----------------------------
+2025-10-30 15:12:35,973 - INFO - 하이마트 as되는게 드리미 일부+로보락이 끝인가? 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:12:35,973 - INFO - -----------------------------
+2025-10-30 15:12:36,013 - INFO - 제목 : 부모님집에 사줄 로봇청소기 추천 부탁드립니다.(T50 OR T80)
+2025-10-30 15:12:36,039 - INFO - -----------------------------
+2025-10-30 15:12:36,405 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44594
+2025-10-30 15:12:40,865 - INFO - -----------------------------
+2025-10-30 15:12:40,901 - INFO - 제목 : 이게 진짜 전자기기가 욕심이 무서운게
+2025-10-30 15:12:40,925 - INFO - -----------------------------
+2025-10-30 15:12:41,205 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44593
+2025-10-30 15:12:45,051 - INFO - -----------------------------
+2025-10-30 15:12:45,094 - INFO - 제목 : 자고 일어날때마다 사고싶은 기종이 올라감 ㅋㅋㅋ
+2025-10-30 15:12:45,117 - INFO - -----------------------------
+2025-10-30 15:12:45,448 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44577
+2025-10-30 15:12:46,507 - INFO - -----------------------------
+2025-10-30 15:12:46,547 - INFO - 제목 : 청소기 샤크 추천함
+2025-10-30 15:12:46,572 - INFO - -----------------------------
+2025-10-30 15:12:46,971 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=japanlife&no=180905
+2025-10-30 15:12:51,013 - INFO - -----------------------------
+2025-10-30 15:12:51,052 - INFO - 제목 : T80 (73), 나르왈 z10 울트라 (84)
+2025-10-30 15:12:51,076 - INFO - -----------------------------
+2025-10-30 15:12:51,479 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44572
+2025-10-30 15:12:55,827 - INFO - -----------------------------
+2025-10-30 15:12:55,841 - INFO - 제목에 필수키워드가 없는 상품입니다. 생략하고 넘어갑니다
+2025-10-30 15:12:55,842 - INFO - -----------------------------
+2025-10-30 15:12:55,884 - INFO - 제목 : 가격신경안쓰고 로청 현존하는 최고 좋은게 뭐에요?
+2025-10-30 15:12:55,909 - INFO - -----------------------------
+2025-10-30 15:12:56,233 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44543
+2025-10-30 15:12:57,350 - INFO - -----------------------------
+2025-10-30 15:12:57,392 - INFO - 제목 : s9슬림 약136 / X50s 약116?/ X50 약90?88?
+2025-10-30 15:12:57,418 - INFO - -----------------------------
+2025-10-30 15:12:57,707 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44522
+2025-10-30 15:13:01,494 - INFO - -----------------------------
+2025-10-30 15:13:01,546 - INFO - 제목 : 세일하길래 혹하는데 로보락 S8 프로 플러스 이거사도됨?
+2025-10-30 15:13:01,574 - INFO - -----------------------------
+2025-10-30 15:13:01,926 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44511
+2025-10-30 15:13:02,807 - INFO - -----------------------------
+2025-10-30 15:13:02,854 - INFO - 제목 : 로봇 청소기 가성비는 로보락이 제일좋나
+2025-10-30 15:13:02,879 - INFO - -----------------------------
+2025-10-30 15:13:03,522 - INFO - URL : https://gall.dcinside.com/board/view/?id=toy&no=7530540
+2025-10-30 15:13:07,754 - INFO - -----------------------------
+2025-10-30 15:13:07,789 - INFO - 제목 : 로보락 s9 ultra max 넾다 157 이거 싼건가
+2025-10-30 15:13:07,816 - INFO - -----------------------------
+2025-10-30 15:13:08,262 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44507
+2025-10-30 15:13:11,580 - INFO - -----------------------------
+2025-10-30 15:13:11,622 - INFO - 제목 : 중국에서 로청1위 어디임?
+2025-10-30 15:13:11,653 - INFO - -----------------------------
+2025-10-30 15:13:12,062 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44496
+2025-10-30 15:13:15,044 - INFO - -----------------------------
+2025-10-30 15:13:15,082 - INFO - 제목 : 아니 로보락 s9 화장실 청소는 안해줌??
+2025-10-30 15:13:15,111 - INFO - -----------------------------
+2025-10-30 15:13:15,601 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44487
+2025-10-30 15:13:18,169 - INFO - -----------------------------
+2025-10-30 15:13:18,212 - INFO - 제목 : 부모님 로청해드리고싶은데
+2025-10-30 15:13:18,237 - INFO - -----------------------------
+2025-10-30 15:13:18,481 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44481
+2025-10-30 15:13:21,509 - INFO - -----------------------------
+2025-10-30 15:13:21,557 - INFO - 제목 : 로보락 s6 maxv 인데 레이저센서가 안돌아가는데 모터문제인가요?
+2025-10-30 15:13:21,587 - INFO - -----------------------------
+2025-10-30 15:13:22,055 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44478
+2025-10-30 15:13:26,499 - INFO - -----------------------------
+2025-10-30 15:13:26,514 - INFO - 로봇청소기 공부하며 배운 정보 공유 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:13:26,514 - INFO - -----------------------------
+2025-10-30 15:13:26,552 - INFO - 제목 : 로보락 질문점
+2025-10-30 15:13:26,576 - INFO - -----------------------------
+2025-10-30 15:13:26,900 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44444
+2025-10-30 15:13:29,674 - INFO - -----------------------------
+2025-10-30 15:13:29,710 - INFO - 제목 : 드리미아쿠아10 하자많음?
+2025-10-30 15:13:29,735 - INFO - -----------------------------
+2025-10-30 15:13:30,192 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44443
+2025-10-30 15:13:32,634 - INFO - ==================================
+2025-10-30 15:13:32,634 - INFO - -----------------------------
+2025-10-30 15:13:32,634 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 15:13:32,634 - INFO - 시트이름: 최신게시글업로드
+2025-10-30 15:13:32,634 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:13:33,785 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:13:35,296 - INFO - Success update 최신게시글업로드
+2025-10-30 15:13:35,296 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 15:13:35,296 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:13:37,257 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:13:38,377 - INFO - Success update 일주일 추출 링크
+2025-10-30 15:13:43,378 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 15:13:43,378 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:13:44,575 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:13:45,073 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 15:13:45,073 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 네이트판 / 게시판 분류 : 톡톡(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 15:13:45,403 - INFO - -----------------------------
+2025-10-30 15:13:45,446 - INFO - 일주일 전 게시글 이기에 다음 키워드로 넘어갑니다.
+2025-10-30 15:13:45,446 - INFO - -----------------------------
+2025-10-30 15:13:45,446 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 15:13:45,446 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 15:13:45,446 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 15:13:45,447 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 네이트판 / 게시판 분류 : 뉴스(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 15:13:45,695 - INFO - -----------------------------
+2025-10-30 15:13:45,816 - INFO - 제목 : [마감 후] 깊숙이 들어온 중국, 그리고 APEC
+2025-10-30 15:13:46,561 - INFO - -----------------------------
+2025-10-30 15:13:46,564 - INFO - URL : https://news.nate.com/view/20251030n02040
+2025-10-30 15:13:53,496 - INFO - -----------------------------
+2025-10-30 15:13:53,528 - INFO - 제목 : 20년 연속 1위 기업 4개…클라리오스델코 '명예의 전당'
+2025-10-30 15:13:54,075 - INFO - -----------------------------
+2025-10-30 15:13:54,120 - INFO - URL : https://news.nate.com/view/20251030n00069
+2025-10-30 15:13:55,107 - INFO - -----------------------------
+2025-10-30 15:13:55,142 - INFO - 제목 : [오늘의 장바구니] 롯데마트·이마트24·LF·이랜드월드·교원그룹 외
+2025-10-30 15:13:55,699 - INFO - -----------------------------
+2025-10-30 15:13:55,730 - INFO - URL : https://news.nate.com/view/20251029n37718
+2025-10-30 15:14:06,845 - INFO - -----------------------------
+2025-10-30 15:14:06,861 - INFO - 특가 상품 1000만개 쏟아진다…11번가, '2025 그랜드십일절'... 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:06,861 - INFO - -----------------------------
+2025-10-30 15:14:06,896 - INFO - 제목 : 로보락, 2025 한국품질만족지수(KS-QEI) 4년 연속 1위 수상
+2025-10-30 15:14:07,411 - INFO - -----------------------------
+2025-10-30 15:14:07,418 - INFO - URL : https://news.nate.com/view/20251029n29236
+2025-10-30 15:14:08,309 - INFO - -----------------------------
+2025-10-30 15:14:08,338 - INFO - 유통가, '블랙프라이데이 특수' 공략…이커머스發 대규모 할인전 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:08,338 - INFO - -----------------------------
+2025-10-30 15:14:08,361 - INFO - [국감핫인물]中 '로보락' 개인정보 유출 방지 답변 이끌어낸 김승원... 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:08,362 - INFO - -----------------------------
+2025-10-30 15:14:08,387 - INFO - 11번가, '그랜드십일절' 1000만개 특가 상품 마련 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:08,387 - INFO - -----------------------------
+2025-10-30 15:14:08,424 - INFO - 제목 : [현장] 국감서 로보락, '서버 저장 없다' 해명에도 소비자 불안...
+2025-10-30 15:14:08,937 - INFO - -----------------------------
+2025-10-30 15:14:08,963 - INFO - URL : https://news.nate.com/view/20251029n09734
+2025-10-30 15:14:15,862 - INFO - -----------------------------
+2025-10-30 15:14:15,898 - INFO - 제목 : 신세계그룹, 30일 쇼핑축제 '쓱데이' 개막…18개사 총출동
+2025-10-30 15:14:16,511 - INFO - -----------------------------
+2025-10-30 15:14:16,517 - INFO - URL : https://news.nate.com/view/20251029n09461
+2025-10-30 15:14:17,966 - INFO - -----------------------------
+2025-10-30 15:14:17,999 - INFO - 11번가, '2025 그랜드십일절'…11일간 초대형 할인전 돌입 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:17,999 - INFO - -----------------------------
+2025-10-30 15:14:18,018 - INFO - 11번가, 내달 1일부터 '그랜드십일절' 개최…1000여개 특가 상품 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:18,018 - INFO - -----------------------------
+2025-10-30 15:14:18,039 - INFO - 11번가, 내달 1일부터 '그랜드십일절'…"특가상품만 1천만개" 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:18,039 - INFO - -----------------------------
+2025-10-30 15:14:18,077 - INFO - 제목 : 11번가, 연중 최대 쇼핑축제 '그랜드십일절' 개최
+2025-10-30 15:14:18,598 - INFO - -----------------------------
+2025-10-30 15:14:18,666 - INFO - URL : https://news.nate.com/view/20251029n06640
+2025-10-30 15:14:20,022 - INFO - -----------------------------
+2025-10-30 15:14:20,038 - INFO - '블프'의 계절…온·오프 쇼핑 축제, 파격가·할인 혜택 쏟아진다 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:20,038 - INFO - ==================================
+2025-10-30 15:14:20,039 - INFO - -----------------------------
+2025-10-30 15:14:20,039 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 15:14:20,039 - INFO - 시트이름: 최신게시글업로드
+2025-10-30 15:14:20,039 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:14:21,396 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:14:23,001 - INFO - Success update 최신게시글업로드
+2025-10-30 15:14:23,001 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 15:14:23,001 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:14:24,429 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:14:25,621 - INFO - Success update 일주일 추출 링크
+2025-10-30 15:14:30,628 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 15:14:30,628 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:14:32,007 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:14:32,396 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 15:14:32,396 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 뽐뿌 / 게시판 분류 : 커뮤니티(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 15:14:33,028 - INFO - -----------------------------
+2025-10-30 15:14:33,091 - INFO - [네이버] 로보락 Qrevo EdgeC 로봇청소기 화이트 (941,000원/무료)1 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:33,091 - INFO - -----------------------------
+2025-10-30 15:14:33,159 - INFO - 제목 : [휘발50억] 네이버페이 42원 + 랜덤 포인트 받으세요 (+기타 376원)10
+2025-10-30 15:14:33,188 - INFO - -----------------------------
+2025-10-30 15:14:33,680 - INFO - URL : https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9701955&keyword=%B7%CE%BA%B8%B6%F4
+2025-10-30 15:14:36,667 - INFO - -----------------------------
+2025-10-30 15:14:36,685 - INFO - 셀프 생일 선물 샀어요 ㅋ4 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:36,685 - INFO - -----------------------------
+2025-10-30 15:14:36,733 - INFO - 제목 : [휘발50억] 네이버페이 176원 + 랜덤 포인트 받으세요 (+기타 227원)13
+2025-10-30 15:14:36,763 - INFO - -----------------------------
+2025-10-30 15:14:37,032 - INFO - URL : https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9700087&keyword=%B7%CE%BA%B8%B6%F4
+2025-10-30 15:14:41,293 - INFO - -----------------------------
+2025-10-30 15:14:41,342 - INFO - 제목 : [네이버페이] 로보락, 메디힐 30원 받으세요16
+2025-10-30 15:14:41,379 - INFO - -----------------------------
+2025-10-30 15:14:41,613 - INFO - URL : https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=106415&keyword=%B7%CE%BA%B8%B6%F4
+2025-10-30 15:14:43,701 - INFO - -----------------------------
+2025-10-30 15:14:43,715 - INFO - [CJ온] 로보락 S9 MAXV 울트라 로봇청소기 (1,590,000원/무료)9 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:43,715 - INFO - -----------------------------
+2025-10-30 15:14:43,761 - INFO - 제목 : 로보락 큐레보 커브 109만원 가격 괜찮은걸까요?1
+2025-10-30 15:14:43,795 - INFO - -----------------------------
+2025-10-30 15:14:43,989 - INFO - URL : https://www.ppomppu.co.kr/zboard/view.php?id=av&no=148320&keyword=%B7%CE%BA%B8%B6%F4
+2025-10-30 15:14:44,565 - INFO - -----------------------------
+2025-10-30 15:14:44,609 - INFO - 제목 : 요즘 가성비 좋은 청소기 뭐 있을까요?0
+2025-10-30 15:14:44,640 - INFO - -----------------------------
+2025-10-30 15:14:44,791 - INFO - URL : https://www.ppomppu.co.kr/zboard/view.php?id=av&no=148302&keyword=%B7%CE%BA%B8%B6%F4
+2025-10-30 15:14:47,759 - INFO - -----------------------------
+2025-10-30 15:14:47,772 - INFO - [네이버] 로보락 Qrevo L 로봇청소기 (748,000원/무료)0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:14:47,772 - INFO - -----------------------------
+2025-10-30 15:14:47,845 - INFO - 일주일 전 게시글 이기에 다음 키워드로 넘어갑니다.
+2025-10-30 15:14:47,846 - INFO - -----------------------------
+2025-10-30 15:14:47,846 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 15:14:47,846 - INFO - 시트이름: 최신게시글업로드
+2025-10-30 15:14:47,846 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:14:49,272 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:14:50,470 - INFO - Success update 최신게시글업로드
+2025-10-30 15:14:50,471 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 15:14:50,471 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:14:51,813 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:14:53,003 - INFO - Success update 일주일 추출 링크
+2025-10-30 15:14:58,004 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 15:14:58,004 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:14:59,670 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:15:00,124 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 15:15:00,124 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 뽐뿌 / 게시판 분류 : 뉴스(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 15:15:00,640 - INFO - -----------------------------
+2025-10-30 15:15:00,665 - INFO - [국감핫인물]中 '로보락' 개인정보 유출 방지 답변 이끌어낸 김승원 與 의원0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:15:00,666 - INFO - -----------------------------
+2025-10-30 15:15:00,682 - INFO - '블프'의 계절…온·오프 쇼핑 축제, 파격가·할인 혜택 쏟아진다0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:15:00,682 - INFO - -----------------------------
+2025-10-30 15:15:00,703 - INFO - 연중 최대 쇼핑축제 '쓱데이' 돌아왔다…행사물량 2兆 '역대급'0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:15:00,703 - INFO - -----------------------------
+2025-10-30 15:15:00,720 - INFO - 롯데홈쇼핑 '광클절', 인기 가수 8인 초대형 콘서트로 규모 확대0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:15:00,720 - INFO - -----------------------------
+2025-10-30 15:15:00,735 - INFO - “5060 열광하는 그들이 돌아온다”…롯데홈쇼핑 ‘광클절’, 인기 가수 8인 초대형 콘서트로 귀환0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 15:15:00,735 - INFO - -----------------------------
+2025-10-30 15:15:00,799 - INFO - 일주일 전 게시글 이기에 다음 키워드로 넘어갑니다.
+2025-10-30 15:15:00,799 - INFO - -----------------------------
+2025-10-30 15:15:00,800 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 15:15:00,800 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 15:15:00,800 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 15:15:00,800 - INFO - ★ 키워드 센싱 - 작업완료 ★
+2025-10-30 15:15:00,982 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 15:15:00,982 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 15:15:00,983 - INFO - 동기화 10초 지연후 진행합니다
+2025-10-30 15:15:10,984 - INFO - ==================================
+2025-10-30 15:15:10,984 - INFO - [알람] 진행중 - 텔레그램에 알람을 보냅니다
+2025-10-30 15:15:10,984 - INFO - 시트이름: 알람대시보드
+2025-10-30 15:15:10,984 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:15:11,970 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:15:12,461 - INFO - 알람대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 15:15:12,461 - INFO - 23개의 알림 데이터를 메세지로 보냅니다
+2025-10-30 15:15:12,461 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_2
+
+제목:Z10 울 VS T80 VS S9 MAXV 울 중 뭐가 좋죠
+
+내용:기존에 사용 중인 라이드스토w2로 직수로 연결하여 사용 중인데, 고양이를 키우고 있어서 머리카락 문제로 로봇청소기를 자주 사용하고 있음. 라이드스토 어플 문제로 불편을 겪고 있고, 셀프로 무선청소기를 종종 사용 중. 새로운 로봇청소기를 구매하려는데, 34평 아파트, 고양이, 머리카락 문제 등을 고려 중. 나르왈 z10 울트라, 에코백스 T80 또는 x8, 중고 로보락 S9 MAXV 울트라 모델을 고려 중이며, 다른 추천도 환영.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44643
+
+답글가능계정수:.
+2025-10-30 15:15:13,590 - INFO - 1번째 작업
+2025-10-30 15:15:13,590 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_3
+
+제목:X50 로청 나오려면 몇센치 이상 틈이 있어야함?
+
+내용:로보락은 10cm 이상의 높이에서도 작동하지만, 드리미는 그 정도 높이에서 작동하지 않는다. 문 아래쪽을 자르지 않으면 드리미는 사용할 수 없다.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44642
+
+답글가능계정수:.
+2025-10-30 15:15:14,690 - INFO - 2번째 작업
+2025-10-30 15:15:14,690 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_4
+
+제목:로보락보다가 유원트까지 내려왔다
+
+내용:카드할인으로 인해 스토어할인을 받아 37층에서 스마트폰을 구매하려다가 여러 기종을 비교한 결과, 가성비가 좋아보이는 유원트를 구매하게 되었으며, 다른 제품들과 비교해도 만족스러운 선택이었다고 함.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44640
+
+답글가능계정수:.
+2025-10-30 15:15:15,776 - INFO - 3번째 작업
+2025-10-30 15:15:15,776 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_5
+
+제목:L40S 좋은데 식탁 의자 아래는 청소 못하네
+
+내용:로보락S6MAXV는 의자 다리 사이로 잘 다녔던 기능이 없다.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44620
+
+답글가능계정수:.
+2025-10-30 15:15:17,009 - INFO - 4번째 작업
+2025-10-30 15:15:17,009 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_7
+
+제목:부모님집에 사줄 로봇청소기 추천 부탁드립니다.(T50 OR T80)
+
+내용:부모님 집은 15평대로 방, 거실, 주방으로 구성되어 있으며 로보락 Qrevo Pro를 설치하려다가 설치가 어려워 반품했다. 대신 에코백스 T50 프로 옴니를 고려 중이며 네이버에서 T80를 구매할 시 4만7천원 포인트 적립과 액세서리 패키지를 받을 수 있지만 시골에 사는 부모님을 위해 AS가 불편할 수 있어 고민 중이다.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44594
+
+답글가능계정수:.
+2025-10-30 15:15:18,421 - INFO - 5번째 작업
+2025-10-30 15:15:18,421 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_8
+
+제목:이게 진짜 전자기기가 욕심이 무서운게
+
+내용:30만원짜리부터 출발해 100만원까지 고민하다가 로보락 S9를 살까 고민하는데, 적당하고 합리적인 제품이 중요하다는 결론을 내림. 집에 있는 T50과 200만원짜리 노트북도 필요 이상으로 느껴짐.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44593
+
+답글가능계정수:.
+2025-10-30 15:15:19,494 - INFO - 6번째 작업
+2025-10-30 15:15:19,494 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_10
+
+제목:청소기 샤크 추천함
+
+내용:샤크와 스테이션 달린 청소기가 좋다. 다이슨은 먼지통 비울 때 먼지가 날리고, 샤크는 머리카락이 엉키지 않는다. 로청은 빠르게 끝나고, 4ldk 기준으로 물걸레로 10분이면 충분하다.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=japanlife&no=180905
+
+답글가능계정수:.
+2025-10-30 15:15:20,520 - INFO - 7번째 작업
+2025-10-30 15:15:20,520 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_11
+
+제목:T80 (73), 나르왈 z10 울트라 (84)
+
+내용:쿠팡에서 드리미 L40s 골든박스 취소하고 나르왈 고민 중 - 나르왈이 쿠팡 A/S 2년, 회피능력 준수 - 직배수 생각 안 함 - 나르왈이 최신품 프리미엄으로 보이는데 T80보다 나을까 - 집은 더러운 편 아니고 40평대에 방 많아서 2세대 로보락이 청소하면 한시간은 더 걸릴 것 같음.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44572
+
+답글가능계정수:.
+2025-10-30 15:15:21,622 - INFO - 8번째 작업
+2025-10-30 15:15:21,622 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_13
+
+제목:s9슬림 약136 / X50s 약116?/ X50 약90?88?
+
+내용:카드 할인과 멤버십 적립을 고려한 슬림 가격은 약 135~136이며, 할인 적용 시 120.5로 내려감. 적립 포인트를 고려하면 약 115.6 정도.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44522
+
+답글가능계정수:.
+2025-10-30 15:15:22,689 - INFO - 9번째 작업
+2025-10-30 15:15:22,689 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_15
+
+제목:로봇 청소기 가성비는 로보락이 제일좋나
+
+내용:삼성과 LG는 한국의 대표적인 기업으로, 세계적으로도 경쟁력을 갖추고 있다. 두 기업은 전자제품 분야에서 주요 경쟁사로 인정받고 있으며, 혁신적인 기술과 제품으로 시장을 선도하고 있다. 향후 삼성과 LG는 글로벌 시장에서 더욱 강력한 입지를 확보할 것으로 전망된다.
+
+게시글링크:https://gall.dcinside.com/board/view/?id=toy&no=7530540
+
+답글가능계정수:.
+2025-10-30 15:15:23,804 - INFO - 10번째 작업
+2025-10-30 15:15:23,804 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_16
+
+제목:로보락 s9 ultra max 넾다 157 이거 싼건가
+
+내용:157결제 시 5만 포인트와 신세계 1만원을 주는 것 같지만 부품이 포함되지 않아 애매한 상황. 엊그제 CJ에서 159결제 시 부품과 클리너를 제공했다.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44507
+
+답글가능계정수:.
+2025-10-30 15:15:24,997 - INFO - 11번째 작업
+2025-10-30 15:15:24,997 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_17
+
+제목:중국에서 로청1위 어디임?
+
+내용:한국은 로보락 분야에서 세계 1위다.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44496
+
+답글가능계정수:.
+2025-10-30 15:15:26,109 - INFO - 12번째 작업
+2025-10-30 15:15:26,109 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_18
+
+제목:아니 로보락 s9 화장실 청소는 안해줌??
+
+내용:화장실 문턱을 애무하다가 포기하고 돌아가는 상황에 대한 의문을 표현함.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44487
+
+답글가능계정수:.
+2025-10-30 15:15:27,225 - INFO - 13번째 작업
+2025-10-30 15:15:27,225 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_19
+
+제목:부모님 로청해드리고싶은데
+
+내용:로보락이 맞는데 S9 사드리기엔 구형될 것 같아서 망설인다.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44481
+
+답글가능계정수:.
+2025-10-30 15:15:28,322 - INFO - 14번째 작업
+2025-10-30 15:15:28,322 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_20
+
+제목:로보락 s6 maxv 인데 레이저센서가 안돌아가는데 모터문제인가요?
+
+내용:로보락 s6 maxv의 레이저센서가 작동하지 않아서 모터 문제인지 확인해보고, 레이저 장치를 청소한 후에도 같은 메세지가 나타나는 상황. 레이저 부품을 검색해보니 모터 부분이 문제인 것으로 보이며, 해당 부품을 따로 판매하는 곳을 찾아야 함. 현재 상태에서는 레이저센서가 작동하지 않고 사이드 브러시만 돌아가는 상황.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44478
+
+답글가능계정수:.
+2025-10-30 15:15:29,535 - INFO - 15번째 작업
+2025-10-30 15:15:29,535 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_21
+
+제목:로보락 질문점
+
+내용:택배로 구매한 제품은 설치를 내년에 할 수 있을까요? 이사 예정이라서 걱정스러워요.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44444
+
+답글가능계정수:.
+2025-10-30 15:15:30,656 - INFO - 16번째 작업
+2025-10-30 15:15:30,656 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_22
+
+제목:드리미아쿠아10 하자많음?
+
+내용:에코백스x11과 로보락s10 중 어떤 제품이 더 나은지 궁금한 상황.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44443
+
+답글가능계정수:.
+2025-10-30 15:15:31,750 - INFO - 17번째 작업
+2025-10-30 15:15:31,750 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_23
+
+제목:[마감 후] 깊숙이 들어온 중국, 그리고 APEC
+
+내용:한국산 전기버스와 로봇청소기가 우리나라 시장을 점령하고 있으며, 중국 기업들은 고품질 제품을 선보이며 글로벌 시장을 겨냥하고 있다. 한국 제조업은 기술력 면에서 중국에 밀리고 있으며, 중국은 첨단산업 분야에서 기술을 통한 경쟁을 강화하고 있다. 미중 간의 기술 패권 경쟁은 경제 안보 문제로 확대되고 있으며, APEC 정상회의를 통해 세계 경제협력의 방향을 재설정할 수 있다. 한국은 의장국으로 중추적 역할을 맡아 글로벌 불확실성을 완화하고 경주 선언을 통해 협력의 틀을 만들어 나갈 것으로 기대된다.
+
+게시글링크:https://news.nate.com/view/20251030n02040
+
+답글가능계정수:.
+2025-10-30 15:15:32,830 - INFO - 18번째 작업
+2025-10-30 15:15:32,830 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_27
+
+제목:[현장] 국감서 로보락, '서버 저장 없다' 해명에도 소비자 불안...
+
+내용:김승원 의원이 로봇청소기 브랜드 '로보락'의 개인정보 처리 방식에 대해 국회에서 촉감사를 실시하며 중국 서버로의 정보 이전 우려를 제기했다. 로보락은 한국법 적용을 주장하며 개인정보 보호를 강조했지만, 약관 변경과 제3자 동의 가능성 등에 대한 우려가 제기되었다. 김 의원은 송경희 개인정보보호위원장에게 로보락의 개인정보 처리 구조를 검토해 달라는 요청을 했고, 송 위원장은 로봇청소기를 분석 중이지만 예산 부족으로 어려움을 겪고 있다고 밝혔다. 로보락은 한국 법인 설립 이후 매출이 상승하며 시장에서 선두를 유지하고 있다.
+
+게시글링크:https://news.nate.com/view/20251029n09734
+
+답글가능계정수:.
+2025-10-30 15:15:33,826 - INFO - 19번째 작업
+2025-10-30 15:15:33,826 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_30
+
+제목:[휘발50억] 네이버페이 42원 + 랜덤 포인트 받으세요 (+기타 376원)10
+
+내용:네이버페이에서 즉시 적립 혜택 안내. 다양한 이벤트 및 혜택으로 적립 가능. 부계정까지 적립 가능한 혜택 포함.
+
+게시글링크:https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9701955&keyword=%B7%CE%BA%B8%B6%F4
+
+답글가능계정수:.
+2025-10-30 15:15:34,912 - INFO - 20번째 작업
+2025-10-30 15:15:34,913 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_31
+
+제목:[휘발50억] 네이버페이 176원 + 랜덤 포인트 받으세요 (+기타 227원)13
+
+내용:네페 적립 혜택 소식: 다양한 기업에서 오늘 새로운 적립 혜택 제공 중. 부계정까지 가능한 1원부터 15원까지의 적립 혜택 확인해보세요. 추가로 이전에 나왔던 161원까지의 적립 혜택도 받을 수 있습니다.
+
+게시글링크:https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9700087&keyword=%B7%CE%BA%B8%B6%F4
+
+답글가능계정수:.
+2025-10-30 15:15:35,982 - INFO - 21번째 작업
+2025-10-30 15:15:35,982 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_32
+
+제목:[네이버페이] 로보락, 메디힐 30원 받으세요16
+
+내용:로보락 15원 및 메디힐 15원 캠페인 링크가 제공됨.
+
+게시글링크:https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=106415&keyword=%B7%CE%BA%B8%B6%F4
+
+답글가능계정수:.
+2025-10-30 15:15:36,980 - INFO - 22번째 작업
+2025-10-30 15:15:36,980 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_34
+
+제목:요즘 가성비 좋은 청소기 뭐 있을까요?0
+
+내용:로봇청소기를 구매하려는데 샤오미 로보락과 LG 중에서 흡입력이 좋은 모델을 추천해달라는 요청이 있습니다.
+
+게시글링크:https://www.ppomppu.co.kr/zboard/view.php?id=av&no=148302&keyword=%B7%CE%BA%B8%B6%F4
+
+답글가능계정수:.
+2025-10-30 15:15:37,994 - INFO - 23번째 작업
+2025-10-30 15:15:37,994 - INFO - 알림완료 데이터를 시트에 업데이트 합니다
+2025-10-30 15:15:37,994 - INFO - 시트이름: 알림완료
+2025-10-30 15:15:37,994 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 15:15:39,040 - INFO - 구글 시트 로드 - 완료
+2025-10-30 15:15:40,368 - INFO - 텔레그램 에러 메시지 : 시작시간: 2025-10-30 15:15:40.368343
+2025-10-30 15:15:42,063 - ERROR - 1/10번째 [ all_senssing_keyword_sensing_class.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1464, in <module>
+    sensing_manager.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1443, in run
+    self.community_alarm_manager.send_alarm()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 70, in send_alarm
+    telegram_util.send_message(message=f"시작시간: {datetime.now()}", group_name="댓글대응")
+  File "C:\Users\user\Desktop\Bridzzi\util\api\telegram.py", line 131, in send_message
+    requests.get(url)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-30 15:15:42,063 - ERROR - Traceback (most recent call last):
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+2025-10-30 15:15:42,063 - ERROR - http.client.RemoteDisconnected: Remote end closed connection without response
+2025-10-30 15:15:42,063 - ERROR - During handling of the above exception, another exception occurred:
+2025-10-30 15:15:42,063 - ERROR - Traceback (most recent call last):
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,063 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,076 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,076 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+2025-10-30 15:15:42,076 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,076 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+2025-10-30 15:15:42,076 - ERROR - urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-10-30 15:15:42,076 - ERROR - During handling of the above exception, another exception occurred:
+2025-10-30 15:15:42,076 - ERROR - Traceback (most recent call last):
+2025-10-30 15:15:42,076 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1464, in <module>
+    sensing_manager.run()
+2025-10-30 15:15:42,076 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1443, in run
+    self.community_alarm_manager.send_alarm()
+2025-10-30 15:15:42,076 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 70, in send_alarm
+    telegram_util.send_message(message=f"시작시간: {datetime.now()}", group_name="댓글대응")
+2025-10-30 15:15:42,076 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\api\telegram.py", line 131, in send_message
+    requests.get(url)
+2025-10-30 15:15:42,076 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,076 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,076 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,076 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 15:15:42,076 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+2025-10-30 15:15:42,076 - ERROR - requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-10-30 15:15:42,193 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 15:15:42,193 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 15:15:43,198 - INFO - ==================================
+2025-10-30 15:15:43,198 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-30 15:15:43,339 - INFO - [현재 크롬 버전] : 142.0.7444.60
+2025-10-30 15:15:44,614 - INFO - Chrome 업데이트를 확인하는 중...

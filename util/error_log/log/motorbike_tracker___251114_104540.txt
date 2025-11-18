@@ -1,0 +1,113 @@
+2025-11-14 10:45:40,193 - INFO - ==================================
+2025-11-14 10:45:40,193 - INFO - -----------------------------
+2025-11-14 10:45:40,409 - INFO - 로그인 응답 코드:
+2025-11-14 10:45:40,409 - INFO - 200
+2025-11-14 10:45:40,409 - INFO - 서버가 준 쿠키:
+2025-11-14 10:45:40,409 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=9FAE4323C6FCB5D4EE680C4A715DA0A6 for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 10:45:40,409 - INFO - -----------------------------
+2025-11-14 10:45:40,429 - INFO - 로그인 응답 코드:
+2025-11-14 10:45:40,432 - INFO - 200
+2025-11-14 10:45:40,432 - INFO - 장비 개수:
+2025-11-14 10:45:40,432 - INFO - 49
+2025-11-14 10:45:40,442 - INFO - port   vehicle_number       ip_address        id                             client_id
+0   51908     경기 수원 거 7502     37.17.191.68  EAE28066  d3471980-9964-4fc9-979c-c3c0e84ae279
+1   43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc
+2   51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6
+3   56446     경기 수원 거 5749     37.17.191.68  FE7ACC2E  0e06a3ca-f3af-463e-b627-9814d1b062d8
+4   49232     경기 수원 거 9533     37.17.191.68  FD1D0C84  b3764d25-7ffe-4695-a22c-a064de67e669
+5   62090     경기 수원 거 5801     37.17.191.68  E0459619  892c2cc6-e48e-47da-b68f-e47edef82e81
+6   62557     경기 수원 거 5250   195.226.133.37  D3992722  1ae5ef97-8941-49cf-acc2-81d206f9329e
+7   64499     경기 수원 거 5295   195.226.133.38  E1C3ED9B  803abac9-4402-4ae4-a905-82a7bbaf7ab1
+8   59982     경기 수원 너 3652    193.181.246.8  D824C81C  ffa552c1-83ec-42e4-ae67-69911a1b07cc
+9   59856     경기 수원 러 0160     37.17.191.68  F35F23D6  8f18ee94-0aeb-4162-92dd-df28434d930f
+10  61534              미지정     37.17.191.68  EBD1EB91  91fc249f-6620-4aa0-a167-5783b7ab2703
+11  31830     경기 수원 거 4974     5.35.166.167  FAD1AF1B  38e577d7-4606-4d18-a922-21701847ed4f
+12  49688     경기 수원 거 9019     37.17.191.68  D8E32357  d06400f3-9fa7-4769-8ad0-7aa19506e0ec
+13  63339     경기 수원 거 5747     37.17.191.68  E6B659B3  504902e2-f014-4f0e-aa83-10b0204b5495
+14  55015     경기 수원 거 5894     37.17.191.68  EF495AEF  926c7fbe-ef6b-43b8-8873-e1d6c24548b7
+15  54668     경기 수원 거 7627     37.17.191.68  D4CB32FA  64fd7141-25b1-4f4b-b02f-8c1335914b0b
+16  61369     경기 수원 거 4891   195.226.133.39  CA02EF4C  d1ab8e22-e4df-4375-8414-1d49d3c1220b
+17  57068     경기 수원 거 5716     37.17.191.68  CF1FB646  d6725110-83af-4057-964b-6785b748dfa6
+18  63558     경기 수원 거 7705     37.17.191.68  C3A128AB  3c5afbf2-3b7e-4819-9e6f-2e8c3204a40c
+19  58115     경기 수원 너 3582   193.181.246.67  F9D384D9  ab7f907d-bb35-4bd9-8e3d-197472048068
+20  56985     경기 수원 거 5948     5.35.166.165  CB830D7F  f3ab3cea-d3b7-4ce0-bd0c-dfb5e9800550
+21  61775     경기 수원 거 5983   195.226.133.38  F227BD6C  13fb1ab2-3a31-46ff-b3a2-b804d83115c2
+22  11837              미지정     5.35.166.164  E9A5C773  37336720-35ef-498b-9425-bd1e4818167d
+23  61968     경기 수원 거 4952     5.35.166.172  F27F921B  68986e85-a031-4295-8848-373b1af45832
+24  54662     경기 수원 거 4926   195.226.133.60  D905D5F6  7dbd10c5-3d4e-486b-a606-e3ffefd133b6
+25  56825     경기 수원 거 5715     5.35.166.164  F69D703A  fae76e35-2e49-44b7-a140-b14a10b9cbdf
+26  61796              미지정   195.226.133.39  D601F762  c53dc780-bdc6-42cd-b152-27583e72dfb0
+27  48353     경기 수원 거 4995   195.226.133.60  D72D964E  97259e5d-4964-4ab5-abff-c679cdf73852
+28  50513     경기 수원 거 7570     37.17.191.68  CB2378C1  a707ceae-39c8-4969-ba77-ffe1cb5fc948
+29  54163     경기 수원 거 7717     37.17.191.68  F3957091  be337f65-45f2-4b09-bfe5-46b9829185d7
+30  49513     경기 수원 거 4974     5.35.166.167  FAD1AF1B  bded8f03-7a72-401a-8762-b1b5b7762ba0
+31  49918     경기 수원 러 0194  130.195.194.236  C31A366D  6b3b895b-eac4-409e-876e-facc884ac886
+32  52919     경기 수원 거 5908   195.226.133.46  DE110FF5  4ef61867-6b4a-41f0-a2a1-f6da02198be7
+33  65488     경기 수원 거 5716     37.17.191.68  CF1FB646  db84dee7-8437-4f05-bdce-83c62d002f0f
+34  53065     경기 수원 거 4869   195.226.133.38  CFE782BF  fb8f18c6-c92a-4e8f-bdb8-58d0405b6742
+35  48748     경기 수원 거 4952     5.35.166.172  F27F921B  2f262433-476a-4163-9e3d-2ff621892013
+36  48514     경기 수원 거 5286   195.226.133.45  C56CE8A4  04ba6cc5-f66f-4522-aa85-346e9fdce60d
+37  42916     경기 수원 너 3660  130.195.194.230  C52AA97C  d91f331b-8ca8-49ab-9d64-960329ec6cc4
+38   4424     경기 수원 거 5275     5.35.166.166  C8753BFC  2597f740-6554-413b-9002-e0d71283fe68
+39  32349     경기 수원 너 3790   193.181.246.79  FDE7D9D9  a5a20a11-b33c-4c3b-bace-a3e75fc22615
+40  56427     경기 수원 거 5210     5.35.166.165  E59D8D1C  719ee378-e5b5-4270-9865-765da6d5bf29
+41  49926     경기 수원 거 4897   195.226.133.40  FC633C52  41bfba2b-80f8-4954-9f6d-ac26ec862a40
+42  40059     경기 수원 너 3529   193.181.246.55  D18B0D8B  44085bf2-fa9d-4080-890d-1feb49ee4cc7
+43  45492     경기 수원 거 4935   195.226.133.37  C18986BD  9b1fe26a-c158-4a78-b110-91c7c4a20fb8
+44  14342     경기 수원 거 5908   195.226.133.46  DE110FF5  7714d8dd-6124-4d4a-94d4-5d25767f9032
+45  34616       NMAX125 블랙  193.181.246.136  ED05EF1C  0402a46f-1d18-461c-9835-bb044afcc3ee
+46  43692     경기 수원 거 9588  130.195.194.244  C7D28BB1  62695373-6f07-4237-9525-946e52a1dbd1
+47  54277     경기 수원 거 5791   195.226.133.61  D1B1E85A  d5455963-15b5-4cb4-bcbf-743409f8d6a8
+48  59940     경기 수원 거 9492     37.17.191.68  EFCFC13E  d5c04c23-5a0c-4259-843a-cc10dea14ae7
+2025-11-14 10:45:40,443 - INFO - -----------------------------
+2025-11-14 10:45:40,465 - INFO - 데이터 개수:
+2025-11-14 10:45:40,465 - INFO - 100
+2025-11-14 10:45:40,467 - INFO - latitude                                37.295494
+battery                                      14.1
+gyrox                                      +00000
+speed                                          23
+gyroy                                      +00000
+running_distance                              0.0
+gyroz                                      +00000
+driver_name                          경기 수원 거 7502
+accz                                       +00000
+user_id                                  EAE28066
+accy                                       +00000
+mc_key                                          0
+vehicle_number                  MH3SEL147SK002916
+running_time                                    0
+accx                                       +00000
+time                2025-11-14T01:45:28.000+00:00
+longitude                              126.978851
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 10:45:40,467 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 128, in <module>
+    motobike_tracker_bot.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 110, in run
+    self._get_motion_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 96, in _get_motion_data
+    first_id = first["id"]
+               ~~~~~^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'id'

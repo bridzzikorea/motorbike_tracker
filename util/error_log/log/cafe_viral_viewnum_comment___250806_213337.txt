@@ -1,0 +1,169 @@
+2025-08-06 21:33:39,755 - INFO - ==================================
+2025-08-06 21:33:39,755 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.
+2025-08-06 21:36:11,421 - INFO - 바이럴대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-06 21:36:11,424 - INFO - ==================================
+2025-08-06 21:36:11,424 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-06 21:36:11,424 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-06 21:36:11,753 - INFO - [# USB테더링 전환 #] - 성공
+2025-08-06 21:36:11,759 - INFO - [#1 mobile_ip 전환 - success ]
+2025-08-06 21:36:11,759 - INFO - -----------------------------
+2025-08-06 21:36:11,759 - INFO - [#2 before_ip 추출] - try
+2025-08-06 21:36:11,760 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-06 21:36:12,153 - INFO - -- 'https://ipinfo.io/ip' : 118.235.13.227
+2025-08-06 21:36:12,154 - INFO - [#2 before_ip 추출] - success : 118.235.13.227
+2025-08-06 21:36:12,154 - INFO - -----------------------------
+2025-08-06 21:36:12,657 - INFO - --- 모바일 데이터 off - 성공
+2025-08-06 21:36:13,146 - INFO - --- 비행기 모드 on - 성공
+2025-08-06 21:36:13,515 - INFO - --- 비행기 모드 off - 성공
+2025-08-06 21:36:13,931 - INFO - --- 모바일 데이터 on - 성공
+2025-08-06 21:36:13,932 - INFO - [#3 after_ip 추출] - try
+2025-08-06 21:36:13,932 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-06 21:36:14,938 - INFO - - 추출 실패 1/3 재시도
+2025-08-06 21:36:15,876 - INFO - -- 'https://ipinfo.io/ip' : 39.7.231.179
+2025-08-06 21:36:15,876 - INFO - [#3 after_ip 추출] - success : 39.7.231.179
+2025-08-06 21:36:15,877 - INFO - Success -IP 변경(성공): before 118.235.13.227 => after 39.7.231.179
+2025-08-06 21:36:15,877 - INFO - ★★★ IP 변경 - Success ★★★
+2025-08-06 21:36:15,877 - INFO - ==================================
+2025-08-06 21:36:17,465 - INFO - C:\program_cookies 폴더 크기: 0.44 GB
+2025-08-06 21:36:17,466 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_yz890cdefg 폴더를 지정합니다.
+2025-08-06 21:36:17,466 - INFO - fixed UA가 있습니다.
+2025-08-06 21:36:17,466 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-06 21:36:17,466 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-06 21:36:17,466 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-06 21:36:23,436 - INFO - 크롬창을 열었습니다.
+2025-08-06 21:36:23,438 - INFO - Android
+2025-08-06 21:36:23,447 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-06 21:36:23,447 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-06 21:36:23,447 - INFO - FIXED gps 정보는 {'latitude': 37.5491199, 'longitude': 127.167448, 'accuracy': 100} 입니다.
+2025-08-06 21:36:23,822 - INFO - 모든 변경이 완료되었습니다...
+2025-08-06 21:36:23,822 - INFO - ~~~~~~~~~~
+2025-08-06 21:36:24,066 - INFO - [ NAVER_ID : yz890cdefg ]
+2025-08-06 21:36:29,747 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-06 21:36:31,990 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-06 21:36:34,705 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-06 21:36:42,260 - INFO - [완료] 4. 네이버 로그인
+2025-08-06 21:36:43,053 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-06 21:36:46,307 - INFO - 메일 내용 : 새로운 환경에서 로그인 되었습니다.
+2025-08-06 21:36:46,317 - INFO - 새로운 환경 로그인 예 버튼을 누르러 들어갑니다.
+2025-08-06 21:36:47,702 - INFO - 예 버튼을 찾습니다.
+2025-08-06 21:36:48,287 - INFO - 예 버튼을 찾았습니다. 예 버튼을 누릅니다.
+2025-08-06 21:36:49,524 - INFO - 예버튼을 눌렀습니다
+2025-08-06 21:36:51,828 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-06 21:36:57,746 - INFO - 글쓰기를 시작합니다
+2025-08-06 21:37:09,488 - INFO - 텔레그램 에러 메시지 : <undetected_chromedriver.webelement.WebElement (session="6a329da8caea7ca6b936673d86b677bb", element="f.93A5429D1EBDF0603B0E4FCCC2FCC09A.d.B4400ED4EB2FD1A6924CCCD4D10E74CF.e.548")>
+2025-08-06 21:37:09,498 - ERROR - 1/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 506, in _write_contents
+    selenium_util.wait_for_element(self.browser, 10, title_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11dfd23+62915]
+	GetHandleVerifier [0x0x11dfd64+62980]
+	(No symbol) [0x0x1013e13]
+	(No symbol) [0x0x105c89e]
+	(No symbol) [0x0x105cc3b]
+	(No symbol) [0x0x10a4ec2]
+	(No symbol) [0x0x1081424]
+	(No symbol) [0x0x10a26ea]
+	(No symbol) [0x0x10811d6]
+	(No symbol) [0x0x1050833]
+	(No symbol) [0x0x10516a4]
+	GetHandleVerifier [0x0x1448d13+2590131]
+	GetHandleVerifier [0x0x1443f5a+2570234]
+	GetHandleVerifier [0x0x12059da+217722]
+	GetHandleVerifier [0x0x11f6048+153832]
+	GetHandleVerifier [0x0x11fc4ad+179533]
+	GetHandleVerifier [0x0x11e7728+94152]
+	GetHandleVerifier [0x0x11e78b2+94546]
+	GetHandleVerifier [0x0x11d2bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1082, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start(googlesheet):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 823, in cafe_post_comment_start
+    is_completd_cafe_viral = self.cafe_viral_contents_process()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 651, in cafe_viral_contents_process
+    if not self._cafe_viral_post(data):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 592, in _cafe_viral_post
+    write_content_url = self._write_contents(data)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 513, in _write_contents
+    raise CafeGradeError
+util.platform.naver.n_cafe_bot.CafeGradeError
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-06 21:37:09,501 - ERROR - Traceback (most recent call last):
+2025-08-06 21:37:09,501 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 506, in _write_contents
+    selenium_util.wait_for_element(self.browser, 10, title_selector)
+2025-08-06 21:37:09,501 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 21:37:09,501 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+2025-08-06 21:37:09,502 - ERROR - selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11dfd23+62915]
+	GetHandleVerifier [0x0x11dfd64+62980]
+	(No symbol) [0x0x1013e13]
+	(No symbol) [0x0x105c89e]
+	(No symbol) [0x0x105cc3b]
+	(No symbol) [0x0x10a4ec2]
+	(No symbol) [0x0x1081424]
+	(No symbol) [0x0x10a26ea]
+	(No symbol) [0x0x10811d6]
+	(No symbol) [0x0x1050833]
+	(No symbol) [0x0x10516a4]
+	GetHandleVerifier [0x0x1448d13+2590131]
+	GetHandleVerifier [0x0x1443f5a+2570234]
+	GetHandleVerifier [0x0x12059da+217722]
+	GetHandleVerifier [0x0x11f6048+153832]
+	GetHandleVerifier [0x0x11fc4ad+179533]
+	GetHandleVerifier [0x0x11e7728+94152]
+	GetHandleVerifier [0x0x11e78b2+94546]
+	GetHandleVerifier [0x0x11d2bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-06 21:37:09,502 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-06 21:37:09,502 - ERROR - Traceback (most recent call last):
+2025-08-06 21:37:09,503 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1082, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start(googlesheet):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 21:37:09,503 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 823, in cafe_post_comment_start
+    is_completd_cafe_viral = self.cafe_viral_contents_process()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 21:37:09,503 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 651, in cafe_viral_contents_process
+    if not self._cafe_viral_post(data):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 21:37:09,503 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 592, in _cafe_viral_post
+    write_content_url = self._write_contents(data)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 21:37:09,503 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 513, in _write_contents
+    raise CafeGradeError
+2025-08-06 21:37:09,504 - ERROR - util.platform.naver.n_cafe_bot.CafeGradeError
+2025-08-06 21:37:09,785 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-06 21:37:09,785 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-06 21:37:10,788 - INFO - ==================================
+2025-08-06 21:37:10,788 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-06 21:37:10,954 - INFO - ==================================
+2025-08-06 21:37:10,954 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-08-06 21:37:11,096 - INFO - -----------------------------
+2025-08-06 21:37:11,096 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-08-06 21:37:11,607 - INFO - -----------------------------
+2025-08-06 21:37:11,608 - INFO - 이더넷(WI-FI, 랜선) 어뎁터 - 활성화(시도 & 명령어 작동)

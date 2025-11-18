@@ -1,0 +1,41 @@
+2025-07-24 16:06:36,559 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-24 16:06:37,435 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 16:06:38,670 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 16:06:39,423 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 16:06:39,423 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-07-24 16:06:39,433 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_PC_random 폴더를 지정합니다.
+2025-07-24 16:06:39,438 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 16:06:39,439 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36입니다.
+2025-07-24 16:06:41,215 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 16:06:41,215 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 - 시작
+2025-07-24 16:06:42,952 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 - 완료
+2025-07-24 16:06:42,952 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 16:06:42,952 - INFO - 검색키워드 : '친환경 정수기 선택 가이드 NSF 인증이'!r
+2025-07-24 16:06:42,952 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 16:06:43,100 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\_contradict.py:138: UserWarning: 
+    While creating a ContraDict object, a key offending key name 'clear' has been found, which might behave unexpected.
+    you will only be able to look it up using key, eg. myobject['clear']. myobject.clear will not work with that name.
+    
+  _warnings.warn(_warning_names_message.format(key))
+2025-07-24 16:06:43,238 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 16:06:43,238 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 16:06:43,294 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 16:06:44,044 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 16:06:45,225 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 16:06:45,604 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 16:06:47,235 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 396, in <module>
+    uc.loop().run_until_complete(main())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 386, in main
+    await nodriver.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 230, in run
+    await self.pc_view()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 222, in pc_view
+    await self.browser.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    await self.browser.stop()
+TypeError: object NoneType can't be used in 'await' expression

@@ -1,0 +1,85 @@
+2025-10-30 09:19:26,282 - INFO - ==================================
+2025-10-30 09:19:26,282 - INFO - ==================================
+2025-10-30 09:19:26,282 - INFO - [ 9시] - 키워드 센싱을 시작합니다
+2025-10-30 09:19:26,282 - INFO - ==================================
+2025-10-30 09:19:26,285 - INFO - -----------------------------
+2025-10-30 09:19:26,285 - INFO - 시트이름: #3 브랜드_커뮤니티선별
+2025-10-30 09:19:26,285 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 09:19:26,951 - INFO - 구글 시트 로드 - 완료
+2025-10-30 09:19:27,626 - INFO - #3 브랜드_커뮤니티선별 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 09:19:27,626 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 09:19:27,626 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 09:19:28,142 - INFO - 구글 시트 로드 - 완료
+2025-10-30 09:19:28,746 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 09:19:28,746 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 09:19:28,746 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 09:19:29,323 - INFO - 구글 시트 로드 - 완료
+2025-10-30 09:19:29,935 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 09:19:29,935 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 09:19:29,938 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 09:19:30,493 - INFO - 구글 시트 로드 - 완료
+2025-10-30 09:19:31,526 - INFO - E2:E2
+2025-10-30 09:19:32,105 - INFO - Success E2부터 E2까지 값 삭제
+2025-10-30 09:19:32,105 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 09:19:32,105 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 09:19:32,860 - INFO - 구글 시트 로드 - 완료
+2025-10-30 09:19:33,460 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 09:19:33,860 - INFO - C:\program_cookies 폴더 크기: 2.17 GB
+2025-10-30 09:19:33,920 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-10-30 09:19:33,920 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-10-30 09:19:33,920 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-10-30 09:19:33,920 - INFO - fixed UA가 있습니다.
+2025-10-30 09:19:33,920 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36입니다.
+2025-10-30 09:19:33,920 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-30 09:19:33,920 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-10-30 09:19:37,409 - INFO - ==================================
+2025-10-30 09:19:37,409 - INFO - devicemetrics를 override 합니다..
+2025-10-30 09:19:37,416 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-30 09:19:37,417 - INFO - FIXED gps 정보를 적용합니다.
+2025-10-30 09:19:37,417 - INFO - FIXED gps 정보는 {'latitude': 47.6653341, 'longitude': 137.075382, 'accuracy': 100} 입니다.
+2025-10-30 09:19:37,428 - INFO - 모든 변경이 완료되었습니다...
+2025-10-30 09:19:37,428 - INFO - ~~~~~~~~~~
+2025-10-30 09:19:37,428 - INFO - ==================================
+2025-10-30 09:19:37,428 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 디시인사이드 / 게시판 분류 : 게시물(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 09:19:46,394 - INFO - -----------------------------
+2025-10-30 09:19:50,355 - ERROR - 1/10번째 [ all_senssing_keyword_sensing_class.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1019, in <module>
+    sensing_manager.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 995, in run
+    self.community_crawler.check_run(time_name)
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 857, in check_run
+    self.dc_collect_post_info(row_index, keyword, comunity_data_row)
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 777, in dc_collect_post_info
+    date_text = datetime(date_text, "%Y.%m.%d %H:%M")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object cannot be interpreted as an integer
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-30 09:19:50,364 - ERROR - Traceback (most recent call last):
+2025-10-30 09:19:50,364 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1019, in <module>
+    sensing_manager.run()
+2025-10-30 09:19:50,364 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 995, in run
+    self.community_crawler.check_run(time_name)
+2025-10-30 09:19:50,364 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 857, in check_run
+    self.dc_collect_post_info(row_index, keyword, comunity_data_row)
+2025-10-30 09:19:50,364 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 777, in dc_collect_post_info
+    date_text = datetime(date_text, "%Y.%m.%d %H:%M")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 09:19:50,366 - ERROR - TypeError: 'str' object cannot be interpreted as an integer
+2025-10-30 09:19:50,541 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 09:19:50,541 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 09:19:51,543 - INFO - ==================================
+2025-10-30 09:19:51,543 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-30 09:19:51,697 - INFO - [현재 크롬 버전] : 142.0.7444.60
+2025-10-30 09:19:52,914 - INFO - Chrome 업데이트를 확인하는 중...
+2025-10-30 09:19:54,921 - INFO - ==================================
+2025-10-30 09:19:54,921 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-10-30 09:19:54,921 - INFO - -----------------------------
+2025-10-30 09:19:54,921 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-10-30 09:19:54,921 - INFO - ==================================
+2025-10-30 09:19:55,053 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 09:19:55,054 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 09:19:56,055 - INFO - ==================================

@@ -1,0 +1,65 @@
+2025-11-14 11:13:38,550 - INFO - ==================================
+2025-11-14 11:13:38,550 - INFO - -----------------------------
+2025-11-14 11:13:38,817 - INFO - 로그인 응답 코드:
+2025-11-14 11:13:38,817 - INFO - 200
+2025-11-14 11:13:38,817 - INFO - 서버가 준 쿠키:
+2025-11-14 11:13:38,817 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=4C140F7DACFFE167634EB46DDD58E0C3 for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 11:13:38,817 - INFO - -----------------------------
+2025-11-14 11:13:38,839 - INFO - 로그인 응답 코드:
+2025-11-14 11:13:38,843 - INFO - 200
+2025-11-14 11:13:38,843 - INFO - 장비 개수:
+2025-11-14 11:13:38,843 - INFO - 68
+2025-11-14 11:13:38,849 - INFO - port   vehicle_number       ip_address        id                             client_id
+0   51908     경기 수원 거 7502     37.17.191.68  EAE28066  d3471980-9964-4fc9-979c-c3c0e84ae279
+1   43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc
+2   51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6
+3   49232     경기 수원 거 9533     37.17.191.68  FD1D0C84  b3764d25-7ffe-4695-a22c-a064de67e669
+4   62090     경기 수원 거 5801     37.17.191.68  E0459619  892c2cc6-e48e-47da-b68f-e47edef82e81
+..    ...              ...              ...       ...                                   ...
+63  58409     경기 수원 거 5208     5.35.166.166  E732F7ED  cb66eca9-c544-4612-9ab6-6c7f96bd5f57
+64  28850     경기 수원 거 5807   195.226.133.37  C89AD1A2  90835f06-00f2-441b-bb11-39998b774c79
+65  51048     경기 수원 거 7504     37.17.191.68  DBF892A1  a5123c42-90ed-4116-9abb-07b1e10e8a80
+66  59764     경기 수원 거 4995     5.35.166.172  D72D964E  f4704255-63a7-45f0-a74f-adb984c1575e
+67  51778     경기 수원 거 4350   195.226.133.62  C4CAE7ED  3971a714-64bc-4095-aa26-29d859c0867a
+
+[68 rows x 5 columns]
+2025-11-14 11:13:38,849 - INFO - -----------------------------
+2025-11-14 11:13:38,871 - INFO - 데이터 개수:
+2025-11-14 11:13:38,871 - INFO - 100
+2025-11-14 11:13:38,871 - INFO - latitude                                37.290386
+battery                                       2.1
+gyrox                                      -00116
+speed                                           0
+gyroy                                      +00016
+running_distance                              0.0
+gyroz                                      -00006
+driver_name                          경기 수원 거 7502
+accz                                       +10186
+user_id                                  EAE28066
+accy                                       +12173
+mc_key                                          0
+vehicle_number                  MH3SEL147SK002916
+running_time                                    0
+accx                                       +01528
+time                2025-11-14T01:54:53.000+00:00
+longitude                              127.006233
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:13:38,871 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 134, in <module>
+    motobike_tracker_bot.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 116, in run
+    self._get_motion_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 100, in _get_motion_data
+    mask = self.df["id"] == df_latest_sorted["user_id"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\ops\common.py", line 76, in new_method
+    return method(self, other)
+           ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\arraylike.py", line 40, in __eq__
+    return self._cmp_method(other, operator.eq)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\series.py", line 6114, in _cmp_method
+    raise ValueError("Can only compare identically-labeled Series objects")
+ValueError: Can only compare identically-labeled Series objects

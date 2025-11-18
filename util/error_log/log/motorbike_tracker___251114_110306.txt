@@ -1,0 +1,107 @@
+2025-11-14 11:03:06,758 - INFO - ==================================
+2025-11-14 11:03:06,759 - INFO - -----------------------------
+2025-11-14 11:03:06,961 - INFO - 로그인 응답 코드:
+2025-11-14 11:03:06,962 - INFO - 200
+2025-11-14 11:03:06,963 - INFO - 서버가 준 쿠키:
+2025-11-14 11:03:06,963 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=251E9EC59C7FCA9C2B96C9CBD6D7C940 for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 11:03:06,963 - INFO - -----------------------------
+2025-11-14 11:03:06,973 - INFO - 로그인 응답 코드:
+2025-11-14 11:03:06,986 - INFO - 200
+2025-11-14 11:03:06,987 - INFO - 장비 개수:
+2025-11-14 11:03:06,988 - INFO - 55
+2025-11-14 11:03:06,998 - INFO - port   vehicle_number       ip_address        id                             client_id
+0   51908     경기 수원 거 7502     37.17.191.68  EAE28066  d3471980-9964-4fc9-979c-c3c0e84ae279
+1   43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc
+2   51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6
+3   49232     경기 수원 거 9533     37.17.191.68  FD1D0C84  b3764d25-7ffe-4695-a22c-a064de67e669
+4   62090     경기 수원 거 5801     37.17.191.68  E0459619  892c2cc6-e48e-47da-b68f-e47edef82e81
+5   62557     경기 수원 거 5250   195.226.133.37  D3992722  1ae5ef97-8941-49cf-acc2-81d206f9329e
+6   61534              미지정     37.17.191.68  EBD1EB91  91fc249f-6620-4aa0-a167-5783b7ab2703
+7   63339     경기 수원 거 5747     37.17.191.68  E6B659B3  504902e2-f014-4f0e-aa83-10b0204b5495
+8   55015     경기 수원 거 5894     37.17.191.68  EF495AEF  926c7fbe-ef6b-43b8-8873-e1d6c24548b7
+9   54668     경기 수원 거 7627     37.17.191.68  D4CB32FA  64fd7141-25b1-4f4b-b02f-8c1335914b0b
+10  61369     경기 수원 거 4891   195.226.133.39  CA02EF4C  d1ab8e22-e4df-4375-8414-1d49d3c1220b
+11  58115     경기 수원 너 3582   193.181.246.67  F9D384D9  ab7f907d-bb35-4bd9-8e3d-197472048068
+12  50513     경기 수원 거 7570     37.17.191.68  CB2378C1  a707ceae-39c8-4969-ba77-ffe1cb5fc948
+13  54163     경기 수원 거 7717     37.17.191.68  F3957091  be337f65-45f2-4b09-bfe5-46b9829185d7
+14  49513     경기 수원 거 4974     5.35.166.167  FAD1AF1B  bded8f03-7a72-401a-8762-b1b5b7762ba0
+15  48748     경기 수원 거 4952     5.35.166.172  F27F921B  2f262433-476a-4163-9e3d-2ff621892013
+16  48514     경기 수원 거 5286   195.226.133.45  C56CE8A4  04ba6cc5-f66f-4522-aa85-346e9fdce60d
+17  42916     경기 수원 너 3660  130.195.194.230  C52AA97C  d91f331b-8ca8-49ab-9d64-960329ec6cc4
+18  32349     경기 수원 너 3790   193.181.246.79  FDE7D9D9  a5a20a11-b33c-4c3b-bace-a3e75fc22615
+19  49926     경기 수원 거 4897   195.226.133.40  FC633C52  41bfba2b-80f8-4954-9f6d-ac26ec862a40
+20  34616       NMAX125 블랙  193.181.246.136  ED05EF1C  0402a46f-1d18-461c-9835-bb044afcc3ee
+21  59940     경기 수원 거 9492     37.17.191.68  EFCFC13E  d5c04c23-5a0c-4259-843a-cc10dea14ae7
+22  58769     경기 수원 거 7551     37.17.191.68  DCBE68BE  a6208947-f7ba-4661-97c7-d98f3a987586
+23  56479     경기 수원 거 4995     5.35.166.164  D72D964E  7cdff096-ea6e-40d3-aaee-77c3e2ca7fed
+24  65268     경기 수원 거 5210     5.35.166.165  E59D8D1C  7e5cf8b4-22c3-475b-a20d-15dc656d0fdd
+25  50674     경기 수원 거 7717     37.17.191.68  F3957091  ac4a260f-e870-4248-bfed-b4f4e30dd482
+26  57033     경기 수원 거 5772     37.17.191.68  FEAFECFA  64b1876f-f249-473f-9a52-76e269b415c7
+27  62624     경기 수원 거 4935     5.35.166.166  C18986BD  53a30868-748c-49c8-8bbd-c7367ba7bbda
+28  60216     경기 수원 너 3706  130.195.194.247  E113D03E  7af5d64e-df46-4611-af1b-ddff69212dc2
+29  63010     경기 수원 거 4938     5.35.166.166  D5BD3F51  04ca9507-cfd9-4788-a56e-a59e11b525bb
+30  64881     경기 수원 거 5772     37.17.191.68  FEAFECFA  e1d08e89-00aa-4835-8254-fb459c4b8e58
+31  48926     경기 수원 거 4868     5.35.166.167  E84813B3  88831827-b3b1-465b-9a9d-652dc2b24e0b
+32  64042     경기 수원 거 7567     37.17.191.68  E4199953  67c6b70c-7c81-467d-bc15-20b9780e437a
+33  46152  PCX125 블랙 세팅 차량   193.181.246.79  C81423CF  638b0157-05ca-4b79-997b-602c866d06e0
+34  55235     경기 수원 거 5772     37.17.191.68  FEAFECFA  7cd2df66-fd9e-4e9c-a744-b3302e364306
+35  63379     경기 수원 거 5295   195.226.133.60  E1C3ED9B  4a8872fc-b3c3-4d7b-856a-55fe2e1cd97f
+36  52893     경기 수원 거 5749     37.17.191.68  FE7ACC2E  92e60d67-8bcb-4af7-968b-e3e846b9ed4c
+37  32671              미지정   195.226.133.45  E9A5C773  87365cdd-fbfd-47c9-b77d-2cf983df5757
+38  64066     경기 수원 거 5974   195.226.133.62  FFFE1069  ab0f915f-ef4b-4b51-97c1-39354e2faab3
+39  54074     경기 수원 거 7504     37.17.191.68  DBF892A1  3c007a17-ae06-45e6-9869-0a12d9ec9ade
+40  64125     경기 수원 거 4926     5.35.166.164  D905D5F6  73a79342-24f8-49cf-9e3c-828faa3639e9
+41  64666     경기 수원 거 7504     37.17.191.68  DBF892A1  6d5e678f-4183-4d0a-b0e8-8632ec4f51bf
+42  50072     경기 수원 거 7504     37.17.191.68  DBF892A1  d9a5215e-d2df-4444-9e3c-01249bab1587
+43   5313     경기 수원 거 5238   195.226.133.62  E5EDB067  804af390-d43a-4f5d-b630-a7c9a6169676
+44  63725     경기 수원 거 5000   195.226.133.45  F4D162E2  70a6916b-50f7-4184-a7df-72d2fec7fac8
+45  35049     경기 수원 거 5791   195.226.133.61  D1B1E85A  bf0e48f1-21bf-4bd9-ba76-d6dec2bcf738
+46  61389     경기 수원 거 5983   195.226.133.62  F227BD6C  6fd9b64a-7454-4b03-a604-06a4ecbd6664
+47  55858     경기 수원 거 7504     37.17.191.68  DBF892A1  112bf771-886a-4290-94c1-057b9a27fd50
+48  50113     경기 수원 거 5705     5.35.166.166  D10C8A81  1f327697-3146-4535-be64-3f7c6b3671c3
+49  34541     경기 수원 거 4949     5.35.166.164  F1254EFD  c1c4ec48-96ce-4230-b817-eb3224e93be5
+50  60852     경기 수원 거 5807   195.226.133.60  C89AD1A2  d714c0f7-0e60-4792-8eeb-e9460f47aa5e
+51  60179     경기 수원 거 5831     37.17.191.68  EB76FE62  5568c162-d239-4906-8c16-6849219491e9
+52  36429     경기 수원 거 5715     5.35.166.165  F69D703A  fe846734-56f3-4c9f-a846-e705ab6d3480
+53  54496     경기 수원 거 4869   195.226.133.44  CFE782BF  75eb6ea9-0aa9-4791-8d74-87a63b852df4
+54  56646     경기 수원 거 7504     37.17.191.68  DBF892A1  2c7d8bd9-bb70-44b8-a73a-b2642a578f64
+2025-11-14 11:03:06,999 - INFO - -----------------------------
+2025-11-14 11:03:07,018 - INFO - 데이터 개수:
+2025-11-14 11:03:07,018 - INFO - 100
+2025-11-14 11:03:07,018 - INFO - latitude                                37.290386
+battery                                       2.1
+gyrox                                      -00116
+speed                                           0
+gyroy                                      +00016
+running_distance                              0.0
+gyroz                                      -00006
+driver_name                          경기 수원 거 7502
+accz                                       +10186
+user_id                                  EAE28066
+accy                                       +12173
+mc_key                                          0
+vehicle_number                  MH3SEL147SK002916
+running_time                                    0
+accx                                       +01528
+time                2025-11-14T01:54:53.000+00:00
+longitude                              127.006233
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:03:07,018 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 136, in <module>
+    motobike_tracker_bot.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 118, in run
+    self._get_motion_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 101, in _get_motion_data
+    mask = (self.df["id"] == df_latest_sorted["user_id"])
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\ops\common.py", line 76, in new_method
+    return method(self, other)
+           ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\arraylike.py", line 40, in __eq__
+    return self._cmp_method(other, operator.eq)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\series.py", line 6114, in _cmp_method
+    raise ValueError("Can only compare identically-labeled Series objects")
+ValueError: Can only compare identically-labeled Series objects

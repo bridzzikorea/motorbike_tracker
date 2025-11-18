@@ -1,0 +1,62 @@
+2025-08-12 13:04:29,542 - INFO - 이미지 다운로드 - 시작
+2025-08-12 13:04:29,542 - INFO - -----------------------------
+2025-08-12 13:04:29,542 - INFO - 프롬프트 텍스트 파일 경로: C:\image_downloader\image_prompt.txt
+2025-08-12 13:04:29,542 - INFO - 텍스트 파일 각 행마다 몇 개의 이미지를 생성할까요?
+2025-08-12 13:04:29,542 - INFO - 이미지 생성할 횟수를 입력하세요 (1~10):
+2025-08-12 13:04:36,105 - INFO - C:\program_cookies 폴더 크기: 1.31 GB
+2025-08-12 13:04:36,172 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-12 13:04:36,180 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-12 13:04:36,180 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-08-12 13:04:36,180 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-12 13:04:36,181 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6780.64 Safari/537.36입니다.
+2025-08-12 13:04:36,181 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-08-12 13:04:39,487 - INFO - ==================================
+2025-08-12 13:04:39,487 - INFO - devicemetrics를 override 합니다..
+2025-08-12 13:04:39,492 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 13:04:39,492 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-08-12 13:04:39,493 - INFO - RANDOM gps 정보는 {'latitude': 37.55399404671298, 'longitude': 126.98663707807503, 'accuracy': 100} 입니다.
+2025-08-12 13:04:39,500 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 13:04:39,501 - INFO - ~~~~~~~~~~
+2025-08-12 13:04:39,501 - INFO - -----------------------------
+2025-08-12 13:04:52,883 - INFO - > reCAPTCHA가 감지되지 않음, 비밀번호 입력 단계로 진행
+2025-08-12 13:05:10,937 - INFO - 구글 로그인 완료
+2025-08-12 13:05:15,444 - INFO - 팝업 닫기 버튼 클릭
+2025-08-12 13:05:17,210 - INFO - 1번째 행 처리 시작
+2025-08-12 13:05:17,210 - INFO - 입력창 클릭
+2025-08-12 13:05:19,400 - INFO - 프롬프트 입력
+2025-08-12 13:05:20,120 - INFO - 생성 1/5 시작
+2025-08-12 13:05:20,151 - INFO - 이미지 생성 중... (5~7초 대기)
+2025-08-12 13:05:26,962 - INFO - 생성 2/5 시작
+2025-08-12 13:05:26,999 - INFO - 이미지 생성 중... (5~7초 대기)
+2025-08-12 13:05:35,670 - INFO - 이미지 다운로드 - 가능
+2025-08-12 13:05:37,402 - INFO - 이미지 다운로드 - 가능
+2025-08-12 13:05:39,068 - INFO - 이미지 다운로드 - 가능
+2025-08-12 13:05:40,623 - INFO - 이미지 다운로드 - 가능
+2025-08-12 13:05:40,635 - INFO - 생성 3/5 시작
+2025-08-12 13:05:40,677 - INFO - 이미지 생성 중... (5~7초 대기)
+2025-08-12 13:05:45,794 - INFO - 생성 4/5 시작
+2025-08-12 13:05:45,834 - INFO - 이미지 생성 중... (5~7초 대기)
+2025-08-12 13:05:53,943 - INFO - 이미지 다운로드 - 가능
+2025-08-12 13:05:55,893 - INFO - 이미지 다운로드 - 가능
+2025-08-12 13:05:57,546 - INFO - 이미지 다운로드 - 가능
+2025-08-12 13:05:59,478 - INFO - 이미지 다운로드 - 가능
+2025-08-12 13:05:59,503 - INFO - 생성 5/5 시작
+2025-08-12 13:05:59,543 - INFO - 이미지 생성 중... (5~7초 대기)
+2025-08-12 13:06:08,253 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-12 13:06:08,697 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\1.jpg
+2025-08-12 13:06:11,758 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-12 13:06:12,139 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\1.jpg
+2025-08-12 13:06:15,197 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-12 13:06:15,537 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\1.jpg
+2025-08-12 13:06:18,605 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-12 13:06:18,981 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\1.jpg
+2025-08-12 13:06:22,040 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-12 13:06:22,434 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\1.jpg
+2025-08-12 13:06:25,487 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-12 13:06:25,823 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\1.jpg

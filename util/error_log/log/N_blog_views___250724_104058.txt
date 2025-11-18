@@ -1,0 +1,46 @@
+2025-07-24 10:40:58,324 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-24 10:40:59,788 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 10:41:06,350 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 10:41:07,471 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 10:41:08,511 - INFO - C:\program_cookies 폴더 크기: 1.00 GB
+2025-07-24 10:41:08,513 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 10:41:08,513 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 10:41:08,514 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-A146U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 10:41:09,161 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: '마지막키워드 사용가능 여부'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 350, in <module>
+    uc.loop().run_until_complete(main())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 340, in main
+    await nodriver.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 219, in run
+    await self.mobile_view()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 102, in mobile_view
+    search_keywords = self._get_search_keyword_dict(row)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 255, in _get_search_keyword_dict
+    if row["마지막키워드 사용가능 여부"] == "TRUE":
+       ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: '마지막키워드 사용가능 여부'

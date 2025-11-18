@@ -1,0 +1,2897 @@
+2025-07-24 17:13:34,030 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-24 17:13:34,990 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:13:36,498 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:13:37,582 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:13:37,609 - INFO - C:\program_cookies 폴더 크기: 0.08 GB
+2025-07-24 17:13:37,614 - INFO - random 폴더 초기화 - 'C:\program_cookies\Mobile_PC_random'에서 폴더 삭제(완료)
+2025-07-24 17:13:37,615 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:13:37,615 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:13:37,615 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36입니다.
+2025-07-24 17:13:39,238 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:13:39,254 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 핵 - 시작
+2025-07-24 17:13:43,351 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 핵 - 완료
+2025-07-24 17:13:43,351 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:13:43,351 - INFO - 검색키워드 : '친환경 정수기 선택 가이드 NSF 인증이 핵'!r
+2025-07-24 17:13:43,351 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:13:43,492 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:13:43,492 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:13:43,492 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:13:47,842 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:13:47,849 - INFO - cur_scrollY:0, screen_height:640, element_y:708, element_height:24
+2025-07-24 17:13:47,849 - INFO - True
+2025-07-24 17:13:47,849 - INFO - cur_scrollY:0, element_y:708
+2025-07-24 17:13:47,851 - INFO - False
+2025-07-24 17:13:49,822 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:13:50,099 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:13:53,756 - INFO - Fail 구글 시트에서 데이터가 비어 있습니다. 시트와 범위를 확인해주세요.
+2025-07-24 17:13:55,535 - INFO - C:\program_cookies 폴더 크기: 0.04 GB
+2025-07-24 17:13:55,536 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:13:55,536 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:13:55,536 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 12; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 17:13:56,921 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:13:56,922 - INFO - 블로그 검색 키워드: NFC NSF - 시작
+2025-07-24 17:14:01,067 - INFO - 블로그 검색 키워드: NFC NSF - 완료
+2025-07-24 17:14:01,067 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:14:01,067 - INFO - 검색키워드 : 'NFC NSF'!r
+2025-07-24 17:14:01,067 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:14:01,195 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:14:01,195 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:14:01,195 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:14:05,294 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:14:06,495 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:14:06,825 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:14:10,126 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:14:11,887 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 17:14:11,887 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:14:11,887 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:14:11,887 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-A515U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 17:14:13,211 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:14:13,213 - INFO - 블로그 검색 키워드: 제로에너지 시대 태양광 연계 정수기 선택 가이 - 시작
+2025-07-24 17:14:17,882 - INFO - 블로그 검색 키워드: 제로에너지 시대 태양광 연계 정수기 선택 가이 - 완료
+2025-07-24 17:14:17,882 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:14:17,882 - INFO - 검색키워드 : '제로에너지 시대 태양광 연계 정수기 선택 가이'!r
+2025-07-24 17:14:17,882 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:14:18,044 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:14:18,044 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:14:18,045 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:14:21,934 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:14:21,941 - INFO - cur_scrollY:0, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:21,941 - INFO - True
+2025-07-24 17:14:21,941 - INFO - cur_scrollY:0, element_y:1363
+2025-07-24 17:14:21,941 - INFO - False
+2025-07-24 17:14:22,404 - INFO - cur_scrollY:104, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:22,404 - INFO - True
+2025-07-24 17:14:22,404 - INFO - cur_scrollY:104, element_y:1363
+2025-07-24 17:14:22,404 - INFO - False
+2025-07-24 17:14:22,859 - INFO - cur_scrollY:258, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:22,859 - INFO - True
+2025-07-24 17:14:22,859 - INFO - cur_scrollY:258, element_y:1363
+2025-07-24 17:14:22,859 - INFO - False
+2025-07-24 17:14:23,426 - INFO - cur_scrollY:407, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:23,427 - INFO - True
+2025-07-24 17:14:23,427 - INFO - cur_scrollY:407, element_y:1363
+2025-07-24 17:14:23,427 - INFO - False
+2025-07-24 17:14:24,006 - INFO - cur_scrollY:666, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:24,007 - INFO - True
+2025-07-24 17:14:24,007 - INFO - cur_scrollY:666, element_y:1363
+2025-07-24 17:14:24,007 - INFO - False
+2025-07-24 17:14:24,574 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:24,574 - INFO - False
+2025-07-24 17:14:24,574 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:24,574 - INFO - False
+2025-07-24 17:14:25,042 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:25,042 - INFO - False
+2025-07-24 17:14:25,042 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:25,042 - INFO - False
+2025-07-24 17:14:25,273 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:25,273 - INFO - False
+2025-07-24 17:14:25,273 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:25,273 - INFO - False
+2025-07-24 17:14:25,737 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:25,737 - INFO - False
+2025-07-24 17:14:25,737 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:25,737 - INFO - False
+2025-07-24 17:14:26,059 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:26,059 - INFO - False
+2025-07-24 17:14:26,060 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:26,060 - INFO - False
+2025-07-24 17:14:26,661 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:26,661 - INFO - False
+2025-07-24 17:14:26,661 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:26,661 - INFO - False
+2025-07-24 17:14:26,980 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:26,980 - INFO - False
+2025-07-24 17:14:26,980 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:26,982 - INFO - False
+2025-07-24 17:14:27,324 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:27,324 - INFO - False
+2025-07-24 17:14:27,324 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:27,324 - INFO - False
+2025-07-24 17:14:27,674 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:27,674 - INFO - False
+2025-07-24 17:14:27,674 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:27,674 - INFO - False
+2025-07-24 17:14:27,929 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:27,929 - INFO - False
+2025-07-24 17:14:27,929 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:27,929 - INFO - False
+2025-07-24 17:14:28,293 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:28,293 - INFO - False
+2025-07-24 17:14:28,293 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:28,293 - INFO - False
+2025-07-24 17:14:28,842 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:28,842 - INFO - False
+2025-07-24 17:14:28,842 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:28,842 - INFO - False
+2025-07-24 17:14:29,309 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:29,309 - INFO - False
+2025-07-24 17:14:29,309 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:29,309 - INFO - False
+2025-07-24 17:14:29,914 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:29,914 - INFO - False
+2025-07-24 17:14:29,914 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:29,914 - INFO - False
+2025-07-24 17:14:30,160 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:30,160 - INFO - False
+2025-07-24 17:14:30,160 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:30,160 - INFO - False
+2025-07-24 17:14:30,718 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:30,718 - INFO - False
+2025-07-24 17:14:30,718 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:30,718 - INFO - False
+2025-07-24 17:14:31,059 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:31,059 - INFO - False
+2025-07-24 17:14:31,059 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:31,059 - INFO - False
+2025-07-24 17:14:31,650 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:31,650 - INFO - False
+2025-07-24 17:14:31,650 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:31,650 - INFO - False
+2025-07-24 17:14:32,006 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:32,006 - INFO - False
+2025-07-24 17:14:32,006 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:32,006 - INFO - False
+2025-07-24 17:14:32,581 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:32,581 - INFO - False
+2025-07-24 17:14:32,581 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:32,581 - INFO - False
+2025-07-24 17:14:33,001 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:33,001 - INFO - False
+2025-07-24 17:14:33,001 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:33,001 - INFO - False
+2025-07-24 17:14:33,283 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:33,283 - INFO - False
+2025-07-24 17:14:33,283 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:33,283 - INFO - False
+2025-07-24 17:14:33,523 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:33,523 - INFO - False
+2025-07-24 17:14:33,523 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:33,524 - INFO - False
+2025-07-24 17:14:34,111 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:34,111 - INFO - False
+2025-07-24 17:14:34,111 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:34,111 - INFO - False
+2025-07-24 17:14:34,466 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:34,466 - INFO - False
+2025-07-24 17:14:34,467 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:34,467 - INFO - False
+2025-07-24 17:14:34,769 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:34,769 - INFO - False
+2025-07-24 17:14:34,769 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:34,769 - INFO - False
+2025-07-24 17:14:35,234 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:35,234 - INFO - False
+2025-07-24 17:14:35,234 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:35,234 - INFO - False
+2025-07-24 17:14:35,473 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:35,473 - INFO - False
+2025-07-24 17:14:35,473 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:35,473 - INFO - False
+2025-07-24 17:14:35,930 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:35,930 - INFO - False
+2025-07-24 17:14:35,930 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:35,930 - INFO - False
+2025-07-24 17:14:36,282 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:36,282 - INFO - False
+2025-07-24 17:14:36,282 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:36,282 - INFO - False
+2025-07-24 17:14:36,504 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:36,504 - INFO - False
+2025-07-24 17:14:36,505 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:36,505 - INFO - False
+2025-07-24 17:14:36,960 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:36,960 - INFO - False
+2025-07-24 17:14:36,961 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:36,961 - INFO - False
+2025-07-24 17:14:37,378 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:37,378 - INFO - False
+2025-07-24 17:14:37,378 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:37,378 - INFO - False
+2025-07-24 17:14:37,953 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:37,953 - INFO - False
+2025-07-24 17:14:37,953 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:37,954 - INFO - False
+2025-07-24 17:14:38,314 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:38,314 - INFO - False
+2025-07-24 17:14:38,314 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:38,314 - INFO - False
+2025-07-24 17:14:38,919 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:38,919 - INFO - False
+2025-07-24 17:14:38,919 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:38,919 - INFO - False
+2025-07-24 17:14:39,424 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:39,424 - INFO - False
+2025-07-24 17:14:39,424 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:39,424 - INFO - False
+2025-07-24 17:14:39,796 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:39,796 - INFO - False
+2025-07-24 17:14:39,796 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:39,796 - INFO - False
+2025-07-24 17:14:40,216 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:40,216 - INFO - False
+2025-07-24 17:14:40,217 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:40,217 - INFO - False
+2025-07-24 17:14:40,492 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:40,493 - INFO - False
+2025-07-24 17:14:40,493 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:40,493 - INFO - False
+2025-07-24 17:14:40,931 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:40,931 - INFO - False
+2025-07-24 17:14:40,931 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:40,931 - INFO - False
+2025-07-24 17:14:41,282 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:41,282 - INFO - False
+2025-07-24 17:14:41,282 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:41,282 - INFO - False
+2025-07-24 17:14:41,620 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:41,620 - INFO - False
+2025-07-24 17:14:41,620 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:41,620 - INFO - False
+2025-07-24 17:14:41,976 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:41,977 - INFO - False
+2025-07-24 17:14:41,977 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:41,977 - INFO - False
+2025-07-24 17:14:42,425 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:42,425 - INFO - False
+2025-07-24 17:14:42,425 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:42,426 - INFO - False
+2025-07-24 17:14:42,972 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:42,972 - INFO - False
+2025-07-24 17:14:42,972 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:42,972 - INFO - False
+2025-07-24 17:14:43,194 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:43,194 - INFO - False
+2025-07-24 17:14:43,194 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:43,194 - INFO - False
+2025-07-24 17:14:43,530 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:43,530 - INFO - False
+2025-07-24 17:14:43,530 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:43,530 - INFO - False
+2025-07-24 17:14:43,893 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:43,893 - INFO - False
+2025-07-24 17:14:43,893 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:43,893 - INFO - False
+2025-07-24 17:14:44,152 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:44,152 - INFO - False
+2025-07-24 17:14:44,152 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:44,152 - INFO - False
+2025-07-24 17:14:44,467 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:44,467 - INFO - False
+2025-07-24 17:14:44,467 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:44,467 - INFO - False
+2025-07-24 17:14:45,058 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:45,058 - INFO - False
+2025-07-24 17:14:45,058 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:45,058 - INFO - False
+2025-07-24 17:14:45,602 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:45,602 - INFO - False
+2025-07-24 17:14:45,602 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:45,602 - INFO - False
+2025-07-24 17:14:45,927 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:45,927 - INFO - False
+2025-07-24 17:14:45,928 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:45,928 - INFO - False
+2025-07-24 17:14:46,265 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:46,265 - INFO - False
+2025-07-24 17:14:46,265 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:46,265 - INFO - False
+2025-07-24 17:14:46,596 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:46,596 - INFO - False
+2025-07-24 17:14:46,598 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:46,598 - INFO - False
+2025-07-24 17:14:47,117 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:47,118 - INFO - False
+2025-07-24 17:14:47,118 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:47,118 - INFO - False
+2025-07-24 17:14:47,468 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:47,468 - INFO - False
+2025-07-24 17:14:47,468 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:47,470 - INFO - False
+2025-07-24 17:14:47,779 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:47,780 - INFO - False
+2025-07-24 17:14:47,780 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:47,780 - INFO - False
+2025-07-24 17:14:48,104 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:48,105 - INFO - False
+2025-07-24 17:14:48,105 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:48,105 - INFO - False
+2025-07-24 17:14:48,573 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:48,573 - INFO - False
+2025-07-24 17:14:48,573 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:48,573 - INFO - False
+2025-07-24 17:14:48,993 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:48,993 - INFO - False
+2025-07-24 17:14:48,993 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:48,993 - INFO - False
+2025-07-24 17:14:49,251 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:49,251 - INFO - False
+2025-07-24 17:14:49,251 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:49,251 - INFO - False
+2025-07-24 17:14:49,596 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:49,596 - INFO - False
+2025-07-24 17:14:49,596 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:49,596 - INFO - False
+2025-07-24 17:14:50,151 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:50,151 - INFO - False
+2025-07-24 17:14:50,151 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:50,152 - INFO - False
+2025-07-24 17:14:50,501 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:50,502 - INFO - False
+2025-07-24 17:14:50,502 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:50,502 - INFO - False
+2025-07-24 17:14:50,931 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:50,931 - INFO - False
+2025-07-24 17:14:50,931 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:50,931 - INFO - False
+2025-07-24 17:14:51,178 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:51,178 - INFO - False
+2025-07-24 17:14:51,178 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:51,178 - INFO - False
+2025-07-24 17:14:51,723 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:51,723 - INFO - False
+2025-07-24 17:14:51,723 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:51,723 - INFO - False
+2025-07-24 17:14:52,176 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:52,176 - INFO - False
+2025-07-24 17:14:52,176 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:52,176 - INFO - False
+2025-07-24 17:14:52,518 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:52,518 - INFO - False
+2025-07-24 17:14:52,518 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:52,518 - INFO - False
+2025-07-24 17:14:52,885 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:52,885 - INFO - False
+2025-07-24 17:14:52,885 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:52,885 - INFO - False
+2025-07-24 17:14:53,310 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:53,310 - INFO - False
+2025-07-24 17:14:53,310 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:53,310 - INFO - False
+2025-07-24 17:14:53,642 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:53,642 - INFO - False
+2025-07-24 17:14:53,642 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:53,642 - INFO - False
+2025-07-24 17:14:54,132 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:54,132 - INFO - False
+2025-07-24 17:14:54,132 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:54,132 - INFO - False
+2025-07-24 17:14:54,502 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:54,503 - INFO - False
+2025-07-24 17:14:54,503 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:54,503 - INFO - False
+2025-07-24 17:14:54,925 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:54,925 - INFO - False
+2025-07-24 17:14:54,925 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:54,925 - INFO - False
+2025-07-24 17:14:55,160 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:55,160 - INFO - False
+2025-07-24 17:14:55,160 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:55,160 - INFO - False
+2025-07-24 17:14:55,751 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:55,751 - INFO - False
+2025-07-24 17:14:55,751 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:55,751 - INFO - False
+2025-07-24 17:14:56,089 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:56,089 - INFO - False
+2025-07-24 17:14:56,089 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:56,089 - INFO - False
+2025-07-24 17:14:56,321 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:56,321 - INFO - False
+2025-07-24 17:14:56,322 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:56,322 - INFO - False
+2025-07-24 17:14:56,901 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:56,901 - INFO - False
+2025-07-24 17:14:56,901 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:56,901 - INFO - False
+2025-07-24 17:14:57,351 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:57,351 - INFO - False
+2025-07-24 17:14:57,352 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:57,352 - INFO - False
+2025-07-24 17:14:57,920 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:57,920 - INFO - False
+2025-07-24 17:14:57,920 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:57,920 - INFO - False
+2025-07-24 17:14:58,494 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:58,494 - INFO - False
+2025-07-24 17:14:58,495 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:58,495 - INFO - False
+2025-07-24 17:14:58,940 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:58,940 - INFO - False
+2025-07-24 17:14:58,940 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:58,940 - INFO - False
+2025-07-24 17:14:59,477 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:59,477 - INFO - False
+2025-07-24 17:14:59,478 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:59,478 - INFO - False
+2025-07-24 17:14:59,783 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:14:59,783 - INFO - False
+2025-07-24 17:14:59,783 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:14:59,783 - INFO - False
+2025-07-24 17:15:00,010 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:00,010 - INFO - False
+2025-07-24 17:15:00,010 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:00,010 - INFO - False
+2025-07-24 17:15:00,461 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:00,461 - INFO - False
+2025-07-24 17:15:00,461 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:00,461 - INFO - False
+2025-07-24 17:15:00,994 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:00,994 - INFO - False
+2025-07-24 17:15:00,994 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:00,994 - INFO - False
+2025-07-24 17:15:01,534 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:01,534 - INFO - False
+2025-07-24 17:15:01,534 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:01,534 - INFO - False
+2025-07-24 17:15:01,990 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:01,990 - INFO - False
+2025-07-24 17:15:01,990 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:01,990 - INFO - False
+2025-07-24 17:15:02,558 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:02,558 - INFO - False
+2025-07-24 17:15:02,558 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:02,558 - INFO - False
+2025-07-24 17:15:03,181 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:03,181 - INFO - False
+2025-07-24 17:15:03,181 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:03,181 - INFO - False
+2025-07-24 17:15:03,529 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:03,529 - INFO - False
+2025-07-24 17:15:03,529 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:03,529 - INFO - False
+2025-07-24 17:15:03,767 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:03,767 - INFO - False
+2025-07-24 17:15:03,767 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:03,767 - INFO - False
+2025-07-24 17:15:04,246 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:04,246 - INFO - False
+2025-07-24 17:15:04,246 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:04,246 - INFO - False
+2025-07-24 17:15:04,722 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:04,722 - INFO - False
+2025-07-24 17:15:04,722 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:04,722 - INFO - False
+2025-07-24 17:15:05,197 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:05,197 - INFO - False
+2025-07-24 17:15:05,197 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:05,197 - INFO - False
+2025-07-24 17:15:05,545 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:05,545 - INFO - False
+2025-07-24 17:15:05,545 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:05,545 - INFO - False
+2025-07-24 17:15:05,911 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:05,911 - INFO - False
+2025-07-24 17:15:05,911 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:05,911 - INFO - False
+2025-07-24 17:15:06,278 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:06,278 - INFO - False
+2025-07-24 17:15:06,278 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:06,278 - INFO - False
+2025-07-24 17:15:06,532 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:06,532 - INFO - False
+2025-07-24 17:15:06,532 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:06,532 - INFO - False
+2025-07-24 17:15:07,147 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:07,147 - INFO - False
+2025-07-24 17:15:07,147 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:07,147 - INFO - False
+2025-07-24 17:15:07,384 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:07,384 - INFO - False
+2025-07-24 17:15:07,384 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:07,384 - INFO - False
+2025-07-24 17:15:07,777 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:07,777 - INFO - False
+2025-07-24 17:15:07,777 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:07,777 - INFO - False
+2025-07-24 17:15:08,399 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:08,399 - INFO - False
+2025-07-24 17:15:08,399 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:08,399 - INFO - False
+2025-07-24 17:15:08,897 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:08,897 - INFO - False
+2025-07-24 17:15:08,897 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:08,897 - INFO - False
+2025-07-24 17:15:09,182 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:09,182 - INFO - False
+2025-07-24 17:15:09,182 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:09,182 - INFO - False
+2025-07-24 17:15:09,689 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:09,689 - INFO - False
+2025-07-24 17:15:09,689 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:09,689 - INFO - False
+2025-07-24 17:15:10,291 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:10,291 - INFO - False
+2025-07-24 17:15:10,291 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:10,291 - INFO - False
+2025-07-24 17:15:10,780 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:10,780 - INFO - False
+2025-07-24 17:15:10,780 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:10,780 - INFO - False
+2025-07-24 17:15:11,144 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:11,144 - INFO - False
+2025-07-24 17:15:11,144 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:11,144 - INFO - False
+2025-07-24 17:15:11,638 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:11,638 - INFO - False
+2025-07-24 17:15:11,638 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:11,638 - INFO - False
+2025-07-24 17:15:11,860 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:11,860 - INFO - False
+2025-07-24 17:15:11,860 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:11,860 - INFO - False
+2025-07-24 17:15:12,346 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:12,346 - INFO - False
+2025-07-24 17:15:12,346 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:12,346 - INFO - False
+2025-07-24 17:15:12,915 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:12,915 - INFO - False
+2025-07-24 17:15:12,915 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:12,915 - INFO - False
+2025-07-24 17:15:13,464 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:13,464 - INFO - False
+2025-07-24 17:15:13,464 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:13,464 - INFO - False
+2025-07-24 17:15:13,902 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:13,902 - INFO - False
+2025-07-24 17:15:13,902 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:13,902 - INFO - False
+2025-07-24 17:15:14,386 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:14,386 - INFO - False
+2025-07-24 17:15:14,386 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:14,386 - INFO - False
+2025-07-24 17:15:14,962 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:14,962 - INFO - False
+2025-07-24 17:15:14,962 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:14,962 - INFO - False
+2025-07-24 17:15:15,539 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:15,539 - INFO - False
+2025-07-24 17:15:15,539 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:15,539 - INFO - False
+2025-07-24 17:15:16,102 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:16,102 - INFO - False
+2025-07-24 17:15:16,102 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:16,102 - INFO - False
+2025-07-24 17:15:16,347 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:16,347 - INFO - False
+2025-07-24 17:15:16,347 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:16,347 - INFO - False
+2025-07-24 17:15:16,913 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:16,913 - INFO - False
+2025-07-24 17:15:16,913 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:16,913 - INFO - False
+2025-07-24 17:15:17,469 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:17,469 - INFO - False
+2025-07-24 17:15:17,469 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:17,469 - INFO - False
+2025-07-24 17:15:17,718 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:17,718 - INFO - False
+2025-07-24 17:15:17,718 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:17,718 - INFO - False
+2025-07-24 17:15:18,136 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:18,136 - INFO - False
+2025-07-24 17:15:18,136 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:18,136 - INFO - False
+2025-07-24 17:15:18,417 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:18,418 - INFO - False
+2025-07-24 17:15:18,418 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:18,418 - INFO - False
+2025-07-24 17:15:18,882 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:18,882 - INFO - False
+2025-07-24 17:15:18,882 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:18,882 - INFO - False
+2025-07-24 17:15:19,463 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:19,463 - INFO - False
+2025-07-24 17:15:19,463 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:19,463 - INFO - False
+2025-07-24 17:15:20,031 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:20,031 - INFO - False
+2025-07-24 17:15:20,031 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:20,031 - INFO - False
+2025-07-24 17:15:20,346 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:20,346 - INFO - False
+2025-07-24 17:15:20,347 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:20,347 - INFO - False
+2025-07-24 17:15:20,683 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:20,683 - INFO - False
+2025-07-24 17:15:20,683 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:20,683 - INFO - False
+2025-07-24 17:15:21,057 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:21,057 - INFO - False
+2025-07-24 17:15:21,057 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:21,057 - INFO - False
+2025-07-24 17:15:21,412 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:21,412 - INFO - False
+2025-07-24 17:15:21,412 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:21,412 - INFO - False
+2025-07-24 17:15:21,899 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:21,899 - INFO - False
+2025-07-24 17:15:21,899 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:21,899 - INFO - False
+2025-07-24 17:15:22,205 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:22,205 - INFO - False
+2025-07-24 17:15:22,205 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:22,209 - INFO - False
+2025-07-24 17:15:22,654 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:22,654 - INFO - False
+2025-07-24 17:15:22,654 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:22,654 - INFO - False
+2025-07-24 17:15:23,298 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:23,298 - INFO - False
+2025-07-24 17:15:23,298 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:23,299 - INFO - False
+2025-07-24 17:15:23,866 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:23,866 - INFO - False
+2025-07-24 17:15:23,866 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:23,866 - INFO - False
+2025-07-24 17:15:24,392 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:24,392 - INFO - False
+2025-07-24 17:15:24,392 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:24,392 - INFO - False
+2025-07-24 17:15:24,938 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:24,938 - INFO - False
+2025-07-24 17:15:24,938 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:24,938 - INFO - False
+2025-07-24 17:15:25,365 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:25,365 - INFO - False
+2025-07-24 17:15:25,365 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:25,365 - INFO - False
+2025-07-24 17:15:25,607 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:25,608 - INFO - False
+2025-07-24 17:15:25,608 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:25,608 - INFO - False
+2025-07-24 17:15:26,112 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:26,112 - INFO - False
+2025-07-24 17:15:26,112 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:26,112 - INFO - False
+2025-07-24 17:15:26,366 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:26,366 - INFO - False
+2025-07-24 17:15:26,366 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:26,366 - INFO - False
+2025-07-24 17:15:26,830 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:26,830 - INFO - False
+2025-07-24 17:15:26,830 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:26,830 - INFO - False
+2025-07-24 17:15:27,424 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:27,424 - INFO - False
+2025-07-24 17:15:27,424 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:27,424 - INFO - False
+2025-07-24 17:15:27,653 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:27,654 - INFO - False
+2025-07-24 17:15:27,655 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:27,655 - INFO - False
+2025-07-24 17:15:28,214 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:28,214 - INFO - False
+2025-07-24 17:15:28,214 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:28,214 - INFO - False
+2025-07-24 17:15:28,672 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:28,672 - INFO - False
+2025-07-24 17:15:28,672 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:28,674 - INFO - False
+2025-07-24 17:15:29,172 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:29,172 - INFO - False
+2025-07-24 17:15:29,172 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:29,172 - INFO - False
+2025-07-24 17:15:29,681 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:29,681 - INFO - False
+2025-07-24 17:15:29,681 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:29,681 - INFO - False
+2025-07-24 17:15:30,136 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:30,136 - INFO - False
+2025-07-24 17:15:30,136 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:30,136 - INFO - False
+2025-07-24 17:15:30,474 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:30,474 - INFO - False
+2025-07-24 17:15:30,474 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:30,474 - INFO - False
+2025-07-24 17:15:31,081 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:31,081 - INFO - False
+2025-07-24 17:15:31,081 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:31,081 - INFO - False
+2025-07-24 17:15:31,519 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:31,519 - INFO - False
+2025-07-24 17:15:31,519 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:31,522 - INFO - False
+2025-07-24 17:15:31,867 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:31,867 - INFO - False
+2025-07-24 17:15:31,867 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:31,867 - INFO - False
+2025-07-24 17:15:32,215 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:32,215 - INFO - False
+2025-07-24 17:15:32,215 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:32,215 - INFO - False
+2025-07-24 17:15:32,752 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:32,752 - INFO - False
+2025-07-24 17:15:32,752 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:32,752 - INFO - False
+2025-07-24 17:15:33,200 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:33,200 - INFO - False
+2025-07-24 17:15:33,201 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:33,201 - INFO - False
+2025-07-24 17:15:33,701 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:33,701 - INFO - False
+2025-07-24 17:15:33,701 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:33,701 - INFO - False
+2025-07-24 17:15:34,038 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:34,038 - INFO - False
+2025-07-24 17:15:34,038 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:34,038 - INFO - False
+2025-07-24 17:15:34,377 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:34,377 - INFO - False
+2025-07-24 17:15:34,378 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:34,378 - INFO - False
+2025-07-24 17:15:34,934 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:34,934 - INFO - False
+2025-07-24 17:15:34,934 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:34,934 - INFO - False
+2025-07-24 17:15:35,264 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:35,264 - INFO - False
+2025-07-24 17:15:35,264 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:35,264 - INFO - False
+2025-07-24 17:15:35,609 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:35,609 - INFO - False
+2025-07-24 17:15:35,610 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:35,610 - INFO - False
+2025-07-24 17:15:35,942 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:35,942 - INFO - False
+2025-07-24 17:15:35,942 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:35,942 - INFO - False
+2025-07-24 17:15:36,293 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:36,293 - INFO - False
+2025-07-24 17:15:36,293 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:36,293 - INFO - False
+2025-07-24 17:15:36,573 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:36,573 - INFO - False
+2025-07-24 17:15:36,573 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:36,573 - INFO - False
+2025-07-24 17:15:37,072 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:37,072 - INFO - False
+2025-07-24 17:15:37,072 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:37,072 - INFO - False
+2025-07-24 17:15:37,340 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:37,340 - INFO - False
+2025-07-24 17:15:37,340 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:37,340 - INFO - False
+2025-07-24 17:15:37,823 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:37,823 - INFO - False
+2025-07-24 17:15:37,823 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:37,823 - INFO - False
+2025-07-24 17:15:38,363 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:38,363 - INFO - False
+2025-07-24 17:15:38,363 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:38,363 - INFO - False
+2025-07-24 17:15:38,695 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:38,695 - INFO - False
+2025-07-24 17:15:38,695 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:38,696 - INFO - False
+2025-07-24 17:15:39,037 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:39,037 - INFO - False
+2025-07-24 17:15:39,037 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:39,037 - INFO - False
+2025-07-24 17:15:39,568 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:39,568 - INFO - False
+2025-07-24 17:15:39,568 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:39,568 - INFO - False
+2025-07-24 17:15:39,932 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:39,932 - INFO - False
+2025-07-24 17:15:39,932 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:39,932 - INFO - False
+2025-07-24 17:15:40,261 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:40,262 - INFO - False
+2025-07-24 17:15:40,262 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:40,262 - INFO - False
+2025-07-24 17:15:40,499 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:40,499 - INFO - False
+2025-07-24 17:15:40,499 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:40,499 - INFO - False
+2025-07-24 17:15:40,857 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:40,857 - INFO - False
+2025-07-24 17:15:40,857 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:40,857 - INFO - False
+2025-07-24 17:15:41,181 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:41,182 - INFO - False
+2025-07-24 17:15:41,182 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:41,182 - INFO - False
+2025-07-24 17:15:41,434 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:41,434 - INFO - False
+2025-07-24 17:15:41,434 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:41,435 - INFO - False
+2025-07-24 17:15:41,807 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:41,807 - INFO - False
+2025-07-24 17:15:41,807 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:41,807 - INFO - False
+2025-07-24 17:15:42,251 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:42,251 - INFO - False
+2025-07-24 17:15:42,251 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:42,251 - INFO - False
+2025-07-24 17:15:42,501 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:42,502 - INFO - False
+2025-07-24 17:15:42,502 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:42,502 - INFO - False
+2025-07-24 17:15:43,017 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:43,017 - INFO - False
+2025-07-24 17:15:43,017 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:43,017 - INFO - False
+2025-07-24 17:15:43,242 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:43,242 - INFO - False
+2025-07-24 17:15:43,242 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:43,242 - INFO - False
+2025-07-24 17:15:43,699 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:43,699 - INFO - False
+2025-07-24 17:15:43,699 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:43,699 - INFO - False
+2025-07-24 17:15:44,016 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:44,016 - INFO - False
+2025-07-24 17:15:44,016 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:44,016 - INFO - False
+2025-07-24 17:15:44,219 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:44,219 - INFO - False
+2025-07-24 17:15:44,219 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:44,219 - INFO - False
+2025-07-24 17:15:44,666 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:44,666 - INFO - False
+2025-07-24 17:15:44,666 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:44,666 - INFO - False
+2025-07-24 17:15:45,217 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:45,217 - INFO - False
+2025-07-24 17:15:45,217 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:45,217 - INFO - False
+2025-07-24 17:15:45,433 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:45,433 - INFO - False
+2025-07-24 17:15:45,433 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:45,433 - INFO - False
+2025-07-24 17:15:45,975 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:45,975 - INFO - False
+2025-07-24 17:15:45,975 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:45,975 - INFO - False
+2025-07-24 17:15:46,211 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:46,211 - INFO - False
+2025-07-24 17:15:46,211 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:46,212 - INFO - False
+2025-07-24 17:15:46,789 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:46,789 - INFO - False
+2025-07-24 17:15:46,789 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:46,789 - INFO - False
+2025-07-24 17:15:47,244 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:47,244 - INFO - False
+2025-07-24 17:15:47,244 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:47,244 - INFO - False
+2025-07-24 17:15:47,825 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:47,825 - INFO - False
+2025-07-24 17:15:47,825 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:47,825 - INFO - False
+2025-07-24 17:15:48,432 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:48,432 - INFO - False
+2025-07-24 17:15:48,432 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:48,432 - INFO - False
+2025-07-24 17:15:48,792 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:48,792 - INFO - False
+2025-07-24 17:15:48,792 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:48,792 - INFO - False
+2025-07-24 17:15:49,153 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:49,153 - INFO - False
+2025-07-24 17:15:49,154 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:49,154 - INFO - False
+2025-07-24 17:15:49,742 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:49,742 - INFO - False
+2025-07-24 17:15:49,742 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:49,742 - INFO - False
+2025-07-24 17:15:50,228 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:50,228 - INFO - False
+2025-07-24 17:15:50,228 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:50,228 - INFO - False
+2025-07-24 17:15:50,792 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:50,792 - INFO - False
+2025-07-24 17:15:50,792 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:50,792 - INFO - False
+2025-07-24 17:15:51,358 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:51,358 - INFO - False
+2025-07-24 17:15:51,358 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:51,358 - INFO - False
+2025-07-24 17:15:51,697 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:51,698 - INFO - False
+2025-07-24 17:15:51,698 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:51,698 - INFO - False
+2025-07-24 17:15:52,057 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:52,057 - INFO - False
+2025-07-24 17:15:52,057 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:52,057 - INFO - False
+2025-07-24 17:15:52,343 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:52,343 - INFO - False
+2025-07-24 17:15:52,343 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:52,343 - INFO - False
+2025-07-24 17:15:52,792 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:52,792 - INFO - False
+2025-07-24 17:15:52,792 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:52,792 - INFO - False
+2025-07-24 17:15:53,017 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:53,017 - INFO - False
+2025-07-24 17:15:53,017 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:53,017 - INFO - False
+2025-07-24 17:15:53,593 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:53,593 - INFO - False
+2025-07-24 17:15:53,593 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:53,593 - INFO - False
+2025-07-24 17:15:54,069 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:54,069 - INFO - False
+2025-07-24 17:15:54,069 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:54,069 - INFO - False
+2025-07-24 17:15:54,693 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:54,693 - INFO - False
+2025-07-24 17:15:54,693 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:54,693 - INFO - False
+2025-07-24 17:15:55,283 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:55,283 - INFO - False
+2025-07-24 17:15:55,283 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:55,283 - INFO - False
+2025-07-24 17:15:55,869 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:55,869 - INFO - False
+2025-07-24 17:15:55,869 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:55,869 - INFO - False
+2025-07-24 17:15:56,360 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:56,360 - INFO - False
+2025-07-24 17:15:56,360 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:56,360 - INFO - False
+2025-07-24 17:15:56,584 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:56,584 - INFO - False
+2025-07-24 17:15:56,584 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:56,584 - INFO - False
+2025-07-24 17:15:57,033 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:57,033 - INFO - False
+2025-07-24 17:15:57,033 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:57,033 - INFO - False
+2025-07-24 17:15:57,623 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:57,623 - INFO - False
+2025-07-24 17:15:57,626 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:57,626 - INFO - False
+2025-07-24 17:15:58,223 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:58,223 - INFO - False
+2025-07-24 17:15:58,223 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:58,223 - INFO - False
+2025-07-24 17:15:58,619 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:58,619 - INFO - False
+2025-07-24 17:15:58,619 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:58,619 - INFO - False
+2025-07-24 17:15:58,969 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:58,969 - INFO - False
+2025-07-24 17:15:58,969 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:58,969 - INFO - False
+2025-07-24 17:15:59,466 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:59,466 - INFO - False
+2025-07-24 17:15:59,466 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:59,466 - INFO - False
+2025-07-24 17:15:59,831 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:15:59,831 - INFO - False
+2025-07-24 17:15:59,831 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:15:59,831 - INFO - False
+2025-07-24 17:16:00,300 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:00,300 - INFO - False
+2025-07-24 17:16:00,300 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:00,300 - INFO - False
+2025-07-24 17:16:00,886 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:00,886 - INFO - False
+2025-07-24 17:16:00,886 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:00,886 - INFO - False
+2025-07-24 17:16:01,254 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:01,254 - INFO - False
+2025-07-24 17:16:01,254 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:01,254 - INFO - False
+2025-07-24 17:16:01,518 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:01,518 - INFO - False
+2025-07-24 17:16:01,518 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:01,518 - INFO - False
+2025-07-24 17:16:01,755 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:01,755 - INFO - False
+2025-07-24 17:16:01,755 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:01,755 - INFO - False
+2025-07-24 17:16:02,244 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:02,244 - INFO - False
+2025-07-24 17:16:02,244 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:02,244 - INFO - False
+2025-07-24 17:16:02,746 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:02,747 - INFO - False
+2025-07-24 17:16:02,747 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:02,747 - INFO - False
+2025-07-24 17:16:02,989 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:02,989 - INFO - False
+2025-07-24 17:16:02,989 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:02,989 - INFO - False
+2025-07-24 17:16:03,496 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:03,496 - INFO - False
+2025-07-24 17:16:03,496 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:03,496 - INFO - False
+2025-07-24 17:16:04,084 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:04,084 - INFO - False
+2025-07-24 17:16:04,084 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:04,084 - INFO - False
+2025-07-24 17:16:04,545 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:04,545 - INFO - False
+2025-07-24 17:16:04,545 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:04,545 - INFO - False
+2025-07-24 17:16:05,027 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:05,027 - INFO - False
+2025-07-24 17:16:05,028 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:05,028 - INFO - False
+2025-07-24 17:16:05,592 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:05,594 - INFO - False
+2025-07-24 17:16:05,594 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:05,594 - INFO - False
+2025-07-24 17:16:05,937 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:05,937 - INFO - False
+2025-07-24 17:16:05,937 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:05,937 - INFO - False
+2025-07-24 17:16:06,546 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:06,546 - INFO - False
+2025-07-24 17:16:06,546 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:06,547 - INFO - False
+2025-07-24 17:16:07,016 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:07,016 - INFO - False
+2025-07-24 17:16:07,016 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:07,016 - INFO - False
+2025-07-24 17:16:07,379 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:07,379 - INFO - False
+2025-07-24 17:16:07,379 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:07,379 - INFO - False
+2025-07-24 17:16:07,919 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:07,919 - INFO - False
+2025-07-24 17:16:07,919 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:07,919 - INFO - False
+2025-07-24 17:16:08,531 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:08,531 - INFO - False
+2025-07-24 17:16:08,531 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:08,531 - INFO - False
+2025-07-24 17:16:08,880 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:08,880 - INFO - False
+2025-07-24 17:16:08,880 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:08,880 - INFO - False
+2025-07-24 17:16:09,262 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:09,262 - INFO - False
+2025-07-24 17:16:09,262 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:09,262 - INFO - False
+2025-07-24 17:16:09,778 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:09,778 - INFO - False
+2025-07-24 17:16:09,778 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:09,778 - INFO - False
+2025-07-24 17:16:10,380 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:10,380 - INFO - False
+2025-07-24 17:16:10,380 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:10,380 - INFO - False
+2025-07-24 17:16:10,755 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:10,755 - INFO - False
+2025-07-24 17:16:10,755 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:10,755 - INFO - False
+2025-07-24 17:16:11,346 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:11,346 - INFO - False
+2025-07-24 17:16:11,346 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:11,346 - INFO - False
+2025-07-24 17:16:11,832 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:11,832 - INFO - False
+2025-07-24 17:16:11,832 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:11,832 - INFO - False
+2025-07-24 17:16:12,181 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:12,181 - INFO - False
+2025-07-24 17:16:12,181 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:12,181 - INFO - False
+2025-07-24 17:16:12,795 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:12,795 - INFO - False
+2025-07-24 17:16:12,795 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:12,795 - INFO - False
+2025-07-24 17:16:13,168 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:13,168 - INFO - False
+2025-07-24 17:16:13,168 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:13,168 - INFO - False
+2025-07-24 17:16:13,406 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:13,406 - INFO - False
+2025-07-24 17:16:13,406 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:13,406 - INFO - False
+2025-07-24 17:16:13,762 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:13,762 - INFO - False
+2025-07-24 17:16:13,762 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:13,762 - INFO - False
+2025-07-24 17:16:14,122 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:14,122 - INFO - False
+2025-07-24 17:16:14,122 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:14,122 - INFO - False
+2025-07-24 17:16:14,606 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:14,606 - INFO - False
+2025-07-24 17:16:14,606 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:14,606 - INFO - False
+2025-07-24 17:16:15,088 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:15,088 - INFO - False
+2025-07-24 17:16:15,088 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:15,088 - INFO - False
+2025-07-24 17:16:15,452 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:15,452 - INFO - False
+2025-07-24 17:16:15,452 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:15,452 - INFO - False
+2025-07-24 17:16:15,825 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:15,829 - INFO - False
+2025-07-24 17:16:15,829 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:15,829 - INFO - False
+2025-07-24 17:16:16,446 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:16,446 - INFO - False
+2025-07-24 17:16:16,446 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:16,446 - INFO - False
+2025-07-24 17:16:16,788 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:16,788 - INFO - False
+2025-07-24 17:16:16,788 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:16,788 - INFO - False
+2025-07-24 17:16:17,038 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:17,038 - INFO - False
+2025-07-24 17:16:17,038 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:17,038 - INFO - False
+2025-07-24 17:16:17,383 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:17,383 - INFO - False
+2025-07-24 17:16:17,383 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:17,383 - INFO - False
+2025-07-24 17:16:17,984 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:17,984 - INFO - False
+2025-07-24 17:16:17,984 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:17,984 - INFO - False
+2025-07-24 17:16:18,350 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:18,350 - INFO - False
+2025-07-24 17:16:18,350 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:18,350 - INFO - False
+2025-07-24 17:16:18,972 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:18,974 - INFO - False
+2025-07-24 17:16:18,974 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:18,974 - INFO - False
+2025-07-24 17:16:19,430 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:19,430 - INFO - False
+2025-07-24 17:16:19,430 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:19,430 - INFO - False
+2025-07-24 17:16:19,896 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:19,896 - INFO - False
+2025-07-24 17:16:19,896 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:19,896 - INFO - False
+2025-07-24 17:16:20,513 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:20,513 - INFO - False
+2025-07-24 17:16:20,513 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:20,513 - INFO - False
+2025-07-24 17:16:20,755 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:20,755 - INFO - False
+2025-07-24 17:16:20,755 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:20,759 - INFO - False
+2025-07-24 17:16:21,135 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:21,135 - INFO - False
+2025-07-24 17:16:21,135 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:21,135 - INFO - False
+2025-07-24 17:16:21,611 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:21,611 - INFO - False
+2025-07-24 17:16:21,611 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:21,611 - INFO - False
+2025-07-24 17:16:22,140 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:22,141 - INFO - False
+2025-07-24 17:16:22,141 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:22,141 - INFO - False
+2025-07-24 17:16:22,640 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:22,640 - INFO - False
+2025-07-24 17:16:22,640 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:22,640 - INFO - False
+2025-07-24 17:16:23,048 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:23,048 - INFO - False
+2025-07-24 17:16:23,048 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:23,048 - INFO - False
+2025-07-24 17:16:23,659 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:23,659 - INFO - False
+2025-07-24 17:16:23,659 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:23,659 - INFO - False
+2025-07-24 17:16:23,937 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:23,937 - INFO - False
+2025-07-24 17:16:23,937 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:23,937 - INFO - False
+2025-07-24 17:16:24,263 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:24,263 - INFO - False
+2025-07-24 17:16:24,263 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:24,263 - INFO - False
+2025-07-24 17:16:24,882 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:24,882 - INFO - False
+2025-07-24 17:16:24,882 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:24,882 - INFO - False
+2025-07-24 17:16:25,227 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:25,227 - INFO - False
+2025-07-24 17:16:25,227 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:25,227 - INFO - False
+2025-07-24 17:16:25,631 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:25,631 - INFO - False
+2025-07-24 17:16:25,631 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:25,631 - INFO - False
+2025-07-24 17:16:26,006 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:26,006 - INFO - False
+2025-07-24 17:16:26,006 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:26,007 - INFO - False
+2025-07-24 17:16:26,351 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:26,351 - INFO - False
+2025-07-24 17:16:26,351 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:26,351 - INFO - False
+2025-07-24 17:16:26,831 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:26,831 - INFO - False
+2025-07-24 17:16:26,831 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:26,831 - INFO - False
+2025-07-24 17:16:27,184 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:27,184 - INFO - False
+2025-07-24 17:16:27,184 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:27,184 - INFO - False
+2025-07-24 17:16:27,684 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:27,684 - INFO - False
+2025-07-24 17:16:27,684 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:27,684 - INFO - False
+2025-07-24 17:16:28,043 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:28,043 - INFO - False
+2025-07-24 17:16:28,043 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:28,043 - INFO - False
+2025-07-24 17:16:28,383 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:28,383 - INFO - False
+2025-07-24 17:16:28,383 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:28,383 - INFO - False
+2025-07-24 17:16:28,743 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:28,743 - INFO - False
+2025-07-24 17:16:28,743 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:28,744 - INFO - False
+2025-07-24 17:16:29,023 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:29,023 - INFO - False
+2025-07-24 17:16:29,023 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:29,023 - INFO - False
+2025-07-24 17:16:29,481 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:29,484 - INFO - False
+2025-07-24 17:16:29,484 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:29,484 - INFO - False
+2025-07-24 17:16:29,843 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:29,843 - INFO - False
+2025-07-24 17:16:29,843 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:29,843 - INFO - False
+2025-07-24 17:16:30,324 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:30,324 - INFO - False
+2025-07-24 17:16:30,324 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:30,324 - INFO - False
+2025-07-24 17:16:30,848 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:30,848 - INFO - False
+2025-07-24 17:16:30,848 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:30,848 - INFO - False
+2025-07-24 17:16:31,194 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:31,207 - INFO - False
+2025-07-24 17:16:31,207 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:31,207 - INFO - False
+2025-07-24 17:16:31,545 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:31,545 - INFO - False
+2025-07-24 17:16:31,545 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:31,545 - INFO - False
+2025-07-24 17:16:32,030 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:32,030 - INFO - False
+2025-07-24 17:16:32,030 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:32,032 - INFO - False
+2025-07-24 17:16:32,649 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:32,649 - INFO - False
+2025-07-24 17:16:32,649 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:32,649 - INFO - False
+2025-07-24 17:16:33,158 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:33,158 - INFO - False
+2025-07-24 17:16:33,158 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:33,158 - INFO - False
+2025-07-24 17:16:33,391 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:33,391 - INFO - False
+2025-07-24 17:16:33,391 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:33,391 - INFO - False
+2025-07-24 17:16:33,858 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:33,858 - INFO - False
+2025-07-24 17:16:33,858 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:33,858 - INFO - False
+2025-07-24 17:16:34,350 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:34,350 - INFO - False
+2025-07-24 17:16:34,350 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:34,350 - INFO - False
+2025-07-24 17:16:34,726 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:34,726 - INFO - False
+2025-07-24 17:16:34,726 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:34,726 - INFO - False
+2025-07-24 17:16:35,227 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:35,227 - INFO - False
+2025-07-24 17:16:35,227 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:35,227 - INFO - False
+2025-07-24 17:16:35,452 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:35,452 - INFO - False
+2025-07-24 17:16:35,452 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:35,452 - INFO - False
+2025-07-24 17:16:35,939 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:35,939 - INFO - False
+2025-07-24 17:16:35,939 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:35,939 - INFO - False
+2025-07-24 17:16:36,416 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:36,416 - INFO - False
+2025-07-24 17:16:36,416 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:36,416 - INFO - False
+2025-07-24 17:16:36,901 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:36,901 - INFO - False
+2025-07-24 17:16:36,901 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:36,901 - INFO - False
+2025-07-24 17:16:37,542 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:37,542 - INFO - False
+2025-07-24 17:16:37,542 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:37,542 - INFO - False
+2025-07-24 17:16:38,024 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:38,024 - INFO - False
+2025-07-24 17:16:38,024 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:38,024 - INFO - False
+2025-07-24 17:16:38,627 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:38,627 - INFO - False
+2025-07-24 17:16:38,627 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:38,627 - INFO - False
+2025-07-24 17:16:39,122 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:39,122 - INFO - False
+2025-07-24 17:16:39,122 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:39,122 - INFO - False
+2025-07-24 17:16:39,472 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:39,472 - INFO - False
+2025-07-24 17:16:39,472 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:39,483 - INFO - False
+2025-07-24 17:16:39,845 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:39,845 - INFO - False
+2025-07-24 17:16:39,845 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:39,845 - INFO - False
+2025-07-24 17:16:40,469 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:40,469 - INFO - False
+2025-07-24 17:16:40,469 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:40,469 - INFO - False
+2025-07-24 17:16:40,727 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:40,728 - INFO - False
+2025-07-24 17:16:40,728 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:40,728 - INFO - False
+2025-07-24 17:16:40,983 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:40,983 - INFO - False
+2025-07-24 17:16:40,983 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:40,983 - INFO - False
+2025-07-24 17:16:41,478 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:41,478 - INFO - False
+2025-07-24 17:16:41,478 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:41,478 - INFO - False
+2025-07-24 17:16:42,067 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:42,067 - INFO - False
+2025-07-24 17:16:42,068 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:42,068 - INFO - False
+2025-07-24 17:16:42,410 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:42,411 - INFO - False
+2025-07-24 17:16:42,411 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:42,411 - INFO - False
+2025-07-24 17:16:42,774 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:42,783 - INFO - False
+2025-07-24 17:16:42,783 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:42,783 - INFO - False
+2025-07-24 17:16:43,355 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:43,355 - INFO - False
+2025-07-24 17:16:43,355 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:43,355 - INFO - False
+2025-07-24 17:16:43,584 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:43,584 - INFO - False
+2025-07-24 17:16:43,584 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:43,584 - INFO - False
+2025-07-24 17:16:43,932 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:43,932 - INFO - False
+2025-07-24 17:16:43,932 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:43,932 - INFO - False
+2025-07-24 17:16:44,417 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:44,417 - INFO - False
+2025-07-24 17:16:44,417 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:44,417 - INFO - False
+2025-07-24 17:16:44,778 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:44,778 - INFO - False
+2025-07-24 17:16:44,778 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:44,778 - INFO - False
+2025-07-24 17:16:45,136 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:45,136 - INFO - False
+2025-07-24 17:16:45,136 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:45,136 - INFO - False
+2025-07-24 17:16:45,409 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:45,409 - INFO - False
+2025-07-24 17:16:45,409 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:45,409 - INFO - False
+2025-07-24 17:16:45,808 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:45,817 - INFO - False
+2025-07-24 17:16:45,817 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:45,818 - INFO - False
+2025-07-24 17:16:46,221 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:46,221 - INFO - False
+2025-07-24 17:16:46,221 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:46,221 - INFO - False
+2025-07-24 17:16:46,742 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:46,742 - INFO - False
+2025-07-24 17:16:46,742 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:46,743 - INFO - False
+2025-07-24 17:16:47,227 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:47,227 - INFO - False
+2025-07-24 17:16:47,228 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:47,228 - INFO - False
+2025-07-24 17:16:47,727 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:47,727 - INFO - False
+2025-07-24 17:16:47,727 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:47,727 - INFO - False
+2025-07-24 17:16:48,196 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:48,196 - INFO - False
+2025-07-24 17:16:48,201 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:48,201 - INFO - False
+2025-07-24 17:16:48,730 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:48,730 - INFO - False
+2025-07-24 17:16:48,730 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:48,730 - INFO - False
+2025-07-24 17:16:49,117 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:49,117 - INFO - False
+2025-07-24 17:16:49,117 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:49,117 - INFO - False
+2025-07-24 17:16:49,602 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:49,602 - INFO - False
+2025-07-24 17:16:49,602 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:49,602 - INFO - False
+2025-07-24 17:16:50,200 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:50,200 - INFO - False
+2025-07-24 17:16:50,200 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:50,200 - INFO - False
+2025-07-24 17:16:50,536 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:50,536 - INFO - False
+2025-07-24 17:16:50,537 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:50,537 - INFO - False
+2025-07-24 17:16:51,044 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:51,044 - INFO - False
+2025-07-24 17:16:51,044 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:51,044 - INFO - False
+2025-07-24 17:16:51,679 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:51,679 - INFO - False
+2025-07-24 17:16:51,679 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:51,679 - INFO - False
+2025-07-24 17:16:52,052 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:52,052 - INFO - False
+2025-07-24 17:16:52,052 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:52,052 - INFO - False
+2025-07-24 17:16:52,663 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:52,663 - INFO - False
+2025-07-24 17:16:52,663 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:52,663 - INFO - False
+2025-07-24 17:16:52,902 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:52,902 - INFO - False
+2025-07-24 17:16:52,902 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:52,902 - INFO - False
+2025-07-24 17:16:53,257 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:53,258 - INFO - False
+2025-07-24 17:16:53,258 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:53,258 - INFO - False
+2025-07-24 17:16:53,764 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:53,764 - INFO - False
+2025-07-24 17:16:53,764 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:53,764 - INFO - False
+2025-07-24 17:16:54,170 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:54,170 - INFO - False
+2025-07-24 17:16:54,170 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:54,170 - INFO - False
+2025-07-24 17:16:54,619 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:54,619 - INFO - False
+2025-07-24 17:16:54,619 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:54,619 - INFO - False
+2025-07-24 17:16:54,979 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:54,979 - INFO - False
+2025-07-24 17:16:54,980 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:54,980 - INFO - False
+2025-07-24 17:16:55,261 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:55,261 - INFO - False
+2025-07-24 17:16:55,261 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:55,261 - INFO - False
+2025-07-24 17:16:55,630 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:55,630 - INFO - False
+2025-07-24 17:16:55,630 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:55,630 - INFO - False
+2025-07-24 17:16:55,852 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:55,852 - INFO - False
+2025-07-24 17:16:55,852 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:55,852 - INFO - False
+2025-07-24 17:16:56,271 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:56,271 - INFO - False
+2025-07-24 17:16:56,271 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:56,271 - INFO - False
+2025-07-24 17:16:56,624 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:56,627 - INFO - False
+2025-07-24 17:16:56,628 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:56,628 - INFO - False
+2025-07-24 17:16:57,077 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:57,077 - INFO - False
+2025-07-24 17:16:57,077 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:57,077 - INFO - False
+2025-07-24 17:16:57,549 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:57,549 - INFO - False
+2025-07-24 17:16:57,549 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:57,549 - INFO - False
+2025-07-24 17:16:57,795 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:57,795 - INFO - False
+2025-07-24 17:16:57,795 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:57,795 - INFO - False
+2025-07-24 17:16:58,095 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:58,095 - INFO - False
+2025-07-24 17:16:58,095 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:58,095 - INFO - False
+2025-07-24 17:16:58,471 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:58,471 - INFO - False
+2025-07-24 17:16:58,471 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:58,471 - INFO - False
+2025-07-24 17:16:59,072 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:59,072 - INFO - False
+2025-07-24 17:16:59,072 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:59,072 - INFO - False
+2025-07-24 17:16:59,413 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:59,413 - INFO - False
+2025-07-24 17:16:59,413 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:59,413 - INFO - False
+2025-07-24 17:16:59,928 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:16:59,928 - INFO - False
+2025-07-24 17:16:59,928 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:16:59,928 - INFO - False
+2025-07-24 17:17:00,421 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:00,421 - INFO - False
+2025-07-24 17:17:00,421 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:00,421 - INFO - False
+2025-07-24 17:17:00,908 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:00,908 - INFO - False
+2025-07-24 17:17:00,908 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:00,908 - INFO - False
+2025-07-24 17:17:01,294 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:01,294 - INFO - False
+2025-07-24 17:17:01,294 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:01,294 - INFO - False
+2025-07-24 17:17:01,704 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:01,704 - INFO - False
+2025-07-24 17:17:01,704 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:01,704 - INFO - False
+2025-07-24 17:17:02,238 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:02,238 - INFO - False
+2025-07-24 17:17:02,239 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:02,239 - INFO - False
+2025-07-24 17:17:02,843 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:02,845 - INFO - False
+2025-07-24 17:17:02,845 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:02,845 - INFO - False
+2025-07-24 17:17:03,302 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:03,302 - INFO - False
+2025-07-24 17:17:03,302 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:03,302 - INFO - False
+2025-07-24 17:17:03,537 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:03,537 - INFO - False
+2025-07-24 17:17:03,537 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:03,537 - INFO - False
+2025-07-24 17:17:03,771 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:03,771 - INFO - False
+2025-07-24 17:17:03,771 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:03,771 - INFO - False
+2025-07-24 17:17:04,289 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:04,289 - INFO - False
+2025-07-24 17:17:04,289 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:04,289 - INFO - False
+2025-07-24 17:17:04,774 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:04,774 - INFO - False
+2025-07-24 17:17:04,774 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:04,774 - INFO - False
+2025-07-24 17:17:05,280 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:05,280 - INFO - False
+2025-07-24 17:17:05,280 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:05,280 - INFO - False
+2025-07-24 17:17:05,647 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:05,647 - INFO - False
+2025-07-24 17:17:05,647 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:05,647 - INFO - False
+2025-07-24 17:17:05,996 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:05,996 - INFO - False
+2025-07-24 17:17:05,996 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:05,996 - INFO - False
+2025-07-24 17:17:06,347 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:06,347 - INFO - False
+2025-07-24 17:17:06,347 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:06,347 - INFO - False
+2025-07-24 17:17:06,992 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:06,992 - INFO - False
+2025-07-24 17:17:06,992 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:06,992 - INFO - False
+2025-07-24 17:17:07,488 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:07,488 - INFO - False
+2025-07-24 17:17:07,488 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:07,488 - INFO - False
+2025-07-24 17:17:07,855 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:07,855 - INFO - False
+2025-07-24 17:17:07,855 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:07,855 - INFO - False
+2025-07-24 17:17:08,464 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:08,464 - INFO - False
+2025-07-24 17:17:08,464 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:08,464 - INFO - False
+2025-07-24 17:17:08,974 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:08,974 - INFO - False
+2025-07-24 17:17:08,979 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:08,979 - INFO - False
+2025-07-24 17:17:09,612 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:09,613 - INFO - False
+2025-07-24 17:17:09,613 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:09,613 - INFO - False
+2025-07-24 17:17:10,198 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:10,198 - INFO - False
+2025-07-24 17:17:10,198 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:10,198 - INFO - False
+2025-07-24 17:17:10,823 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:10,823 - INFO - False
+2025-07-24 17:17:10,823 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:10,823 - INFO - False
+2025-07-24 17:17:11,438 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:11,446 - INFO - False
+2025-07-24 17:17:11,446 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:11,446 - INFO - False
+2025-07-24 17:17:11,797 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:11,797 - INFO - False
+2025-07-24 17:17:11,797 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:11,797 - INFO - False
+2025-07-24 17:17:12,314 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:12,314 - INFO - False
+2025-07-24 17:17:12,314 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:12,314 - INFO - False
+2025-07-24 17:17:12,931 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:12,931 - INFO - False
+2025-07-24 17:17:12,931 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:12,931 - INFO - False
+2025-07-24 17:17:13,179 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:13,179 - INFO - False
+2025-07-24 17:17:13,179 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:13,179 - INFO - False
+2025-07-24 17:17:13,790 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:13,790 - INFO - False
+2025-07-24 17:17:13,790 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:13,790 - INFO - False
+2025-07-24 17:17:14,352 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:14,352 - INFO - False
+2025-07-24 17:17:14,352 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:14,352 - INFO - False
+2025-07-24 17:17:14,833 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:14,833 - INFO - False
+2025-07-24 17:17:14,833 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:14,833 - INFO - False
+2025-07-24 17:17:15,170 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:15,170 - INFO - False
+2025-07-24 17:17:15,170 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:15,170 - INFO - False
+2025-07-24 17:17:15,415 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:15,415 - INFO - False
+2025-07-24 17:17:15,415 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:15,415 - INFO - False
+2025-07-24 17:17:15,875 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:15,875 - INFO - False
+2025-07-24 17:17:15,875 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:15,875 - INFO - False
+2025-07-24 17:17:16,158 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:16,158 - INFO - False
+2025-07-24 17:17:16,158 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:16,158 - INFO - False
+2025-07-24 17:17:16,531 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:16,531 - INFO - False
+2025-07-24 17:17:16,531 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:16,531 - INFO - False
+2025-07-24 17:17:17,015 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:17,015 - INFO - False
+2025-07-24 17:17:17,015 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:17,015 - INFO - False
+2025-07-24 17:17:17,255 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:17,255 - INFO - False
+2025-07-24 17:17:17,255 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:17,255 - INFO - False
+2025-07-24 17:17:17,604 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:17,604 - INFO - False
+2025-07-24 17:17:17,604 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:17,604 - INFO - False
+2025-07-24 17:17:17,823 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:17,823 - INFO - False
+2025-07-24 17:17:17,823 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:17,823 - INFO - False
+2025-07-24 17:17:18,332 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:18,332 - INFO - False
+2025-07-24 17:17:18,332 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:18,332 - INFO - False
+2025-07-24 17:17:18,698 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:18,698 - INFO - False
+2025-07-24 17:17:18,698 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:18,698 - INFO - False
+2025-07-24 17:17:18,939 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:18,939 - INFO - False
+2025-07-24 17:17:18,939 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:18,939 - INFO - False
+2025-07-24 17:17:19,398 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:19,398 - INFO - False
+2025-07-24 17:17:19,398 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:19,398 - INFO - False
+2025-07-24 17:17:19,774 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:19,774 - INFO - False
+2025-07-24 17:17:19,774 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:19,774 - INFO - False
+2025-07-24 17:17:20,165 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:20,165 - INFO - False
+2025-07-24 17:17:20,165 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:20,165 - INFO - False
+2025-07-24 17:17:20,657 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:20,657 - INFO - False
+2025-07-24 17:17:20,657 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:20,657 - INFO - False
+2025-07-24 17:17:20,919 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:20,919 - INFO - False
+2025-07-24 17:17:20,919 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:20,919 - INFO - False
+2025-07-24 17:17:21,259 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:21,259 - INFO - False
+2025-07-24 17:17:21,259 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:21,259 - INFO - False
+2025-07-24 17:17:21,531 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:21,531 - INFO - False
+2025-07-24 17:17:21,532 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:21,532 - INFO - False
+2025-07-24 17:17:22,173 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:22,173 - INFO - False
+2025-07-24 17:17:22,173 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:22,173 - INFO - False
+2025-07-24 17:17:22,458 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:22,458 - INFO - False
+2025-07-24 17:17:22,458 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:22,458 - INFO - False
+2025-07-24 17:17:22,929 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:22,929 - INFO - False
+2025-07-24 17:17:22,929 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:22,929 - INFO - False
+2025-07-24 17:17:23,412 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:23,413 - INFO - False
+2025-07-24 17:17:23,413 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:23,413 - INFO - False
+2025-07-24 17:17:23,825 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:23,825 - INFO - False
+2025-07-24 17:17:23,825 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:23,825 - INFO - False
+2025-07-24 17:17:24,175 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:24,175 - INFO - False
+2025-07-24 17:17:24,175 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:24,175 - INFO - False
+2025-07-24 17:17:24,781 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:24,781 - INFO - False
+2025-07-24 17:17:24,781 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:24,781 - INFO - False
+2025-07-24 17:17:25,392 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:25,392 - INFO - False
+2025-07-24 17:17:25,392 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:25,392 - INFO - False
+2025-07-24 17:17:25,745 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:25,745 - INFO - False
+2025-07-24 17:17:25,746 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:25,746 - INFO - False
+2025-07-24 17:17:26,103 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:26,103 - INFO - False
+2025-07-24 17:17:26,103 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:26,103 - INFO - False
+2025-07-24 17:17:26,584 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:26,584 - INFO - False
+2025-07-24 17:17:26,584 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:26,584 - INFO - False
+2025-07-24 17:17:26,948 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:26,948 - INFO - False
+2025-07-24 17:17:26,948 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:26,948 - INFO - False
+2025-07-24 17:17:27,416 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:27,416 - INFO - False
+2025-07-24 17:17:27,416 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:27,416 - INFO - False
+2025-07-24 17:17:27,901 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:27,901 - INFO - False
+2025-07-24 17:17:27,901 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:27,901 - INFO - False
+2025-07-24 17:17:28,392 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:28,392 - INFO - False
+2025-07-24 17:17:28,392 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:28,392 - INFO - False
+2025-07-24 17:17:28,870 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:28,870 - INFO - False
+2025-07-24 17:17:28,874 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:28,874 - INFO - False
+2025-07-24 17:17:29,390 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:29,390 - INFO - False
+2025-07-24 17:17:29,390 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:29,390 - INFO - False
+2025-07-24 17:17:29,841 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:29,841 - INFO - False
+2025-07-24 17:17:29,841 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:29,841 - INFO - False
+2025-07-24 17:17:30,193 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:30,193 - INFO - False
+2025-07-24 17:17:30,193 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:30,193 - INFO - False
+2025-07-24 17:17:30,435 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:30,435 - INFO - False
+2025-07-24 17:17:30,435 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:30,435 - INFO - False
+2025-07-24 17:17:30,810 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:30,811 - INFO - False
+2025-07-24 17:17:30,811 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:30,811 - INFO - False
+2025-07-24 17:17:31,392 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:31,392 - INFO - False
+2025-07-24 17:17:31,392 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:31,392 - INFO - False
+2025-07-24 17:17:31,774 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:31,774 - INFO - False
+2025-07-24 17:17:31,774 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:31,774 - INFO - False
+2025-07-24 17:17:32,242 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:32,242 - INFO - False
+2025-07-24 17:17:32,242 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:32,242 - INFO - False
+2025-07-24 17:17:32,460 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:32,460 - INFO - False
+2025-07-24 17:17:32,460 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:32,460 - INFO - False
+2025-07-24 17:17:32,736 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:32,736 - INFO - False
+2025-07-24 17:17:32,736 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:32,736 - INFO - False
+2025-07-24 17:17:33,347 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:33,347 - INFO - False
+2025-07-24 17:17:33,347 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:33,347 - INFO - False
+2025-07-24 17:17:33,834 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:33,834 - INFO - False
+2025-07-24 17:17:33,834 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:33,834 - INFO - False
+2025-07-24 17:17:34,183 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:34,183 - INFO - False
+2025-07-24 17:17:34,183 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:34,183 - INFO - False
+2025-07-24 17:17:34,542 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:34,542 - INFO - False
+2025-07-24 17:17:34,542 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:34,542 - INFO - False
+2025-07-24 17:17:35,062 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:35,062 - INFO - False
+2025-07-24 17:17:35,062 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:35,062 - INFO - False
+2025-07-24 17:17:35,511 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:35,511 - INFO - False
+2025-07-24 17:17:35,511 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:35,511 - INFO - False
+2025-07-24 17:17:35,865 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:35,865 - INFO - False
+2025-07-24 17:17:35,865 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:35,866 - INFO - False
+2025-07-24 17:17:36,219 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:36,219 - INFO - False
+2025-07-24 17:17:36,219 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:36,219 - INFO - False
+2025-07-24 17:17:36,617 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:36,617 - INFO - False
+2025-07-24 17:17:36,617 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:36,617 - INFO - False
+2025-07-24 17:17:36,862 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:36,862 - INFO - False
+2025-07-24 17:17:36,862 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:36,862 - INFO - False
+2025-07-24 17:17:37,109 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:37,109 - INFO - False
+2025-07-24 17:17:37,109 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:37,109 - INFO - False
+2025-07-24 17:17:37,451 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:37,451 - INFO - False
+2025-07-24 17:17:37,451 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:37,451 - INFO - False
+2025-07-24 17:17:37,935 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:37,935 - INFO - False
+2025-07-24 17:17:37,935 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:37,935 - INFO - False
+2025-07-24 17:17:38,451 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:38,451 - INFO - False
+2025-07-24 17:17:38,451 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:38,451 - INFO - False
+2025-07-24 17:17:39,059 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:39,059 - INFO - False
+2025-07-24 17:17:39,059 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:39,059 - INFO - False
+2025-07-24 17:17:39,539 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:39,539 - INFO - False
+2025-07-24 17:17:39,539 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:39,539 - INFO - False
+2025-07-24 17:17:39,993 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:39,993 - INFO - False
+2025-07-24 17:17:39,993 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:39,993 - INFO - False
+2025-07-24 17:17:40,469 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:40,469 - INFO - False
+2025-07-24 17:17:40,469 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:40,469 - INFO - False
+2025-07-24 17:17:40,835 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:40,835 - INFO - False
+2025-07-24 17:17:40,835 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:40,835 - INFO - False
+2025-07-24 17:17:41,172 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:41,176 - INFO - False
+2025-07-24 17:17:41,176 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:41,176 - INFO - False
+2025-07-24 17:17:41,545 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:41,545 - INFO - False
+2025-07-24 17:17:41,545 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:41,545 - INFO - False
+2025-07-24 17:17:42,126 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:42,126 - INFO - False
+2025-07-24 17:17:42,126 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:42,126 - INFO - False
+2025-07-24 17:17:42,478 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:42,478 - INFO - False
+2025-07-24 17:17:42,478 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:42,479 - INFO - False
+2025-07-24 17:17:43,099 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:43,099 - INFO - False
+2025-07-24 17:17:43,099 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:43,099 - INFO - False
+2025-07-24 17:17:43,594 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:43,594 - INFO - False
+2025-07-24 17:17:43,594 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:43,594 - INFO - False
+2025-07-24 17:17:43,977 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:43,977 - INFO - False
+2025-07-24 17:17:43,977 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:43,977 - INFO - False
+2025-07-24 17:17:44,373 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:44,373 - INFO - False
+2025-07-24 17:17:44,373 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:44,373 - INFO - False
+2025-07-24 17:17:44,652 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:44,652 - INFO - False
+2025-07-24 17:17:44,652 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:44,652 - INFO - False
+2025-07-24 17:17:45,285 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:45,285 - INFO - False
+2025-07-24 17:17:45,285 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:45,285 - INFO - False
+2025-07-24 17:17:45,650 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:45,650 - INFO - False
+2025-07-24 17:17:45,650 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:45,650 - INFO - False
+2025-07-24 17:17:46,246 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:46,246 - INFO - False
+2025-07-24 17:17:46,246 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:46,247 - INFO - False
+2025-07-24 17:17:46,719 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:46,719 - INFO - False
+2025-07-24 17:17:46,719 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:46,719 - INFO - False
+2025-07-24 17:17:47,320 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:47,320 - INFO - False
+2025-07-24 17:17:47,320 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:47,320 - INFO - False
+2025-07-24 17:17:47,601 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:47,601 - INFO - False
+2025-07-24 17:17:47,601 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:47,601 - INFO - False
+2025-07-24 17:17:47,836 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:47,836 - INFO - False
+2025-07-24 17:17:47,836 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:47,836 - INFO - False
+2025-07-24 17:17:48,306 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:48,306 - INFO - False
+2025-07-24 17:17:48,306 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:48,307 - INFO - False
+2025-07-24 17:17:48,715 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:48,716 - INFO - False
+2025-07-24 17:17:48,716 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:48,716 - INFO - False
+2025-07-24 17:17:49,286 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:49,286 - INFO - False
+2025-07-24 17:17:49,286 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:49,286 - INFO - False
+2025-07-24 17:17:49,899 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:49,899 - INFO - False
+2025-07-24 17:17:49,900 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:49,900 - INFO - False
+2025-07-24 17:17:50,261 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:50,261 - INFO - False
+2025-07-24 17:17:50,264 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:50,264 - INFO - False
+2025-07-24 17:17:50,522 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:50,522 - INFO - False
+2025-07-24 17:17:50,522 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:50,522 - INFO - False
+2025-07-24 17:17:51,003 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:51,003 - INFO - False
+2025-07-24 17:17:51,003 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:51,003 - INFO - False
+2025-07-24 17:17:51,227 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:51,228 - INFO - False
+2025-07-24 17:17:51,228 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:51,228 - INFO - False
+2025-07-24 17:17:51,480 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:51,482 - INFO - False
+2025-07-24 17:17:51,482 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:51,482 - INFO - False
+2025-07-24 17:17:51,879 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:51,879 - INFO - False
+2025-07-24 17:17:51,879 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:51,879 - INFO - False
+2025-07-24 17:17:52,466 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:52,466 - INFO - False
+2025-07-24 17:17:52,466 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:52,466 - INFO - False
+2025-07-24 17:17:53,073 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:53,073 - INFO - False
+2025-07-24 17:17:53,073 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:53,073 - INFO - False
+2025-07-24 17:17:53,548 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:53,548 - INFO - False
+2025-07-24 17:17:53,548 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:53,548 - INFO - False
+2025-07-24 17:17:53,890 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:53,890 - INFO - False
+2025-07-24 17:17:53,890 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:53,890 - INFO - False
+2025-07-24 17:17:54,514 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:54,514 - INFO - False
+2025-07-24 17:17:54,514 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:54,514 - INFO - False
+2025-07-24 17:17:54,995 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:54,995 - INFO - False
+2025-07-24 17:17:54,995 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:54,995 - INFO - False
+2025-07-24 17:17:55,491 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:55,491 - INFO - False
+2025-07-24 17:17:55,491 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:55,491 - INFO - False
+2025-07-24 17:17:55,828 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:55,828 - INFO - False
+2025-07-24 17:17:55,828 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:55,828 - INFO - False
+2025-07-24 17:17:56,428 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:56,428 - INFO - False
+2025-07-24 17:17:56,428 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:56,428 - INFO - False
+2025-07-24 17:17:56,665 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:56,667 - INFO - False
+2025-07-24 17:17:56,667 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:56,667 - INFO - False
+2025-07-24 17:17:57,029 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:57,029 - INFO - False
+2025-07-24 17:17:57,029 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:57,029 - INFO - False
+2025-07-24 17:17:57,371 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:57,371 - INFO - False
+2025-07-24 17:17:57,371 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:57,371 - INFO - False
+2025-07-24 17:17:57,832 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:57,832 - INFO - False
+2025-07-24 17:17:57,832 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:57,832 - INFO - False
+2025-07-24 17:17:58,197 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:58,197 - INFO - False
+2025-07-24 17:17:58,197 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:58,197 - INFO - False
+2025-07-24 17:17:58,818 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:58,818 - INFO - False
+2025-07-24 17:17:58,818 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:58,818 - INFO - False
+2025-07-24 17:17:59,063 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:59,063 - INFO - False
+2025-07-24 17:17:59,063 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:59,063 - INFO - False
+2025-07-24 17:17:59,646 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:59,646 - INFO - False
+2025-07-24 17:17:59,646 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:59,646 - INFO - False
+2025-07-24 17:17:59,898 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:17:59,898 - INFO - False
+2025-07-24 17:17:59,898 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:17:59,898 - INFO - False
+2025-07-24 17:18:00,495 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:00,495 - INFO - False
+2025-07-24 17:18:00,495 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:00,495 - INFO - False
+2025-07-24 17:18:01,088 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:01,088 - INFO - False
+2025-07-24 17:18:01,088 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:01,088 - INFO - False
+2025-07-24 17:18:01,313 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:01,313 - INFO - False
+2025-07-24 17:18:01,313 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:01,313 - INFO - False
+2025-07-24 17:18:01,674 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:01,674 - INFO - False
+2025-07-24 17:18:01,674 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:01,674 - INFO - False
+2025-07-24 17:18:02,177 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:02,179 - INFO - False
+2025-07-24 17:18:02,179 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:02,179 - INFO - False
+2025-07-24 17:18:02,680 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:02,680 - INFO - False
+2025-07-24 17:18:02,680 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:02,680 - INFO - False
+2025-07-24 17:18:02,915 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:02,915 - INFO - False
+2025-07-24 17:18:02,915 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:02,915 - INFO - False
+2025-07-24 17:18:03,430 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:03,430 - INFO - False
+2025-07-24 17:18:03,430 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:03,430 - INFO - False
+2025-07-24 17:18:03,673 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:03,673 - INFO - False
+2025-07-24 17:18:03,673 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:03,673 - INFO - False
+2025-07-24 17:18:04,320 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:04,320 - INFO - False
+2025-07-24 17:18:04,320 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:04,320 - INFO - False
+2025-07-24 17:18:04,562 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:04,562 - INFO - False
+2025-07-24 17:18:04,562 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:04,562 - INFO - False
+2025-07-24 17:18:05,139 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:05,139 - INFO - False
+2025-07-24 17:18:05,139 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:05,139 - INFO - False
+2025-07-24 17:18:05,614 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:05,614 - INFO - False
+2025-07-24 17:18:05,614 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:05,614 - INFO - False
+2025-07-24 17:18:06,145 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:06,145 - INFO - False
+2025-07-24 17:18:06,145 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:06,145 - INFO - False
+2025-07-24 17:18:06,504 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:06,504 - INFO - False
+2025-07-24 17:18:06,504 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:06,504 - INFO - False
+2025-07-24 17:18:06,857 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:06,857 - INFO - False
+2025-07-24 17:18:06,857 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:06,858 - INFO - False
+2025-07-24 17:18:07,341 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:07,341 - INFO - False
+2025-07-24 17:18:07,341 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:07,341 - INFO - False
+2025-07-24 17:18:07,708 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:07,708 - INFO - False
+2025-07-24 17:18:07,708 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:07,708 - INFO - False
+2025-07-24 17:18:08,076 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:08,076 - INFO - False
+2025-07-24 17:18:08,076 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:08,076 - INFO - False
+2025-07-24 17:18:08,466 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:08,466 - INFO - False
+2025-07-24 17:18:08,466 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:08,466 - INFO - False
+2025-07-24 17:18:08,822 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:08,822 - INFO - False
+2025-07-24 17:18:08,822 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:08,822 - INFO - False
+2025-07-24 17:18:09,202 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:09,202 - INFO - False
+2025-07-24 17:18:09,202 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:09,202 - INFO - False
+2025-07-24 17:18:09,532 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:09,532 - INFO - False
+2025-07-24 17:18:09,532 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:09,532 - INFO - False
+2025-07-24 17:18:09,884 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:09,884 - INFO - False
+2025-07-24 17:18:09,884 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:09,884 - INFO - False
+2025-07-24 17:18:10,370 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:10,370 - INFO - False
+2025-07-24 17:18:10,370 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:10,370 - INFO - False
+2025-07-24 17:18:10,726 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:10,726 - INFO - False
+2025-07-24 17:18:10,727 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:10,727 - INFO - False
+2025-07-24 17:18:10,974 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:10,974 - INFO - False
+2025-07-24 17:18:10,974 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:10,974 - INFO - False
+2025-07-24 17:18:11,347 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:11,348 - INFO - False
+2025-07-24 17:18:11,348 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:11,348 - INFO - False
+2025-07-24 17:18:11,575 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:11,575 - INFO - False
+2025-07-24 17:18:11,575 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:11,575 - INFO - False
+2025-07-24 17:18:11,948 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:11,948 - INFO - False
+2025-07-24 17:18:11,948 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:11,948 - INFO - False
+2025-07-24 17:18:12,534 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:12,534 - INFO - False
+2025-07-24 17:18:12,534 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:12,534 - INFO - False
+2025-07-24 17:18:13,148 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:13,148 - INFO - False
+2025-07-24 17:18:13,148 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:13,148 - INFO - False
+2025-07-24 17:18:13,526 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:13,526 - INFO - False
+2025-07-24 17:18:13,526 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:13,526 - INFO - False
+2025-07-24 17:18:13,893 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:13,893 - INFO - False
+2025-07-24 17:18:13,893 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:13,893 - INFO - False
+2025-07-24 17:18:14,381 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:14,381 - INFO - False
+2025-07-24 17:18:14,382 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:14,382 - INFO - False
+2025-07-24 17:18:14,997 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:14,997 - INFO - False
+2025-07-24 17:18:14,997 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:14,997 - INFO - False
+2025-07-24 17:18:15,459 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:15,459 - INFO - False
+2025-07-24 17:18:15,459 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:15,459 - INFO - False
+2025-07-24 17:18:15,836 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:15,836 - INFO - False
+2025-07-24 17:18:15,836 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:15,836 - INFO - False
+2025-07-24 17:18:16,438 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:16,438 - INFO - False
+2025-07-24 17:18:16,438 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:16,438 - INFO - False
+2025-07-24 17:18:16,808 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:16,808 - INFO - False
+2025-07-24 17:18:16,808 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:16,808 - INFO - False
+2025-07-24 17:18:17,417 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:17,417 - INFO - False
+2025-07-24 17:18:17,417 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:17,417 - INFO - False
+2025-07-24 17:18:17,773 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:17,773 - INFO - False
+2025-07-24 17:18:17,773 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:17,773 - INFO - False
+2025-07-24 17:18:18,133 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:18,133 - INFO - False
+2025-07-24 17:18:18,133 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:18,133 - INFO - False
+2025-07-24 17:18:18,513 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:18,513 - INFO - False
+2025-07-24 17:18:18,513 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:18,513 - INFO - False
+2025-07-24 17:18:19,011 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:19,011 - INFO - False
+2025-07-24 17:18:19,011 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:19,011 - INFO - False
+2025-07-24 17:18:19,259 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:19,259 - INFO - False
+2025-07-24 17:18:19,259 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:19,259 - INFO - False
+2025-07-24 17:18:19,766 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:19,766 - INFO - False
+2025-07-24 17:18:19,766 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:19,766 - INFO - False
+2025-07-24 17:18:20,123 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:20,123 - INFO - False
+2025-07-24 17:18:20,123 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:20,123 - INFO - False
+2025-07-24 17:18:20,606 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:20,606 - INFO - False
+2025-07-24 17:18:20,607 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:20,607 - INFO - False
+2025-07-24 17:18:20,974 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:20,974 - INFO - False
+2025-07-24 17:18:20,974 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:20,974 - INFO - False
+2025-07-24 17:18:21,496 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:21,496 - INFO - False
+2025-07-24 17:18:21,496 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:21,496 - INFO - False
+2025-07-24 17:18:21,988 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:21,988 - INFO - False
+2025-07-24 17:18:21,991 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:21,991 - INFO - False
+2025-07-24 17:18:22,224 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:22,224 - INFO - False
+2025-07-24 17:18:22,224 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:22,225 - INFO - False
+2025-07-24 17:18:22,616 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:22,616 - INFO - False
+2025-07-24 17:18:22,616 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:22,616 - INFO - False
+2025-07-24 17:18:23,102 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:23,102 - INFO - False
+2025-07-24 17:18:23,102 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:23,102 - INFO - False
+2025-07-24 17:18:23,587 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:23,587 - INFO - False
+2025-07-24 17:18:23,587 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:23,587 - INFO - False
+2025-07-24 17:18:23,826 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:23,826 - INFO - False
+2025-07-24 17:18:23,826 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:23,826 - INFO - False
+2025-07-24 17:18:24,076 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:24,076 - INFO - False
+2025-07-24 17:18:24,076 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:24,076 - INFO - False
+2025-07-24 17:18:24,461 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:24,461 - INFO - False
+2025-07-24 17:18:24,461 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:24,461 - INFO - False
+2025-07-24 17:18:24,942 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:24,942 - INFO - False
+2025-07-24 17:18:24,942 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:24,942 - INFO - False
+2025-07-24 17:18:25,528 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:25,528 - INFO - False
+2025-07-24 17:18:25,528 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:25,528 - INFO - False
+2025-07-24 17:18:25,798 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:25,800 - INFO - False
+2025-07-24 17:18:25,800 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:25,800 - INFO - False
+2025-07-24 17:18:26,148 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:26,148 - INFO - False
+2025-07-24 17:18:26,148 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:26,148 - INFO - False
+2025-07-24 17:18:26,783 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:26,783 - INFO - False
+2025-07-24 17:18:26,783 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:26,783 - INFO - False
+2025-07-24 17:18:27,218 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:27,218 - INFO - False
+2025-07-24 17:18:27,218 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:27,218 - INFO - False
+2025-07-24 17:18:27,584 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:27,584 - INFO - False
+2025-07-24 17:18:27,584 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:27,584 - INFO - False
+2025-07-24 17:18:27,826 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:27,826 - INFO - False
+2025-07-24 17:18:27,826 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:27,826 - INFO - False
+2025-07-24 17:18:28,434 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:28,434 - INFO - False
+2025-07-24 17:18:28,434 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:28,434 - INFO - False
+2025-07-24 17:18:28,886 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:28,886 - INFO - False
+2025-07-24 17:18:28,886 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:28,886 - INFO - False
+2025-07-24 17:18:29,462 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:29,462 - INFO - False
+2025-07-24 17:18:29,462 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:29,462 - INFO - False
+2025-07-24 17:18:30,083 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:30,083 - INFO - False
+2025-07-24 17:18:30,083 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:30,083 - INFO - False
+2025-07-24 17:18:30,437 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:30,437 - INFO - False
+2025-07-24 17:18:30,437 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:30,437 - INFO - False
+2025-07-24 17:18:30,784 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:30,784 - INFO - False
+2025-07-24 17:18:30,784 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:30,784 - INFO - False
+2025-07-24 17:18:31,405 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:31,405 - INFO - False
+2025-07-24 17:18:31,405 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:31,405 - INFO - False
+2025-07-24 17:18:31,895 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:31,895 - INFO - False
+2025-07-24 17:18:31,895 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:31,895 - INFO - False
+2025-07-24 17:18:32,388 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:32,388 - INFO - False
+2025-07-24 17:18:32,388 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:32,388 - INFO - False
+2025-07-24 17:18:32,858 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:32,858 - INFO - False
+2025-07-24 17:18:32,858 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:32,858 - INFO - False
+2025-07-24 17:18:33,462 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:33,462 - INFO - False
+2025-07-24 17:18:33,462 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:33,462 - INFO - False
+2025-07-24 17:18:33,709 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:33,709 - INFO - False
+2025-07-24 17:18:33,709 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:33,709 - INFO - False
+2025-07-24 17:18:34,254 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:34,254 - INFO - False
+2025-07-24 17:18:34,254 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:34,254 - INFO - False
+2025-07-24 17:18:34,627 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:34,627 - INFO - False
+2025-07-24 17:18:34,627 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:34,627 - INFO - False
+2025-07-24 17:18:35,008 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:35,008 - INFO - False
+2025-07-24 17:18:35,008 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:35,008 - INFO - False
+2025-07-24 17:18:35,502 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:35,502 - INFO - False
+2025-07-24 17:18:35,502 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:35,502 - INFO - False
+2025-07-24 17:18:36,129 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:36,129 - INFO - False
+2025-07-24 17:18:36,129 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:36,129 - INFO - False
+2025-07-24 17:18:36,745 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:36,745 - INFO - False
+2025-07-24 17:18:36,745 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:36,745 - INFO - False
+2025-07-24 17:18:37,223 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:37,223 - INFO - False
+2025-07-24 17:18:37,223 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:37,226 - INFO - False
+2025-07-24 17:18:37,494 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:37,494 - INFO - False
+2025-07-24 17:18:37,494 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:37,494 - INFO - False
+2025-07-24 17:18:38,009 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:38,009 - INFO - False
+2025-07-24 17:18:38,009 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:38,009 - INFO - False
+2025-07-24 17:18:38,393 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:38,393 - INFO - False
+2025-07-24 17:18:38,393 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:38,393 - INFO - False
+2025-07-24 17:18:38,746 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:38,747 - INFO - False
+2025-07-24 17:18:38,747 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:38,747 - INFO - False
+2025-07-24 17:18:39,365 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:39,365 - INFO - False
+2025-07-24 17:18:39,365 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:39,365 - INFO - False
+2025-07-24 17:18:39,729 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:39,729 - INFO - False
+2025-07-24 17:18:39,729 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:39,730 - INFO - False
+2025-07-24 17:18:40,095 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:40,095 - INFO - False
+2025-07-24 17:18:40,095 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:40,095 - INFO - False
+2025-07-24 17:18:40,458 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:40,458 - INFO - False
+2025-07-24 17:18:40,458 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:40,458 - INFO - False
+2025-07-24 17:18:40,930 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:40,930 - INFO - False
+2025-07-24 17:18:40,930 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:40,930 - INFO - False
+2025-07-24 17:18:41,202 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:41,202 - INFO - False
+2025-07-24 17:18:41,202 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:41,202 - INFO - False
+2025-07-24 17:18:41,753 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:41,754 - INFO - False
+2025-07-24 17:18:41,754 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:41,754 - INFO - False
+2025-07-24 17:18:42,086 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:42,086 - INFO - False
+2025-07-24 17:18:42,086 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:42,086 - INFO - False
+2025-07-24 17:18:42,419 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:42,419 - INFO - False
+2025-07-24 17:18:42,419 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:42,419 - INFO - False
+2025-07-24 17:18:42,951 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:42,951 - INFO - False
+2025-07-24 17:18:42,951 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:42,951 - INFO - False
+2025-07-24 17:18:43,532 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:43,532 - INFO - False
+2025-07-24 17:18:43,532 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:43,532 - INFO - False
+2025-07-24 17:18:44,135 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:44,135 - INFO - False
+2025-07-24 17:18:44,135 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:44,135 - INFO - False
+2025-07-24 17:18:44,486 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:44,486 - INFO - False
+2025-07-24 17:18:44,486 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:44,486 - INFO - False
+2025-07-24 17:18:44,831 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:44,831 - INFO - False
+2025-07-24 17:18:44,831 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:44,831 - INFO - False
+2025-07-24 17:18:45,195 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:45,195 - INFO - False
+2025-07-24 17:18:45,195 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:45,195 - INFO - False
+2025-07-24 17:18:45,672 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:45,672 - INFO - False
+2025-07-24 17:18:45,672 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:45,672 - INFO - False
+2025-07-24 17:18:46,096 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:46,096 - INFO - False
+2025-07-24 17:18:46,097 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:46,097 - INFO - False
+2025-07-24 17:18:46,631 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:46,631 - INFO - False
+2025-07-24 17:18:46,631 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:46,631 - INFO - False
+2025-07-24 17:18:47,087 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:47,087 - INFO - False
+2025-07-24 17:18:47,087 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:47,088 - INFO - False
+2025-07-24 17:18:47,423 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:47,423 - INFO - False
+2025-07-24 17:18:47,423 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:47,423 - INFO - False
+2025-07-24 17:18:47,757 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:47,757 - INFO - False
+2025-07-24 17:18:47,757 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:47,757 - INFO - False
+2025-07-24 17:18:48,313 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:48,313 - INFO - False
+2025-07-24 17:18:48,313 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:48,314 - INFO - False
+2025-07-24 17:18:48,913 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:48,913 - INFO - False
+2025-07-24 17:18:48,914 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:48,914 - INFO - False
+2025-07-24 17:18:49,371 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:49,371 - INFO - False
+2025-07-24 17:18:49,371 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:49,371 - INFO - False
+2025-07-24 17:18:49,831 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:49,831 - INFO - False
+2025-07-24 17:18:49,832 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:49,832 - INFO - False
+2025-07-24 17:18:50,200 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:50,200 - INFO - False
+2025-07-24 17:18:50,200 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:50,201 - INFO - False
+2025-07-24 17:18:50,549 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:50,549 - INFO - False
+2025-07-24 17:18:50,549 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:50,549 - INFO - False
+2025-07-24 17:18:50,887 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:50,887 - INFO - False
+2025-07-24 17:18:50,887 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:50,887 - INFO - False
+2025-07-24 17:18:51,384 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:51,384 - INFO - False
+2025-07-24 17:18:51,384 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:51,384 - INFO - False
+2025-07-24 17:18:51,624 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:51,624 - INFO - False
+2025-07-24 17:18:51,624 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:51,624 - INFO - False
+2025-07-24 17:18:51,881 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:51,881 - INFO - False
+2025-07-24 17:18:51,881 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:51,881 - INFO - False
+2025-07-24 17:18:52,329 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:52,329 - INFO - False
+2025-07-24 17:18:52,329 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:52,329 - INFO - False
+2025-07-24 17:18:52,783 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:52,783 - INFO - False
+2025-07-24 17:18:52,783 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:52,784 - INFO - False
+2025-07-24 17:18:53,016 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:53,016 - INFO - False
+2025-07-24 17:18:53,016 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:53,016 - INFO - False
+2025-07-24 17:18:53,237 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:53,237 - INFO - False
+2025-07-24 17:18:53,237 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:53,237 - INFO - False
+2025-07-24 17:18:53,694 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:53,694 - INFO - False
+2025-07-24 17:18:53,694 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:53,694 - INFO - False
+2025-07-24 17:18:54,154 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:54,154 - INFO - False
+2025-07-24 17:18:54,154 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:54,154 - INFO - False
+2025-07-24 17:18:54,736 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:54,736 - INFO - False
+2025-07-24 17:18:54,736 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:54,736 - INFO - False
+2025-07-24 17:18:55,196 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:55,196 - INFO - False
+2025-07-24 17:18:55,196 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:55,196 - INFO - False
+2025-07-24 17:18:55,415 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:55,415 - INFO - False
+2025-07-24 17:18:55,415 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:55,415 - INFO - False
+2025-07-24 17:18:55,974 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:55,974 - INFO - False
+2025-07-24 17:18:55,974 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:55,974 - INFO - False
+2025-07-24 17:18:56,322 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:56,322 - INFO - False
+2025-07-24 17:18:56,322 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:56,322 - INFO - False
+2025-07-24 17:18:56,641 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:56,641 - INFO - False
+2025-07-24 17:18:56,641 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:56,641 - INFO - False
+2025-07-24 17:18:57,124 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:57,124 - INFO - False
+2025-07-24 17:18:57,124 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:57,124 - INFO - False
+2025-07-24 17:18:57,582 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:57,582 - INFO - False
+2025-07-24 17:18:57,582 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:57,583 - INFO - False
+2025-07-24 17:18:58,068 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:58,068 - INFO - False
+2025-07-24 17:18:58,069 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:58,069 - INFO - False
+2025-07-24 17:18:58,525 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:58,525 - INFO - False
+2025-07-24 17:18:58,525 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:58,525 - INFO - False
+2025-07-24 17:18:59,112 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:59,112 - INFO - False
+2025-07-24 17:18:59,112 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:59,112 - INFO - False
+2025-07-24 17:18:59,640 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:59,641 - INFO - False
+2025-07-24 17:18:59,641 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:59,641 - INFO - False
+2025-07-24 17:18:59,982 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:18:59,982 - INFO - False
+2025-07-24 17:18:59,982 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:18:59,982 - INFO - False
+2025-07-24 17:19:00,555 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:00,555 - INFO - False
+2025-07-24 17:19:00,555 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:00,555 - INFO - False
+2025-07-24 17:19:01,075 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:01,075 - INFO - False
+2025-07-24 17:19:01,075 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:01,075 - INFO - False
+2025-07-24 17:19:01,426 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:01,426 - INFO - False
+2025-07-24 17:19:01,426 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:01,426 - INFO - False
+2025-07-24 17:19:01,982 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:01,982 - INFO - False
+2025-07-24 17:19:01,982 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:01,982 - INFO - False
+2025-07-24 17:19:02,238 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:02,238 - INFO - False
+2025-07-24 17:19:02,238 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:02,238 - INFO - False
+2025-07-24 17:19:02,574 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:02,574 - INFO - False
+2025-07-24 17:19:02,575 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:02,575 - INFO - False
+2025-07-24 17:19:03,048 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:03,048 - INFO - False
+2025-07-24 17:19:03,048 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:03,048 - INFO - False
+2025-07-24 17:19:03,342 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:03,342 - INFO - False
+2025-07-24 17:19:03,342 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:03,342 - INFO - False
+2025-07-24 17:19:03,806 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:03,807 - INFO - False
+2025-07-24 17:19:03,807 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:03,807 - INFO - False
+2025-07-24 17:19:04,265 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:04,265 - INFO - False
+2025-07-24 17:19:04,265 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:04,265 - INFO - False
+2025-07-24 17:19:04,592 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:04,592 - INFO - False
+2025-07-24 17:19:04,593 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:04,593 - INFO - False
+2025-07-24 17:19:04,949 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:04,949 - INFO - False
+2025-07-24 17:19:04,950 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:04,950 - INFO - False
+2025-07-24 17:19:05,432 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:05,432 - INFO - False
+2025-07-24 17:19:05,432 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:05,432 - INFO - False
+2025-07-24 17:19:05,965 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:05,966 - INFO - False
+2025-07-24 17:19:05,966 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:05,966 - INFO - False
+2025-07-24 17:19:06,523 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:06,523 - INFO - False
+2025-07-24 17:19:06,523 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:06,524 - INFO - False
+2025-07-24 17:19:07,148 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:07,148 - INFO - False
+2025-07-24 17:19:07,148 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:07,148 - INFO - False
+2025-07-24 17:19:07,701 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:07,702 - INFO - False
+2025-07-24 17:19:07,702 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:07,702 - INFO - False
+2025-07-24 17:19:08,288 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:08,293 - INFO - False
+2025-07-24 17:19:08,293 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:08,293 - INFO - False
+2025-07-24 17:19:08,799 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:08,799 - INFO - False
+2025-07-24 17:19:08,799 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:08,799 - INFO - False
+2025-07-24 17:19:09,072 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:09,072 - INFO - False
+2025-07-24 17:19:09,072 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:09,072 - INFO - False
+2025-07-24 17:19:09,665 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:09,665 - INFO - False
+2025-07-24 17:19:09,665 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:09,665 - INFO - False
+2025-07-24 17:19:10,139 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:10,139 - INFO - False
+2025-07-24 17:19:10,139 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:10,139 - INFO - False
+2025-07-24 17:19:10,749 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:10,749 - INFO - False
+2025-07-24 17:19:10,749 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:10,749 - INFO - False
+2025-07-24 17:19:11,101 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:11,101 - INFO - False
+2025-07-24 17:19:11,102 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:11,102 - INFO - False
+2025-07-24 17:19:11,432 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:11,432 - INFO - False
+2025-07-24 17:19:11,432 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:11,432 - INFO - False
+2025-07-24 17:19:12,042 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:12,042 - INFO - False
+2025-07-24 17:19:12,042 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:12,043 - INFO - False
+2025-07-24 17:19:12,527 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:12,527 - INFO - False
+2025-07-24 17:19:12,527 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:12,527 - INFO - False
+2025-07-24 17:19:13,002 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:13,002 - INFO - False
+2025-07-24 17:19:13,002 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:13,002 - INFO - False
+2025-07-24 17:19:13,645 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:13,645 - INFO - False
+2025-07-24 17:19:13,645 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:13,645 - INFO - False
+2025-07-24 17:19:14,011 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:14,011 - INFO - False
+2025-07-24 17:19:14,011 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:14,012 - INFO - False
+2025-07-24 17:19:14,508 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:14,508 - INFO - False
+2025-07-24 17:19:14,508 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:14,508 - INFO - False
+2025-07-24 17:19:14,733 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:14,733 - INFO - False
+2025-07-24 17:19:14,733 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:14,733 - INFO - False
+2025-07-24 17:19:15,242 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:15,242 - INFO - False
+2025-07-24 17:19:15,242 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:15,242 - INFO - False
+2025-07-24 17:19:15,462 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:15,462 - INFO - False
+2025-07-24 17:19:15,462 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:15,462 - INFO - False
+2025-07-24 17:19:15,925 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:15,925 - INFO - False
+2025-07-24 17:19:15,928 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:15,928 - INFO - False
+2025-07-24 17:19:16,268 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:16,269 - INFO - False
+2025-07-24 17:19:16,269 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:16,269 - INFO - False
+2025-07-24 17:19:16,852 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:16,852 - INFO - False
+2025-07-24 17:19:16,852 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:16,852 - INFO - False
+2025-07-24 17:19:17,434 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:17,434 - INFO - False
+2025-07-24 17:19:17,434 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:17,434 - INFO - False
+2025-07-24 17:19:17,690 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:17,690 - INFO - False
+2025-07-24 17:19:17,690 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:17,690 - INFO - False
+2025-07-24 17:19:18,193 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:18,193 - INFO - False
+2025-07-24 17:19:18,193 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:18,193 - INFO - False
+2025-07-24 17:19:18,563 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:18,563 - INFO - False
+2025-07-24 17:19:18,563 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:18,563 - INFO - False
+2025-07-24 17:19:19,134 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:19,134 - INFO - False
+2025-07-24 17:19:19,134 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:19,134 - INFO - False
+2025-07-24 17:19:19,622 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:19,622 - INFO - False
+2025-07-24 17:19:19,622 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:19,625 - INFO - False
+2025-07-24 17:19:19,968 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:19,968 - INFO - False
+2025-07-24 17:19:19,968 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:19,968 - INFO - False
+2025-07-24 17:19:20,448 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:20,448 - INFO - False
+2025-07-24 17:19:20,448 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:20,448 - INFO - False
+2025-07-24 17:19:20,775 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:20,775 - INFO - False
+2025-07-24 17:19:20,775 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:20,775 - INFO - False
+2025-07-24 17:19:21,242 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:21,242 - INFO - False
+2025-07-24 17:19:21,242 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:21,242 - INFO - False
+2025-07-24 17:19:21,704 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:21,705 - INFO - False
+2025-07-24 17:19:21,705 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:21,705 - INFO - False
+2025-07-24 17:19:22,092 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:22,092 - INFO - False
+2025-07-24 17:19:22,092 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:22,092 - INFO - False
+2025-07-24 17:19:22,482 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:22,482 - INFO - False
+2025-07-24 17:19:22,482 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:22,482 - INFO - False
+2025-07-24 17:19:22,786 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:22,786 - INFO - False
+2025-07-24 17:19:22,786 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:22,786 - INFO - False
+2025-07-24 17:19:23,004 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:23,004 - INFO - False
+2025-07-24 17:19:23,004 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:23,004 - INFO - False
+2025-07-24 17:19:23,359 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:23,359 - INFO - False
+2025-07-24 17:19:23,359 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:23,359 - INFO - False
+2025-07-24 17:19:23,603 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:23,603 - INFO - False
+2025-07-24 17:19:23,603 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:23,603 - INFO - False
+2025-07-24 17:19:23,851 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:23,851 - INFO - False
+2025-07-24 17:19:23,851 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:23,851 - INFO - False
+2025-07-24 17:19:24,468 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:24,468 - INFO - False
+2025-07-24 17:19:24,468 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:24,468 - INFO - False
+2025-07-24 17:19:25,036 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:25,036 - INFO - False
+2025-07-24 17:19:25,036 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:25,036 - INFO - False
+2025-07-24 17:19:25,568 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:25,568 - INFO - False
+2025-07-24 17:19:25,568 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:25,568 - INFO - False
+2025-07-24 17:19:25,928 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:25,928 - INFO - False
+2025-07-24 17:19:25,928 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:25,928 - INFO - False
+2025-07-24 17:19:26,153 - INFO - cur_scrollY:1023, screen_height:640, element_y:1363, element_height:48
+2025-07-24 17:19:26,153 - INFO - False
+2025-07-24 17:19:26,153 - INFO - cur_scrollY:1023, element_y:1363
+2025-07-24 17:19:26,153 - INFO - False

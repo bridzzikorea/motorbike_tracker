@@ -1,0 +1,12 @@
+2025-09-04 16:42:21,194 - INFO - 시트이름: 대시보드
+2025-09-04 16:42:21,194 - INFO - 구글 시트 로드 - 시도중....
+2025-09-04 16:42:21,611 - INFO - 구글 시트 로드 - 완료
+2025-09-04 16:42:21,901 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-04 16:42:22,019 - INFO - C:\program_cookies 폴더 크기: 0.64 GB
+2025-09-04 16:42:22,019 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-09-04 16:42:22,020 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-09-04 16:42:22,024 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-09-04 16:42:22,024 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6780.64 Safari/537.36입니다.
+2025-09-04 16:42:26,195 - INFO - Stay signed out 버튼이 없습니다 - 'NoneType' object has no attribute 'get_position'
+2025-09-04 16:43:09,566 - INFO - 타겟 URL 발견: https://myeongdonghotel.tistory.com/64 - 클릭합니다
+2025-09-04 16:43:19,071 - INFO - Stay signed out 버튼이 없습니다 - 'NoneType' object has no attribute 'get_position'

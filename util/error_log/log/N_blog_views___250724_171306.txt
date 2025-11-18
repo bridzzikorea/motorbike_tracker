@@ -1,0 +1,39 @@
+2025-07-24 17:13:06,722 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-24 17:13:07,826 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:13:09,489 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:13:10,687 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:13:10,706 - INFO - C:\program_cookies 폴더 크기: 0.08 GB
+2025-07-24 17:13:10,708 - INFO - random 폴더 초기화 - 'C:\program_cookies\Mobile_PC_random'에서 폴더 삭제(완료)
+2025-07-24 17:13:10,708 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:13:10,708 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:13:10,709 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36입니다.
+2025-07-24 17:13:23,919 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 400, in <module>
+    uc.loop().run_until_complete(main())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 389, in main
+    await nodriver.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 230, in run
+    await self.mobile_view()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 103, in mobile_view
+    await self.browser.start()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 196, in start
+    self.browser = await uc.start(config=self.config)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\util.py", line 101, in start
+    return await Browser.create(config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\browser.py", line 95, in create
+    await instance.start()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\browser.py", line 425, in start
+    raise Exception(
+Exception: 
+                ---------------------
+                Failed to connect to browser
+                ---------------------
+                One of the causes could be when you are running as root.
+                In that case you need to pass no_sandbox=True 
+                

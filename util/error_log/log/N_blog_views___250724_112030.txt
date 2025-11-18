@@ -1,0 +1,49 @@
+2025-07-24 11:20:30,204 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-24 11:20:31,182 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 11:20:32,597 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 11:20:33,674 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 11:20:33,686 - INFO - C:\program_cookies 폴더 크기: 0.04 GB
+2025-07-24 11:20:33,691 - INFO - random 폴더 초기화 - 'C:\program_cookies\Mobile_PC_random'에서 폴더 삭제(완료)
+2025-07-24 11:20:33,692 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 11:20:33,692 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 11:20:33,692 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36입니다.
+2025-07-24 11:20:35,140 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 11:21:50,686 - INFO - 블로그 검색 키워드: 정수기 - 시작
+2025-07-24 11:22:05,687 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\runpy.py", line 198, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\runpy.py", line 88, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\launcher/../..\debugpy\__main__.py", line 71, in <module>
+    cli.main()
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\launcher/../..\debugpy/..\debugpy\server\cli.py", line 501, in main
+    run()
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\launcher/../..\debugpy/..\debugpy\server\cli.py", line 351, in run_file
+    runpy.run_path(target, run_name="__main__")
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 310, in run_path
+    return _run_module_code(code, init_globals, run_name, pkg_name=pkg_name, script_name=fname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 127, in _run_module_code
+    _run_code(code, mod_globals, init_globals, mod_name, mod_spec, pkg_name, script_name)
+  File "c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 118, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 351, in <module>
+    uc.loop().run_until_complete(main())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 341, in main
+    await nodriver.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 219, in run
+    await self.mobile_view()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 112, in mobile_view
+    await self.browser.action_key("Enter")
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 674, in action_key
+    last_chrome.activate()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pygetwindow\_pygetwindow_win.py", line 246, in activate
+    _raiseWithLastError()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pygetwindow\_pygetwindow_win.py", line 99, in _raiseWithLastError
+    raise PyGetWindowException('Error code from Windows: %s - %s' % (errorCode, _formatMessage(errorCode)))
+pygetwindow.PyGetWindowException: Error code from Windows: 0 - 작업을 완료했습니다.

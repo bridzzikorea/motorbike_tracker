@@ -1,0 +1,1281 @@
+2025-11-14 10:35:15,874 - INFO - ==================================
+2025-11-14 10:35:15,874 - INFO - -----------------------------
+2025-11-14 10:35:16,059 - INFO - 로그인 응답 코드:
+2025-11-14 10:35:16,059 - INFO - 200
+2025-11-14 10:35:16,059 - INFO - 서버가 준 쿠키:
+2025-11-14 10:35:16,059 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=40AFB3C6157D07BB9D399B6D95F43B2B for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 10:35:16,059 - INFO - -----------------------------
+2025-11-14 10:35:16,085 - INFO - 로그인 응답 코드:
+2025-11-14 10:35:16,087 - INFO - 200
+2025-11-14 10:35:16,087 - INFO - 장비 개수:
+2025-11-14 10:35:16,087 - INFO - 41
+2025-11-14 10:35:16,095 - INFO - port   vehicle_number       ip_address        id                             client_id
+0   51908     경기 수원 거 7502     37.17.191.68  EAE28066  d3471980-9964-4fc9-979c-c3c0e84ae279
+1   43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc
+2   51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6
+3   61756              미지정     37.17.191.68  EBD1EB91  d840fe31-b0f1-412d-9a84-5097e224edb3
+4   56446     경기 수원 거 5749     37.17.191.68  FE7ACC2E  0e06a3ca-f3af-463e-b627-9814d1b062d8
+5   51031     경기 수원 너 3524  193.181.246.248  C4BC2DA0  6b408fb7-3b22-4da8-88ed-b7a5be2699ce
+6   27968     경기 수원 거 4897   195.226.133.46  FC633C52  fa99aa43-2196-43bb-bd8d-0c76d3754a8b
+7   49232     경기 수원 거 9533     37.17.191.68  FD1D0C84  b3764d25-7ffe-4695-a22c-a064de67e669
+8   62090     경기 수원 거 5801     37.17.191.68  E0459619  892c2cc6-e48e-47da-b68f-e47edef82e81
+9   57442     경기 수원 거 7627     37.17.191.68  D4CB32FA  6ac75a9d-3b08-474c-9c11-a6505e11e60a
+10  62557     경기 수원 거 5250   195.226.133.37  D3992722  1ae5ef97-8941-49cf-acc2-81d206f9329e
+11  64499     경기 수원 거 5295   195.226.133.38  E1C3ED9B  803abac9-4402-4ae4-a905-82a7bbaf7ab1
+12  58595     경기 수원 거 4869     5.35.166.167  CFE782BF  b8a1fa46-7af6-4264-984d-1b5599d438b8
+13   4808     경기 수원 거 5714   195.226.133.38  D29E7261  fcc07726-7531-4666-bd62-e65f32576d84
+14  59982     경기 수원 너 3652    193.181.246.8  D824C81C  ffa552c1-83ec-42e4-ae67-69911a1b07cc
+15  57662     경기 수원 거 4974     5.35.166.167  FAD1AF1B  fad8e959-066d-4577-b9db-4452160715f6
+16  54009     경기 수원 러 0160     37.17.191.68  F35F23D6  5950c36c-cadd-4b73-9a1e-15640e8debc6
+17  62315              미지정     37.17.191.68  EBD1EB91  b3c4b8d4-2560-44e8-b82c-32e152e878a6
+18  62941     경기 수원 러 0160     37.17.191.68  F35F23D6  9a204b71-979c-4476-935f-6a5ac57ef94d
+19  59856     경기 수원 러 0160     37.17.191.68  F35F23D6  8f18ee94-0aeb-4162-92dd-df28434d930f
+20  61534              미지정     37.17.191.68  EBD1EB91  91fc249f-6620-4aa0-a167-5783b7ab2703
+21  31830     경기 수원 거 4974     5.35.166.167  FAD1AF1B  38e577d7-4606-4d18-a922-21701847ed4f
+22  27966     경기 수원 거 5936     5.35.166.167  F570581E  38727207-33be-492b-bc45-a6f3a7a30270
+23  30381     경기 수원 거 5000   195.226.133.46  F4D162E2  94f49e21-2315-4c6d-b3b4-4a0283c1eeb5
+24  60985  PCX125 블랙 세팅 차량   193.181.246.72  D6D652EF  7368ce42-019c-465c-9af0-f1f60b769fca
+25  49688     경기 수원 거 9019     37.17.191.68  D8E32357  d06400f3-9fa7-4769-8ad0-7aa19506e0ec
+26  63339     경기 수원 거 5747     37.17.191.68  E6B659B3  504902e2-f014-4f0e-aa83-10b0204b5495
+27  51930     경기 수원 거 4995   195.226.133.40  D72D964E  17d07462-0fb2-4d92-b184-c56f213cd817
+28  55015     경기 수원 거 5894     37.17.191.68  EF495AEF  926c7fbe-ef6b-43b8-8873-e1d6c24548b7
+29  54668     경기 수원 거 7627     37.17.191.68  D4CB32FA  64fd7141-25b1-4f4b-b02f-8c1335914b0b
+30  61369     경기 수원 거 4891   195.226.133.39  CA02EF4C  d1ab8e22-e4df-4375-8414-1d49d3c1220b
+31  57068     경기 수원 거 5716     37.17.191.68  CF1FB646  d6725110-83af-4057-964b-6785b748dfa6
+32  32686     경기 수원 거 5791   195.226.133.37  D1B1E85A  756e0e10-5291-48f8-bf8a-6ec2f973bc80
+33  63558     경기 수원 거 7705     37.17.191.68  C3A128AB  3c5afbf2-3b7e-4819-9e6f-2e8c3204a40c
+34  58115     경기 수원 너 3582   193.181.246.67  F9D384D9  ab7f907d-bb35-4bd9-8e3d-197472048068
+35  56985     경기 수원 거 5948     5.35.166.165  CB830D7F  f3ab3cea-d3b7-4ce0-bd0c-dfb5e9800550
+36  29853     경기 수원 거 5275   195.226.133.60  C8753BFC  d6bb6c34-bc02-4ceb-8270-836cfbedf24b
+37  61775     경기 수원 거 5983   195.226.133.38  F227BD6C  13fb1ab2-3a31-46ff-b3a2-b804d83115c2
+38  42976     경기 수원 거 5210   195.226.133.60  E59D8D1C  9d90b792-2fab-4326-bd8c-c53e3ce61ca0
+39  50692     경기 수원 거 5715     5.35.166.166  F69D703A  4b536ca9-d3df-4d0c-b6f5-07f0d5101f72
+40  11837              미지정     5.35.166.164  E9A5C773  37336720-35ef-498b-9425-bd1e4818167d
+2025-11-14 10:35:16,095 - INFO - -----------------------------
+2025-11-14 10:35:16,119 - INFO - 로그인 응답 코드:
+2025-11-14 10:35:16,119 - INFO - 200
+2025-11-14 10:35:16,126 - INFO - <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>현황판</title>
+
+    <link rel="icon" href="/owls-fms-admin/favicon.ico" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css" />
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+    <link href="/owls-fms-admin/bootstrap-5.2.3/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="/owls-fms-admin/bootstrap-5.2.3/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="/owls-fms-admin/css/app.css" />
+    <link rel="stylesheet" href="/owls-fms-admin/css/loading.css" />
+    <script defer src="/owls-fms-admin/js/common.js"></script>
+
+    <!-- 카카오 맵 SDK JS -->
+   <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=1c10be1204f9d7b67a8c53e006215266&libraries=services,clusterer,drawing"></script>
+    <!-- 실제 서비스 키 사용 시: 	 -->
+	<!-- <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=006aab8b189742b100f1b6c4059dbfa0&libraries=services,clusterer,drawing"></script> -->
+	<!-- 개발용 -->
+    <!-- <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=a2f9c51700b6903a9c84a2ce6743c45c&libraries=services,clusterer,drawing&autoload=false"></script> -->
+    
+    <!-- 디버그 확인 -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('DOMContentLoaded 이벤트 발생');
+            console.log('map 요소 존재:', document.getElementById('map') !== null);
+            
+            // 카카오맵 API를 로딩합니다
+            console.log('카카오맵 API 로딩 시작...');
+            kakao.maps.load(function() {
+                console.log('카카오맵 API 로딩 완료!');
+                console.log('kakao 객체 존재:', typeof kakao !== 'undefined');
+                console.log('kakao.maps 존재:', typeof kakao !== 'undefined' && kakao.maps);
+                
+                // 지도 초기화 함수 호출
+                try {
+                    if (!isMapInited) {
+                        initMap(37.5665, 126.9780); // 서울시청 좌표
+                        console.log('지도 초기화 성공');
+                    }
+                } catch (e) {
+                    console.error('지도 초기화 오류:', e);
+                    document.getElementById('map-error').style.display = 'block';
+                }
+                
+                // 데이터 로드 시작
+                const user_id = $('#user_id').val();
+                document.getElementById('loading-container').style.display = 'flex';
+                
+                // 실제 URL 사용 - 웹 검색 결과에서 확인한 실제 동작 URL 형식으로 변경
+                // 예: https://fms.owlsgrp.co.kr/owls-fms-admin/fms/data/refresh?search_name=F875E495&&_=1743412881557
+                try {
+                    // 타임스탬프 생성
+                    const timestamp = new Date().getTime();
+                    
+                    // 완전한 URL 생성
+                    const hostname = window.location.hostname;
+                    let apiUrl;
+                    
+                    if (hostname === 'localhost' || hostname === '127.0.0.1') {
+                        // 로컬 개발환경
+                        apiUrl = `/fms/data/refresh?search_name=${user_id}&&_=${timestamp}`;
+                    } else {
+                        // 배포 환경
+                        apiUrl = `/owls-fms-admin/fms/data/refresh?search_name=${user_id}&&_=${timestamp}`;
+                    }
+                    
+                    console.log('데이터 요청 URL:', apiUrl);
+                    console.log('검색할 사용자 ID:', user_id);
+                    
+                    // AJAX 요청
+                    $.ajax({
+                        type: 'GET',
+                        url: apiUrl,
+                        dataType: 'json',
+                        cache: false,
+                        timeout: 15000,
+                        beforeSend: function(xhr) {
+                            console.log('요청 전송 시작:', apiUrl);
+                        },
+                        success: function(res) {
+                            console.log('데이터 로드 성공!');
+                            console.log('응답 데이터:', res);
+                            processResponse(res, true);
+                            document.getElementById('loading-container').style.display = 'none';
+                            
+                            // 자동 새로고침 시작
+                            startAutoRefresh();
+                        },
+                        error: function(xhr, status, error) {
+                            console.error('데이터 로드 실패:', error, status);
+                            console.log('상태 코드:', xhr.status);
+                            console.log('응답 텍스트:', xhr.responseText);
+                            console.log('응답 헤더:', xhr.getAllResponseHeaders());
+                            document.getElementById('loading-container').style.display = 'none';
+                            document.getElementById('map-error').style.display = 'block';
+                            $('#data_table > tbody').empty();
+                            $('#total_size').text('0');
+                            
+                            // 오류 메시지를 더 구체적으로 표시
+                            let errorMessage = '데이터를 불러오는 중 오류가 발생했습니다.';
+                            if (xhr.status === 401) {
+                                errorMessage = '인증이 필요합니다. 로그인을 확인해주세요.';
+                            } else if (xhr.status === 403) {
+                                errorMessage = '접근 권한이 없습니다.';
+                            } else if (xhr.status === 404) {
+                                errorMessage = 'API 엔드포인트를 찾을 수 없습니다.';
+                            } else if (xhr.status === 500) {
+                                errorMessage = '서버 내부 오류가 발생했습니다.';
+                            } else if (xhr.status === 0) {
+                                errorMessage = '네트워크 연결 오류가 발생했습니다.';
+                            }
+                            
+                            $('#data_table > tbody').append(`<tr><td colspan="11" class="text-center">${errorMessage} (상태: ${xhr.status})</td></tr>`);
+                            
+                            // 자동 새로고침 시작
+                            startAutoRefresh();
+                        }
+                    });
+                } catch (e) {
+                    console.error('API 요청 실패:', e);
+                    document.getElementById('loading-container').style.display = 'none';
+                }
+            });
+        });
+    </script>
+    
+    <style>
+        /* 지도 커스텀 오버레이 스타일 */
+        .customoverlay {
+            position: relative;
+            bottom: 55px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            border-bottom: 2px solid #ddd;
+            float: left;
+        }
+        .customoverlay .title {
+            display: block;
+            text-align: center;
+            background: #fff;
+            padding: 10px 15px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .customoverlay:after {
+            content: '';
+            position: absolute;
+            margin-left: -12px;
+            left: 50%;
+            bottom: -12px;
+            width: 22px;
+            height: 12px;
+            background: url(/owls-fms-admin/img/vertex_white.png);
+        }
+        .loading-container {
+            display: none; /* 필요 시 사용 */
+            position: fixed;
+            /* ... */
+        }
+
+        /* 지도 크기 지정 */
+        #map {
+            width: 100%;
+            height: 500px;
+            background: #EEE;
+        }
+        
+        /* 오류 메시지 스타일 */
+        .map-error {
+            text-align: center;
+            color: #d9534f;
+            padding: 20px;
+            border: 1px solid #d9534f;
+            background-color: #f2dede;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+<!-- 숨겨진 user_id -->
+<input type="hidden" id="user_id" value="EAE28066/fms/data/refresh" />
+
+<div id="loading-container" class="loading-container">
+    <div id="loading"></div>
+</div>
+
+<main id="dashboard">
+    <header id="dashboard-header">
+            <figure class="logo"><img src="/owls-fms-admin/img/login-logo.png" alt="logo"></figure>
+            <nav>
+                <ul class="nav-lists">
+                	<li class="nav-list">
+                        <a href="/owls-fms-admin/">
+                            <strong class="nav-title">메인 화면</strong>
+                            <span class="nav-list-bar"></span>
+                        </a>
+                    </li>
+                   <li class="nav-list nav-dropdowns  active ">
+                        <span class="nav-dropdown-header" onclick="dropdownOpener(this)">
+                            <strong class="nav-title">FMS 관리</strong>
+                            <span class="nav-dropdown-bar"></span>
+                        </span>
+                        <ul class="nav-dropdown-lists">
+                            <li class="nav-dropdown-list  active">
+                                <a href="/owls-fms-admin/tracker">
+                                    <strong class="nav-title">TRACKER</strong>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="nav-dropdown-lists">
+                            <li class="nav-dropdown-list">
+                                <a href="/owls-fms-admin/fms/user/modify">
+                                    <strong class="nav-title">장비 정보 수정</strong>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li class="nav-list nav-dropdowns  ">
+                         <span class="nav-dropdown-header" onclick="dropdownOpener(this)">
+                             <strong class="nav-title">사용자 관리</strong>
+                             <span class="nav-dropdown-bar"></span>
+                         </span>
+                         <ul class="nav-dropdown-lists">
+                             <li class="nav-dropdown-list">
+                                 <a href="/owls-fms-admin/user/register">
+                                     <strong class="nav-title">사용자 등록</strong>
+                                 </a>
+                             </li>
+                         </ul>
+                         <ul class="nav-dropdown-lists">
+                             <li class="nav-dropdown-list">
+                                 <a href="/owls-fms-admin/user/login-logs">
+                                     <strong class="nav-title">로그인 로그</strong>
+                                 </a>
+                             </li>
+                         </ul>
+                     </li>
+                 
+                    
+                </ul>
+            </nav>
+            <div class="header-profile-wrap">
+                <!-- <figure class="profile-img-wrap"><img th:src="@{/user/profile/}+${profile_url}" alt="sample-profile"></figure> -->
+                <span>
+                    <strong class="profile-name">eylee</strong>
+                    <a href="/owls-fms-admin/user/logout" class="logout">Logout</a>
+                    <span style="color:white" >0.4.0</span>
+                </span>
+            </div>
+        </header>
+
+    <span class="mobile-hamberger-menu" onclick="mobileMenuHandler()">
+        <img src="/owls-fms-admin/img/icon-mobile-menu.png" alt="mobile-hamberger-menu" />
+    </span>
+
+    <section id="dashboard-body" class="riderRegister">
+        <!-- 지도 -->
+        <div class="dashboard-content">
+            <div class="dashboard-table-wrap">
+                <div id="map">
+                    <!-- 로딩 표시 -->
+                    <div style="padding:20px;text-align:center;">
+                        지도를 로드 중입니다...
+                    </div>
+                </div>
+                <div id="map-error" class="map-error" style="display:none;">
+                    지도를 불러오는 중 오류가 발생했습니다. 페이지를 새로고침하거나 다시 시도해주세요.
+                </div>
+            </div>
+        </div>
+
+        <!-- FMS 테이블 예시 -->
+        <div class="dashboard-content">
+            <div class="dashboard-table-wrap">
+                <div class="dashboard-table-header">
+                    <p class="dashboard-table-summary">
+                        총
+                        <span id="total_size" class="color-primary">
+                            0
+                        </span>
+                        개의 목록이 있습니다.
+                    </p>
+                    <div class="dashboard-right-contents">
+                        <button onclick="fn_refresh();" class="btn fill primary">
+                            REFRESH
+                        </button>
+                    </div>
+                </div>
+                <div class="dashboard-table-contents">
+                    <table id="data_table" class="dashboard-table-list table-hover">
+                        <thead>
+                            <tr>
+                                <th>운행자명</th>
+                                <th>장비ID</th>
+                                <th>TIME</th>
+                                <th>위도,경도</th>
+                                <th>주행시간</th>
+                                <th>속도</th>
+                                <th>배터리전압</th>
+                                <th>상태</th>
+                                <th>모션데이터</th>
+                                <th>KEY</th>
+                                <th>상세보기</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+                <!-- 페이징 등은 필요 시 추가 -->
+            </div>
+        </div>
+
+        <!-- EQUIP 테이블 등 필요 시 추가 -->
+    </section>
+</main>
+
+<script>
+// 전역 변수
+let map = null;              // kakao.maps.Map 객체
+let markers = [];            // 마커 배열
+let clusterer = null;        // 마커 클러스터러
+let refreshTimer = null;     // 자동 새로고침 interval
+let isMapInited = false;     // 지도 초기화 여부
+let clickMarker = null;      // 지도 클릭 시 표시할 마커
+let clickInfowindow = null;  // 지도 클릭 시 표시할 정보창
+
+/**
+ * 좌표로 법정동 상세 주소 정보를 얻어오는 함수
+ */
+function searchDetailAddrFromCoords(coords, callback) {
+    // 카카오맵 Geocoder 서비스 사용
+    if (typeof kakao !== 'undefined' && kakao.maps && kakao.maps.services) {
+        const geocoder = new kakao.maps.services.Geocoder();
+        geocoder.coord2Address(coords.getLng(), coords.getLat(), callback);
+    } else {
+        // 카카오맵 API를 사용할 수 없는 경우 실패 상태로 콜백 호출
+        callback(null, 'ERROR');
+    }
+}
+
+/**
+ * 1) 지도 초기 생성 함수
+ *    - 단 한 번만 호출 (초기 로딩 시점)
+ */
+function initMap(lat, lng) {
+    // 지도 표시 옵션
+    const mapContainer = document.getElementById('map');
+    const mapOption = {
+        center: new kakao.maps.LatLng(lat, lng),
+        level: 2
+    };
+
+    // 지도 생성
+    map = new kakao.maps.Map(mapContainer, mapOption);
+
+    // 마커 클러스터러 생성
+    clusterer = new kakao.maps.MarkerClusterer({
+        map: map,
+        averageCenter: true,
+        minLevel: 5,
+        disableClickZoom: true
+    });
+
+    // 클러스터 클릭 시 지도 확대
+    kakao.maps.event.addListener(clusterer, 'clusterclick', function(cluster) {
+        const level = map.getLevel() - 1;
+        map.setLevel(level, { anchor: cluster.getCenter() });
+    });
+
+    // 지도 클릭 시 주소 정보 표시 이벤트 등록
+    kakao.maps.event.addListener(map, 'click', function(mouseEvent) {
+        searchDetailAddrFromCoords(mouseEvent.latLng, function(result, status) {
+            if (status === kakao.maps.services.Status.OK) {
+                var detailAddr = !!result[0].road_address ? '<div>도로명주소: ' + result[0].road_address.address_name + '</div>' : '';
+                detailAddr += '<div>지번 주소: ' + result[0].address.address_name + '</div>';
+                
+                var content = '<div style="padding:10px;font-size:12px;min-width:200px;">' +
+                                '<span style="font-weight:bold;color:#333;">클릭한 위치 주소정보</span><br>' + 
+                                detailAddr + 
+                                '<div style="margin-top:5px;font-size:11px;color:#666;">좌표: ' + 
+                                mouseEvent.latLng.getLat().toFixed(6) + ', ' + mouseEvent.latLng.getLng().toFixed(6) + '</div>' +
+                                '<div style="margin-top:5px;">' +
+                                '<a href="https://map.naver.com/v5/search/' + mouseEvent.latLng.getLat() + ',' + mouseEvent.latLng.getLng() + '" target="_blank" style="color: #007bff;font-size:11px;">네이버 지도에서 보기</a>' +
+                                '</div>' +
+                            '</div>';
+
+                // 클릭한 위치에 마커 표시
+                if (clickMarker) {
+                    clickMarker.setMap(null);
+                }
+                clickMarker = new kakao.maps.Marker({
+                    position: mouseEvent.latLng,
+                    map: map
+                });
+
+                // 인포윈도우에 클릭한 위치 주소정보 표시
+                if (clickInfowindow) {
+                    clickInfowindow.close();
+                }
+                clickInfowindow = new kakao.maps.InfoWindow({
+                    content: content
+                });
+                clickInfowindow.open(map, clickMarker);
+            } else {
+                // 주소 변환 실패 시
+                var content = '<div style="padding:10px;font-size:12px;min-width:200px;">' +
+                                '<span style="font-weight:bold;color:#333;">클릭한 위치</span><br>' + 
+                                '<div style="color:#666;">좌표: ' + mouseEvent.latLng.getLat().toFixed(6) + ', ' + mouseEvent.latLng.getLng().toFixed(6) + '</div>' +
+                                '<div style="margin-top:5px;">' +
+                                '<a href="https://map.naver.com/v5/search/' + mouseEvent.latLng.getLat() + ',' + mouseEvent.latLng.getLng() + '" target="_blank" style="color: #007bff;font-size:11px;">네이버 지도에서 주소 확인</a>' +
+                                '</div>' +
+                            '</div>';
+                
+                // 클릭한 위치에 마커 표시
+                if (clickMarker) {
+                    clickMarker.setMap(null);
+                }
+                clickMarker = new kakao.maps.Marker({
+                    position: mouseEvent.latLng,
+                    map: map
+                });
+
+                // 인포윈도우 표시
+                if (clickInfowindow) {
+                    clickInfowindow.close();
+                }
+                clickInfowindow = new kakao.maps.InfoWindow({
+                    content: content
+                });
+                clickInfowindow.open(map, clickMarker);
+            }
+        });
+    });
+
+    isMapInited = true;
+}
+
+/**
+ * 2) 마커 생성 함수 (단순히 markers 배열에 추가)
+ */
+function addMarker(title, position, time) {
+    const marker = new kakao.maps.Marker({ position });
+    markers.push(marker);
+
+    // 마커 클릭 시 정보창 표시 (주소 변환 포함)
+    kakao.maps.event.addListener(marker, 'click', function() {
+        // 좌표를 주소로 변환
+        const geocoder = new kakao.maps.services.Geocoder();
+        
+        let content = `
+            <div style="padding:10px;font-size:12px;min-width:200px;">
+                <strong>${title}</strong><br>
+        `;
+        
+        if (time) {
+            const d = new Date(time);
+            const timeStr = moment(d).format('YYYY-MM-DD HH:mm:ss');
+            content += `시간: ${timeStr}<br>`;
+        }
+        
+        // 좌표 정보 추가
+        content += `좌표: ${position.getLat().toFixed(6)}, ${position.getLng().toFixed(6)}<br>`;
+        content += `<span id="address-info">주소 조회 중...</span>`;
+        content += '</div>';
+        
+        const infowindow = new kakao.maps.InfoWindow({
+            content: content
+        });
+        
+        infowindow.open(map, marker);
+        
+        // 좌표를 주소로 변환
+        geocoder.coord2Address(position.getLng(), position.getLat(), function(result, status) {
+            if (status === kakao.maps.services.Status.OK) {
+                let address = '';
+                
+                if (result[0].road_address) {
+                    // 도로명 주소가 있으면 도로명 주소 사용
+                    address = result[0].road_address.address_name;
+                } else if (result[0].address) {
+                    // 지번 주소 사용
+                    address = result[0].address.address_name;
+                }
+                
+                // 주소 정보를 업데이트
+                const addressElement = document.getElementById('address-info');
+                if (addressElement) {
+                    addressElement.innerHTML = `주소: ${address}`;
+                }
+            } else {
+                // 주소 변환 실패 시
+                const addressElement = document.getElementById('address-info');
+                if (addressElement) {
+                    addressElement.innerHTML = `주소: <a href="https://map.naver.com/v5/search/${position.getLat()},${position.getLng()}" target="_blank" style="color: #007bff;">네이버 지도에서 확인</a>`;
+                }
+            }
+        });
+    });
+
+    // 커스텀 오버레이는 선택적으로 사용
+    /* 
+    const content = `
+        <div class="customoverlay">
+            <span class="title">${title}</span>
+        </div>
+    `;
+    const customOverlay = new kakao.maps.CustomOverlay({
+        position,
+        content,
+        yAnchor: 1
+    });
+    // customOverlay.setMap(map); // 필요 시 주석 해제
+    */
+}
+
+/**
+ * 3) 모든 마커 제거 + 클러스터러 초기화
+ */
+function clearMarkers() {
+    markers.forEach(m => m.setMap(null));
+    markers = [];
+    if(clusterer) {
+        clusterer.clear();
+    }
+    // 클릭 마커와 정보창도 제거
+    if(clickMarker) {
+        clickMarker.setMap(null);
+        clickMarker = null;
+    }
+    if(clickInfowindow) {
+        clickInfowindow.close();
+        clickInfowindow = null;
+    }
+}
+
+/**
+ * 4) 서버에서 데이터 받아와서 테이블, 지도 갱신
+ */
+function fetchData(isInitialLoad = false) {
+    const user_id = $('#user_id').val();
+    
+    // 로딩 표시
+    if(isInitialLoad) {
+        document.getElementById('loading-container').style.display = 'flex';
+    }
+
+    // 기존 마커/클러스터 제거
+    clearMarkers();
+    
+    // 요청할 URL 경로들 (여러 경로 시도)
+    const urls = [
+        '/fms/data/refresh', 
+        '/api/fms/data/refresh', 
+        'fms/data/refresh',
+        'api/fms/data/refresh'
+    ];
+    
+    tryNextUrl(urls, 0, user_id, isInitialLoad);
+}
+
+// 여러 URL을 순차적으로 시도하는 함수
+function tryNextUrl(urls, index, user_id, isInitialLoad) {
+    if (index >= urls.length) {
+        // 모든 URL이 실패한 경우
+        console.error("모든 URL 시도 실패");
+        if(isInitialLoad) {
+            document.getElementById('loading-container').style.display = 'none';
+        }
+        alert('데이터를 불러오는데 실패했습니다.');
+        return;
+    }
+    
+    const url = urls[index];
+    console.log(`URL 시도 (${index+1}/${urls.length}): ${url}`);
+    
+    // 현재 시간 타임스탬프로 캐시 방지
+    const timestamp = new Date().getTime();
+    
+    // 컨텍스트 패스 추출 (로컬/배포 환경 자동 감지)
+    let contextPath = '';
+    const pathArray = window.location.pathname.split('/');
+    if (pathArray.length > 1 && pathArray[1] === 'owls-fms-admin') {
+        contextPath = '/owls-fms-admin';
+    }
+    
+    // 완전한 API URL 구성
+    const apiUrl = `${contextPath}${url}`;
+    console.log(`요청 URL: ${apiUrl}`);
+    
+    // GET 요청 시도
+    $.ajax({
+        type: 'GET',
+        url: apiUrl,
+        data: { 
+            search_name: user_id,
+            _: timestamp // 캐시 방지
+        },
+        dataType: 'json',
+        cache: false,
+        timeout: 15000,
+        success: function(res) {
+            processResponse(res, isInitialLoad);
+            console.log(`성공한 URL: ${apiUrl}`);
+            
+            // 성공한 URL 저장 (다음 요청에 재사용)
+            localStorage.setItem('lastSuccessfulURL', url);
+            localStorage.setItem('contextPath', contextPath);
+        },
+        error: function(xhr, status, error) {
+            console.log(`GET 요청 실패 (${apiUrl}):`, error, "상태:", status, "응답:", xhr.responseText);
+            
+            // 다음 URL 시도하기 전에 POST로 시도
+            $.ajax({
+                type: 'POST',
+                url: apiUrl,
+                dataType: 'json',
+                contentType: 'application/json',
+                data: JSON.stringify({ data: user_id }),
+                cache: false,
+                timeout: 15000,
+                success: function(res) {
+                    processResponse(res, isInitialLoad);
+                    console.log(`성공한 URL (POST): ${apiUrl}`);
+                    
+                    // 성공한 URL 저장 (다음 요청에 재사용)
+                    localStorage.setItem('lastSuccessfulURL', url);
+                    localStorage.setItem('contextPath', contextPath);
+                },
+                error: function(e) {
+                    console.log(`POST 요청도 실패 (${apiUrl}):`, e);
+                    // 다음 URL 시도
+                    tryNextUrl(urls, index + 1, user_id, isInitialLoad);
+                }
+            });
+        }
+    });
+}
+
+// 응답 처리를 위한 별도 함수
+function processResponse(res, isInitialLoad) {
+    console.log('[fetchData] 응답:', res);
+    
+    if(isInitialLoad) {
+        document.getElementById('loading-container').style.display = 'none';
+    }
+
+    // 컨텍스트 패스 추출
+    let contextPath = '';
+    const pathArray = window.location.pathname.split('/');
+    if (pathArray.length > 1 && pathArray[1] === 'owls-fms-admin') {
+        contextPath = '/owls-fms-admin';
+    }
+
+    // (A) 결과 유효성 체크
+    if (!res || !res.fmsDataList) {
+        console.error('응답에 fmsDataList가 없습니다:', res);
+        $('#data_table > tbody').empty();
+        $('#total_size').text('0');
+        $('#data_table > tbody').append('<tr><td colspan="11" class="text-center">위치 데이터가 없습니다.</td></tr>');
+        return;
+    }
+
+    // (B) FMS 테이블 처리
+    if(res.fmsDataList.length === 0) {
+        $('#data_table > tbody').empty();
+        $('#total_size').text('0');
+        
+        // 데이터가 없는 경우 메시지 표시
+        $('#data_table > tbody').append('<tr><td colspan="11" class="text-center">위치 데이터가 없습니다.</td></tr>');
+    } else {
+        $('#data_table > tbody').empty();
+        $('#total_size').text(res.fmsDataList.length);
+
+        const displayItems = res.fmsDataList.slice(0, 100); // 클라이언트에서 처리할 데이터 제한
+        console.log(`${displayItems.length}개 항목 표시 중`);
+
+        displayItems.forEach(fms => {
+            let timeStr = '';
+            if(fms.time) {
+                // moment.js 가정
+                const d = new Date(fms.time);
+                timeStr = moment(d).format('YYYY-MM-DD HH:mm:ss');
+            }
+
+            let latLngText = '위치정보 없음';
+            if(fms.latitude != null && fms.longitude != null && 
+               !isNaN(parseFloat(fms.latitude)) && !isNaN(parseFloat(fms.longitude))) {
+                const lat = parseFloat(fms.latitude).toFixed(6);
+                const lng = parseFloat(fms.longitude).toFixed(6);
+                latLngText = `<span class="coordinate-link" onclick="showAddressInfo(${lat}, ${lng})" style="color: #007bff; cursor: pointer; text-decoration: underline;">${lat},${lng}</span>`;
+            }
+
+            let latLngParam = '';
+            if(fms.latitude != null && fms.longitude != null &&
+               !isNaN(parseFloat(fms.latitude)) && !isNaN(parseFloat(fms.longitude)) &&
+               parseFloat(fms.latitude) != 0 && parseFloat(fms.longitude) != 0) {
+                latLngParam = `&lat=${fms.latitude}&lng=${fms.longitude}`;
+            }
+
+            const rowHtml = `
+                <tr>
+                    <td>${fms.driver_name || '미지정'}</td>
+                    <td>${fms.user_id || ''}</td>
+                    <td>${timeStr}</td>
+                    <td>${latLngText}</td>
+                    <td>${fms.running_time || ''}</td>
+                    <td>${fms.speed || ''}</td>
+                    <td>${fms.battery || ''}</td>
+                    <td>${fms.status_text || '정상'}</td>
+                    <td>${'' + (fms.accx || '0') + ',' + 
+                          '' + (fms.accy || '0') + ',' + 
+                          '' + (fms.accz || '0') + ',' + 
+                          '' + (fms.gyrox || '0') + ',' + 
+                          '' + (fms.gyroy || '0') + ',' + 
+                          '' + (fms.gyroz || '0')}</td>
+                    <td>${fms.mc_key == 1 ? 'ON' : 'OFF'}</td>
+                    <td>
+                        <button 
+                            class="btn fill primary"
+                            onclick="location.href='${contextPath}/tracker?search_name=${fms.user_id || ''}${latLngParam}'"
+                        >
+                            상세보기
+                        </button>
+                    </td>
+                </tr>
+            `;
+            $('#data_table > tbody').append(rowHtml);
+        });
+
+        // (C) 시간 기준으로 데이터 정렬
+        const sortedData = [...res.fmsDataList].sort((a, b) => {
+            return new Date(b.time) - new Date(a.time);
+        });
+
+        // 가장 최근 유효 좌표 찾기 및 특별 마커 생성
+        let recentLat = null;
+        let recentLng = null;
+        let recentItem = null;
+        let hasValidCoordinates = false;
+
+        for(const item of sortedData) {
+            if(
+                item.latitude &&
+                item.longitude &&
+                !isNaN(parseFloat(item.latitude)) &&
+                !isNaN(parseFloat(item.longitude)) &&
+                parseFloat(item.latitude) != 0 &&
+                parseFloat(item.longitude) != 0
+            ) {
+                recentLat = parseFloat(item.latitude);
+                recentLng = parseFloat(item.longitude);
+                recentItem = item;
+                hasValidCoordinates = true;
+                console.log("최근 유효 좌표 찾음 - 시간:", item.time, "좌표:", recentLat, recentLng);
+                break;
+            }
+        }
+
+        // (D) 지도 갱신 및 마커 표시
+        if (isInitialLoad && !hasValidCoordinates) {
+            console.log("유효한 좌표가 없습니다. 기본 좌표(서울)를 사용합니다.");
+        }
+
+        // 모든 기존 마커 제거
+        clearMarkers();
+
+        // 최근 위치에 특별 마커 생성
+        let timeStr = '';
+        if(recentItem && recentItem.time) {
+            const d = new Date(recentItem.time);
+            timeStr = moment(d).format('YYYY-MM-DD HH:mm:ss');
+        }
+
+        // 지도 중심점 이동
+        if(hasValidCoordinates && map) {
+            console.log("지도 중심점 이동:", recentLat, recentLng);
+            map.setCenter(new kakao.maps.LatLng(recentLat, recentLng));
+            
+            try {
+                // 최근 위치 마커 (빨간색)
+                const imageSrc = '/owls-fms-admin/img/marker_red.png';
+                const imageSize = new kakao.maps.Size(64, 69);
+                const imageOption = {offset: new kakao.maps.Point(27, 69)};
+                
+                const markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize, imageOption);
+                const recentPosition = new kakao.maps.LatLng(recentLat, recentLng);
+                
+                const recentMarker = new kakao.maps.Marker({
+                    position: recentPosition,
+                    image: markerImage,
+                    map: map  // 바로 지도에 표시
+                });
+                
+                markers.push(recentMarker);
+                
+                // 최근 위치에 정보창 추가 (주소 정보 포함)
+                let infoContent = `
+                    <div style="padding:10px;font-size:12px;min-width:200px;">
+                        <strong>${recentItem.driver_name || '미지정'} (${recentItem.user_id || 'ID 없음'})</strong><br>
+                        최근 위치 (${timeStr || '시간 정보 없음'})<br>
+                        좌표: ${recentLat.toFixed(6)}, ${recentLng.toFixed(6)}<br>
+                        <span id="recent-address-info">주소 조회 중...</span>
+                    </div>
+                `;
+                
+                const infowindow = new kakao.maps.InfoWindow({
+                    content: infoContent
+                });
+                infowindow.open(map, recentMarker);
+                
+                // 최근 위치의 주소 정보 조회
+                if (typeof kakao !== 'undefined' && kakao.maps && kakao.maps.services) {
+                    const geocoder = new kakao.maps.services.Geocoder();
+                    geocoder.coord2Address(recentLng, recentLat, function(result, status) {
+                        if (status === kakao.maps.services.Status.OK) {
+                            let address = '';
+                            
+                            if (result[0].road_address) {
+                                address = result[0].road_address.address_name;
+                            } else if (result[0].address) {
+                                address = result[0].address.address_name;
+                            }
+                            
+                            // 정보창 내용 업데이트
+                            const updatedContent = `
+                                <div style="padding:10px;font-size:12px;min-width:200px;">
+                                    <strong>${recentItem.driver_name || '미지정'} (${recentItem.user_id || 'ID 없음'})</strong><br>
+                                    최근 위치 (${timeStr || '시간 정보 없음'})<br>
+                                    좌표: ${recentLat.toFixed(6)}, ${recentLng.toFixed(6)}<br>
+                                    주소: ${address || '정보 없음'}
+                                </div>
+                            `;
+                            
+                            infowindow.setContent(updatedContent);
+                        } else {
+                            // 주소 변환 실패 시 네이버 지도 링크 제공
+                            const updatedContent = `
+                                <div style="padding:10px;font-size:12px;min-width:200px;">
+                                    <strong>${recentItem.driver_name || '미지정'} (${recentItem.user_id || 'ID 없음'})</strong><br>
+                                    최근 위치 (${timeStr || '시간 정보 없음'})<br>
+                                    좌표: ${recentLat.toFixed(6)}, ${recentLng.toFixed(6)}<br>
+                                    <a href="https://map.naver.com/v5/search/${recentLat},${recentLng}" target="_blank" style="color: #007bff;">네이버 지도에서 주소 확인</a>
+                                </div>
+                            `;
+                            
+                            infowindow.setContent(updatedContent);
+                        }
+                    });
+                } else {
+                    // 카카오맵 API를 사용할 수 없는 경우
+                    const updatedContent = `
+                        <div style="padding:10px;font-size:12px;min-width:200px;">
+                            <strong>${recentItem.driver_name || '미지정'} (${recentItem.user_id || 'ID 없음'})</strong><br>
+                            최근 위치 (${timeStr || '시간 정보 없음'})<br>
+                            좌표: ${recentLat.toFixed(6)}, ${recentLng.toFixed(6)}<br>
+                            <a href="https://map.naver.com/v5/search/${recentLat},${recentLng}" target="_blank" style="color: #007bff;">네이버 지도에서 주소 확인</a>
+                        </div>
+                    `;
+                    
+                    infowindow.setContent(updatedContent);
+                }
+            } catch (e) {
+                console.error("마커 생성 오류:", e);
+            }
+        }
+
+        // 나머지 위치들에 대한 일반 마커 생성 (최근 100개, 최근 위치 제외)
+        let last100 = [];
+        if (hasValidCoordinates) {
+            last100 = sortedData.slice(1, 101);  // 첫 번째(최근) 항목 제외하고 100개
+        } else {
+            last100 = sortedData.slice(0, 100);  // 유효 좌표가 없으면 모두 포함
+        }
+
+        // 마커 생성 최적화
+        const markerBatch = [];
+        last100.forEach(item => {
+            if(
+                item.latitude && 
+                item.longitude && 
+                !isNaN(parseFloat(item.latitude)) &&
+                !isNaN(parseFloat(item.longitude)) &&
+                parseFloat(item.latitude) != 0 && 
+                parseFloat(item.longitude) != 0
+            ) {
+                const lat = parseFloat(item.latitude);
+                const lng = parseFloat(item.longitude);
+                
+                markerBatch.push({
+                    title: `${item.driver_name || '미지정'} (${item.user_id || 'ID 없음'})`,
+                    position: new kakao.maps.LatLng(lat, lng),
+                    time: item.time
+                });
+            }
+        });
+
+        console.log(`${markerBatch.length}개의 추가 마커 생성`);
+
+        // 마커 일괄 생성
+        markerBatch.forEach(({title, position, time}) => {
+            try {
+                addMarker(title, position, time);
+            } catch (e) {
+                console.error("마커 추가 오류:", e, title, position);
+            }
+        });
+
+        // 모든 마커를 지도에 표시
+        markers.forEach(m => {
+            try {
+                if (!m.getMap()) m.setMap(map);
+            } catch (e) {
+                console.error("마커 표시 오류:", e);
+            }
+        });
+
+        // 클러스터러에 마커 추가
+        if(clusterer && markers.length > 0) {
+            try {
+                clusterer.clear();
+                clusterer.addMarkers(markers);
+                console.log(`${markers.length}개 마커가 클러스터에 추가됨`);
+            } catch (e) {
+                console.error("클러스터 생성 오류:", e);
+            }
+        }
+
+        // 데이터가 1개 이상 있고 모든 좌표가 무효한 경우에만 안내 메시지 표시
+        if (res.fmsDataList.length > 0 && !hasValidCoordinates) {
+            try {
+                const infowindow = new kakao.maps.InfoWindow({
+                    content: '<div style="padding:5px;font-size:12px;">유효한 위치 데이터가 없습니다</div>'
+                });
+                
+                const seoulMarker = new kakao.maps.Marker({
+                    position: map.getCenter(),
+                    map: map
+                });
+                
+                infowindow.open(map, seoulMarker);
+                markers.push(seoulMarker);
+            } catch (e) {
+                console.error("정보창 생성 오류:", e);
+            }
+        }
+    }
+}
+
+/**
+ * 수동 REFRESH 버튼
+ */
+function fn_refresh() {
+    // 타임스탬프 생성
+    const timestamp = new Date().getTime();
+    const user_id = $('#user_id').val();
+    
+    // 완전한 URL 생성
+    const hostname = window.location.hostname;
+    let apiUrl;
+    
+    if (hostname === 'localhost' || hostname === '127.0.0.1') {
+        // 로컬 개발환경
+        apiUrl = `/fms/data/refresh?search_name=${user_id}&&_=${timestamp}`;
+    } else {
+        // 배포 환경
+        apiUrl = `/owls-fms-admin/fms/data/refresh?search_name=${user_id}&&_=${timestamp}`;
+    }
+    
+    console.log('수동 새로고침 요청 URL:', apiUrl);
+    
+    // 로딩 표시
+    document.getElementById('loading-container').style.display = 'flex';
+    
+    // 기존 마커/클러스터 제거
+    clearMarkers();
+    
+    // AJAX 요청
+    $.ajax({
+        type: 'GET',
+        url: apiUrl,
+        dataType: 'json',
+        cache: false,
+        timeout: 15000,
+        success: function(res) {
+            console.log('수동 새로고침 성공!');
+            processResponse(res, false);
+            document.getElementById('loading-container').style.display = 'none';
+        },
+        error: function(xhr, status, error) {
+            console.error('수동 새로고침 실패:', error);
+            console.log('응답 텍스트:', xhr.responseText);
+            document.getElementById('loading-container').style.display = 'none';
+            alert('데이터 새로고침에 실패했습니다.');
+        }
+    });
+}
+
+/**
+ * 30초 간격 자동 새로고침
+ */
+function startAutoRefresh() {
+    if(!refreshTimer) {
+        refreshTimer = setInterval(() => {
+            // 타임스탬프 생성
+            const timestamp = new Date().getTime();
+            const user_id = $('#user_id').val();
+            
+            // 완전한 URL 생성
+            const hostname = window.location.hostname;
+            let apiUrl;
+            
+            if (hostname === 'localhost' || hostname === '127.0.0.1') {
+                // 로컬 개발환경
+                apiUrl = `/fms/data/refresh?search_name=${user_id}&&_=${timestamp}`;
+            } else {
+                // 배포 환경
+                apiUrl = `/owls-fms-admin/fms/data/refresh?search_name=${user_id}&&_=${timestamp}`;
+            }
+            
+            console.log('자동 새로고침 요청 URL:', apiUrl);
+            
+            // 기존 마커/클러스터 제거
+            clearMarkers();
+            
+            // AJAX 요청
+            $.ajax({
+                type: 'GET',
+                url: apiUrl,
+                dataType: 'json',
+                cache: false,
+                timeout: 15000,
+                success: function(res) {
+                    console.log('자동 새로고침 성공!');
+                    processResponse(res, false);
+                },
+                error: function(xhr, status, error) {
+                    console.error('자동 새로고침 실패:', error);
+                }
+            });
+        }, 30000);
+    }
+}
+
+function stopAutoRefresh() {
+    if(refreshTimer) {
+        clearInterval(refreshTimer);
+        refreshTimer = null;
+    }
+}
+
+// 페이지 로드 시 실행
+$(document).ready(function() {
+    console.log("기존 document.ready 함수는 비활성화됩니다.");
+    // 현재 카카오맵 API 로드 콜백에서 초기화 실행 중입니다.
+    /*
+    // 마지막으로 성공한 URL이 있으면 그것을 가장 먼저 시도
+    const lastSuccessfulURL = localStorage.getItem('lastSuccessfulURL');
+    const savedContextPath = localStorage.getItem('contextPath') || '';
+    
+    // 현재 컨텍스트 패스 확인
+    let contextPath = '';
+    const pathArray = window.location.pathname.split('/');
+    if (pathArray.length > 1 && pathArray[1] === 'owls-fms-admin') {
+        contextPath = '/owls-fms-admin';
+    }
+    
+    // 저장된 컨텍스트 패스와 현재 컨텍스트 패스가 다르면 저장된 URL 무시
+    if (savedContextPath !== contextPath) {
+        localStorage.removeItem('lastSuccessfulURL');
+    }
+    
+    // 디버그 정보
+    console.log('페이지 로드됨. 사용자 ID:', $('#user_id').val());
+    console.log('지도 DOM 요소 존재 여부:', $('#map').length > 0);
+    console.log('카카오맵 API 로드 여부:', typeof kakao !== 'undefined' && kakao.maps);
+    
+    // 카카오맵 API 로드 확인
+    if (typeof kakao === 'undefined' || !kakao.maps) {
+        console.error('카카오맵 API가 로드되지 않았습니다.');
+        document.getElementById('map').innerHTML = '<div style="padding:20px;text-align:center;">지도 API를 불러오는 중 오류가 발생했습니다.</div>';
+        return;
+    }
+    
+    // 지도 초기화 (기본 서울 좌표로 먼저 생성)
+    if (!isMapInited) {
+        console.log('지도 초기 생성 시작 (서울 좌표)');
+        try {
+            initMap(37.5665, 126.9780);
+            console.log('지도 초기화 성공');
+        } catch (e) {
+            console.error('지도 초기화 오류:', e);
+        }
+    }
+    
+    // 요청할 URL 경로들 재정의
+    let urls = [
+        '/fms/data/refresh', 
+        '/api/fms/data/refresh', 
+        'fms/data/refresh',
+        'api/fms/data/refresh',
+        '/v1/fms/data/refresh',
+        '/v1/api/fms/data/refresh'
+    ];
+    
+    // 마지막으로 성공한 URL이 있으면 가장 앞으로 이동
+    if (lastSuccessfulURL && urls.includes(lastSuccessfulURL) && savedContextPath === contextPath) {
+        urls = urls.filter(url => url !== lastSuccessfulURL);
+        urls.unshift(lastSuccessfulURL);
+        console.log('마지막으로 성공한 URL을 재사용합니다:', lastSuccessfulURL);
+    }
+    
+    // 1) 첫 데이터 로드 (지도 생성 포함)
+    const user_id = $('#user_id').val();
+    document.getElementById('loading-container').style.display = 'flex';
+    clearMarkers();
+    tryNextUrl(urls, 0, user_id, true);
+    */
+    
+    // 2) 자동 새로고침 설정
+    startAutoRefresh();
+});
+
+// 페이지 떠날 때
+$(window).on('unload', function() {
+    stopAutoRefresh();
+});
+
+/**
+ * 좌표를 주소로 변환하여 모달로 표시
+ */
+function showAddressInfo(lat, lng) {
+    console.log('좌표 클릭:', lat, lng);
+    
+    // 기본 정보 먼저 표시
+    let modalContent = `
+        <div class="modal-header">
+            <h5 class="modal-title">위치 정보</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+        </div>
+                 <div class="modal-body">
+             <p><strong>좌표:</strong> ${lat}, ${lng}</p>
+             <p><strong>주소:</strong> <span id="address-result">조회 중...</span></p>
+             <p><strong>지도에서 보기:</strong> 
+                 <a href="https://map.naver.com/v5/search/${lat},${lng}" target="_blank" class="btn btn-sm btn-outline-primary">네이버 지도에서 보기</a>
+             </p>
+         </div>
+    `;
+    
+    // 모달 생성 및 표시
+    const modalId = 'addressModal';
+    let modal = document.getElementById(modalId);
+    
+    if (!modal) {
+        // 모달이 없으면 생성
+        modal = document.createElement('div');
+        modal.id = modalId;
+        modal.className = 'modal fade';
+        modal.innerHTML = `
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    ${modalContent}
+                </div>
+            </div>
+        `;
+        document.body.appendChild(modal);
+    } else {
+        // 기존 모달 내용 업데이트
+        modal.querySelector('.modal-content').innerHTML = modalContent;
+    }
+    
+    // Bootstrap 모달 표시
+    const bsModal = new bootstrap.Modal(modal);
+    bsModal.show();
+    
+         // 주소 변환 시도
+     const addressElement = document.getElementById('address-result');
+     if (addressElement) {
+         // 카카오맵 API가 로드되어 있는지 확인
+         if (typeof kakao !== 'undefined' && kakao.maps && kakao.maps.services) {
+             const geocoder = new kakao.maps.services.Geocoder();
+             
+             geocoder.coord2Address(lng, lat, function(result, status) {
+                 if (status === kakao.maps.services.Status.OK) {
+                     let address = '';
+                     
+                     if (result[0].road_address) {
+                         // 도로명 주소가 있으면 도로명 주소 사용
+                         address = result[0].road_address.address_name;
+                         if (result[0].address) {
+                             address += `<br><small class="text-muted">지번: ${result[0].address.address_name}</small>`;
+                         }
+                     } else if (result[0].address) {
+                         // 지번 주소만 있는 경우
+                         address = result[0].address.address_name;
+                     }
+                     
+                     addressElement.innerHTML = address || '주소 정보 없음';
+                 } else {
+                     addressElement.innerHTML = '위 좌표를 네이버 지도에서 확인해주세요';
+                 }
+             });
+         } else {
+             // 카카오맵 API를 사용할 수 없는 경우
+             addressElement.innerHTML = '위 좌표를 네이버 지도에서 확인해주세요';
+         }
+     }
+}
+</script>
+
+<!-- moment.js (시간포맷) -->
+<script type="text/javascript" src="/owls-fms-admin/js/moment.js"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+2025-07-21 11:01:14,437 - INFO - 대시보드 TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-21 11:01:14,437 - INFO - ==================================
+2025-07-21 11:01:14,437 - INFO - 21
+2025-07-21 11:01:14,630 - INFO - C:\program_cookies 폴더 크기: 0.90 GB
+2025-07-21 11:01:14,639 - INFO - C:\program_cookies\PC_dnghwhd8819@naver.com 폴더 크기: 0.04 GB
+2025-07-21 11:01:14,640 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_dnghwhd8819@naver.com 폴더를 지정합니다.
+2025-07-21 11:01:14,640 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-07-21 11:01:14,640 - INFO - fixed UA가 있습니다.
+2025-07-21 11:01:14,640 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36입니다.
+2025-07-21 11:01:14,641 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-07-21 11:01:14,641 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-07-21 11:01:17,034 - INFO - ==================================
+2025-07-21 11:01:17,034 - INFO - devicemetrics를 override 합니다..
+2025-07-21 11:01:17,040 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-21 11:01:17,040 - INFO - FIXED gps 정보를 적용합니다.
+2025-07-21 11:01:17,041 - INFO - FIXED gps 정보는 {'latitude': 37.6653341, 'longitude': 127.075382, 'accuracy': 100} 입니다.
+2025-07-21 11:01:17,047 - INFO - 모든 변경이 완료되었습니다...
+2025-07-21 11:01:17,047 - INFO - ~~~~~~~~~~
+2025-07-21 11:01:18,721 - INFO - 로그인이 되어있지 않아 로그인 과정을 진행합니다.
+2025-07-21 11:01:22,124 - INFO - 티스토리를 선택하고, 선택한 티스토리로 이동합니다.
+2025-07-21 11:01:28,747 - INFO - Alert Message:
+2025-07-21 11:01:28,747 - INFO - 2025. 7. 16. 11:49에 저장된 글이 있습니다.
+이어서 작성하시겠습니까?
+2025-07-21 11:01:29,229 - INFO - 작성되는글이 있어서 취소를 눌렀습니다.
+2025-07-21 11:01:30,403 - INFO - 카테고리 선택을 시작합니다
+2025-07-21 11:01:30,437 - INFO - '공간대여정보' 카테고리를 선택합니다
+2025-07-21 11:01:32,156 - INFO - 카테고리 선택을 완료했습니다
+2025-07-21 11:01:32,156 - INFO - stop_check: False
+2025-07-21 11:01:32,156 - INFO - 랜덤이미지 경로에서 이미지 파일 찾기를 시작합니다.
+2025-07-21 11:01:32,156 - INFO - 전체 랜덤이미지 개수는 3개입니다.
+2025-07-21 11:01:39,475 - INFO - [선택사진]: 이거뭐에요.jpg(하이퍼링크:www.naver.com)
+2025-07-21 11:01:39,475 - INFO - 파일 삭제: C:\브리찌\sysuk0307_브리찌 소개\선택사진\Output\달려.jpg
+2025-07-21 11:01:39,976 - INFO - C:\브리찌\sysuk0307_브리찌 소개\선택사진\Output\이거뭐에요.jpg
+2025-07-21 11:01:39,976 - INFO - C:\브리찌\sysuk0307_브리찌 소개\선택사진\Output\이거뭐에요.jpg - 이미지 처리(썸네일 및 메타데이터 삭제) 시작
+2025-07-21 11:01:40,962 - INFO - 변경 전 메타데이터
+2025-07-21 11:01:40,962 - INFO - {'0th': {}, 'Exif': {}, 'GPS': {}, 'Interop': {}, '1st': {}, 'thumbnail': None}
+2025-07-21 11:01:40,963 - INFO - 변경 후 메타데이터
+2025-07-21 11:01:40,965 - INFO - {'0th': {}, 'Exif': {}, 'GPS': {}, 'Interop': {}, '1st': {}, 'thumbnail': None}
+2025-07-21 11:01:40,965 - INFO - 메타데이터가 추가되었습니다.
+2025-07-21 11:01:40,966 - INFO - 추가된 메타데이터:
+2025-07-21 11:01:40,967 - INFO - {'0th': {306: b'2025:06:30 11:01:40', 34665: 58}, 'Exif': {36867: b'2025:06:30 11:01:40', 36868: b'2025:06:30 11:01:40'}, 'GPS': {}, 'Interop': {}, '1st': {}, 'thumbnail': None}
+2025-07-21 11:01:40,975 - INFO - C:\브리찌\sysuk0307_브리찌 소개\썸네일 - 썸네일 제작 (시작)
+2025-07-21 11:01:40,975 - INFO - -- 이미지 크기: 225x225
+2025-07-21 11:01:41,729 - INFO - 저장 경로 C:\Users\user\AppData\Local\Microsoft\Windows\Fonts\NanumSquareNeo-eHv.ttf가 없어서 종료합니다
+2025-07-21 11:01:41,729 - ERROR - [ tistory_TEST.py 프로그램 ] - < Exception 저장 경로 C:\Users\user\AppData\Local\Microsoft\Windows\Fonts\NanumSquareNeo-eHv.ttf가 없어서 종료합니다 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory_TEST.py", line 52, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 912, in run
+    self._write_context(self.dash_data['제목'], self.dash_data['내용'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 769, in _write_context
+    self._onebyonetext(text, path_data, thumbdata)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 672, in _onebyonetext
+    self._specialfunction(specialword, path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 468, in _specialfunction
+    image.make_thumbnail(name_type="01", title=thumb_data.image_title, random_int_name=thumb_data.random_int_name,
+  File "C:\Users\user\Desktop\Bridzzi\util\image\pil.py", line 959, in make_thumbnail
+    raise Exception(f"저장 경로 {font_path}가 없어서 종료합니다")
+Exception: 저장 경로 C:\Users\user\AppData\Local\Microsoft\Windows\Fonts\NanumSquareNeo-eHv.ttf가 없어서 종료합니다
+
+오류가 발생하여 프로그램을 종료했습니다. 확인 부탁드립니다
+2025-07-21 11:01:41,729 - INFO - 텔레그램 에러 메시지 : [ tistory_TEST.py 프로그램 ] - < Exception 저장 경로 C:\Users\user\AppData\Local\Microsoft\Windows\Fonts\NanumSquareNeo-eHv.ttf가 없어서 종료합니다 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory_TEST.py", line 52, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 912, in run
+    self._write_context(self.dash_data['제목'], self.dash_data['내용'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 769, in _write_context
+    self._onebyonetext(text, path_data, thumbdata)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 672, in _onebyonetext
+    self._specialfunction(specialword, path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 468, in _specialfunction
+    image.make_thumbnail(name_type="01", title=thumb_data.image_title, random_int_name=thumb_data.random_int_name,
+  File "C:\Users\user\Desktop\Bridzzi\util\image\pil.py", line 959, in make_thumbnail
+    raise Exception(f"저장 경로 {font_path}가 없어서 종료합니다")
+Exception: 저장 경로 C:\Users\user\AppData\Local\Microsoft\Windows\Fonts\NanumSquareNeo-eHv.ttf가 없어서 종료합니다
+2025-07-21 11:01:42,832 - INFO - 화면 캡처가 성공적으로 저장되었습니다: screenshot.png

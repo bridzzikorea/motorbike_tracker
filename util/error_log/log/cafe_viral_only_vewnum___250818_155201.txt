@@ -1,0 +1,176 @@
+2025-08-18 15:52:03,808 - INFO - ==================================
+2025-08-18 15:52:03,809 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-18 15:52:03,809 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-18 15:52:03,809 - INFO - 구글 시트 로드 - 시도중....
+2025-08-18 15:52:04,486 - INFO - 구글 시트 로드 - 완료
+2025-08-18 15:52:04,923 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-18 15:52:04,931 - INFO - ==================================
+2025-08-18 15:52:04,931 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-18 15:52:04,932 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-18 15:52:05,325 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:06,965 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:08,587 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:08,589 - ERROR - 1/10번째 [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 863, in manual_cafe_viewnum_process
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-18 15:52:08,589 - ERROR - Traceback (most recent call last):
+2025-08-18 15:52:08,589 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-18 15:52:08,589 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+2025-08-18 15:52:08,590 - ERROR - TypeError: exceptions must derive from BaseException
+2025-08-18 15:52:08,590 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-18 15:52:08,590 - ERROR - Traceback (most recent call last):
+2025-08-18 15:52:08,590 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-18 15:52:08,590 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 863, in manual_cafe_viewnum_process
+    selenium_util.change_ip()
+2025-08-18 15:52:08,590 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+2025-08-18 15:52:08,590 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+2025-08-18 15:52:08,590 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:08,791 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-18 15:52:08,791 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-18 15:52:09,793 - INFO - ==================================
+2025-08-18 15:52:09,793 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-18 15:52:09,914 - INFO - [현재 크롬 버전] : 139.0.7258.128
+2025-08-18 15:52:11,847 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-18 15:52:13,854 - INFO - ==================================
+2025-08-18 15:52:13,854 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-18 15:52:13,854 - INFO - -----------------------------
+2025-08-18 15:52:13,855 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-18 15:52:13,855 - INFO - ==================================
+2025-08-18 15:52:13,977 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-18 15:52:13,977 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-18 15:52:14,978 - INFO - ==================================
+2025-08-18 15:52:14,978 - INFO - ==================================
+2025-08-18 15:52:14,978 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-18 15:52:14,978 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-18 15:52:14,978 - INFO - 구글 시트 로드 - 시도중....
+2025-08-18 15:52:15,423 - INFO - 구글 시트 로드 - 완료
+2025-08-18 15:52:15,875 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-18 15:52:15,877 - INFO - ==================================
+2025-08-18 15:52:15,877 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-18 15:52:15,878 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-18 15:52:16,001 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:17,622 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:19,235 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:19,236 - ERROR - 2/10번째 [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 863, in manual_cafe_viewnum_process
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-18 15:52:19,236 - ERROR - Traceback (most recent call last):
+2025-08-18 15:52:19,236 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-18 15:52:19,237 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+2025-08-18 15:52:19,237 - ERROR - TypeError: exceptions must derive from BaseException
+2025-08-18 15:52:19,237 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-18 15:52:19,237 - ERROR - Traceback (most recent call last):
+2025-08-18 15:52:19,237 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-18 15:52:19,237 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 863, in manual_cafe_viewnum_process
+    selenium_util.change_ip()
+2025-08-18 15:52:19,238 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+2025-08-18 15:52:19,238 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+2025-08-18 15:52:19,238 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:19,238 - INFO - 텔레그램 에러 메시지 : [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 863, in manual_cafe_viewnum_process
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:20,301 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-18 15:52:20,301 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-18 15:52:21,302 - INFO - ==================================
+2025-08-18 15:52:21,302 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-18 15:52:21,424 - INFO - [현재 크롬 버전] : 139.0.7258.128
+2025-08-18 15:52:22,686 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-18 15:52:24,690 - INFO - ==================================
+2025-08-18 15:52:24,690 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-18 15:52:24,690 - INFO - -----------------------------
+2025-08-18 15:52:24,690 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-18 15:52:24,690 - INFO - ==================================
+2025-08-18 15:52:24,816 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-18 15:52:24,816 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-18 15:52:25,818 - INFO - ==================================
+2025-08-18 15:52:25,819 - INFO - ==================================
+2025-08-18 15:52:25,819 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-18 15:52:25,820 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-18 15:52:25,821 - INFO - 구글 시트 로드 - 시도중....
+2025-08-18 15:52:26,356 - INFO - 구글 시트 로드 - 완료
+2025-08-18 15:52:26,955 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-18 15:52:26,955 - INFO - ==================================
+2025-08-18 15:52:26,956 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-18 15:52:26,956 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-18 15:52:27,081 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-08-18 15:52:28,748 - INFO - [ 모바일IP 전환 - 시도 ]

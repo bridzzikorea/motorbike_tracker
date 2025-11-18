@@ -1,0 +1,180 @@
+2025-07-21 11:30:27,255 - INFO - 대시보드 TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-21 11:30:27,257 - INFO - ==================================
+2025-07-21 11:30:27,257 - INFO - 21
+2025-07-21 11:30:27,437 - INFO - C:\program_cookies 폴더 크기: 0.95 GB
+2025-07-21 11:30:27,452 - INFO - C:\program_cookies\PC_dnghwhd8819@naver.com 폴더 크기: 0.08 GB
+2025-07-21 11:30:27,452 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_dnghwhd8819@naver.com 폴더를 지정합니다.
+2025-07-21 11:30:27,452 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-07-21 11:30:27,453 - INFO - fixed UA가 있습니다.
+2025-07-21 11:30:27,453 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36입니다.
+2025-07-21 11:30:27,453 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-07-21 11:30:27,453 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-07-21 11:30:29,943 - INFO - ==================================
+2025-07-21 11:30:29,944 - INFO - devicemetrics를 override 합니다..
+2025-07-21 11:30:29,948 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-21 11:30:29,948 - INFO - FIXED gps 정보를 적용합니다.
+2025-07-21 11:30:29,949 - INFO - FIXED gps 정보는 {'latitude': 37.6653341, 'longitude': 127.075382, 'accuracy': 100} 입니다.
+2025-07-21 11:30:29,956 - INFO - 모든 변경이 완료되었습니다...
+2025-07-21 11:30:29,956 - INFO - ~~~~~~~~~~
+2025-07-21 11:30:32,220 - INFO - 로그인이 되어있지 않아 로그인 과정을 진행합니다.
+2025-07-21 11:30:35,831 - INFO - 티스토리를 선택하고, 선택한 티스토리로 이동합니다.
+2025-07-21 11:30:42,304 - INFO - Alert Message:
+2025-07-21 11:30:42,304 - INFO - 2025. 7. 21. 11:29에 저장된 글이 있습니다.
+이어서 작성하시겠습니까?
+2025-07-21 11:30:42,905 - INFO - 작성되는글이 있어서 취소를 눌렀습니다.
+2025-07-21 11:30:44,163 - INFO - 카테고리 선택을 시작합니다
+2025-07-21 11:30:44,195 - INFO - '공간대여정보' 카테고리를 선택합니다
+2025-07-21 11:30:45,769 - INFO - 카테고리 선택을 완료했습니다
+2025-07-21 11:30:45,769 - INFO - stop_check: False
+2025-07-21 11:30:45,769 - INFO - 랜덤이미지 경로에서 이미지 파일 찾기를 시작합니다.
+2025-07-21 11:30:45,769 - INFO - 전체 랜덤이미지 개수는 3개입니다.
+2025-07-21 11:30:54,569 - INFO - 35
+2025-07-21 11:30:57,792 - INFO - 35
+2025-07-21 11:31:02,026 - ERROR - [ tistory_TEST.py 프로그램 ] - < Exception Message: invalid argument: 'value' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x371a33+62339]
+	GetHandleVerifier [0x0x371a74+62404]
+	(No symbol) [0x0x1b2123]
+	(No symbol) [0x0x1fa3a9]
+	(No symbol) [0x0x1fac0b]
+	(No symbol) [0x0x242fac]
+	(No symbol) [0x0x21f404]
+	(No symbol) [0x0x2407a3]
+	(No symbol) [0x0x21f1b6]
+	(No symbol) [0x0x1ee7a2]
+	(No symbol) [0x0x1ef644]
+	GetHandleVerifier [0x0x5e65c3+2637587]
+	GetHandleVerifier [0x0x5e19ca+2618138]
+	GetHandleVerifier [0x0x3984aa+220666]
+	GetHandleVerifier [0x0x3888d8+156200]
+	GetHandleVerifier [0x0x38f06d+182717]
+	GetHandleVerifier [0x0x379978+94920]
+	GetHandleVerifier [0x0x379b02+95314]
+	GetHandleVerifier [0x0x364c4a+9626]
+	BaseThreadInitThunk [0x0x75d85d49+25]
+	RtlInitializeExceptionChain [0x0x76efd1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76efd131+561]
+	(No symbol) [0x0]
+ 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory_TEST.py", line 52, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 912, in run
+    self._write_context(self.dash_data['제목'], self.dash_data['내용'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 769, in _write_context
+    self._onebyonetext(text, path_data, thumbdata)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 672, in _onebyonetext
+    self._specialfunction(specialword, path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 340, in _specialfunction
+    font_color_block_elements = self.browser.find_elements(By.CSS_SELECTOR,)
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 952, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {"using": by, "value": value})["value"] or []
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x371a33+62339]
+	GetHandleVerifier [0x0x371a74+62404]
+	(No symbol) [0x0x1b2123]
+	(No symbol) [0x0x1fa3a9]
+	(No symbol) [0x0x1fac0b]
+	(No symbol) [0x0x242fac]
+	(No symbol) [0x0x21f404]
+	(No symbol) [0x0x2407a3]
+	(No symbol) [0x0x21f1b6]
+	(No symbol) [0x0x1ee7a2]
+	(No symbol) [0x0x1ef644]
+	GetHandleVerifier [0x0x5e65c3+2637587]
+	GetHandleVerifier [0x0x5e19ca+2618138]
+	GetHandleVerifier [0x0x3984aa+220666]
+	GetHandleVerifier [0x0x3888d8+156200]
+	GetHandleVerifier [0x0x38f06d+182717]
+	GetHandleVerifier [0x0x379978+94920]
+	GetHandleVerifier [0x0x379b02+95314]
+	GetHandleVerifier [0x0x364c4a+9626]
+	BaseThreadInitThunk [0x0x75d85d49+25]
+	RtlInitializeExceptionChain [0x0x76efd1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76efd131+561]
+	(No symbol) [0x0]
+
+
+오류가 발생하여 프로그램을 종료했습니다. 확인 부탁드립니다
+2025-07-21 11:31:02,026 - INFO - 텔레그램 에러 메시지 : [ tistory_TEST.py 프로그램 ] - < Exception Message: invalid argument: 'value' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x371a33+62339]
+	GetHandleVerifier [0x0x371a74+62404]
+	(No symbol) [0x0x1b2123]
+	(No symbol) [0x0x1fa3a9]
+	(No symbol) [0x0x1fac0b]
+	(No symbol) [0x0x242fac]
+	(No symbol) [0x0x21f404]
+	(No symbol) [0x0x2407a3]
+	(No symbol) [0x0x21f1b6]
+	(No symbol) [0x0x1ee7a2]
+	(No symbol) [0x0x1ef644]
+	GetHandleVerifier [0x0x5e65c3+2637587]
+	GetHandleVerifier [0x0x5e19ca+2618138]
+	GetHandleVerifier [0x0x3984aa+220666]
+	GetHandleVerifier [0x0x3888d8+156200]
+	GetHandleVerifier [0x0x38f06d+182717]
+	GetHandleVerifier [0x0x379978+94920]
+	GetHandleVerifier [0x0x379b02+95314]
+	GetHandleVerifier [0x0x364c4a+9626]
+	BaseThreadInitThunk [0x0x75d85d49+25]
+	RtlInitializeExceptionChain [0x0x76efd1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76efd131+561]
+	(No symbol) [0x0]
+ 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory_TEST.py", line 52, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 912, in run
+    self._write_context(self.dash_data['제목'], self.dash_data['내용'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 769, in _write_context
+    self._onebyonetext(text, path_data, thumbdata)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 672, in _onebyonetext
+    self._specialfunction(specialword, path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 340, in _specialfunction
+    font_color_block_elements = self.browser.find_elements(By.CSS_SELECTOR,)
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 952, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {"using": by, "value": value})["value"] or []
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x371a33+62339]
+	GetHandleVerifier [0x0x371a74+62404]
+	(No symbol) [0x0x1b2123]
+	(No symbol) [0x0x1fa3a9]
+	(No symbol) [0x0x1fac0b]
+	(No symbol) [0x0x242fac]
+	(No symbol) [0x0x21f404]
+	(No symbol) [0x0x2407a3]
+	(No symbol) [0x0x21f1b6]
+	(No symbol) [0x0x1ee7a2]
+	(No symbol) [0x0x1ef644]
+	GetHandleVerifier [0x0x5e65c3+2637587]
+	GetHandleVerifier [0x0x5e19ca+2618138]
+	GetHandleVerifier [0x0x3984aa+220666]
+	GetHandleVerifier [0x0x3888d8+156200]
+	GetHandleVerifier [0x0x38f06d+182717]
+	GetHandleVerifier [0x0x379978+94920]
+	GetHandleVerifier [0x0x379b02+95314]
+	GetHandleVerifier [0x0x364c4a+9626]
+	BaseThreadInitThunk [0x0x75d85d49+25]
+	RtlInitializeExceptionChain [0x0x76efd1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76efd131+561]
+	(No symbol) [0x0]
+2025-07-21 11:31:03,126 - INFO - 화면 캡처가 성공적으로 저장되었습니다: screenshot.png

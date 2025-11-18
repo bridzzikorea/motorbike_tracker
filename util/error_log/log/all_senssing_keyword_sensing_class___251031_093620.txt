@@ -1,0 +1,151 @@
+2025-10-31 09:36:24,598 - INFO - ==================================
+2025-10-31 09:36:24,598 - INFO - ==================================
+2025-10-31 09:36:24,598 - INFO - [ 9시] - 키워드 센싱을 시작합니다
+2025-10-31 09:36:24,598 - INFO - ==================================
+2025-10-31 09:36:24,598 - INFO - -----------------------------
+2025-10-31 09:36:24,600 - INFO - 시트이름: #3 브랜드_커뮤니티선별
+2025-10-31 09:36:24,600 - INFO - 구글 시트 로드 - 시도중....
+2025-10-31 09:36:26,212 - INFO - 구글 시트 로드 - 완료
+2025-10-31 09:36:26,864 - INFO - #3 브랜드_커뮤니티선별 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-31 09:36:26,864 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-31 09:36:26,864 - INFO - 구글 시트 로드 - 시도중....
+2025-10-31 09:36:28,566 - INFO - 구글 시트 로드 - 완료
+2025-10-31 09:36:29,114 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-31 09:36:29,114 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-31 09:36:29,114 - INFO - 구글 시트 로드 - 시도중....
+2025-10-31 09:36:30,709 - INFO - 구글 시트 로드 - 완료
+2025-10-31 09:36:31,229 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-31 09:36:31,229 - INFO - 시트이름: 일주일 추출 링크
+2025-10-31 09:36:31,229 - INFO - 구글 시트 로드 - 시도중....
+2025-10-31 09:36:32,742 - INFO - 구글 시트 로드 - 완료
+2025-10-31 09:36:33,316 - INFO - 시트이름: 일주일 추출 링크
+2025-10-31 09:36:33,316 - INFO - 구글 시트 로드 - 시도중....
+2025-10-31 09:36:34,417 - INFO - 구글 시트 로드 - 완료
+2025-10-31 09:36:34,991 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-31 09:36:35,357 - INFO - C:\program_cookies 폴더 크기: 2.18 GB
+2025-10-31 09:36:35,439 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-10-31 09:36:35,439 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-10-31 09:36:35,439 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-10-31 09:36:35,439 - INFO - fixed UA가 있습니다.
+2025-10-31 09:36:35,439 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36입니다.
+2025-10-31 09:36:35,439 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-31 09:36:35,439 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-10-31 09:36:39,034 - INFO - ==================================
+2025-10-31 09:36:39,034 - INFO - devicemetrics를 override 합니다..
+2025-10-31 09:36:39,049 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-31 09:36:39,049 - INFO - FIXED gps 정보를 적용합니다.
+2025-10-31 09:36:39,050 - INFO - FIXED gps 정보는 {'latitude': 47.6653341, 'longitude': 137.075382, 'accuracy': 100} 입니다.
+2025-10-31 09:36:39,060 - INFO - 모든 변경이 완료되었습니다...
+2025-10-31 09:36:39,060 - INFO - ~~~~~~~~~~
+2025-10-31 09:36:39,060 - INFO - ==================================
+2025-10-31 09:36:39,061 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 디시인사이드 / 게시판 분류 : 게시물(최신순) / 키워드 : 로보락 - 시작
+2025-10-31 09:36:39,990 - INFO - -----------------------------
+2025-10-31 09:36:39,991 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-31 09:36:39,991 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-31 09:36:39,991 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-31 09:36:39,992 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 네이트판 / 게시판 분류 : 톡톡(최신순) / 키워드 : 로보락 - 시작
+2025-10-31 09:36:40,539 - INFO - -----------------------------
+2025-10-31 09:36:40,539 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-31 09:36:40,539 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-31 09:36:40,539 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-31 09:36:40,540 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 네이트판 / 게시판 분류 : 뉴스(최신순) / 키워드 : 로보락 - 시작
+2025-10-31 09:36:40,731 - INFO - -----------------------------
+2025-10-31 09:36:40,732 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-31 09:36:40,732 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-31 09:36:40,733 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-31 09:36:40,733 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 뽐뿌 / 게시판 분류 : 커뮤니티(최신순) / 키워드 : 로보락 - 시작
+2025-10-31 09:36:41,330 - INFO - -----------------------------
+2025-10-31 09:36:41,330 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-31 09:36:41,330 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-31 09:36:41,330 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-31 09:36:41,332 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 뽐뿌 / 게시판 분류 : 뉴스(최신순) / 키워드 : 로보락 - 시작
+2025-10-31 09:36:52,215 - INFO - -----------------------------
+2025-10-31 09:37:10,666 - INFO - 제목 : [국감핫인물]中 '로보락' 개인정보 유출 방지 답변 이끌어낸 김승원 與 의원0
+2025-10-31 09:37:15,857 - INFO - -----------------------------
+2025-10-31 09:37:16,719 - INFO - URL : https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=461190&keyword=%B7%CE%BA%B8%B6%F4
+2025-10-31 09:37:33,116 - ERROR - 1/10번째 [ all_senssing_keyword_sensing_class.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1473, in <module>
+    sensing_manager.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1449, in run
+    self.community_crawler.check_run(time_name)
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1310, in check_run
+    self.ppomppu_news_collect_post_info(row_index, keyword, comunity_data_row)
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1239, in ppomppu_news_collect_post_info
+    selenium_util.wait_for_element(self.browser, 10, content_select)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x11e58c3
+	0x11e5904
+	0xffe76d
+	0x104a09d
+	0x104a47b
+	0x1091802
+	0x106c9b4
+	0x108eea6
+	0x106c766
+	0x103dac0
+	0x103ede4
+	0x1467974
+	0x1462bea
+	0x120e5b4
+	0x11fdd28
+	0x1204d8d
+	0x11eded8
+	0x11ee09c
+	0x11d7d1a
+	0x76b45d49
+	0x77c8d6db
+	0x77c8d661
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-31 09:37:33,116 - ERROR - Traceback (most recent call last):
+2025-10-31 09:37:33,116 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1473, in <module>
+    sensing_manager.run()
+2025-10-31 09:37:33,116 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1449, in run
+    self.community_crawler.check_run(time_name)
+2025-10-31 09:37:33,116 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1310, in check_run
+    self.ppomppu_news_collect_post_info(row_index, keyword, comunity_data_row)
+2025-10-31 09:37:33,116 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1239, in ppomppu_news_collect_post_info
+    selenium_util.wait_for_element(self.browser, 10, content_select)
+2025-10-31 09:37:33,116 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-31 09:37:33,116 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+2025-10-31 09:37:33,116 - ERROR - selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x11e58c3
+	0x11e5904
+	0xffe76d
+	0x104a09d
+	0x104a47b
+	0x1091802
+	0x106c9b4
+	0x108eea6
+	0x106c766
+	0x103dac0
+	0x103ede4
+	0x1467974
+	0x1462bea
+	0x120e5b4
+	0x11fdd28
+	0x1204d8d
+	0x11eded8
+	0x11ee09c
+	0x11d7d1a
+	0x76b45d49
+	0x77c8d6db
+	0x77c8d661
+2025-10-31 09:37:33,324 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-31 09:37:33,325 - INFO - ✅ Chrome 종료 결과: Chrome 종료

@@ -1,0 +1,693 @@
+2025-08-12 10:00:56,570 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 10:00:56,570 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:00:57,143 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:00:57,723 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 10:00:57,936 - INFO - C:\program_cookies 폴더 크기: 1.18 GB
+2025-08-12 10:00:57,954 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.20 GB
+2025-08-12 10:00:57,955 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 10:00:57,955 - INFO - fixed UA가 있습니다.
+2025-08-12 10:00:57,955 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 10:00:57,955 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 10:00:57,955 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 10:01:01,372 - INFO - 크롬창을 열었습니다.
+2025-08-12 10:01:01,378 - INFO - Android
+2025-08-12 10:01:01,387 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 10:01:01,387 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 10:01:01,387 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 10:01:01,741 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 10:01:01,741 - INFO - ~~~~~~~~~~
+2025-08-12 10:01:02,127 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 10:01:02,632 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 10:01:04,572 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 10:01:06,158 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 10:01:13,342 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 10:01:13,833 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 10:01:15,274 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 10:01:15,288 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 10:01:18,143 - INFO - delete-5704 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 10:01:20,340 - INFO - delete-6105 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 10:01:22,898 - INFO - delete-6106 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 10:01:25,217 - INFO - delete-6107 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 10:01:32,228 - INFO - delete-6109 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:01:32,228 - INFO - 시트이름: 게시글삭제/작성내역
+2025-08-12 10:01:32,228 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:01:32,791 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:01:41,741 - INFO - delete-6110 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:01:42,957 - INFO - delete-6112 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 10:01:50,310 - INFO - delete-6116 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:01:56,949 - INFO - delete-6117 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:02:02,986 - INFO - delete-6118 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:02:02,986 - INFO - 시트이름: 게시글삭제/작성내역
+2025-08-12 10:02:02,986 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:02:03,706 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:02:27,767 - INFO - delete-6298 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:02:42,362 - ERROR - 1/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 508, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable: https://m.cafe.naver.com/ca-fe/web/cafes/18556310/articles/200974?tc# has no size and location
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0xd7fd23+62915]
+	GetHandleVerifier [0x0xd7fd64+62980]
+	(No symbol) [0x0xbb3e13]
+	(No symbol) [0x0xbba619]
+	(No symbol) [0x0xbbc94a]
+	(No symbol) [0x0xbbc9c7]
+	(No symbol) [0x0xc022f4]
+	(No symbol) [0x0xc01867]
+	(No symbol) [0x0xc4b088]
+	(No symbol) [0x0xc213dc]
+	(No symbol) [0x0xc426ea]
+	(No symbol) [0x0xc211d6]
+	(No symbol) [0x0xbf0833]
+	(No symbol) [0x0xbf16a4]
+	GetHandleVerifier [0x0xfe8d13+2590131]
+	GetHandleVerifier [0x0xfe3f5a+2570234]
+	GetHandleVerifier [0x0xda59da+217722]
+	GetHandleVerifier [0x0xd96048+153832]
+	GetHandleVerifier [0x0xd9c4ad+179533]
+	GetHandleVerifier [0x0xd87728+94152]
+	GetHandleVerifier [0x0xd878b2+94546]
+	GetHandleVerifier [0x0xd72bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 551, in random_click
+    element_random_click(browser, element)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 514, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable: https://m.cafe.naver.com/ca-fe/web/cafes/18556310/articles/200974?tc# has no size and location
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0xd7fd23+62915]
+	GetHandleVerifier [0x0xd7fd64+62980]
+	(No symbol) [0x0xbb3e13]
+	(No symbol) [0x0xbba619]
+	(No symbol) [0x0xbbc94a]
+	(No symbol) [0x0xbbc9c7]
+	(No symbol) [0x0xc022f4]
+	(No symbol) [0x0xc01867]
+	(No symbol) [0x0xc4b088]
+	(No symbol) [0x0xc213dc]
+	(No symbol) [0x0xc426ea]
+	(No symbol) [0x0xc211d6]
+	(No symbol) [0x0xbf0833]
+	(No symbol) [0x0xbf16a4]
+	GetHandleVerifier [0x0xfe8d13+2590131]
+	GetHandleVerifier [0x0xfe3f5a+2570234]
+	GetHandleVerifier [0x0xda59da+217722]
+	GetHandleVerifier [0x0xd96048+153832]
+	GetHandleVerifier [0x0xd9c4ad+179533]
+	GetHandleVerifier [0x0xd87728+94152]
+	GetHandleVerifier [0x0xd878b2+94546]
+	GetHandleVerifier [0x0xd72bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 508, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable: https://m.cafe.naver.com/ca-fe/web/cafes/18556310/articles/200974?tc# has no size and location
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0xd7fd23+62915]
+	GetHandleVerifier [0x0xd7fd64+62980]
+	(No symbol) [0x0xbb3e13]
+	(No symbol) [0x0xbba619]
+	(No symbol) [0x0xbbc94a]
+	(No symbol) [0x0xbbc9c7]
+	(No symbol) [0x0xc022f4]
+	(No symbol) [0x0xc01867]
+	(No symbol) [0x0xc4b088]
+	(No symbol) [0x0xc213dc]
+	(No symbol) [0x0xc426ea]
+	(No symbol) [0x0xc211d6]
+	(No symbol) [0x0xbf0833]
+	(No symbol) [0x0xbf16a4]
+	GetHandleVerifier [0x0xfe8d13+2590131]
+	GetHandleVerifier [0x0xfe3f5a+2570234]
+	GetHandleVerifier [0x0xda59da+217722]
+	GetHandleVerifier [0x0xd96048+153832]
+	GetHandleVerifier [0x0xd9c4ad+179533]
+	GetHandleVerifier [0x0xd87728+94152]
+	GetHandleVerifier [0x0xd878b2+94546]
+	GetHandleVerifier [0x0xd72bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 199, in start_delete_content
+    selenium_util.random_click(browser, delete_btn_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 555, in random_click
+    element_random_click(browser, element)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 514, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable: https://m.cafe.naver.com/ca-fe/web/cafes/18556310/articles/200974?tc# has no size and location
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0xd7fd23+62915]
+	GetHandleVerifier [0x0xd7fd64+62980]
+	(No symbol) [0x0xbb3e13]
+	(No symbol) [0x0xbba619]
+	(No symbol) [0x0xbbc94a]
+	(No symbol) [0x0xbbc9c7]
+	(No symbol) [0x0xc022f4]
+	(No symbol) [0x0xc01867]
+	(No symbol) [0x0xc4b088]
+	(No symbol) [0x0xc213dc]
+	(No symbol) [0x0xc426ea]
+	(No symbol) [0x0xc211d6]
+	(No symbol) [0x0xbf0833]
+	(No symbol) [0x0xbf16a4]
+	GetHandleVerifier [0x0xfe8d13+2590131]
+	GetHandleVerifier [0x0xfe3f5a+2570234]
+	GetHandleVerifier [0x0xda59da+217722]
+	GetHandleVerifier [0x0xd96048+153832]
+	GetHandleVerifier [0x0xd9c4ad+179533]
+	GetHandleVerifier [0x0xd87728+94152]
+	GetHandleVerifier [0x0xd878b2+94546]
+	GetHandleVerifier [0x0xd72bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 10:02:42,362 - ERROR - Traceback (most recent call last):
+2025-08-12 10:02:42,362 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 508, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-08-12 10:02:42,362 - ERROR - selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable: https://m.cafe.naver.com/ca-fe/web/cafes/18556310/articles/200974?tc# has no size and location
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0xd7fd23+62915]
+	GetHandleVerifier [0x0xd7fd64+62980]
+	(No symbol) [0x0xbb3e13]
+	(No symbol) [0x0xbba619]
+	(No symbol) [0x0xbbc94a]
+	(No symbol) [0x0xbbc9c7]
+	(No symbol) [0x0xc022f4]
+	(No symbol) [0x0xc01867]
+	(No symbol) [0x0xc4b088]
+	(No symbol) [0x0xc213dc]
+	(No symbol) [0x0xc426ea]
+	(No symbol) [0x0xc211d6]
+	(No symbol) [0x0xbf0833]
+	(No symbol) [0x0xbf16a4]
+	GetHandleVerifier [0x0xfe8d13+2590131]
+	GetHandleVerifier [0x0xfe3f5a+2570234]
+	GetHandleVerifier [0x0xda59da+217722]
+	GetHandleVerifier [0x0xd96048+153832]
+	GetHandleVerifier [0x0xd9c4ad+179533]
+	GetHandleVerifier [0x0xd87728+94152]
+	GetHandleVerifier [0x0xd878b2+94546]
+	GetHandleVerifier [0x0xd72bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-12 10:02:42,362 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-12 10:02:42,362 - ERROR - Traceback (most recent call last):
+2025-08-12 10:02:42,362 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 551, in random_click
+    element_random_click(browser, element)
+2025-08-12 10:02:42,362 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 514, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-08-12 10:02:42,362 - ERROR - selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable: https://m.cafe.naver.com/ca-fe/web/cafes/18556310/articles/200974?tc# has no size and location
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0xd7fd23+62915]
+	GetHandleVerifier [0x0xd7fd64+62980]
+	(No symbol) [0x0xbb3e13]
+	(No symbol) [0x0xbba619]
+	(No symbol) [0x0xbbc94a]
+	(No symbol) [0x0xbbc9c7]
+	(No symbol) [0x0xc022f4]
+	(No symbol) [0x0xc01867]
+	(No symbol) [0x0xc4b088]
+	(No symbol) [0x0xc213dc]
+	(No symbol) [0x0xc426ea]
+	(No symbol) [0x0xc211d6]
+	(No symbol) [0x0xbf0833]
+	(No symbol) [0x0xbf16a4]
+	GetHandleVerifier [0x0xfe8d13+2590131]
+	GetHandleVerifier [0x0xfe3f5a+2570234]
+	GetHandleVerifier [0x0xda59da+217722]
+	GetHandleVerifier [0x0xd96048+153832]
+	GetHandleVerifier [0x0xd9c4ad+179533]
+	GetHandleVerifier [0x0xd87728+94152]
+	GetHandleVerifier [0x0xd878b2+94546]
+	GetHandleVerifier [0x0xd72bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-12 10:02:42,362 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-12 10:02:42,362 - ERROR - Traceback (most recent call last):
+2025-08-12 10:02:42,362 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 508, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-08-12 10:02:42,362 - ERROR - selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable: https://m.cafe.naver.com/ca-fe/web/cafes/18556310/articles/200974?tc# has no size and location
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0xd7fd23+62915]
+	GetHandleVerifier [0x0xd7fd64+62980]
+	(No symbol) [0x0xbb3e13]
+	(No symbol) [0x0xbba619]
+	(No symbol) [0x0xbbc94a]
+	(No symbol) [0x0xbbc9c7]
+	(No symbol) [0x0xc022f4]
+	(No symbol) [0x0xc01867]
+	(No symbol) [0x0xc4b088]
+	(No symbol) [0x0xc213dc]
+	(No symbol) [0x0xc426ea]
+	(No symbol) [0x0xc211d6]
+	(No symbol) [0x0xbf0833]
+	(No symbol) [0x0xbf16a4]
+	GetHandleVerifier [0x0xfe8d13+2590131]
+	GetHandleVerifier [0x0xfe3f5a+2570234]
+	GetHandleVerifier [0x0xda59da+217722]
+	GetHandleVerifier [0x0xd96048+153832]
+	GetHandleVerifier [0x0xd9c4ad+179533]
+	GetHandleVerifier [0x0xd87728+94152]
+	GetHandleVerifier [0x0xd878b2+94546]
+	GetHandleVerifier [0x0xd72bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-12 10:02:42,362 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-12 10:02:42,362 - ERROR - Traceback (most recent call last):
+2025-08-12 10:02:42,362 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+2025-08-12 10:02:42,362 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 199, in start_delete_content
+    selenium_util.random_click(browser, delete_btn_selector)
+2025-08-12 10:02:42,362 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 555, in random_click
+    element_random_click(browser, element)
+2025-08-12 10:02:42,362 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 514, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-08-12 10:02:42,362 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-08-12 10:02:42,362 - ERROR - selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable: https://m.cafe.naver.com/ca-fe/web/cafes/18556310/articles/200974?tc# has no size and location
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0xd7fd23+62915]
+	GetHandleVerifier [0x0xd7fd64+62980]
+	(No symbol) [0x0xbb3e13]
+	(No symbol) [0x0xbba619]
+	(No symbol) [0x0xbbc94a]
+	(No symbol) [0x0xbbc9c7]
+	(No symbol) [0x0xc022f4]
+	(No symbol) [0x0xc01867]
+	(No symbol) [0x0xc4b088]
+	(No symbol) [0x0xc213dc]
+	(No symbol) [0x0xc426ea]
+	(No symbol) [0x0xc211d6]
+	(No symbol) [0x0xbf0833]
+	(No symbol) [0x0xbf16a4]
+	GetHandleVerifier [0x0xfe8d13+2590131]
+	GetHandleVerifier [0x0xfe3f5a+2570234]
+	GetHandleVerifier [0x0xda59da+217722]
+	GetHandleVerifier [0x0xd96048+153832]
+	GetHandleVerifier [0x0xd9c4ad+179533]
+	GetHandleVerifier [0x0xd87728+94152]
+	GetHandleVerifier [0x0xd878b2+94546]
+	GetHandleVerifier [0x0xd72bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-12 10:02:42,566 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 10:02:42,567 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 10:02:43,069 - INFO - ==================================
+2025-08-12 10:02:43,069 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 10:02:43,215 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 10:02:44,425 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 10:02:46,430 - INFO - ==================================
+2025-08-12 10:02:46,431 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 10:02:46,431 - INFO - -----------------------------
+2025-08-12 10:02:46,431 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 10:02:46,431 - INFO - ==================================
+2025-08-12 10:02:50,049 - INFO - ==================================
+2025-08-12 10:02:51,825 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 10:02:51,825 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:02:52,518 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:02:53,114 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 10:02:53,338 - INFO - C:\program_cookies 폴더 크기: 1.16 GB
+2025-08-12 10:02:53,352 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.18 GB
+2025-08-12 10:02:53,352 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 10:02:53,353 - INFO - fixed UA가 있습니다.
+2025-08-12 10:02:53,353 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 10:02:53,353 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 10:02:53,353 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 10:02:56,928 - INFO - 크롬창을 열었습니다.
+2025-08-12 10:02:56,929 - INFO - Android
+2025-08-12 10:02:56,936 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 10:02:56,936 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 10:02:56,936 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 10:02:57,291 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 10:02:57,291 - INFO - ~~~~~~~~~~
+2025-08-12 10:02:57,776 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 10:02:58,301 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 10:03:00,516 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 10:03:02,534 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 10:03:09,708 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 10:03:10,218 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 10:03:11,641 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 10:03:11,641 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 10:03:15,212 - INFO - delete-6298 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 10:03:23,059 - INFO - delete-6021 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:03:29,628 - INFO - delete-6329 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:03:35,750 - INFO - delete-6335 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:03:42,515 - INFO - delete-6676 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:03:42,515 - INFO - 시트이름: 게시글삭제/작성내역
+2025-08-12 10:03:42,515 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:03:43,076 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:03:51,718 - INFO - delete-6677 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:03:58,112 - INFO - delete-6678 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:03:59,078 - INFO - delete-6679 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 10:04:06,318 - INFO - delete-6680 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:04:12,869 - INFO - delete-6681 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:04:12,869 - INFO - 시트이름: 게시글삭제/작성내역
+2025-08-12 10:04:12,869 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:04:13,331 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:04:21,100 - INFO - delete-6682 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:04:35,361 - INFO - delete-6683 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:04:41,952 - INFO - delete-6684 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:04:48,194 - INFO - delete-6685 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:04:54,896 - INFO - delete-6686 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:04:54,896 - INFO - 시트이름: 게시글삭제/작성내역
+2025-08-12 10:04:54,896 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:04:55,476 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:05:02,700 - INFO - delete-6687 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 10:05:03,285 - ERROR - 2/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 169, in start_delete_content
+    selenium_util.wait_for_element(browser, 2, more_btn_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 104, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x3cfd23+62915]
+	GetHandleVerifier [0x0x3cfd64+62980]
+	(No symbol) [0x0x203c70]
+	(No symbol) [0x0x23faf8]
+	(No symbol) [0x0x271296]
+	(No symbol) [0x0x26ce75]
+	(No symbol) [0x0x26c3f6]
+	(No symbol) [0x0x1d5755]
+	(No symbol) [0x0x1d5cae]
+	(No symbol) [0x0x1d613d]
+	GetHandleVerifier [0x0x638d13+2590131]
+	GetHandleVerifier [0x0x633f5a+2570234]
+	GetHandleVerifier [0x0x3f59da+217722]
+	GetHandleVerifier [0x0x3e6048+153832]
+	GetHandleVerifier [0x0x3ec4ad+179533]
+	(No symbol) [0x0x1d5420]
+	(No symbol) [0x0x1d4c36]
+	GetHandleVerifier [0x0x77508c+3885356]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 10:05:03,286 - ERROR - Traceback (most recent call last):
+2025-08-12 10:05:03,286 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+2025-08-12 10:05:03,286 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 169, in start_delete_content
+    selenium_util.wait_for_element(browser, 2, more_btn_selector)
+2025-08-12 10:05:03,286 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:05:03,287 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:05:03,287 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 104, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:05:03,287 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:05:03,287 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-08-12 10:05:03,287 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-08-12 10:05:03,287 - ERROR - selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x3cfd23+62915]
+	GetHandleVerifier [0x0x3cfd64+62980]
+	(No symbol) [0x0x203c70]
+	(No symbol) [0x0x23faf8]
+	(No symbol) [0x0x271296]
+	(No symbol) [0x0x26ce75]
+	(No symbol) [0x0x26c3f6]
+	(No symbol) [0x0x1d5755]
+	(No symbol) [0x0x1d5cae]
+	(No symbol) [0x0x1d613d]
+	GetHandleVerifier [0x0x638d13+2590131]
+	GetHandleVerifier [0x0x633f5a+2570234]
+	GetHandleVerifier [0x0x3f59da+217722]
+	GetHandleVerifier [0x0x3e6048+153832]
+	GetHandleVerifier [0x0x3ec4ad+179533]
+	(No symbol) [0x0x1d5420]
+	(No symbol) [0x0x1d4c36]
+	GetHandleVerifier [0x0x77508c+3885356]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-12 10:05:03,558 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 10:05:03,558 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 10:05:04,059 - INFO - ==================================
+2025-08-12 10:05:04,059 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 10:05:04,251 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 10:05:05,504 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 10:05:07,513 - INFO - ==================================
+2025-08-12 10:05:07,513 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 10:05:07,514 - INFO - -----------------------------
+2025-08-12 10:05:07,514 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 10:05:07,514 - INFO - ==================================
+2025-08-12 10:05:11,164 - INFO - ==================================
+2025-08-12 10:05:13,157 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 10:05:13,157 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:05:13,780 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:05:14,365 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 10:05:14,618 - INFO - C:\program_cookies 폴더 크기: 1.12 GB
+2025-08-12 10:05:14,637 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.14 GB
+2025-08-12 10:05:14,637 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 10:05:14,637 - INFO - fixed UA가 있습니다.
+2025-08-12 10:05:14,637 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 10:05:14,637 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 10:05:14,638 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 10:05:18,710 - INFO - 크롬창을 열었습니다.
+2025-08-12 10:05:18,710 - INFO - Android
+2025-08-12 10:05:18,723 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 10:05:18,723 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 10:05:18,723 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 10:05:19,103 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 10:05:19,103 - INFO - ~~~~~~~~~~
+2025-08-12 10:05:19,437 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 10:05:20,076 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 10:05:20,850 - ERROR - 3/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 91, in start_delete_content
+    browser = browser_load(row)
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 68, in browser_load
+    naver_bot.naver_login_mo(ID, PW)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 77, in naver_login_mo
+    selenium_util.element_random_click(self.browser, aside_icon_element)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 508, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0x98fd23+62915]
+	GetHandleVerifier [0x0x98fd64+62980]
+	(No symbol) [0x0x7c3e13]
+	(No symbol) [0x0x7b3ce0]
+	(No symbol) [0x0x7b3c66]
+	(No symbol) [0x0x7b2583]
+	(No symbol) [0x0x7b312b]
+	(No symbol) [0x0x7b1bc5]
+	(No symbol) [0x0x7ceb73]
+	(No symbol) [0x0x85bfd2]
+	(No symbol) [0x0x8313dc]
+	(No symbol) [0x0x8526ea]
+	(No symbol) [0x0x8311d6]
+	(No symbol) [0x0x800833]
+	(No symbol) [0x0x8016a4]
+	GetHandleVerifier [0x0xbf8d13+2590131]
+	GetHandleVerifier [0x0xbf3f5a+2570234]
+	GetHandleVerifier [0x0x9b59da+217722]
+	GetHandleVerifier [0x0x9a6048+153832]
+	GetHandleVerifier [0x0x9ac4ad+179533]
+	GetHandleVerifier [0x0x997728+94152]
+	GetHandleVerifier [0x0x9978b2+94546]
+	GetHandleVerifier [0x0x982bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 10:05:20,850 - ERROR - Traceback (most recent call last):
+2025-08-12 10:05:20,850 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+2025-08-12 10:05:20,850 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 91, in start_delete_content
+    browser = browser_load(row)
+    ^^^^^^^^^^^^^^^^^
+2025-08-12 10:05:20,850 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 68, in browser_load
+    naver_bot.naver_login_mo(ID, PW)
+2025-08-12 10:05:20,850 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 77, in naver_login_mo
+    selenium_util.element_random_click(self.browser, aside_icon_element)
+2025-08-12 10:05:20,850 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 508, in element_random_click
+    ActionChains(driver).move_to_element(element).pause(random.uniform(0.01, 0.02)).move_by_offset(targetX,targetY).click().perform()
+2025-08-12 10:05:20,850 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+2025-08-12 10:05:20,850 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+2025-08-12 10:05:20,850 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-08-12 10:05:20,850 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-08-12 10:05:20,850 - ERROR - selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0x98fd23+62915]
+	GetHandleVerifier [0x0x98fd64+62980]
+	(No symbol) [0x0x7c3e13]
+	(No symbol) [0x0x7b3ce0]
+	(No symbol) [0x0x7b3c66]
+	(No symbol) [0x0x7b2583]
+	(No symbol) [0x0x7b312b]
+	(No symbol) [0x0x7b1bc5]
+	(No symbol) [0x0x7ceb73]
+	(No symbol) [0x0x85bfd2]
+	(No symbol) [0x0x8313dc]
+	(No symbol) [0x0x8526ea]
+	(No symbol) [0x0x8311d6]
+	(No symbol) [0x0x800833]
+	(No symbol) [0x0x8016a4]
+	GetHandleVerifier [0x0xbf8d13+2590131]
+	GetHandleVerifier [0x0xbf3f5a+2570234]
+	GetHandleVerifier [0x0x9b59da+217722]
+	GetHandleVerifier [0x0x9a6048+153832]
+	GetHandleVerifier [0x0x9ac4ad+179533]
+	GetHandleVerifier [0x0x997728+94152]
+	GetHandleVerifier [0x0x9978b2+94546]
+	GetHandleVerifier [0x0x982bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-12 10:05:20,992 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 10:05:20,992 - INFO - ✅ Chrome 종료 결과: Chrome이 실행 중이지 않습니다.
+2025-08-12 10:05:21,497 - INFO - ==================================
+2025-08-12 10:05:21,497 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 10:05:21,617 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 10:05:22,894 - INFO - Chrome 업데이트를 확인하는 중...

@@ -1,0 +1,10 @@
+2025-09-04 16:10:14,459 - INFO - 시트이름: 대시보드
+2025-09-04 16:10:14,459 - INFO - 구글 시트 로드 - 시도중....
+2025-09-04 16:10:14,894 - INFO - 구글 시트 로드 - 완료
+2025-09-04 16:10:15,552 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-04 16:10:15,654 - INFO - C:\program_cookies 폴더 크기: 0.63 GB
+2025-09-04 16:10:15,654 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-09-04 16:10:15,654 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-09-04 16:10:15,670 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-09-04 16:10:15,670 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-09-04 16:10:19,891 - INFO - Stay signed out 버튼이 없습니다 - 'NoneType' object has no attribute 'get_position'

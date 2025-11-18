@@ -1,0 +1,93 @@
+2025-09-16 13:59:15,820 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-16 13:59:15,821 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-16 13:59:16,822 - INFO - ==================================
+2025-09-16 13:59:16,822 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-16 13:59:16,990 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-16 13:59:19,746 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-16 13:59:21,752 - INFO - ==================================
+2025-09-16 13:59:21,752 - INFO - Chrome 상태 : Chrome 업데이트 중
+2025-09-16 13:59:21,752 - INFO - -----------------------------
+2025-09-16 13:59:21,752 - INFO - 🔄 Chrome 업데이트 진행중
+2025-09-16 13:59:21,863 - INFO - Chrome 버전 상태 : Chrome 업데이트 중
+2025-09-16 13:59:22,900 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(1%)
+2025-09-16 13:59:23,938 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(2%)
+2025-09-16 13:59:24,974 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(3%)
+2025-09-16 13:59:26,014 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(6%)
+2025-09-16 13:59:27,049 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(9%)
+2025-09-16 13:59:28,083 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(12%)
+2025-09-16 13:59:29,116 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(15%)
+2025-09-16 13:59:30,149 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(18%)
+2025-09-16 13:59:31,182 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(20%)
+2025-09-16 13:59:32,217 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(23%)
+2025-09-16 13:59:33,249 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(26%)
+2025-09-16 13:59:34,286 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(29%)
+2025-09-16 13:59:35,323 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(33%)
+2025-09-16 13:59:36,357 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(36%)
+2025-09-16 13:59:37,392 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(40%)
+2025-09-16 13:59:38,425 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(43%)
+2025-09-16 13:59:39,458 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(47%)
+2025-09-16 13:59:40,490 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-09-16 13:59:41,526 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-09-16 13:59:42,560 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-09-16 13:59:43,596 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-09-16 13:59:44,632 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-09-16 13:59:45,668 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-09-16 13:59:46,708 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-09-16 13:59:47,745 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-09-16 13:59:48,785 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(69%)
+2025-09-16 13:59:49,834 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(79%)
+2025-09-16 13:59:49,939 - INFO - ✅ Chrome 업데이트 완료됨. 종료합니다.
+2025-09-16 13:59:49,939 - INFO - ==================================
+2025-09-16 13:59:50,071 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-16 13:59:50,071 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-16 13:59:51,080 - INFO - ==================================
+2025-09-16 13:59:51,205 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-16 13:59:51,205 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-16 13:59:52,216 - INFO - ==================================
+2025-09-16 13:59:52,216 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-16 13:59:52,378 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-16 13:59:56,186 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 166, in <module>
+    pcdriver.update_chromedriver()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 82, in update_chromedriver
+    update_chrome()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 35, in update_chrome
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 47, in __init__
+    super().__init__(
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 257, in __init__
+    self.start_session(capabilities)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7d5c3fc95+79861]
+	GetHandleVerifier [0x0x7ff7d5c3fcf0+79952]
+	(No symbol) [0x0x7ff7d59bcada]
+	(No symbol) [0x0x7ff7d59fbfeb]
+	(No symbol) [0x0x7ff7d59f6340]
+	(No symbol) [0x0x7ff7d5a4a84f]
+	(No symbol) [0x0x7ff7d5a49fd0]
+	(No symbol) [0x0x7ff7d5a3c8b3]
+	(No symbol) [0x0x7ff7d5a05272]
+	(No symbol) [0x0x7ff7d5a06043]
+	GetHandleVerifier [0x0x7ff7d5efb9cd+2946349]
+	GetHandleVerifier [0x0x7ff7d5ef5c4a+2922410]
+	GetHandleVerifier [0x0x7ff7d5f159d7+3052855]
+	GetHandleVerifier [0x0x7ff7d5c5aa7e+189918]
+	GetHandleVerifier [0x0x7ff7d5c62a1f+222591]
+	GetHandleVerifier [0x0x7ff7d5c48ab4+116244]
+	GetHandleVerifier [0x0x7ff7d5c48c69+116681]
+	GetHandleVerifier [0x0x7ff7d5c2f048+11176]
+	BaseThreadInitThunk [0x0x7ffd4a92e8d7+23]
+	RtlUserThreadStart [0x0x7ffd4b8c8d9c+44]
+

@@ -1,0 +1,235 @@
+2025-09-04 18:59:10,800 - ERROR - 1/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 18:59:10,800 - ERROR - Traceback (most recent call last):
+2025-09-04 18:59:10,801 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 18:59:10,801 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 18:59:10,801 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+2025-09-04 18:59:10,801 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+2025-09-04 18:59:10,801 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+2025-09-04 18:59:10,802 - ERROR - OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+2025-09-04 18:59:11,011 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 18:59:11,012 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 18:59:12,012 - INFO - ==================================
+2025-09-04 18:59:12,012 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 18:59:12,183 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 18:59:13,483 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-04 18:59:15,487 - INFO - ==================================
+2025-09-04 18:59:15,488 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-04 18:59:15,488 - INFO - -----------------------------
+2025-09-04 18:59:15,488 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-04 18:59:15,488 - INFO - ==================================
+2025-09-04 18:59:15,640 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 18:59:15,641 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 18:59:16,642 - INFO - ==================================
+2025-09-04 18:59:16,652 - ERROR - 2/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 18:59:16,653 - ERROR - Traceback (most recent call last):
+2025-09-04 18:59:16,653 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 18:59:16,653 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 18:59:16,653 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+2025-09-04 18:59:16,653 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+2025-09-04 18:59:16,654 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+2025-09-04 18:59:16,654 - ERROR - OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+2025-09-04 18:59:16,654 - INFO - 텔레그램 에러 메시지 : [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+2025-09-04 18:59:17,964 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 18:59:17,964 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 18:59:18,965 - INFO - ==================================
+2025-09-04 18:59:18,965 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 18:59:19,110 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 18:59:20,377 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-04 18:59:22,381 - INFO - ==================================
+2025-09-04 18:59:22,382 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-04 18:59:22,382 - INFO - -----------------------------
+2025-09-04 18:59:22,382 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-04 18:59:22,382 - INFO - ==================================
+2025-09-04 18:59:22,545 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 18:59:22,545 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 18:59:23,546 - INFO - ==================================
+2025-09-04 18:59:23,556 - ERROR - 3/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 18:59:23,557 - ERROR - Traceback (most recent call last):
+2025-09-04 18:59:23,557 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 18:59:23,557 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 18:59:23,558 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+2025-09-04 18:59:23,558 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+2025-09-04 18:59:23,558 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+2025-09-04 18:59:23,558 - ERROR - OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+2025-09-04 18:59:23,558 - INFO - 텔레그램 에러 메시지 : [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+2025-09-04 18:59:24,668 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 18:59:24,668 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 18:59:25,670 - INFO - ==================================
+2025-09-04 18:59:25,670 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 18:59:25,822 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 18:59:27,076 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-04 18:59:29,081 - INFO - ==================================
+2025-09-04 18:59:29,081 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-04 18:59:29,081 - INFO - -----------------------------
+2025-09-04 18:59:29,081 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-04 18:59:29,082 - INFO - ==================================
+2025-09-04 18:59:29,242 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 18:59:29,242 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 18:59:30,243 - INFO - ==================================
+2025-09-04 18:59:30,253 - ERROR - 4/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 18:59:30,254 - ERROR - Traceback (most recent call last):
+2025-09-04 18:59:30,255 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 18:59:30,255 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 18:59:30,255 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+2025-09-04 18:59:30,255 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+2025-09-04 18:59:30,255 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+2025-09-04 18:59:30,255 - ERROR - OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+2025-09-04 18:59:30,256 - INFO - 텔레그램 에러 메시지 : [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 886, in run
+    reconnector = NordVPNReconnector(
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 584, in __init__
+    self._assert_cli()
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 750, in _assert_cli
+    raise EnvironmentError("nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.")
+OSError: nordvpn CLI가 보이지 않습니다. 앱/CLI 설치 또는 PATH 확인 필요.
+2025-09-04 18:59:31,343 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 18:59:31,343 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 18:59:32,343 - INFO - ==================================
+2025-09-04 18:59:32,343 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 18:59:32,510 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 18:59:33,804 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-04 18:59:35,809 - INFO - ==================================
+2025-09-04 18:59:35,809 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-04 18:59:35,810 - INFO - -----------------------------
+2025-09-04 18:59:35,810 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-04 18:59:35,810 - INFO - ==================================
+2025-09-04 18:59:35,979 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 18:59:35,979 - INFO - ✅ Chrome 종료 결과: Chrome 종료

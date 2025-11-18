@@ -1,0 +1,53 @@
+2025-08-21 16:07:46,615 - INFO - ==================================
+2025-08-21 16:07:46,615 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-21 16:07:46,615 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-21 16:07:46,616 - INFO - 구글 시트 로드 - 시도중....
+2025-08-21 16:07:47,575 - INFO - 구글 시트 로드 - 완료
+2025-08-21 16:07:48,061 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-21 16:07:48,063 - INFO - ==================================
+2025-08-21 16:07:48,064 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-21 16:07:48,065 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-21 16:07:48,211 - INFO - [# USB테더링 전환 #] - 성공
+2025-08-21 16:07:48,212 - INFO - [#1 mobile_ip 전환 - success ]
+2025-08-21 16:07:48,212 - INFO - -----------------------------
+2025-08-21 16:07:48,212 - INFO - [#2 before_ip 추출] - try
+2025-08-21 16:07:48,212 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:07:48,633 - INFO - -- 'https://ipinfo.io/ip' : 118.235.74.145
+2025-08-21 16:07:48,635 - INFO - [#2 before_ip 추출] - success : 118.235.74.145
+2025-08-21 16:07:48,636 - INFO - -----------------------------
+2025-08-21 16:07:54,112 - INFO - --- 모바일 데이터 off - 성공
+2025-08-21 16:07:54,466 - INFO - --- 비행기 모드 on - 성공
+2025-08-21 16:07:54,801 - INFO - --- 비행기 모드 off - 성공
+2025-08-21 16:07:55,178 - INFO - --- 모바일 데이터 on - 성공
+2025-08-21 16:07:55,178 - INFO - [#3 after_ip 추출] - try
+2025-08-21 16:07:55,179 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:07:56,535 - INFO - -- 'https://ipinfo.io/ip' : 39.7.231.59
+2025-08-21 16:07:56,536 - INFO - [#3 after_ip 추출] - success : 39.7.231.59
+2025-08-21 16:07:56,536 - INFO - Success -IP 변경(성공): before 118.235.74.145 => after 39.7.231.59
+2025-08-21 16:07:56,536 - INFO - ★★★ IP 변경 - Success ★★★
+2025-08-21 16:07:56,536 - INFO - ==================================
+2025-08-21 16:07:57,550 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-08-21 16:07:57,551 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-21 16:07:57,552 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:07:57,552 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:07:57,553 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6832.64 Safari/537.36입니다.
+2025-08-21 16:08:10,616 - INFO - C:\program_cookies 폴더 크기: 0.00 GB
+2025-08-21 16:08:10,617 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:08:10,617 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:08:10,618 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-08-21 16:08:25,563 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:08:25,564 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:08:25,564 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:08:25,564 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Trailer/93.3.3570.29입니다.
+2025-08-21 16:08:42,972 - INFO - C:\program_cookies 폴더 크기: 0.00 GB
+2025-08-21 16:08:42,973 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:08:42,973 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:08:42,973 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6812.76 Safari/537.36입니다.
+2025-08-21 16:08:57,473 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:08:57,473 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:08:57,474 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:08:57,474 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36입니다.
+2025-08-21 16:09:15,603 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:09:15,603 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:09:15,605 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:09:15,605 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Trailer/93.3.3570.29입니다.

@@ -1,0 +1,46 @@
+2025-08-22 11:10:30,669 - ERROR - 1/10번째 [ naver_search_rank_kakao_message.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 563, in <module>
+    main_process()
+TypeError: main_process() missing 1 required positional argument: 'googlesheet'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-22 11:10:30,669 - ERROR - Traceback (most recent call last):
+2025-08-22 11:10:30,669 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 563, in <module>
+    main_process()
+2025-08-22 11:10:30,669 - ERROR - TypeError: main_process() missing 1 required positional argument: 'googlesheet'
+2025-08-22 11:10:30,669 - INFO - ==================================
+2025-08-22 11:10:30,669 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-22 11:10:30,811 - INFO - [현재 크롬 버전] : 139.0.7258.139
+2025-08-22 11:10:32,022 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-22 11:10:34,024 - INFO - ==================================
+2025-08-22 11:10:34,024 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-22 11:10:34,024 - INFO - -----------------------------
+2025-08-22 11:10:34,024 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-22 11:10:34,024 - INFO - ==================================
+2025-08-22 11:10:34,162 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-22 11:10:34,162 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-22 11:10:35,163 - INFO - ==================================
+2025-08-22 11:10:35,282 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-22 11:10:35,282 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-22 11:10:35,282 - ERROR - 2/10번째 [ naver_search_rank_kakao_message.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 563, in <module>
+    main_process()
+TypeError: main_process() missing 1 required positional argument: 'googlesheet'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-22 11:10:35,282 - ERROR - Traceback (most recent call last):
+2025-08-22 11:10:35,282 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 563, in <module>
+    main_process()
+2025-08-22 11:10:35,282 - ERROR - TypeError: main_process() missing 1 required positional argument: 'googlesheet'
+2025-08-22 11:10:35,282 - INFO - 텔레그램 에러 메시지 : [ naver_search_rank_kakao_message.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 563, in <module>
+    main_process()
+TypeError: main_process() missing 1 required positional argument: 'googlesheet'

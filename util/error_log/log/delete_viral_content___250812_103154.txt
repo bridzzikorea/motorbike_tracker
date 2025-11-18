@@ -1,0 +1,116 @@
+2025-08-12 10:31:56,946 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 10:31:56,946 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:31:57,501 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:31:58,072 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 10:31:58,258 - INFO - C:\program_cookies 폴더 크기: 1.04 GB
+2025-08-12 10:31:58,276 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.06 GB
+2025-08-12 10:31:58,277 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 10:31:58,282 - INFO - fixed UA가 있습니다.
+2025-08-12 10:31:58,282 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 10:31:58,282 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 10:31:58,283 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 10:32:01,705 - INFO - 크롬창을 열었습니다.
+2025-08-12 10:32:01,708 - INFO - Android
+2025-08-12 10:32:01,718 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 10:32:01,719 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 10:32:01,719 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 10:32:02,057 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 10:32:02,057 - INFO - ~~~~~~~~~~
+2025-08-12 10:32:02,540 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 10:32:03,084 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 10:32:05,022 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 10:32:07,103 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 10:32:14,827 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 10:32:15,161 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 10:32:17,542 - INFO - 이미 읽어 본 메일이라 스킵하고 넘어갑니다.
+2025-08-12 10:32:17,836 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 10:32:21,445 - INFO - delete-6707 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 10:32:26,490 - INFO - 이 카페는 접근하실 수 없습니다. 이 카페는 네이버 이용약관 및 운영원칙에서 제한하고 있는 목적으로 개설되었거나 제한 대상 게시글을 다수 포함하고 있어 접근이 제한 되었습니다.
+2025-08-12 10:33:10,952 - ERROR - 1/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 130, in start_delete_content
+    browser.get(row['게시완료링크'])
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\__init__.py", line 665, in get
+    return super().get(url)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 472, in get
+    self.execute(Command.GET, {"url": url})
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 231, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 이 카페는 접근하실 수 없습니다. 이 카페는 네이버 이용약관 및 운영원칙에서 제한하고 있는 목적으로 개설되었거나 제한 대상 게시글을 다수 포함하고 있어 접근이 제한 되었습니다.
+Message: unexpected alert open: {Alert text : 이 카페는 접근하실 수 없습니다. 이 카페는 네이버 이용약관 및 운영원칙에서 제한하고 있는 목적으로 개설되었거나 제한 대상 게시글을 다수 포함하고 있어 접근이 제한 되었습니다.}
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0x2dfd23+62915]
+	GetHandleVerifier [0x0x2dfd64+62980]
+	(No symbol) [0x0x113e13]
+	(No symbol) [0x0x1a2fba]
+	(No symbol) [0x0x1811d6]
+	(No symbol) [0x0x150833]
+	(No symbol) [0x0x1516a4]
+	GetHandleVerifier [0x0x548d13+2590131]
+	GetHandleVerifier [0x0x543f5a+2570234]
+	GetHandleVerifier [0x0x3059da+217722]
+	GetHandleVerifier [0x0x2f6048+153832]
+	GetHandleVerifier [0x0x2fc4ad+179533]
+	GetHandleVerifier [0x0x2e7728+94152]
+	GetHandleVerifier [0x0x2e78b2+94546]
+	GetHandleVerifier [0x0x2d2bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+	(No symbol) [0x0]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 10:33:10,957 - ERROR - Traceback (most recent call last):
+2025-08-12 10:33:10,958 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+2025-08-12 10:33:10,958 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 130, in start_delete_content
+    browser.get(row['게시완료링크'])
+2025-08-12 10:33:10,958 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\__init__.py", line 665, in get
+    return super().get(url)
+           ^^^^^^^^^^^^^^^^
+2025-08-12 10:33:10,958 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 472, in get
+    self.execute(Command.GET, {"url": url})
+2025-08-12 10:33:10,959 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-08-12 10:33:10,959 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 231, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:33:10,959 - ERROR - selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 이 카페는 접근하실 수 없습니다. 이 카페는 네이버 이용약관 및 운영원칙에서 제한하고 있는 목적으로 개설되었거나 제한 대상 게시글을 다수 포함하고 있어 접근이 제한 되었습니다.
+Message: unexpected alert open: {Alert text : 이 카페는 접근하실 수 없습니다. 이 카페는 네이버 이용약관 및 운영원칙에서 제한하고 있는 목적으로 개설되었거나 제한 대상 게시글을 다수 포함하고 있어 접근이 제한 되었습니다.}
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0x2dfd23+62915]
+	GetHandleVerifier [0x0x2dfd64+62980]
+	(No symbol) [0x0x113e13]
+	(No symbol) [0x0x1a2fba]
+	(No symbol) [0x0x1811d6]
+	(No symbol) [0x0x150833]
+	(No symbol) [0x0x1516a4]
+	GetHandleVerifier [0x0x548d13+2590131]
+	GetHandleVerifier [0x0x543f5a+2570234]
+	GetHandleVerifier [0x0x3059da+217722]
+	GetHandleVerifier [0x0x2f6048+153832]
+	GetHandleVerifier [0x0x2fc4ad+179533]
+	GetHandleVerifier [0x0x2e7728+94152]
+	GetHandleVerifier [0x0x2e78b2+94546]
+	GetHandleVerifier [0x0x2d2bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+	(No symbol) [0x0]
+2025-08-12 10:33:11,155 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 10:33:11,159 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 10:33:11,661 - INFO - ==================================
+2025-08-12 10:33:11,662 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 10:33:11,812 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 10:33:13,065 - INFO - Chrome 업데이트를 확인하는 중...

@@ -1,0 +1,403 @@
+2025-10-30 14:38:48,793 - INFO - ==================================
+2025-10-30 14:38:48,793 - INFO - ==================================
+2025-10-30 14:38:48,793 - INFO - [ 14시] - 키워드 센싱을 시작합니다
+2025-10-30 14:38:48,793 - INFO - ==================================
+2025-10-30 14:38:48,793 - INFO - -----------------------------
+2025-10-30 14:38:48,793 - INFO - 시트이름: #3 브랜드_커뮤니티선별
+2025-10-30 14:38:48,793 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:38:51,635 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:38:52,373 - INFO - #3 브랜드_커뮤니티선별 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:38:52,373 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 14:38:52,373 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:38:53,976 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:38:54,577 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:38:54,577 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 14:38:54,577 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:38:55,781 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:38:56,289 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:38:56,289 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 14:38:56,289 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:38:57,448 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:38:58,006 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 14:38:58,006 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:38:59,730 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:00,322 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:39:00,760 - INFO - C:\program_cookies 폴더 크기: 2.17 GB
+2025-10-30 14:39:00,837 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-10-30 14:39:00,837 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-10-30 14:39:00,837 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-10-30 14:39:00,837 - INFO - fixed UA가 있습니다.
+2025-10-30 14:39:00,837 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36입니다.
+2025-10-30 14:39:00,837 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-30 14:39:00,837 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-10-30 14:39:04,442 - INFO - ==================================
+2025-10-30 14:39:04,442 - INFO - devicemetrics를 override 합니다..
+2025-10-30 14:39:04,454 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-30 14:39:04,454 - INFO - FIXED gps 정보를 적용합니다.
+2025-10-30 14:39:04,454 - INFO - FIXED gps 정보는 {'latitude': 47.6653341, 'longitude': 137.075382, 'accuracy': 100} 입니다.
+2025-10-30 14:39:04,464 - INFO - 모든 변경이 완료되었습니다...
+2025-10-30 14:39:04,464 - INFO - ~~~~~~~~~~
+2025-10-30 14:39:04,464 - INFO - ==================================
+2025-10-30 14:39:04,464 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 디시인사이드 / 게시판 분류 : 게시물(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 14:39:06,567 - INFO - -----------------------------
+2025-10-30 14:39:06,675 - INFO - 제목 : 로보락보다가 유원트까지 내려왔다
+2025-10-30 14:39:06,704 - INFO - -----------------------------
+2025-10-30 14:39:08,097 - INFO - URL : https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44640
+2025-10-30 14:39:12,085 - INFO - -----------------------------
+2025-10-30 14:39:12,098 - INFO - 오늘 로보락할인하네 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:39:12,098 - INFO - -----------------------------
+2025-10-30 14:39:12,119 - INFO - 이미 크롤링했던 글입니다
+2025-10-30 14:39:12,119 - INFO - -----------------------------
+2025-10-30 14:39:12,120 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 14:39:12,120 - INFO - 시트이름: 최신게시글업로드
+2025-10-30 14:39:12,120 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:13,261 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:14,610 - INFO - Success update 최신게시글업로드
+2025-10-30 14:39:14,610 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 14:39:14,610 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:15,651 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:17,159 - INFO - Success update 일주일 추출 링크
+2025-10-30 14:39:22,161 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 14:39:22,161 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:23,656 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:24,240 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:39:24,240 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 네이트판 / 게시판 분류 : 톡톡(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 14:39:24,570 - INFO - -----------------------------
+2025-10-30 14:39:24,610 - INFO - 일주일 전 게시글 이기에 다음 키워드로 넘어갑니다.
+2025-10-30 14:39:24,610 - INFO - -----------------------------
+2025-10-30 14:39:24,610 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 14:39:24,610 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 14:39:24,611 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 14:39:24,611 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 네이트판 / 게시판 분류 : 뉴스(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 14:39:24,849 - INFO - -----------------------------
+2025-10-30 14:39:24,908 - INFO - 이미 크롤링했던 글입니다
+2025-10-30 14:39:24,908 - INFO - -----------------------------
+2025-10-30 14:39:24,908 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 14:39:24,908 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 14:39:24,908 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 14:39:24,909 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 뽐뿌 / 게시판 분류 : 커뮤니티(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 14:39:25,600 - INFO - -----------------------------
+2025-10-30 14:39:25,702 - INFO - [네이버] 로보락 Qrevo EdgeC 로봇청소기 화이트 (941,000원/무료)1 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:39:25,702 - INFO - -----------------------------
+2025-10-30 14:39:25,740 - INFO - 이미 크롤링했던 글입니다
+2025-10-30 14:39:25,741 - INFO - -----------------------------
+2025-10-30 14:39:25,741 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 14:39:25,741 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 14:39:25,741 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 14:39:25,742 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 뽐뿌 / 게시판 분류 : 뉴스(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 14:39:26,219 - INFO - -----------------------------
+2025-10-30 14:39:26,312 - INFO - [국감핫인물]中 '로보락' 개인정보 유출 방지 답변 이끌어낸 김승원 與 의원0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:39:26,312 - INFO - -----------------------------
+2025-10-30 14:39:26,331 - INFO - '블프'의 계절…온·오프 쇼핑 축제, 파격가·할인 혜택 쏟아진다0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:39:26,331 - INFO - -----------------------------
+2025-10-30 14:39:26,349 - INFO - 연중 최대 쇼핑축제 '쓱데이' 돌아왔다…행사물량 2兆 '역대급'0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:39:26,349 - INFO - -----------------------------
+2025-10-30 14:39:26,364 - INFO - 롯데홈쇼핑 '광클절', 인기 가수 8인 초대형 콘서트로 규모 확대0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:39:26,365 - INFO - -----------------------------
+2025-10-30 14:39:26,380 - INFO - “5060 열광하는 그들이 돌아온다”…롯데홈쇼핑 ‘광클절’, 인기 가수 8인 초대형 콘서트로 귀환0 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:39:26,380 - INFO - -----------------------------
+2025-10-30 14:39:26,435 - INFO - 일주일 전 게시글 이기에 다음 키워드로 넘어갑니다.
+2025-10-30 14:39:26,435 - INFO - -----------------------------
+2025-10-30 14:39:26,435 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 14:39:26,435 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 14:39:26,435 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 14:39:26,435 - INFO - ★ 키워드 센싱 - 작업완료 ★
+2025-10-30 14:39:26,613 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 14:39:26,614 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 14:39:26,615 - INFO - 동기화 10초 지연후 진행합니다
+2025-10-30 14:39:36,616 - INFO - ==================================
+2025-10-30 14:39:36,616 - INFO - [알람] 진행중 - 텔레그램에 알람을 보냅니다
+2025-10-30 14:39:36,616 - INFO - 시트이름: 알람대시보드
+2025-10-30 14:39:36,616 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:37,882 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:38,389 - INFO - 알람대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:39:38,389 - INFO - 1개의 알림 데이터를 메세지로 보냅니다
+2025-10-30 14:39:38,389 - INFO - 텔레그램 에러 메시지 : 내부번호:c_cs00_1
+
+제목:로보락보다가 유원트까지 내려왔다
+
+내용:카드할인으로 인해 스토어할인 받은 휴대폰을 구매하려다가 여러 기종을 비교해보던 중, 가성비가 괜찮아 보이는 유원트 휴대폰을 구매하였으며, 혼자 사용하기에 적합하다고 판단했다.
+
+게시글링크:https://gall.dcinside.com/mgallery/board/view/?id=robotcleaner&no=44640
+
+답글가능계정수:.
+2025-10-30 14:39:39,529 - INFO - 1번째 작업
+2025-10-30 14:39:39,529 - INFO - 알림완료 데이터를 시트에 업데이트 합니다
+2025-10-30 14:39:39,530 - INFO - 시트이름: 알림완료
+2025-10-30 14:39:39,530 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:40,890 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:42,083 - INFO - 텔레그램 에러 메시지 : 시작시간: 2025-10-30 14:39:42.083792
+2025-10-30 14:39:43,146 - INFO - [알람] 완료 - 텔레그램에 알람 보내기 작업을 완료했습니다
+2025-10-30 14:39:43,154 - INFO - ==================================
+2025-10-30 14:39:43,155 - INFO - 시트이름: 키워드_리스트(New)
+2025-10-30 14:39:43,155 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:43,872 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:44,341 - INFO - 키워드_리스트(New) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:39:44,341 - INFO - 시트이름: #3 브랜드_카페선별
+2025-10-30 14:39:44,342 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:45,328 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:45,741 - INFO - #3 브랜드_카페선별 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:39:45,744 - INFO - 시트이름: 키워드_리스트(New)
+2025-10-30 14:39:45,744 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:46,350 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:46,749 - INFO - 키워드_리스트(New) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:39:46,749 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 14:39:46,749 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:47,585 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:48,022 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 14:39:48,022 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:39:48,686 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:39:49,077 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:39:49,449 - INFO - C:\program_cookies 폴더 크기: 2.18 GB
+2025-10-30 14:39:49,553 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-10-30 14:39:49,554 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-10-30 14:39:49,554 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-10-30 14:39:49,554 - INFO - fixed UA가 있습니다.
+2025-10-30 14:39:49,554 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36입니다.
+2025-10-30 14:39:49,554 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-30 14:39:52,696 - INFO - useragentdata를 cdp_cmd로 변경합니다..
+2025-10-30 14:39:52,697 - INFO - Windows
+2025-10-30 14:39:52,701 - INFO - navigator를 override 합니다..
+2025-10-30 14:39:52,705 - INFO - devicemetrics를 override 합니다..
+2025-10-30 14:39:52,709 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-30 14:39:52,709 - INFO - FIXED gps 정보를 적용합니다.
+2025-10-30 14:39:52,709 - INFO - FIXED gps 정보는 {'latitude': 47.6653341, 'longitude': 137.075382, 'accuracy': 100} 입니다.
+2025-10-30 14:39:52,721 - INFO - ==================================
+2025-10-30 14:39:52,721 - INFO - 키워드 : 로보락 - 시작
+2025-10-30 14:39:53,149 - INFO - 1 페이지로 이동합니다
+2025-10-30 14:39:53,696 - INFO - -----------------------------
+2025-10-30 14:39:53,724 - INFO - 로봇청소기 로보락 S9 MaxV Ultra 후기, 진짜 ‘청소의 끝판왕’이라 불릴 만하네요! 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:39:53,724 - INFO - -----------------------------
+2025-10-30 14:39:53,782 - INFO - 제목 : 로봇청소기 추천부탁드요(예산 100만원)
+2025-10-30 14:39:58,005 - INFO - -----------------------------
+2025-10-30 14:39:58,008 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380193%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxOTMsImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI3OTQ5NjJ9.ZsVuq5ZcxPDEx9b1VQIiYtOg33BouIansSHYmqe1xy0%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:39:58,637 - INFO - writerInfoViZtyeoTQS4N4ylO-wYyIeQ780JE9DGTw9mCigDxpIc
+2025-10-30 14:39:58,699 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:39:59,703 - INFO - -----------------------------
+2025-10-30 14:39:59,764 - INFO - 제목 : 로보락 필터 바꾸는 주기요
+2025-10-30 14:40:04,197 - INFO - -----------------------------
+2025-10-30 14:40:04,201 - INFO - URL : https://cafe.naver.com/dgmom365?iframe_url=%2FArticleRead.nhn%3Fclubid%3D24000254%26articleid%3D7162110%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjo3MTYyMTEwLCJjYWZlVXJsIjoiZGdtb20zNjUiLCJpc3N1ZWRBdCI6MTc2MTgwMjc5NDk2M30.uDhaxM0FXwOrphc_VNUK6QLZbNdeD2gC7N455IdWG9U%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:40:04,643 - INFO - writerInfom_pklHlrcjfPrJguODzyVkYgEiGsU0Qv8uKqDxfvwvk
+2025-10-30 14:40:04,700 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:40:05,704 - INFO - -----------------------------
+2025-10-30 14:40:05,730 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:40:05,730 - INFO - -----------------------------
+2025-10-30 14:40:05,743 - INFO - 제목에 필수키워드가 없는 상품입니다. 생략하고 넘어갑니다
+2025-10-30 14:40:05,744 - INFO - -----------------------------
+2025-10-30 14:40:05,789 - INFO - 제목 : 로보락 F25 Ace Combo 공구가 공유해요! (~11/2)
+2025-10-30 14:40:10,140 - INFO - -----------------------------
+2025-10-30 14:40:10,144 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380187%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxODcsImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI3OTQ5NjV9.3pw9evviSj36rYx55XSXpvh16oqc9JFK8fHY-u36djE%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:40:10,821 - INFO - writerInfoywJxXMDhy1EBdeQXbWjVXXTBUQ3onQ06OkO8OwzDvXM
+2025-10-30 14:40:10,877 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:40:11,881 - INFO - -----------------------------
+2025-10-30 14:40:11,896 - INFO - 하이마트안중점 리뉴얼&메가행사 /휴젠뜨,로보락,실링팬,쿠쿠로봇청소기 최저가 7대한정 공동구매 행사 안내 (●'◡'●) 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:40:11,897 - INFO - -----------------------------
+2025-10-30 14:40:11,911 - INFO - 자사몰) 로보락 F25 Ace Combo 24%할인 679,000원 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:40:11,911 - INFO - -----------------------------
+2025-10-30 14:40:11,939 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:40:11,939 - INFO - -----------------------------
+2025-10-30 14:40:11,992 - INFO - 제목 : 로보락 s9 맥스X 울트라 세일하네요.
+2025-10-30 14:40:16,475 - INFO - -----------------------------
+2025-10-30 14:40:16,480 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380181%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxODEsImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI3OTQ5Njh9.6xOdgf7vqCR989NV5TMIzdpSjZsoAph93iyXfpYgF88%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:40:16,995 - INFO - writerInfo9-XNAfhmFavfTtrlp5FkUA
+2025-10-30 14:40:17,056 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:40:18,060 - INFO - -----------------------------
+2025-10-30 14:40:18,108 - INFO - 제목 : 로보락 Qrevo C 로봇청소기 리퍼 S등급 649,000원 무배
+2025-10-30 14:40:22,351 - INFO - -----------------------------
+2025-10-30 14:40:22,355 - INFO - URL : https://cafe.naver.com/sanmoschool?iframe_url=%2FArticleRead.nhn%3Fclubid%3D24081850%26articleid%3D1271335%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjoxMjcxMzM1LCJjYWZlVXJsIjoic2FubW9zY2hvb2wiLCJpc3N1ZWRBdCI6MTc2MTgwMjc5NDk2OX0.-0aR4kqdU5YIJAq623QAGhlL0OOo-mP-wx3n-VE1rDg%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:40:22,809 - INFO - writerInfoba0JOSHaBMHwxTuoEG50J2CaweYus_L1F-yMAWAr_cg
+2025-10-30 14:40:22,878 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:40:23,883 - INFO - -----------------------------
+2025-10-30 14:40:23,910 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:40:23,910 - INFO - ==================================
+2025-10-30 14:40:25,506 - INFO - 2 페이지로 이동합니다
+2025-10-30 14:40:25,518 - INFO - -----------------------------
+2025-10-30 14:40:25,533 - INFO - 로봇청소기 로보락 S9 MaxV Ultra 후기, 진짜 ‘청소의 끝판왕’이라 불릴 만하네요! 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:40:25,534 - INFO - -----------------------------
+2025-10-30 14:40:25,580 - INFO - 제목 : 로봇청소기 추천부탁드요(예산 100만원)
+2025-10-30 14:40:30,116 - INFO - -----------------------------
+2025-10-30 14:40:30,121 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380193%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxOTMsImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI4MjU3OTl9.V7lHMm8e6o0xrMzRn95INNu7TF6yK5chtCEl8Cbn6TE%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:40:30,825 - INFO - writerInfoViZtyeoTQS4N4ylO-wYyIeQ780JE9DGTw9mCigDxpIc
+2025-10-30 14:40:30,893 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:40:31,896 - INFO - -----------------------------
+2025-10-30 14:40:31,941 - INFO - 제목 : 로보락 필터 바꾸는 주기요
+2025-10-30 14:40:36,278 - INFO - -----------------------------
+2025-10-30 14:40:36,283 - INFO - URL : https://cafe.naver.com/dgmom365?iframe_url=%2FArticleRead.nhn%3Fclubid%3D24000254%26articleid%3D7162110%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjo3MTYyMTEwLCJjYWZlVXJsIjoiZGdtb20zNjUiLCJpc3N1ZWRBdCI6MTc2MTgwMjgyNTc5OX0.nllc4EgeTAo61lQHuYvwR5R3muOx-FOOfNegk7d-cwE%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:40:36,682 - INFO - writerInfom_pklHlrcjfPrJguODzyVkYgEiGsU0Qv8uKqDxfvwvk
+2025-10-30 14:40:36,742 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:40:37,745 - INFO - -----------------------------
+2025-10-30 14:40:37,773 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:40:37,773 - INFO - -----------------------------
+2025-10-30 14:40:37,787 - INFO - 제목에 필수키워드가 없는 상품입니다. 생략하고 넘어갑니다
+2025-10-30 14:40:37,787 - INFO - -----------------------------
+2025-10-30 14:40:37,833 - INFO - 제목 : 로보락 F25 Ace Combo 공구가 공유해요! (~11/2)
+2025-10-30 14:40:41,952 - INFO - -----------------------------
+2025-10-30 14:40:41,957 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380187%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxODcsImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI4MjU4MDF9.Jf-P5O5fo5khKHFs9rrrtjOs99h8PSJ6-SFODzr1R0I%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:40:42,654 - INFO - writerInfoywJxXMDhy1EBdeQXbWjVXXTBUQ3onQ06OkO8OwzDvXM
+2025-10-30 14:40:42,721 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:40:43,729 - INFO - -----------------------------
+2025-10-30 14:40:43,744 - INFO - 하이마트안중점 리뉴얼&메가행사 /휴젠뜨,로보락,실링팬,쿠쿠로봇청소기 최저가 7대한정 공동구매 행사 안내 (●'◡'●) 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:40:43,745 - INFO - -----------------------------
+2025-10-30 14:40:43,758 - INFO - 자사몰) 로보락 F25 Ace Combo 24%할인 679,000원 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:40:43,758 - INFO - -----------------------------
+2025-10-30 14:40:43,784 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:40:43,784 - INFO - -----------------------------
+2025-10-30 14:40:43,829 - INFO - 제목 : 로보락 s9 맥스X 울트라 세일하네요.
+2025-10-30 14:40:48,202 - INFO - -----------------------------
+2025-10-30 14:40:48,207 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380181%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxODEsImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI4MjU4MDN9.SOmwbBWCS6vQUP9vjbNVUyESkjTsuPDkai0G0SHSpKQ%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:40:48,524 - INFO - writerInfo9-XNAfhmFavfTtrlp5FkUA
+2025-10-30 14:40:48,582 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:40:49,586 - INFO - -----------------------------
+2025-10-30 14:40:49,635 - INFO - 제목 : 로보락 Qrevo C 로봇청소기 리퍼 S등급 649,000원 무배
+2025-10-30 14:40:53,805 - INFO - -----------------------------
+2025-10-30 14:40:53,810 - INFO - URL : https://cafe.naver.com/sanmoschool?iframe_url=%2FArticleRead.nhn%3Fclubid%3D24081850%26articleid%3D1271335%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjoxMjcxMzM1LCJjYWZlVXJsIjoic2FubW9zY2hvb2wiLCJpc3N1ZWRBdCI6MTc2MTgwMjgyNTgwM30.bF0N31XIZJDSTNcyvss2apdZyI9rMbKbtr1KdQcWld0%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:40:54,445 - INFO - writerInfoba0JOSHaBMHwxTuoEG50J2CaweYus_L1F-yMAWAr_cg
+2025-10-30 14:40:54,502 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:40:55,506 - INFO - -----------------------------
+2025-10-30 14:40:55,534 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:40:55,534 - INFO - ==================================
+2025-10-30 14:40:56,937 - INFO - 3 페이지로 이동합니다
+2025-10-30 14:40:56,947 - INFO - -----------------------------
+2025-10-30 14:40:56,994 - INFO - 제목 : 로보락s9 얼마에사면 잘산걸까요
+2025-10-30 14:41:01,043 - INFO - -----------------------------
+2025-10-30 14:41:01,048 - INFO - URL : https://cafe.naver.com/malltail?iframe_url=%2FArticleRead.nhn%3Fclubid%3D21820768%26articleid%3D7362239%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjo3MzYyMjM5LCJjYWZlVXJsIjoibWFsbHRhaWwiLCJpc3N1ZWRBdCI6MTc2MTgwMjg1NzQyN30.GAXzGjrsyWAulwcq_taXjRjNJpTUFwPuqI5Yjbz3YRA%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:41:01,479 - INFO - writerInfoBB5LLtuCfifcI1cIvfaoSw
+2025-10-30 14:41:01,544 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:41:02,548 - INFO - -----------------------------
+2025-10-30 14:41:02,576 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:02,576 - INFO - -----------------------------
+2025-10-30 14:41:02,620 - INFO - 제목 : 네이버)로보락 Qrevo EdgeC 로봇청소기 941,000원
+2025-10-30 14:41:06,696 - INFO - -----------------------------
+2025-10-30 14:41:06,701 - INFO - URL : https://cafe.naver.com/malltail?iframe_url=%2FArticleRead.nhn%3Fclubid%3D21820768%26articleid%3D7362234%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjo3MzYyMjM0LCJjYWZlVXJsIjoibWFsbHRhaWwiLCJpc3N1ZWRBdCI6MTc2MTgwMjg1NzQyOX0.9rBbNqxMh5CVk3gFoxYfHKk9nKmtWAaG2RmMMCKA-xA%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:41:07,351 - INFO - writerInfoIYp5j9ZUUyWFStXtGmj5MbOU0-lOtq5aw0gJaYavJl4
+2025-10-30 14:41:07,421 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:41:08,424 - INFO - -----------------------------
+2025-10-30 14:41:08,446 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:08,451 - INFO - -----------------------------
+2025-10-30 14:41:08,465 - INFO - [넾다세일 특가] 로보락 S9 MaxV Ultra 로봇청소기 역대급 특가세일 가격 실화임 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:41:08,465 - INFO - -----------------------------
+2025-10-30 14:41:08,515 - INFO - 제목 : 로보락 쓰시는분들!
+2025-10-30 14:41:12,786 - INFO - -----------------------------
+2025-10-30 14:41:12,790 - INFO - URL : https://cafe.naver.com/usem?iframe_url=%2FArticleRead.nhn%3Fclubid%3D12165814%26articleid%3D2466532%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjoyNDY2NTMyLCJjYWZlVXJsIjoidXNlbSIsImlzc3VlZEF0IjoxNzYxODAyODU3NDMxfQ.rdsFcA9tQVguAd67SJeHx18_ydqE4LGWWAY834LXr8I%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:41:13,099 - INFO - writerInfoprajWGbRW2Kqr3wFLH60zSE16t1zwKErylADqKF6w-s
+2025-10-30 14:41:13,155 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:41:14,158 - INFO - -----------------------------
+2025-10-30 14:41:14,180 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:14,180 - INFO - -----------------------------
+2025-10-30 14:41:14,198 - INFO - 로봇청소기 추천 넾다세일 특가로 로보락 S9 MaxV 겟했음! 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:41:14,198 - INFO - -----------------------------
+2025-10-30 14:41:14,213 - INFO - 로보락sarosz70 로봇팔 싸게 사는 법 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:41:14,213 - INFO - -----------------------------
+2025-10-30 14:41:14,236 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:14,236 - INFO - -----------------------------
+2025-10-30 14:41:14,252 - INFO - 로보락s8프로플러스 proplus 핫딜중 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:41:14,252 - INFO - -----------------------------
+2025-10-30 14:41:14,266 - INFO - 로보락s8프로울트라 proultra 알뜰정보 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:41:14,266 - INFO - ==================================
+2025-10-30 14:41:15,795 - INFO - 4 페이지로 이동합니다
+2025-10-30 14:41:15,811 - INFO - -----------------------------
+2025-10-30 14:41:15,837 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:15,837 - INFO - -----------------------------
+2025-10-30 14:41:15,862 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:15,862 - INFO - -----------------------------
+2025-10-30 14:41:15,876 - INFO - 012 로보락 S9 MaxV Ultra 로봇청소기 리뷰, 반려동물 있는 집이라면 무조건 추천! 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:41:15,876 - INFO - -----------------------------
+2025-10-30 14:41:15,896 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:15,896 - INFO - -----------------------------
+2025-10-30 14:41:15,920 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:15,920 - INFO - -----------------------------
+2025-10-30 14:41:15,938 - INFO - 로보락s9maxvultra 핫딜해요! 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:41:15,938 - INFO - -----------------------------
+2025-10-30 14:41:15,965 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:15,965 - INFO - -----------------------------
+2025-10-30 14:41:15,989 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:15,989 - INFO - -----------------------------
+2025-10-30 14:41:16,014 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:16,014 - INFO - -----------------------------
+2025-10-30 14:41:16,037 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:16,037 - INFO - -----------------------------
+2025-10-30 14:41:16,066 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:16,066 - INFO - -----------------------------
+2025-10-30 14:41:16,081 - INFO - 로보락 f25 Ace 할인 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:41:16,081 - INFO - ==================================
+2025-10-30 14:41:17,385 - INFO - 5 페이지로 이동합니다
+2025-10-30 14:41:17,400 - INFO - -----------------------------
+2025-10-30 14:41:17,420 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:17,420 - INFO - -----------------------------
+2025-10-30 14:41:17,470 - INFO - 제목 : 에코백스 T50과 로보락 S9 max ultra 고민 그만하고싶어요..
+2025-10-30 14:41:21,619 - INFO - -----------------------------
+2025-10-30 14:41:21,619 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380159%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxNTksImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI4Nzc5Mzl9.I4zc4GzEtRLne9rU3qf14OoEL8RorrBMMzWHajUUwis%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:41:22,105 - INFO - writerInfoC6f-MyJcsc6joSx64cM9mK3ZRLKuZuIYXhJgv2phpeQ
+2025-10-30 14:41:22,165 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:41:23,168 - INFO - -----------------------------
+2025-10-30 14:41:23,214 - INFO - 제목 : 어제 로보락 세일 했는데 못 산 이유ㅠ
+2025-10-30 14:41:27,254 - INFO - -----------------------------
+2025-10-30 14:41:27,254 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380156%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxNTYsImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI4Nzc5Mzl9.d2Vi0jRSbF3KDYx9B_8oTgwiEXHJJYHCq0VH9oymTjg%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:41:27,715 - INFO - writerInfo_kcTZjLCDOxS3FnTVeO65Q
+2025-10-30 14:41:27,749 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:41:28,755 - INFO - -----------------------------
+2025-10-30 14:41:28,780 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:28,780 - INFO - -----------------------------
+2025-10-30 14:41:28,832 - INFO - 제목 : 로청 너무너무 고민됩니다 추천부탁드려요 ㅠ
+2025-10-30 14:41:33,227 - INFO - -----------------------------
+2025-10-30 14:41:33,227 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380151%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxNTEsImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI4Nzc5NDF9.NJ-YJyZY1enM7zF7anN1J5Ctsf_Id9I79Clsh4Jpr0A%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:41:33,722 - INFO - writerInfow26x-6E1Uv_0VLtBk4rl66QHsddRS_qSWJtHKIYqjhc
+2025-10-30 14:41:33,790 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:41:34,796 - INFO - -----------------------------
+2025-10-30 14:41:34,823 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:34,823 - INFO - -----------------------------
+2025-10-30 14:41:34,865 - INFO - 제목 : 로보락 울트라 슬림이랑 울트라맥스 차이점
+2025-10-30 14:41:38,987 - INFO - -----------------------------
+2025-10-30 14:41:38,987 - INFO - URL : https://cafe.naver.com/imsanbu?iframe_url=%2FArticleRead.nhn%3Fclubid%3D10094499%26articleid%3D77136431%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjo3NzEzNjQzMSwiY2FmZVVybCI6Imltc2FuYnUiLCJpc3N1ZWRBdCI6MTc2MTgwMjg3Nzk0Mn0.F1p_6FoUnmrxqZ5RQSbrRs6KAQQmVEkW8epgSH9Gt9s%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:41:39,401 - INFO - writerInfoKZ-18Op1BQhNkr8Dfu4yOLnGdJZo2iECMxMU5jNHT70
+2025-10-30 14:41:39,430 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:41:40,436 - INFO - -----------------------------
+2025-10-30 14:41:40,452 - INFO - 세일 로보락전용세제 인기 제품 베스트 10 안에 제외 키워드가 포함되어 있습니다.
+2025-10-30 14:41:40,453 - INFO - -----------------------------
+2025-10-30 14:41:40,474 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:40,474 - INFO - -----------------------------
+2025-10-30 14:41:40,507 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:40,508 - INFO - -----------------------------
+2025-10-30 14:41:40,532 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:40,532 - INFO - -----------------------------
+2025-10-30 14:41:40,562 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:40,562 - INFO - ==================================
+2025-10-30 14:41:42,122 - INFO - 6 페이지로 이동합니다
+2025-10-30 14:41:42,123 - INFO - -----------------------------
+2025-10-30 14:41:42,158 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:42,158 - INFO - -----------------------------
+2025-10-30 14:41:42,192 - INFO - 이노션S 브랜드 카페가 아니기에 넘어갑니다
+2025-10-30 14:41:42,192 - INFO - -----------------------------
+2025-10-30 14:41:42,232 - INFO - 제목 : 또 소음이나네요 ㅠ 로보락s9울트라…
+2025-10-30 14:41:46,574 - INFO - -----------------------------
+2025-10-30 14:41:46,583 - INFO - URL : https://cafe.naver.com/robotclear?iframe_url=%2FArticleRead.nhn%3Fclubid%3D13411273%26articleid%3D380132%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiYXJ0aWNsZUlkIjozODAxMzIsImNhZmVVcmwiOiJyb2JvdGNsZWFyIiwiaXNzdWVkQXQiOjE3NjE4MDI5MDI0NDN9.ujTIq22-6-1hfzzX7urGmJ47p88F8MMjz88QrUq-4eo%26query%3D%25EB%25A1%259C%25EB%25B3%25B4%25EB%259D%25BD
+2025-10-30 14:41:47,044 - INFO - writerInfokwH3hTFywV23v4cZenummiKe0dtqCrHpktKijgIs_0Q
+2025-10-30 14:41:47,117 - INFO - 중고거래 상품이 아니기 떄문에 리스트에 추가합니다.
+2025-10-30 14:41:48,124 - INFO - -----------------------------
+2025-10-30 14:41:48,166 - INFO - 어제 이전의 게시글 이기에 다음 키워드로 넘어갑니다.
+2025-10-30 14:41:48,166 - INFO - -----------------------------
+2025-10-30 14:41:48,166 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 14:41:48,166 - INFO - 시트이름: 최신게시글업로드2
+2025-10-30 14:41:48,166 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:41:48,891 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:41:50,100 - INFO - Success update 최신게시글업로드2
+2025-10-30 14:41:50,100 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 14:41:50,100 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:41:50,673 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:42:34,444 - INFO - Success update 일주일 추출 링크
+2025-10-30 14:42:39,457 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 14:42:39,457 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:42:40,067 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:42:56,858 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 14:42:56,858 - INFO - ★ 키워드 센싱 - 작업완료 ★
+2025-10-30 14:42:57,010 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 14:42:57,010 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 14:42:57,011 - INFO - 동기화 10초 지연후 진행합니다
+2025-10-30 14:43:07,012 - INFO - ==================================
+2025-10-30 14:43:07,012 - INFO - [알람] 진행중 - 텔레그램에 알람을 보냅니다
+2025-10-30 14:43:07,012 - INFO - 시트이름: 알람대시보드
+2025-10-30 14:43:07,012 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 14:43:07,569 - INFO - 구글 시트 로드 - 완료
+2025-10-30 14:43:08,105 - INFO - Fail 구글 시트에서 데이터가 비어 있습니다. 시트와 범위를 확인해주세요.
+2025-10-30 14:43:08,105 - INFO - [알림] 구글 시트에서 불러올 자료가 없습니다 - 작업을 모두 완료했거나 에러 발생으로 추정됩니다 The data is empty.
+2025-10-30 14:43:08,105 - INFO - 5분 휴식합니다.

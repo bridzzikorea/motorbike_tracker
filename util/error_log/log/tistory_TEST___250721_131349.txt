@@ -1,0 +1,204 @@
+2025-07-21 13:13:53,098 - INFO - 대시보드 TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-21 13:13:53,098 - INFO - ==================================
+2025-07-21 13:13:53,098 - INFO - 21
+2025-07-21 13:13:54,325 - INFO - C:\program_cookies 폴더 크기: 0.95 GB
+2025-07-21 13:13:54,343 - INFO - C:\program_cookies\PC_dnghwhd8819@naver.com 폴더 크기: 0.09 GB
+2025-07-21 13:13:54,344 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_dnghwhd8819@naver.com 폴더를 지정합니다.
+2025-07-21 13:13:54,344 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-07-21 13:13:54,344 - INFO - fixed UA가 있습니다.
+2025-07-21 13:13:54,344 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36입니다.
+2025-07-21 13:13:54,345 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-07-21 13:13:54,345 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-07-21 13:13:56,796 - INFO - ==================================
+2025-07-21 13:13:56,797 - INFO - devicemetrics를 override 합니다..
+2025-07-21 13:13:56,805 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-21 13:13:56,806 - INFO - FIXED gps 정보를 적용합니다.
+2025-07-21 13:13:56,806 - INFO - FIXED gps 정보는 {'latitude': 37.6653341, 'longitude': 127.075382, 'accuracy': 100} 입니다.
+2025-07-21 13:13:56,813 - INFO - 모든 변경이 완료되었습니다...
+2025-07-21 13:13:56,813 - INFO - ~~~~~~~~~~
+2025-07-21 13:13:58,520 - INFO - 로그인이 되어있지 않아 로그인 과정을 진행합니다.
+2025-07-21 13:14:02,376 - INFO - 티스토리를 선택하고, 선택한 티스토리로 이동합니다.
+2025-07-21 13:14:09,388 - INFO - Alert Message:
+2025-07-21 13:14:09,388 - INFO - 2025. 7. 21. 13:06에 저장된 글이 있습니다.
+이어서 작성하시겠습니까?
+2025-07-21 13:14:09,678 - INFO - 작성되는글이 있어서 취소를 눌렀습니다.
+2025-07-21 13:14:11,090 - INFO - 카테고리 선택을 시작합니다
+2025-07-21 13:14:11,123 - INFO - '공간대여정보' 카테고리를 선택합니다
+2025-07-21 13:14:12,704 - INFO - 카테고리 선택을 완료했습니다
+2025-07-21 13:14:12,704 - INFO - stop_check: False
+2025-07-21 13:14:12,704 - INFO - 랜덤이미지 경로에서 이미지 파일 찾기를 시작합니다.
+2025-07-21 13:14:12,707 - INFO - 전체 랜덤이미지 개수는 3개입니다.
+2025-07-21 13:14:20,909 - INFO - 35
+2025-07-21 13:14:23,733 - INFO - 35
+2025-07-21 13:14:28,194 - INFO - 35
+2025-07-21 13:14:31,272 - INFO - 35
+2025-07-21 13:14:37,026 - INFO - 35
+2025-07-21 13:14:40,181 - INFO - 35
+2025-07-21 13:14:44,627 - INFO - 35
+2025-07-21 13:14:48,345 - INFO - 35
+2025-07-21 13:14:52,931 - INFO - 35
+2025-07-21 13:14:56,314 - INFO - 35
+2025-07-21 13:14:59,897 - INFO - 35
+2025-07-21 13:15:03,399 - INFO - 35
+2025-07-21 13:15:07,337 - INFO - 35
+2025-07-21 13:15:11,024 - INFO - 35
+2025-07-21 13:15:15,097 - INFO - 35
+2025-07-21 13:15:18,521 - INFO - 35
+2025-07-21 13:15:22,880 - INFO - 35
+2025-07-21 13:15:26,412 - INFO - 35
+2025-07-21 13:15:30,818 - ERROR - [ tistory_TEST.py 프로그램 ] - < Exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7c1a33+62339]
+	GetHandleVerifier [0x0x7c1a74+62404]
+	(No symbol) [0x0x602123]
+	(No symbol) [0x0x5e0fc9]
+	(No symbol) [0x0x675aee]
+	(No symbol) [0x0x690089]
+	(No symbol) [0x0x66f1b6]
+	(No symbol) [0x0x63e7a2]
+	(No symbol) [0x0x63f644]
+	GetHandleVerifier [0x0xa365c3+2637587]
+	GetHandleVerifier [0x0xa319ca+2618138]
+	GetHandleVerifier [0x0x7e84aa+220666]
+	GetHandleVerifier [0x0x7d88d8+156200]
+	GetHandleVerifier [0x0x7df06d+182717]
+	GetHandleVerifier [0x0x7c9978+94920]
+	GetHandleVerifier [0x0x7c9b02+95314]
+	GetHandleVerifier [0x0x7b4c4a+9626]
+	BaseThreadInitThunk [0x0x75d85d49+25]
+	RtlInitializeExceptionChain [0x0x76efd1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76efd131+561]
+ 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory_TEST.py", line 52, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 919, in run
+    self._write_context(self.dash_data['제목'], self.dash_data['내용'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 776, in _write_context
+    self._onebyonetext(text, path_data, thumbdata)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 679, in _onebyonetext
+    self._specialfunction(specialword, path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 379, in _specialfunction
+    selenium_util.wait_for_element(self.browser, 3, bg_color_block_open_select)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2011, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 104, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7c1a33+62339]
+	GetHandleVerifier [0x0x7c1a74+62404]
+	(No symbol) [0x0x602123]
+	(No symbol) [0x0x5e0fc9]
+	(No symbol) [0x0x675aee]
+	(No symbol) [0x0x690089]
+	(No symbol) [0x0x66f1b6]
+	(No symbol) [0x0x63e7a2]
+	(No symbol) [0x0x63f644]
+	GetHandleVerifier [0x0xa365c3+2637587]
+	GetHandleVerifier [0x0xa319ca+2618138]
+	GetHandleVerifier [0x0x7e84aa+220666]
+	GetHandleVerifier [0x0x7d88d8+156200]
+	GetHandleVerifier [0x0x7df06d+182717]
+	GetHandleVerifier [0x0x7c9978+94920]
+	GetHandleVerifier [0x0x7c9b02+95314]
+	GetHandleVerifier [0x0x7b4c4a+9626]
+	BaseThreadInitThunk [0x0x75d85d49+25]
+	RtlInitializeExceptionChain [0x0x76efd1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76efd131+561]
+
+
+오류가 발생하여 프로그램을 종료했습니다. 확인 부탁드립니다
+2025-07-21 13:15:30,818 - INFO - 텔레그램 에러 메시지 : [ tistory_TEST.py 프로그램 ] - < Exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7c1a33+62339]
+	GetHandleVerifier [0x0x7c1a74+62404]
+	(No symbol) [0x0x602123]
+	(No symbol) [0x0x5e0fc9]
+	(No symbol) [0x0x675aee]
+	(No symbol) [0x0x690089]
+	(No symbol) [0x0x66f1b6]
+	(No symbol) [0x0x63e7a2]
+	(No symbol) [0x0x63f644]
+	GetHandleVerifier [0x0xa365c3+2637587]
+	GetHandleVerifier [0x0xa319ca+2618138]
+	GetHandleVerifier [0x0x7e84aa+220666]
+	GetHandleVerifier [0x0x7d88d8+156200]
+	GetHandleVerifier [0x0x7df06d+182717]
+	GetHandleVerifier [0x0x7c9978+94920]
+	GetHandleVerifier [0x0x7c9b02+95314]
+	GetHandleVerifier [0x0x7b4c4a+9626]
+	BaseThreadInitThunk [0x0x75d85d49+25]
+	RtlInitializeExceptionChain [0x0x76efd1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76efd131+561]
+ 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory_TEST.py", line 52, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 919, in run
+    self._write_context(self.dash_data['제목'], self.dash_data['내용'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 776, in _write_context
+    self._onebyonetext(text, path_data, thumbdata)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 679, in _onebyonetext
+    self._specialfunction(specialword, path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 379, in _specialfunction
+    selenium_util.wait_for_element(self.browser, 3, bg_color_block_open_select)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2011, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 104, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7c1a33+62339]
+	GetHandleVerifier [0x0x7c1a74+62404]
+	(No symbol) [0x0x602123]
+	(No symbol) [0x0x5e0fc9]
+	(No symbol) [0x0x675aee]
+	(No symbol) [0x0x690089]
+	(No symbol) [0x0x66f1b6]
+	(No symbol) [0x0x63e7a2]
+	(No symbol) [0x0x63f644]
+	GetHandleVerifier [0x0xa365c3+2637587]
+	GetHandleVerifier [0x0xa319ca+2618138]
+	GetHandleVerifier [0x0x7e84aa+220666]
+	GetHandleVerifier [0x0x7d88d8+156200]
+	GetHandleVerifier [0x0x7df06d+182717]
+	GetHandleVerifier [0x0x7c9978+94920]
+	GetHandleVerifier [0x0x7c9b02+95314]
+	GetHandleVerifier [0x0x7b4c4a+9626]
+	BaseThreadInitThunk [0x0x75d85d49+25]
+	RtlInitializeExceptionChain [0x0x76efd1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76efd131+561]
+2025-07-21 13:15:32,055 - INFO - 화면 캡처가 성공적으로 저장되었습니다: screenshot.png

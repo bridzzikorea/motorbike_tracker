@@ -1,0 +1,85 @@
+2025-09-04 14:47:12,977 - INFO - C:\program_cookies 폴더 크기: 0.55 GB
+2025-09-04 14:47:12,977 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-09-04 14:47:12,977 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-09-04 14:47:12,977 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-09-04 14:47:12,977 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36입니다.
+2025-09-04 14:47:16,958 - INFO - Stay signed out 버튼이 없습니다 - 'NoneType' object has no attribute 'get_position'
+2025-09-04 14:47:19,415 - ERROR - 1/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 135, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 97, in run
+    await self._search_keyword("test")
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 93, in _search_keyword
+    await self.nodriver.tab.select_all()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Tab.select_all() missing 1 required positional argument: 'selector'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 14:47:19,416 - ERROR - Traceback (most recent call last):
+2025-09-04 14:47:19,417 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 135, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 14:47:19,417 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 14:47:19,417 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 97, in run
+    await self._search_keyword("test")
+2025-09-04 14:47:19,417 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 93, in _search_keyword
+    await self.nodriver.tab.select_all()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-04 14:47:19,417 - ERROR - TypeError: Tab.select_all() missing 1 required positional argument: 'selector'
+2025-09-04 14:47:19,599 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 14:47:19,600 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 14:47:20,601 - INFO - ==================================
+2025-09-04 14:47:20,601 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 14:47:20,910 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 14:47:25,147 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 202, in <module>
+    pcdriver.update_chromedriver()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 82, in update_chromedriver
+    update_chrome()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 35, in update_chrome
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 47, in __init__
+    super().__init__(
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 257, in __init__
+    self.start_session(capabilities)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0x7ff74ad2fca5+79861]
+	GetHandleVerifier [0x0x7ff74ad2fd00+79952]
+	(No symbol) [0x0x7ff74aaacada]
+	(No symbol) [0x0x7ff74aaebfeb]
+	(No symbol) [0x0x7ff74aae6340]
+	(No symbol) [0x0x7ff74ab3a84f]
+	(No symbol) [0x0x7ff74ab39fd0]
+	(No symbol) [0x0x7ff74ab2c8b3]
+	(No symbol) [0x0x7ff74aaf5272]
+	(No symbol) [0x0x7ff74aaf6043]
+	GetHandleVerifier [0x0x7ff74afeb9dd+2946349]
+	GetHandleVerifier [0x0x7ff74afe5c5a+2922410]
+	GetHandleVerifier [0x0x7ff74b0059e7+3052855]
+	GetHandleVerifier [0x0x7ff74ad4aa8e+189918]
+	GetHandleVerifier [0x0x7ff74ad52a2f+222591]
+	GetHandleVerifier [0x0x7ff74ad38ac4+116244]
+	GetHandleVerifier [0x0x7ff74ad38c79+116681]
+	GetHandleVerifier [0x0x7ff74ad1f058+11176]
+	BaseThreadInitThunk [0x0x7ffbc2b8e8d7+23]
+	RtlUserThreadStart [0x0x7ffbc487c34c+44]
+

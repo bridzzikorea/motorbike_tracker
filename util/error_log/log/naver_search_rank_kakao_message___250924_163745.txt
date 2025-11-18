@@ -1,0 +1,104 @@
+2025-09-24 16:37:45,041 - INFO - 현재시간 : 16시 37분
+2025-09-24 16:37:50,225 - INFO - 시트이름: 프로그램/작동여부&보고멘트
+2025-09-24 16:37:50,225 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 16:37:52,097 - INFO - 구글 시트 로드 - 완료
+2025-09-24 16:37:52,630 - INFO - 프로그램/작동여부&보고멘트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-24 16:37:52,630 - INFO - ==================================
+2025-09-24 16:37:52,630 - INFO - N키워드 랭킹 - 수집 시작 ( 16시 37분 )
+2025-09-24 16:37:52,649 - INFO - 시트이름: N지식인(링크)(Ir)
+2025-09-24 16:37:52,649 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 16:37:54,227 - INFO - 구글 시트 로드 - 완료
+2025-09-24 16:37:55,349 - INFO - N지식인(링크)(Ir) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-24 16:37:55,349 - INFO - 시트이름: N블로그(통합)
+2025-09-24 16:37:55,349 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 16:37:57,099 - INFO - 구글 시트 로드 - 완료
+2025-09-24 16:37:57,933 - INFO - N블로그(통합) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-24 16:37:57,942 - INFO - ==================================
+2025-09-24 16:37:57,942 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-24 16:37:58,104 - INFO - [현재 크롬 버전] : 140.0.7339.208
+2025-09-24 16:37:59,287 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-24 16:38:01,289 - INFO - ==================================
+2025-09-24 16:38:01,289 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-24 16:38:01,289 - INFO - -----------------------------
+2025-09-24 16:38:01,289 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-24 16:38:01,289 - INFO - ==================================
+2025-09-24 16:38:01,436 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-24 16:38:01,436 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-24 16:38:02,438 - INFO - ==================================
+2025-09-24 16:38:04,439 - INFO - PC랜덤화면크기를 불러옵니다.
+2025-09-24 16:38:04,439 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-09-24 16:38:04,439 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.86 Safari/537.36입니다.
+2025-09-24 16:38:04,444 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-09-24 16:38:04,446 - INFO - cookies 폴더 크기: 0.00 GB
+2025-09-24 16:38:06,102 - INFO - ==================================
+2025-09-24 16:38:06,109 - INFO - useragentdata를 cdp_cmd로 변경합니다..
+2025-09-24 16:38:06,112 - INFO - Windows
+2025-09-24 16:38:06,117 - INFO - navigator를 override 합니다..
+2025-09-24 16:38:06,119 - INFO - devicemetrics를 override 합니다..
+2025-09-24 16:38:06,122 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-09-24 16:38:06,122 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-09-24 16:38:06,122 - INFO - RANDOM gps 정보는 {'latitude': 37.5524149796547, 'longitude': 126.9386080142286, 'accuracy': 100} 입니다.
+2025-09-24 16:38:09,804 - INFO - 시트이름: 검색순위/입력&대시보드TEST
+2025-09-24 16:38:09,804 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 16:38:11,651 - INFO - 구글 시트 로드 - 완료
+2025-09-24 16:38:12,176 - INFO - 검색순위/입력&대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-24 16:38:12,178 - INFO - ==================================
+2025-09-24 16:38:12,178 - INFO - '대리운전알바' 키워드 검색 순위를 탐색합니다.
+2025-09-24 16:38:12,178 - INFO - 1. N통합검색 '대리운전알바' 키워드 검색 순위를 탐색합니다.
+2025-09-24 16:38:18,176 - INFO - ====> https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EB%8C%80%EB%A6%AC%EC%9A%B4%EC%A0%84%EC%95%8C%EB%B0%94
+2025-09-24 16:38:25,693 - ERROR - 1/10번째 [ naver_search_rank_kakao_message.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 509, in <module>
+    main_process()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 428, in main_process
+    keyword_rank_search_start(keyword_rank__googlesheet)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 360, in keyword_rank_search_start
+    bridzzi_all_search_rank_data = get_n_all_search_rank_data(browser, bridzzi_blogs, bridzzi_kins, keyword)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 114, in get_n_all_search_rank_data
+    if "인기주제" in title or "브랜드 콘텐츠" in title:
+                     ^^^^^
+UnboundLocalError: cannot access local variable 'title' where it is not associated with a value
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-24 16:38:25,693 - ERROR - Traceback (most recent call last):
+2025-09-24 16:38:25,693 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 509, in <module>
+    main_process()
+2025-09-24 16:38:25,693 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 428, in main_process
+    keyword_rank_search_start(keyword_rank__googlesheet)
+2025-09-24 16:38:25,693 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 360, in keyword_rank_search_start
+    bridzzi_all_search_rank_data = get_n_all_search_rank_data(browser, bridzzi_blogs, bridzzi_kins, keyword)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-24 16:38:25,693 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 114, in get_n_all_search_rank_data
+    if "인기주제" in title or "브랜드 콘텐츠" in title:
+                     ^^^^^
+2025-09-24 16:38:25,693 - ERROR - UnboundLocalError: cannot access local variable 'title' where it is not associated with a value
+2025-09-24 16:38:25,693 - INFO - ==================================
+2025-09-24 16:38:25,693 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-24 16:38:25,858 - INFO - [현재 크롬 버전] : 140.0.7339.208
+2025-09-24 16:38:27,053 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-24 16:38:29,058 - INFO - ==================================
+2025-09-24 16:38:29,058 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-24 16:38:29,058 - INFO - -----------------------------
+2025-09-24 16:38:29,058 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-24 16:38:29,058 - INFO - ==================================
+2025-09-24 16:38:29,222 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-24 16:38:29,223 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-24 16:38:30,224 - INFO - ==================================
+2025-09-24 16:38:30,367 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-24 16:38:30,367 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-24 16:38:30,367 - INFO - 현재시간 : 16시 38분
+2025-09-24 16:38:35,335 - INFO - 시트이름: 프로그램/작동여부&보고멘트
+2025-09-24 16:38:35,335 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 16:38:37,063 - INFO - 구글 시트 로드 - 완료
+2025-09-24 16:38:37,773 - INFO - 프로그램/작동여부&보고멘트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-24 16:38:37,773 - INFO - ==================================
+2025-09-24 16:38:37,773 - INFO - N키워드 랭킹 - 수집 시작 ( 16시 38분 )
+2025-09-24 16:38:37,773 - INFO - 시트이름: N지식인(링크)(Ir)
+2025-09-24 16:38:37,773 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 16:38:39,404 - INFO - 구글 시트 로드 - 완료
+2025-09-24 16:38:40,390 - INFO - N지식인(링크)(Ir) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-24 16:38:40,401 - INFO - 시트이름: N블로그(통합)
+2025-09-24 16:38:40,401 - INFO - 구글 시트 로드 - 시도중....

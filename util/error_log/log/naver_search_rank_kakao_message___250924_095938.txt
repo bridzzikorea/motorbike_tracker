@@ -1,0 +1,61 @@
+2025-09-24 09:59:38,528 - INFO - 현재시간 : 9시 59분
+2025-09-24 09:59:43,630 - INFO - 시트이름: 프로그램/작동여부&보고멘트
+2025-09-24 09:59:43,630 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 09:59:45,335 - INFO - 구글 시트 로드 - 완료
+2025-09-24 09:59:45,951 - INFO - 프로그램/작동여부&보고멘트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-24 09:59:45,951 - INFO - [키워드 랭킹] - 보고 시작 ( 9시 59분 )
+2025-09-24 09:59:45,959 - INFO - 시트이름: 카카오/대시보드
+2025-09-24 09:59:45,959 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 09:59:47,641 - INFO - 구글 시트 로드 - 완료
+2025-09-24 09:59:48,284 - INFO - Fail 구글 시트에서 데이터가 비어 있습니다. 시트와 범위를 확인해주세요.
+2025-09-24 09:59:48,284 - INFO - 보고할 데이터가 없습니다 - 다음 작업으로 넘어갑니다
+2025-09-24 09:59:48,284 - INFO - -----------------------------
+2025-09-24 09:59:48,284 - INFO - 시트이름: 프로그램/작동여부&보고멘트
+2025-09-24 09:59:48,284 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 09:59:50,071 - INFO - 구글 시트 로드 - 완료
+2025-09-24 09:59:50,746 - INFO - ==================================
+2025-09-24 09:59:50,746 - INFO - [비즈니스 실행] - 보고 시작 ( 9시 59분 )
+2025-09-24 09:59:50,746 - INFO - 시트이름: 통합알림대시보드
+2025-09-24 09:59:50,746 - INFO - 구글 시트 로드 - 시도중....
+2025-09-24 09:59:52,093 - INFO - 구글 시트 로드 - 완료
+2025-09-24 09:59:52,661 - INFO - 통합알림대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-24 09:59:52,661 - INFO - ==================================
+2025-09-24 09:59:52,661 - INFO - '현성전자-정수기'에 보고하기 위한 카카오톡 메시지 작업을 시작합니다
+2025-09-24 09:59:52,677 - ERROR - 1/10번째 [ naver_search_rank_kakao_message.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 565, in <module>
+    main_process()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 516, in main_process
+    kakao_business_report.start(business_and_notice_report__googlesheet)
+  File "C:\Users\user\Desktop\Bridzzi\src\kakao\kakao_business_report.py", line 234, in start
+    is_success = job_1(
+                 ^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\kakao\kakao_business_report.py", line 42, in job_1
+    is_activate = activate_kakao()
+                  ^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\kakao\kakao_business_report.py", line 34, in activate_kakao
+    win32gui.SetForegroundWindow(kakao_hwnd)
+pywintypes.error: (0, 'SetForegroundWindow', 'No error message is available')
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-24 09:59:52,677 - ERROR - Traceback (most recent call last):
+2025-09-24 09:59:52,677 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 565, in <module>
+    main_process()
+2025-09-24 09:59:52,680 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 516, in main_process
+    kakao_business_report.start(business_and_notice_report__googlesheet)
+2025-09-24 09:59:52,680 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\kakao\kakao_business_report.py", line 234, in start
+    is_success = job_1(
+                 ^^^^^^
+2025-09-24 09:59:52,680 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\kakao\kakao_business_report.py", line 42, in job_1
+    is_activate = activate_kakao()
+                  ^^^^^^^^^^^^^^^^
+2025-09-24 09:59:52,680 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\kakao\kakao_business_report.py", line 34, in activate_kakao
+    win32gui.SetForegroundWindow(kakao_hwnd)
+2025-09-24 09:59:52,680 - ERROR - pywintypes.error: (0, 'SetForegroundWindow', 'No error message is available')
+2025-09-24 09:59:52,680 - INFO - ==================================
+2025-09-24 09:59:52,680 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-24 09:59:52,852 - INFO - [현재 크롬 버전] : 140.0.7339.208
+2025-09-24 09:59:56,903 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-24 09:59:56,904 - INFO - ✅ Chrome 종료 결과: Chrome 종료

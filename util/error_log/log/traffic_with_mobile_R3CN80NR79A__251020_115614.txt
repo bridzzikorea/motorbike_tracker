@@ -1,0 +1,25 @@
+2025-10-20 11:56:14,361 - INFO - [폰7] R3CN80NR79A 워크 프로세스 - init //
+2025-10-20 11:56:31,562 - ERROR - Process Worker-폰7:
+2025-10-20 11:56:31,565 - ERROR - Traceback (most recent call last):
+2025-10-20 11:56:31,565 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+2025-10-20 11:56:31,565 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+2025-10-20 11:56:31,565 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\traffic\traffic_with_mobile.py", line 920, in run
+    self.mobile = MobileDevice(self.phone.name, self.phone.id)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-20 11:56:31,565 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\mobile_auto\uiautomator2.py", line 18, in __init__
+    self.device = u2.connect(phone_id)
+                ^^^^^^^^^^^^^^^^^^^^
+2025-10-20 11:56:31,565 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\uiautomator2\__init__.py", line 1103, in connect
+    return connect_usb(serial)
+           ^^^^^^^^^^^^^^^^^^^
+2025-10-20 11:56:31,565 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\uiautomator2\__init__.py", line 1119, in connect_usb
+    return Device(serial)
+           ^^^^^^^^^^^^^^
+2025-10-20 11:56:31,565 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\uiautomator2\__init__.py", line 67, in __init__
+    self._dev = self._wait_for_device()
+                ^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-20 11:56:31,565 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\uiautomator2\__init__.py", line 106, in _wait_for_device
+    raise ConnectError(f"device {self._serial} not online")
+2025-10-20 11:56:31,571 - ERROR - uiautomator2.exceptions.ConnectError: device R3CN80NR79A not online

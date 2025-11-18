@@ -1,0 +1,185 @@
+2025-10-30 11:12:26,947 - INFO - ==================================
+2025-10-30 11:12:26,947 - INFO - ==================================
+2025-10-30 11:12:26,947 - INFO - [ 11시] - 키워드 센싱을 시작합니다
+2025-10-30 11:12:26,947 - INFO - ==================================
+2025-10-30 11:12:26,947 - INFO - -----------------------------
+2025-10-30 11:12:26,947 - INFO - 시트이름: #3 브랜드_커뮤니티선별
+2025-10-30 11:12:26,947 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 11:12:27,623 - INFO - 구글 시트 로드 - 완료
+2025-10-30 11:12:28,231 - INFO - #3 브랜드_커뮤니티선별 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 11:12:28,231 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 11:12:28,235 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 11:12:28,809 - INFO - 구글 시트 로드 - 완료
+2025-10-30 11:12:29,371 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 11:12:29,371 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 11:12:29,371 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 11:12:29,961 - INFO - 구글 시트 로드 - 완료
+2025-10-30 11:12:30,370 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 11:12:30,372 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 11:12:30,372 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 11:12:30,898 - INFO - 구글 시트 로드 - 완료
+2025-10-30 11:12:31,475 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 11:12:31,475 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 11:12:31,890 - INFO - 구글 시트 로드 - 완료
+2025-10-30 11:12:32,295 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 11:12:32,648 - INFO - C:\program_cookies 폴더 크기: 2.19 GB
+2025-10-30 11:12:32,750 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-10-30 11:12:32,750 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-10-30 11:12:32,750 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-10-30 11:12:32,750 - INFO - fixed UA가 있습니다.
+2025-10-30 11:12:32,750 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36입니다.
+2025-10-30 11:12:32,750 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-30 11:12:32,750 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-10-30 11:12:36,588 - INFO - ==================================
+2025-10-30 11:12:36,588 - INFO - devicemetrics를 override 합니다..
+2025-10-30 11:12:36,607 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-30 11:12:36,607 - INFO - FIXED gps 정보를 적용합니다.
+2025-10-30 11:12:36,607 - INFO - FIXED gps 정보는 {'latitude': 47.6653341, 'longitude': 137.075382, 'accuracy': 100} 입니다.
+2025-10-30 11:12:36,613 - INFO - 모든 변경이 완료되었습니다...
+2025-10-30 11:12:36,613 - INFO - ~~~~~~~~~~
+2025-10-30 11:12:36,613 - INFO - ==================================
+2025-10-30 11:12:36,613 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 디시인사이드 / 게시판 분류 : 게시물(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 11:12:37,691 - INFO - -----------------------------
+2025-10-30 11:12:37,723 - INFO - 이미 크롤링했던 글입니다
+2025-10-30 11:12:37,723 - INFO - -----------------------------
+2025-10-30 11:12:37,723 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 11:12:37,724 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 11:12:37,724 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 11:12:37,724 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 네이트판 / 게시판 분류 : 톡톡(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 11:12:38,030 - INFO - -----------------------------
+2025-10-30 11:12:38,077 - INFO - 일주일 전 게시글 이기에 다음 키워드로 넘어갑니다.
+2025-10-30 11:12:38,077 - INFO - -----------------------------
+2025-10-30 11:12:38,077 - INFO - [주의!] 구글 시트에 업데이트를 진행합니다 - 종료하지 마시오
+2025-10-30 11:12:38,077 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 11:12:38,077 - INFO - Fail 업데이트 할 데이터가 없습니다 - (len = 0)
+2025-10-30 11:12:38,077 - INFO - 브랜드 : 이노션S / 커뮤니티명 : 네이트판 / 게시판 분류 : 뉴스(최신순) / 키워드 : 로보락 - 시작
+2025-10-30 11:12:38,324 - INFO - -----------------------------
+2025-10-30 11:12:38,365 - INFO - 제목 : [마감 후] 깊숙이 들어온 중국, 그리고 APEC
+2025-10-30 11:12:38,944 - ERROR - 1/10번째 [ all_senssing_keyword_sensing_class.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1240, in <module>
+    sensing_manager.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1216, in run
+    self.community_crawler.check_run(time_name)
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1078, in check_run
+    self.natepann_news_collect_post_info(row_index, keyword, comunity_data_row)
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 992, in natepann_news_collect_post_info
+    date_text = post.find_element(By.CSS_SELECTOR, date_selector).text
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 603, in find_element
+    return self._execute(Command.FIND_CHILD_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 574, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: element not found
+  (Session info: chrome=142.0.7444.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3c58c3
+	0x3c5904
+	0x1de76d
+	0x1f0b81
+	0x1efc50
+	0x1e5f99
+	0x1e433c
+	0x1e7884
+	0x1e7918
+	0x2298e6
+	0x22a47b
+	0x21f951
+	0x24c9b4
+	0x21f854
+	0x24cb24
+	0x26eea6
+	0x24c766
+	0x21dac0
+	0x21ede4
+	0x647974
+	0x642bea
+	0x3ee5b4
+	0x3ddd28
+	0x3e4d8d
+	0x3cded8
+	0x3ce09c
+	0x3b7d1a
+	0x75fb5d49
+	0x7708d6db
+	0x7708d661
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-30 11:12:38,944 - ERROR - Traceback (most recent call last):
+2025-10-30 11:12:38,944 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1240, in <module>
+    sensing_manager.run()
+2025-10-30 11:12:38,944 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1216, in run
+    self.community_crawler.check_run(time_name)
+2025-10-30 11:12:38,944 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1078, in check_run
+    self.natepann_news_collect_post_info(row_index, keyword, comunity_data_row)
+2025-10-30 11:12:38,944 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 992, in natepann_news_collect_post_info
+    date_text = post.find_element(By.CSS_SELECTOR, date_selector).text
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 11:12:38,944 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 603, in find_element
+    return self._execute(Command.FIND_CHILD_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 11:12:38,944 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 574, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-30 11:12:38,944 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-10-30 11:12:38,944 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-10-30 11:12:38,944 - ERROR - selenium.common.exceptions.NoSuchElementException: Message: no such element: element not found
+  (Session info: chrome=142.0.7444.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3c58c3
+	0x3c5904
+	0x1de76d
+	0x1f0b81
+	0x1efc50
+	0x1e5f99
+	0x1e433c
+	0x1e7884
+	0x1e7918
+	0x2298e6
+	0x22a47b
+	0x21f951
+	0x24c9b4
+	0x21f854
+	0x24cb24
+	0x26eea6
+	0x24c766
+	0x21dac0
+	0x21ede4
+	0x647974
+	0x642bea
+	0x3ee5b4
+	0x3ddd28
+	0x3e4d8d
+	0x3cded8
+	0x3ce09c
+	0x3b7d1a
+	0x75fb5d49
+	0x7708d6db
+	0x7708d661
+2025-10-30 11:12:39,145 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 11:12:39,145 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 11:12:40,147 - INFO - ==================================
+2025-10-30 11:12:40,147 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-30 11:12:40,313 - INFO - [현재 크롬 버전] : 142.0.7444.60
+2025-10-30 11:12:41,544 - INFO - Chrome 업데이트를 확인하는 중...
+2025-10-30 11:12:43,545 - INFO - ==================================
+2025-10-30 11:12:43,545 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-10-30 11:12:43,545 - INFO - -----------------------------
+2025-10-30 11:12:43,545 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-10-30 11:12:43,545 - INFO - ==================================
+2025-10-30 11:12:43,680 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 11:12:43,681 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 11:12:44,682 - INFO - ==================================

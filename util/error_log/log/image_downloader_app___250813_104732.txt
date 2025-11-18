@@ -1,0 +1,367 @@
+2025-08-13 10:47:32,925 - INFO - 이미지 다운로드 - 시작
+2025-08-13 10:47:32,925 - INFO - -----------------------------
+2025-08-13 10:47:32,926 - INFO - -----------------------------
+2025-08-13 10:47:32,926 - INFO - 1. 폭풍우 속에서 거센 파도에 맞서 서 있는 외딴 등대
+2025-08-13 10:47:32,927 - INFO - 2. 네온 불빛이 반짝이는 미래형 한국 도시의 야경과 하늘을 나는 자동차들
+2025-08-13 10:47:32,927 - INFO - 3. 해 뜨는 아침, 안개가 피어오르는 산속 호수와 가운데 떠 있는 작은 나무배
+2025-08-13 10:47:32,927 - INFO - 4. 부드러운 봄빛 속 빗방울이 맺힌 벚꽃 꽃잎의 클로즈업
+2025-08-13 10:47:32,927 - INFO - 5. 따뜻한 조명과 나무 가구, 김이 오르는 커피가 있는 아늑한 카페 내부
+2025-08-13 10:47:32,927 - INFO - 6. 거대한 푸른빛과 보랏빛 성운 아래 사막 행성에 서 있는 우주비행사
+2025-08-13 10:47:32,927 - INFO - 7. 황금빛 햇살 아래 가을 단풍으로 둘러싸인 전통 한옥
+2025-08-13 10:47:32,927 - INFO - -----------------------------
+2025-08-13 10:47:32,928 - INFO - 프롬프트 텍스트 파일 경로: C:\image_downloader\image_prompt.txt
+2025-08-13 10:47:32,928 - INFO - 텍스트 파일 각 행마다 몇 개의 이미지를 생성할까요?
+2025-08-13 10:47:32,928 - INFO - -----------------------------
+2025-08-13 10:47:32,928 - INFO - ( 숫자만 입력해주시기 바랍니다 )
+2025-08-13 10:47:32,928 - INFO - 이미지 생성할 횟수를 입력하세요 (10개 이하 추천):
+2025-08-13 10:47:36,495 - INFO - C:\program_cookies 폴더 크기: 1.39 GB
+2025-08-13 10:47:36,561 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-13 10:47:36,562 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-13 10:47:36,562 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-08-13 10:47:36,562 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-13 10:47:36,562 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6784.68 Safari/537.36입니다.
+2025-08-13 10:47:36,562 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-08-13 10:47:40,063 - INFO - ==================================
+2025-08-13 10:47:40,063 - INFO - devicemetrics를 override 합니다..
+2025-08-13 10:47:40,068 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-13 10:47:40,069 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-08-13 10:47:40,069 - INFO - RANDOM gps 정보는 {'latitude': 37.56331271115593, 'longitude': 127.08945146992299, 'accuracy': 100} 입니다.
+2025-08-13 10:47:40,075 - INFO - 모든 변경이 완료되었습니다...
+2025-08-13 10:47:40,075 - INFO - ~~~~~~~~~~
+2025-08-13 10:47:40,075 - INFO - -----------------------------
+2025-08-13 10:47:55,453 - INFO - > reCAPTCHA가 감지되지 않음, 비밀번호 입력 단계로 진행
+2025-08-13 10:48:12,424 - INFO - 구글 로그인 완료
+2025-08-13 10:48:16,732 - INFO - 팝업 닫기 버튼 클릭
+2025-08-13 10:48:18,615 - INFO - 1번째 행 처리 시작 - 폭풍우 속에서 거센 파도에 맞서 서 있는 외딴 등대
+2025-08-13 10:48:18,615 - INFO - 입력창 클릭
+2025-08-13 10:48:20,730 - INFO - 프롬프트 입력
+2025-08-13 10:48:21,851 - INFO - 생성 1/3 시작
+2025-08-13 10:48:21,880 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:48:26,176 - INFO - 생성 2/3 시작
+2025-08-13 10:48:26,215 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:48:30,329 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:31,334 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:32,341 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:33,347 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:34,356 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:35,363 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:36,364 - INFO - 이미지 다운로드 가능 상태가 되지 않아, 다음 이미지로 넘어갑니다
+2025-08-13 10:48:36,364 - INFO - 이미지 다운로드 - 불가능
+2025-08-13 10:48:37,942 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:48:37,966 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:38,972 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:39,978 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:42,826 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:48:44,542 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:48:44,552 - INFO - 생성 3/3 시작
+2025-08-13 10:48:44,604 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:48:50,198 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:51,204 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:52,210 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:53,219 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:54,225 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:55,230 - INFO - 이미지 다운로드 가능
+2025-08-13 10:48:56,231 - INFO - 이미지 다운로드 가능 상태가 되지 않아, 다음 이미지로 넘어갑니다
+2025-08-13 10:48:56,231 - INFO - 이미지 다운로드 - 불가능
+2025-08-13 10:48:57,960 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:49:01,022 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:49:01,380 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\1.jpg
+2025-08-13 10:49:01,402 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:49:05,657 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:49:06,009 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\2.jpg
+2025-08-13 10:49:06,027 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:49:10,160 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:49:10,522 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\3.jpg
+2025-08-13 10:49:10,539 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:49:14,851 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:49:15,197 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\4.jpg
+2025-08-13 10:49:15,219 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:49:19,014 - INFO - 2번째 행 처리 시작 - 네온 불빛이 반짝이는 미래형 한국 도시의 야경과 하늘을 나는 자동차들
+2025-08-13 10:49:19,014 - INFO - 입력창 클릭
+2025-08-13 10:49:20,930 - INFO - 프롬프트 입력
+2025-08-13 10:49:21,999 - INFO - 생성 1/3 시작
+2025-08-13 10:49:22,020 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:49:26,399 - INFO - 생성 2/3 시작
+2025-08-13 10:49:26,444 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:49:31,974 - INFO - 이미지 다운로드 가능
+2025-08-13 10:49:32,989 - INFO - 이미지 다운로드 가능
+2025-08-13 10:49:35,714 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:49:37,247 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:49:37,267 - INFO - 이미지 다운로드 - 불가능
+2025-08-13 10:49:39,156 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:49:39,165 - INFO - 생성 3/3 시작
+2025-08-13 10:49:39,216 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:49:43,394 - INFO - 이미지 다운로드 가능
+2025-08-13 10:49:44,402 - INFO - 이미지 다운로드 가능
+2025-08-13 10:49:45,410 - INFO - 이미지 다운로드 가능
+2025-08-13 10:49:46,418 - INFO - 이미지 다운로드 가능
+2025-08-13 10:49:47,426 - INFO - 이미지 다운로드 가능
+2025-08-13 10:49:48,439 - INFO - 이미지 다운로드 가능
+2025-08-13 10:49:49,441 - INFO - 이미지 다운로드 가능 상태가 되지 않아, 다음 이미지로 넘어갑니다
+2025-08-13 10:49:49,442 - INFO - 이미지 다운로드 - 불가능
+2025-08-13 10:49:49,451 - INFO - 이미지 다운로드 가능
+2025-08-13 10:49:52,379 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:49:55,444 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:49:55,794 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\5.jpg
+2025-08-13 10:49:55,815 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:50:00,192 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:50:00,539 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\6.jpg
+2025-08-13 10:50:00,557 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:50:04,737 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:50:05,056 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\7.jpg
+2025-08-13 10:50:05,117 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:50:09,421 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:50:09,797 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\8.jpg
+2025-08-13 10:50:09,857 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:50:16,661 - INFO - 3번째 행 처리 시작 - 해 뜨는 아침, 안개가 피어오르는 산속 호수와 가운데 떠 있는 작은 나무배
+2025-08-13 10:50:16,661 - INFO - 입력창 클릭
+2025-08-13 10:50:18,397 - INFO - 프롬프트 입력
+2025-08-13 10:50:19,338 - INFO - 생성 1/3 시작
+2025-08-13 10:50:19,362 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:50:25,255 - INFO - 생성 2/3 시작
+2025-08-13 10:50:25,285 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:50:32,636 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:50:34,300 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:50:34,313 - INFO - 이미지 다운로드 가능
+2025-08-13 10:50:35,320 - INFO - 이미지 다운로드 가능
+2025-08-13 10:50:38,257 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:50:40,147 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:50:40,156 - INFO - 생성 3/3 시작
+2025-08-13 10:50:40,203 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:50:45,877 - INFO - 이미지 다운로드 가능
+2025-08-13 10:50:46,885 - INFO - 이미지 다운로드 가능
+2025-08-13 10:50:49,868 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:50:51,528 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:50:54,594 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:50:54,959 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\9.jpg
+2025-08-13 10:50:54,972 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:50:59,325 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:50:59,729 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\10.jpg
+2025-08-13 10:50:59,744 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:51:03,838 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:51:04,236 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\11.jpg
+2025-08-13 10:51:04,249 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:51:08,539 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:51:08,937 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\12.jpg
+2025-08-13 10:51:08,951 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:51:13,325 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:51:13,747 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\13.jpg
+2025-08-13 10:51:13,812 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:51:18,058 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:51:18,466 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\14.jpg
+2025-08-13 10:51:18,480 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:51:22,964 - INFO - 4번째 행 처리 시작 - 부드러운 봄빛 속 빗방울이 맺힌 벚꽃 꽃잎의 클로즈업
+2025-08-13 10:51:22,964 - INFO - 입력창 클릭
+2025-08-13 10:51:35,123 - INFO - 프롬프트 입력
+2025-08-13 10:51:36,542 - INFO - 생성 1/3 시작
+2025-08-13 10:51:36,545 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:51:41,658 - INFO - 생성 2/3 시작
+2025-08-13 10:51:41,662 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:51:45,956 - INFO - 생성 3/3 시작
+2025-08-13 10:51:45,960 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:51:53,960 - INFO - 5번째 행 처리 시작 - 따뜻한 조명과 나무 가구, 김이 오르는 커피가 있는 아늑한 카페 내부
+2025-08-13 10:51:53,960 - INFO - 입력창 클릭
+2025-08-13 10:52:05,990 - INFO - 프롬프트 입력
+2025-08-13 10:52:07,417 - INFO - 생성 1/3 시작
+2025-08-13 10:52:07,440 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:52:12,989 - INFO - 생성 2/3 시작
+2025-08-13 10:52:13,022 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:52:18,892 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:19,898 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:20,907 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:21,912 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:22,919 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:23,926 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:24,927 - INFO - 이미지 다운로드 가능 상태가 되지 않아, 다음 이미지로 넘어갑니다
+2025-08-13 10:52:24,927 - INFO - 이미지 다운로드 - 불가능
+2025-08-13 10:52:24,934 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:25,938 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:26,945 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:29,838 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:52:29,859 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:30,864 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:31,876 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:34,500 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:52:36,427 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:52:36,439 - INFO - 생성 3/3 시작
+2025-08-13 10:52:36,481 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:52:40,637 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:41,645 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:42,655 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:43,663 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:44,670 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:45,679 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:46,679 - INFO - 이미지 다운로드 가능 상태가 되지 않아, 다음 이미지로 넘어갑니다
+2025-08-13 10:52:46,679 - INFO - 이미지 다운로드 - 불가능
+2025-08-13 10:52:46,687 - INFO - 이미지 다운로드 가능
+2025-08-13 10:52:49,453 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:52:52,516 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:52:52,892 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\15.jpg
+2025-08-13 10:52:52,910 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:52:57,258 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:52:57,615 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\16.jpg
+2025-08-13 10:52:57,631 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:53:01,787 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:53:02,141 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\17.jpg
+2025-08-13 10:53:02,158 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:53:06,289 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:53:06,613 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\18.jpg
+2025-08-13 10:53:06,677 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:53:11,374 - INFO - 6번째 행 처리 시작 - 거대한 푸른빛과 보랏빛 성운 아래 사막 행성에 서 있는 우주비행사
+2025-08-13 10:53:11,374 - INFO - 입력창 클릭
+2025-08-13 10:53:13,488 - INFO - 프롬프트 입력
+2025-08-13 10:53:14,741 - INFO - 생성 1/3 시작
+2025-08-13 10:53:14,767 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:53:19,115 - INFO - 생성 2/3 시작
+2025-08-13 10:53:19,145 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:53:25,890 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:53:25,918 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:26,927 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:27,935 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:28,946 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:29,951 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:32,539 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:53:34,134 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:53:36,131 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:53:36,143 - INFO - 생성 3/3 시작
+2025-08-13 10:53:36,182 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:53:40,677 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:41,686 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:42,693 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:43,698 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:44,706 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:45,713 - INFO - 이미지 다운로드 가능
+2025-08-13 10:53:46,714 - INFO - 이미지 다운로드 가능 상태가 되지 않아, 다음 이미지로 넘어갑니다
+2025-08-13 10:53:46,714 - INFO - 이미지 다운로드 - 불가능
+2025-08-13 10:53:48,472 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:53:51,531 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:53:51,899 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\19.jpg
+2025-08-13 10:53:51,916 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:53:56,264 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:53:56,700 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\20.jpg
+2025-08-13 10:53:56,759 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:54:01,198 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:54:01,593 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\21.jpg
+2025-08-13 10:54:01,614 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:54:05,961 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:54:06,320 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\22.jpg
+2025-08-13 10:54:06,339 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:54:10,449 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:54:10,823 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\23.jpg
+2025-08-13 10:54:10,841 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:54:15,534 - INFO - 7번째 행 처리 시작 - 황금빛 햇살 아래 가을 단풍으로 둘러싸인 전통 한옥
+2025-08-13 10:54:15,534 - INFO - 입력창 클릭
+2025-08-13 10:54:17,988 - INFO - 프롬프트 입력
+2025-08-13 10:54:19,319 - INFO - 생성 1/3 시작
+2025-08-13 10:54:19,338 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:54:23,872 - INFO - 생성 2/3 시작
+2025-08-13 10:54:23,906 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:54:29,448 - INFO - 이미지 다운로드 가능
+2025-08-13 10:54:32,167 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:54:34,082 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:54:35,766 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:54:37,494 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:54:37,507 - INFO - 생성 3/3 시작
+2025-08-13 10:54:37,540 - INFO - 이미지 생성 중... (4~6초 대기)
+2025-08-13 10:54:42,742 - INFO - 이미지 다운로드 가능
+2025-08-13 10:54:43,749 - INFO - 이미지 다운로드 가능
+2025-08-13 10:54:44,757 - INFO - 이미지 다운로드 가능
+2025-08-13 10:54:45,764 - INFO - 이미지 다운로드 가능
+2025-08-13 10:54:46,771 - INFO - 이미지 다운로드 가능
+2025-08-13 10:54:47,779 - INFO - 이미지 다운로드 가능
+2025-08-13 10:54:48,780 - INFO - 이미지 다운로드 가능 상태가 되지 않아, 다음 이미지로 넘어갑니다
+2025-08-13 10:54:48,780 - INFO - 이미지 다운로드 - 불가능
+2025-08-13 10:54:50,670 - INFO - 이미지 다운로드 - 가능
+2025-08-13 10:54:53,734 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:54:53,997 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\24.jpg
+2025-08-13 10:54:54,015 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:54:58,166 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:54:58,430 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\25.jpg
+2025-08-13 10:54:58,447 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:55:02,932 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:55:03,217 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\26.jpg
+2025-08-13 10:55:03,287 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:55:07,682 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:55:07,975 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\27.jpg
+2025-08-13 10:55:08,035 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:55:12,252 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py:509: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  warnings.warn(
+2025-08-13 10:55:12,520 - INFO - 이미지 다운로드 - 완료: C:\image_downloader\28.jpg
+2025-08-13 10:55:12,576 - INFO - 원래 탭으로 복귀 완료
+2025-08-13 10:55:30,552 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:55:30,552 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:55:31,553 - INFO - ==================================
+2025-08-13 10:55:31,553 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-13 10:55:31,724 - INFO - [현재 크롬 버전] : 139.0.7258.128
+2025-08-13 10:55:33,457 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-13 10:55:35,470 - INFO - ==================================
+2025-08-13 10:55:35,470 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-13 10:55:35,471 - INFO - -----------------------------
+2025-08-13 10:55:35,472 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-13 10:55:35,472 - INFO - ==================================
+2025-08-13 10:55:35,605 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:55:35,605 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:55:36,606 - INFO - ==================================
+2025-08-13 10:55:36,606 - INFO - 이미지 다운로드 - 시작
+2025-08-13 10:55:36,606 - INFO - -----------------------------
+2025-08-13 10:55:36,606 - INFO - -----------------------------
+2025-08-13 10:55:36,611 - INFO - 1. 폭풍우 속에서 거센 파도에 맞서 서 있는 외딴 등대
+2025-08-13 10:55:36,611 - INFO - 2. 네온 불빛이 반짝이는 미래형 한국 도시의 야경과 하늘을 나는 자동차들
+2025-08-13 10:55:36,611 - INFO - 3. 해 뜨는 아침, 안개가 피어오르는 산속 호수와 가운데 떠 있는 작은 나무배
+2025-08-13 10:55:36,611 - INFO - 4. 부드러운 봄빛 속 빗방울이 맺힌 벚꽃 꽃잎의 클로즈업
+2025-08-13 10:55:36,612 - INFO - 5. 따뜻한 조명과 나무 가구, 김이 오르는 커피가 있는 아늑한 카페 내부
+2025-08-13 10:55:36,612 - INFO - 6. 거대한 푸른빛과 보랏빛 성운 아래 사막 행성에 서 있는 우주비행사
+2025-08-13 10:55:36,612 - INFO - 7. 황금빛 햇살 아래 가을 단풍으로 둘러싸인 전통 한옥
+2025-08-13 10:55:36,612 - INFO - -----------------------------
+2025-08-13 10:55:36,612 - INFO - 프롬프트 텍스트 파일 경로: C:\image_downloader\image_prompt.txt
+2025-08-13 10:55:36,612 - INFO - 텍스트 파일 각 행마다 몇 개의 이미지를 생성할까요?
+2025-08-13 10:55:36,612 - INFO - -----------------------------
+2025-08-13 10:55:36,612 - INFO - ( 숫자만 입력해주시기 바랍니다 )
+2025-08-13 10:55:36,613 - INFO - 이미지 생성할 횟수를 입력하세요 (10개 이하 추천):
+2025-08-13 10:59:31,458 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:59:31,459 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:59:31,576 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 302, in <module>
+    app.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 101, in run
+    iterations = self._get_iterations()
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 76, in _get_iterations
+    iterations = input("이미지 생성할 횟수를 입력하세요 (10개 이하 추천): ")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 373, in <module>
+    time.sleep(1)
+KeyboardInterrupt

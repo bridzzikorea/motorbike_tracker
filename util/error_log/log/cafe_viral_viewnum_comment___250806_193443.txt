@@ -1,0 +1,20 @@
+2025-08-06 19:34:45,479 - ERROR - 1/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1082, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start():
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: NaverCafeBot.cafe_post_comment_start() missing 1 required positional argument: 'googlesheet'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-06 19:34:45,481 - ERROR - Traceback (most recent call last):
+2025-08-06 19:34:45,481 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1082, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start():
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 19:34:45,481 - ERROR - TypeError: NaverCafeBot.cafe_post_comment_start() missing 1 required positional argument: 'googlesheet'
+2025-08-06 19:34:45,771 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-06 19:34:45,771 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-06 19:34:46,773 - INFO - ==================================
+2025-08-06 19:34:46,773 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-06 19:34:46,910 - INFO - [현재 크롬 버전] : 139.0.7258.67

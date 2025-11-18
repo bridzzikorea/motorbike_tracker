@@ -1,0 +1,63 @@
+2025-11-14 10:27:21,984 - INFO - 로그인 응답 코드:
+2025-11-14 10:27:21,984 - INFO - 200
+2025-11-14 10:27:21,986 - INFO - 서버가 준 쿠키:
+2025-11-14 10:27:21,986 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=3CF9F9DE1266859D88C953EF3390F2B8 for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 10:27:22,002 - INFO - 로그인 응답 코드:
+2025-11-14 10:27:22,002 - INFO - 200
+2025-11-14 10:27:22,003 - INFO - 장비 개수:
+2025-11-14 10:27:22,003 - INFO - 39
+2025-11-14 10:27:22,015 - INFO - port   vehicle_number       ip_address        id                             client_id
+0   51908     경기 수원 거 7502     37.17.191.68  EAE28066  d3471980-9964-4fc9-979c-c3c0e84ae279
+1   43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc
+2   51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6
+3   61756              미지정     37.17.191.68  EBD1EB91  d840fe31-b0f1-412d-9a84-5097e224edb3
+4    8085     경기 수원 거 4891   195.226.133.40  CA02EF4C  301c1f9c-806c-428e-8cbc-0c39e194f7d2
+5   56446     경기 수원 거 5749     37.17.191.68  FE7ACC2E  0e06a3ca-f3af-463e-b627-9814d1b062d8
+6   51031     경기 수원 너 3524  193.181.246.248  C4BC2DA0  6b408fb7-3b22-4da8-88ed-b7a5be2699ce
+7   27968     경기 수원 거 4897   195.226.133.46  FC633C52  fa99aa43-2196-43bb-bd8d-0c76d3754a8b
+8   49232     경기 수원 거 9533     37.17.191.68  FD1D0C84  b3764d25-7ffe-4695-a22c-a064de67e669
+9   62090     경기 수원 거 5801     37.17.191.68  E0459619  892c2cc6-e48e-47da-b68f-e47edef82e81
+10  57442     경기 수원 거 7627     37.17.191.68  D4CB32FA  6ac75a9d-3b08-474c-9c11-a6505e11e60a
+11  55712     경기 수원 거 5830   195.226.133.37  F433B5A4  39c1483e-ff30-4ff1-9050-29888d279187
+12  62318              미지정   195.226.133.43  E9A5C773  616ad3f4-b6e4-4016-a2e3-2c5eda4c79f7
+13  62557     경기 수원 거 5250   195.226.133.37  D3992722  1ae5ef97-8941-49cf-acc2-81d206f9329e
+14  60264     경기 수원 거 5894     37.17.191.68  EF495AEF  2887144f-6fe4-4615-a3a9-78dd91ea50cc
+15  54846     경기 수원 너 3571     37.17.191.68  C973F14E  9786ecd0-5a80-4f7f-9ad6-c6a443406111
+16  13595     경기 수원 거 5791   195.226.133.46  D1B1E85A  28545746-eecf-4ce5-b31b-a283b320ddd5
+17  64499     경기 수원 거 5295   195.226.133.38  E1C3ED9B  803abac9-4402-4ae4-a905-82a7bbaf7ab1
+18  50346     경기 수원 거 9019     37.17.191.68  D8E32357  e13b0ac6-aee6-43ba-83bd-6a4720efe5bb
+19  58595     경기 수원 거 4869     5.35.166.167  CFE782BF  b8a1fa46-7af6-4264-984d-1b5599d438b8
+20   4808     경기 수원 거 5714   195.226.133.38  D29E7261  fcc07726-7531-4666-bd62-e65f32576d84
+21  58209     경기 수원 거 4935   195.226.133.43  C18986BD  545b79b1-4666-4762-93f0-be1bed177827
+22  59982     경기 수원 너 3652    193.181.246.8  D824C81C  ffa552c1-83ec-42e4-ae67-69911a1b07cc
+23  59656     경기 수원 거 5275     5.35.166.167  C8753BFC  784e363e-91ae-4e93-b545-65c7c0eb72e7
+24  57662     경기 수원 거 4974     5.35.166.167  FAD1AF1B  fad8e959-066d-4577-b9db-4452160715f6
+25  54009     경기 수원 러 0160     37.17.191.68  F35F23D6  5950c36c-cadd-4b73-9a1e-15640e8debc6
+26  62315              미지정     37.17.191.68  EBD1EB91  b3c4b8d4-2560-44e8-b82c-32e152e878a6
+27  62941     경기 수원 러 0160     37.17.191.68  F35F23D6  9a204b71-979c-4476-935f-6a5ac57ef94d
+28  57628     경기 수원 거 5210   195.226.133.62  E59D8D1C  c4dac68b-620e-4ed1-a5cb-6e44a086ddd3
+29  59856     경기 수원 러 0160     37.17.191.68  F35F23D6  8f18ee94-0aeb-4162-92dd-df28434d930f
+30  61534              미지정     37.17.191.68  EBD1EB91  91fc249f-6620-4aa0-a167-5783b7ab2703
+31  31830     경기 수원 거 4974     5.35.166.167  FAD1AF1B  38e577d7-4606-4d18-a922-21701847ed4f
+32  27966     경기 수원 거 5936     5.35.166.167  F570581E  38727207-33be-492b-bc45-a6f3a7a30270
+33  62869     경기 수원 거 5715   195.226.133.61  F69D703A  8e184b58-9d20-42a0-a37c-f43a5cc82cbb
+34  30381     경기 수원 거 5000   195.226.133.46  F4D162E2  94f49e21-2315-4c6d-b3b4-4a0283c1eeb5
+35  60985  PCX125 블랙 세팅 차량   193.181.246.72  D6D652EF  7368ce42-019c-465c-9af0-f1f60b769fca
+36  49688     경기 수원 거 9019     37.17.191.68  D8E32357  d06400f3-9fa7-4769-8ad0-7aa19506e0ec
+37  63339     경기 수원 거 5747     37.17.191.68  E6B659B3  504902e2-f014-4f0e-aa83-10b0204b5495
+38  51930     경기 수원 거 4995   195.226.133.40  D72D964E  17d07462-0fb2-4d92-b184-c56f213cd817
+2025-11-14 10:27:22,016 - ERROR - C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py:78: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  TRACK_URL = f"https://fms.owlsgrp.co.kr/owls-fms-admin/tracker?search_name={row[id]}"
+2025-11-14 10:27:22,016 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 114, in <module>
+    motobike_tracker_bot.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 97, in run
+    self._get_motion_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 78, in _get_motion_data
+    TRACK_URL = f"https://fms.owlsgrp.co.kr/owls-fms-admin/tracker?search_name={row[id]}"
+                                                                                ~~~^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\series.py", line 1118, in __getitem__
+    return self._values[key]
+           ~~~~~~~~~~~~^^^^^
+IndexError: index 2710838812336 is out of bounds for axis 0 with size 5

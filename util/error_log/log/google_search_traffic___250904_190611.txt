@@ -1,0 +1,592 @@
+2025-09-04 19:06:13,378 - INFO - 시트이름: 대시보드
+2025-09-04 19:06:13,378 - INFO - 구글 시트 로드 - 시도중....
+2025-09-04 19:06:13,648 - INFO - 구글 시트 로드 - 완료
+2025-09-04 19:06:13,920 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-04 19:06:13,923 - INFO - ==================================
+2025-09-04 19:06:13,923 - INFO - ★★★ IP 변경 - START ★★★
+2025-09-04 19:06:13,923 - INFO - [#1 mobile_ip 전환 - try ]
+2025-09-04 19:06:14,081 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-09-04 19:06:19,316 - INFO - --- ADB 모바일 연결 [진행]
+2025-09-04 19:06:19,417 - INFO - --- USB테더링 리미트 해제 [진행]
+2025-09-04 19:06:21,004 - INFO - --- USB테더링 활성화 - 성공
+2025-09-04 19:06:21,004 - INFO - -----------------------------
+2025-09-04 19:06:21,896 - INFO - --- 모바일 USB 어뎁터가 이미 활성화 되어 있습니다.
+2025-09-04 19:06:21,896 - INFO - --- USB 어댑터 찾기 및 활성화 시도 [완료]
+2025-09-04 19:06:21,897 - INFO - --- 이더넷(WI-FI, 랜선) 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-04 19:06:22,354 - INFO - --- USB 어댑터 외의 모든 어댑터 비활성화 시도 [완료]
+2025-09-04 19:06:24,910 - INFO - --- USB 어뎁터가 활성화 [확인]
+2025-09-04 19:06:27,259 - INFO - --- 이더넷 어뎁터가 비활성화 [확인]
+2025-09-04 19:06:27,259 - INFO - -----------------------------
+2025-09-04 19:06:27,349 - INFO - --- WiFi off - 성공
+2025-09-04 19:06:27,438 - INFO - --- '모바일 데이터' on - 성공
+2025-09-04 19:06:28,452 - INFO - ★ 모바일IP 전환 - Success ★
+2025-09-04 19:06:28,452 - INFO - [# USB테더링 전환 #] - 성공
+2025-09-04 19:06:28,452 - INFO - [#1 mobile_ip 전환 - success ]
+2025-09-04 19:06:28,452 - INFO - -----------------------------
+2025-09-04 19:06:28,452 - INFO - [#2 before_ip 추출] - try
+2025-09-04 19:06:28,453 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:06:29,235 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:06:29,236 - INFO - [#2 before_ip 추출] - success : 160.238.37.70
+2025-09-04 19:06:29,236 - INFO - -----------------------------
+2025-09-04 19:06:29,732 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:06:30,179 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:06:30,565 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:06:30,992 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:06:30,993 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:06:30,994 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:06:32,005 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:06:33,023 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:06:33,023 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:06:33,024 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:06:33,448 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:06:33,799 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:06:34,154 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:06:34,533 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:06:34,533 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:06:34,533 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:06:35,536 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:06:37,201 - INFO - - 추출 실패 2/3 재시도
+2025-09-04 19:06:38,761 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:06:38,762 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:06:38,763 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:06:39,152 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:06:39,536 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:06:39,906 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:06:40,279 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:06:40,279 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:06:40,280 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:06:41,286 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:06:42,599 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:06:42,600 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:06:42,601 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:06:42,972 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:06:43,352 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:06:43,707 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:06:44,081 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:06:44,082 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:06:44,083 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:06:45,102 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:06:46,065 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:06:46,066 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:06:46,067 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:06:46,473 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:06:46,827 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:06:47,194 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:06:47,565 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:06:47,565 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:06:47,565 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:06:48,576 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:06:49,521 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:06:49,522 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:06:49,523 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:06:49,945 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:06:50,358 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:06:50,748 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:06:51,136 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:06:51,136 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:06:51,136 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:06:52,143 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:06:53,090 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:06:53,092 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:06:53,092 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:06:53,093 - INFO - ★★★ IP 변경 - Fail ★★★
+2025-09-04 19:06:53,121 - ERROR - 1/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 19:06:53,122 - ERROR - Traceback (most recent call last):
+2025-09-04 19:06:53,122 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 19:06:53,122 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 19:06:53,122 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+2025-09-04 19:06:53,122 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+2025-09-04 19:06:53,122 - ERROR - Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+2025-09-04 19:06:53,268 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:06:53,268 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:06:54,269 - INFO - ==================================
+2025-09-04 19:06:54,269 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 19:06:54,418 - INFO - ==================================
+2025-09-04 19:06:54,418 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-09-04 19:06:54,551 - INFO - -----------------------------
+2025-09-04 19:06:54,551 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-04 19:06:54,831 - INFO - -----------------------------
+2025-09-04 19:06:54,831 - INFO - 이더넷(WI-FI, 랜선) 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-09-04 19:06:59,653 - INFO - 모바일 USB 어뎁터가 비활성화 되었습니다.
+2025-09-04 19:07:06,619 - INFO - 이더넷 어뎁터가 활성화 되었습니다.
+2025-09-04 19:07:07,047 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - Success ★
+2025-09-04 19:07:07,048 - INFO - ==================================
+2025-09-04 19:07:07,190 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 19:07:08,457 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-04 19:07:10,461 - INFO - ==================================
+2025-09-04 19:07:10,462 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-04 19:07:10,462 - INFO - -----------------------------
+2025-09-04 19:07:10,462 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-04 19:07:10,462 - INFO - ==================================
+2025-09-04 19:07:10,619 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:07:10,620 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:07:11,621 - INFO - ==================================
+2025-09-04 19:07:11,623 - INFO - 시트이름: 대시보드
+2025-09-04 19:07:11,623 - INFO - 구글 시트 로드 - 시도중....
+2025-09-04 19:07:11,929 - INFO - 구글 시트 로드 - 완료
+2025-09-04 19:07:12,219 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-04 19:07:12,220 - INFO - ==================================
+2025-09-04 19:07:12,220 - INFO - ★★★ IP 변경 - START ★★★
+2025-09-04 19:07:12,221 - INFO - [#1 mobile_ip 전환 - try ]
+2025-09-04 19:07:12,362 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-09-04 19:07:12,392 - INFO - --- ADB 모바일 연결 [진행]
+2025-09-04 19:07:12,485 - INFO - --- USB테더링 리미트 해제 [진행]
+2025-09-04 19:07:13,989 - INFO - --- USB테더링 활성화 - 성공
+2025-09-04 19:07:13,990 - INFO - -----------------------------
+2025-09-04 19:07:14,893 - INFO - --- 모바일 USB 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-09-04 19:07:15,257 - INFO - --- USB 어댑터 찾기 및 활성화 시도 [완료]
+2025-09-04 19:07:15,262 - INFO - --- 이더넷(WI-FI, 랜선) 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-04 19:07:18,424 - INFO - --- USB 어댑터 외의 모든 어댑터 비활성화 시도 [완료]
+2025-09-04 19:07:20,960 - INFO - --- USB 어뎁터가 활성화 [확인]
+2025-09-04 19:07:23,303 - INFO - --- 이더넷 어뎁터가 비활성화 [확인]
+2025-09-04 19:07:23,303 - INFO - -----------------------------
+2025-09-04 19:07:23,389 - INFO - --- WiFi off - 성공
+2025-09-04 19:07:23,477 - INFO - --- '모바일 데이터' on - 성공
+2025-09-04 19:07:24,071 - INFO - ★ 모바일IP 전환 - Success ★
+2025-09-04 19:07:24,071 - INFO - [# USB테더링 전환 #] - 성공
+2025-09-04 19:07:24,072 - INFO - [#1 mobile_ip 전환 - success ]
+2025-09-04 19:07:24,073 - INFO - -----------------------------
+2025-09-04 19:07:24,074 - INFO - [#2 before_ip 추출] - try
+2025-09-04 19:07:24,074 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:07:24,422 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:07:24,423 - INFO - [#2 before_ip 추출] - success : 160.238.37.70
+2025-09-04 19:07:24,424 - INFO - -----------------------------
+2025-09-04 19:07:24,823 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:07:25,189 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:07:25,551 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:07:25,939 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:07:25,939 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:07:25,940 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:07:26,954 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:07:27,871 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:07:27,872 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:07:27,873 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:07:28,246 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:07:28,618 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:07:29,033 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:07:29,406 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:07:29,407 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:07:29,408 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:07:31,106 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:07:31,107 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:07:31,109 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:07:31,512 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:07:31,931 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:07:32,310 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:07:32,674 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:07:32,674 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:07:32,674 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:07:33,683 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:07:34,616 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:07:34,616 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:07:34,617 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:07:34,986 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:07:35,367 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:07:35,731 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:07:36,111 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:07:36,111 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:07:36,112 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:07:37,120 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:07:38,119 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:07:38,121 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:07:38,121 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:07:38,533 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:07:38,896 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:07:39,309 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:07:39,677 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:07:39,678 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:07:39,679 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:07:40,693 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:07:41,592 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:07:41,593 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:07:41,594 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:07:41,974 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:07:42,336 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:07:42,744 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:07:43,126 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:07:43,127 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:07:43,128 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:07:44,143 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:07:45,089 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:07:45,090 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:07:45,091 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:07:45,092 - INFO - ★★★ IP 변경 - Fail ★★★
+2025-09-04 19:07:45,094 - ERROR - 2/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 19:07:45,095 - ERROR - Traceback (most recent call last):
+2025-09-04 19:07:45,095 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 19:07:45,096 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 19:07:45,096 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+2025-09-04 19:07:45,097 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+2025-09-04 19:07:45,097 - ERROR - Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+2025-09-04 19:07:45,097 - INFO - 텔레그램 에러 메시지 : [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+2025-09-04 19:07:46,427 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:07:46,427 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:07:47,428 - INFO - ==================================
+2025-09-04 19:07:47,428 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 19:07:47,574 - INFO - ==================================
+2025-09-04 19:07:47,574 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-09-04 19:07:47,708 - INFO - -----------------------------
+2025-09-04 19:07:47,708 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-04 19:07:47,978 - INFO - -----------------------------
+2025-09-04 19:07:47,978 - INFO - 이더넷(WI-FI, 랜선) 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-09-04 19:07:52,777 - INFO - 모바일 USB 어뎁터가 비활성화 되었습니다.
+2025-09-04 19:07:59,716 - INFO - 이더넷 어뎁터가 활성화 되었습니다.
+2025-09-04 19:08:00,150 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - Success ★
+2025-09-04 19:08:00,151 - INFO - ==================================
+2025-09-04 19:08:00,306 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 19:08:01,585 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-04 19:08:03,590 - INFO - ==================================
+2025-09-04 19:08:03,590 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-04 19:08:03,591 - INFO - -----------------------------
+2025-09-04 19:08:03,591 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-04 19:08:03,591 - INFO - ==================================
+2025-09-04 19:08:03,766 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:08:03,766 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:08:04,768 - INFO - ==================================
+2025-09-04 19:08:04,770 - INFO - 시트이름: 대시보드
+2025-09-04 19:08:04,770 - INFO - 구글 시트 로드 - 시도중....
+2025-09-04 19:08:05,081 - INFO - 구글 시트 로드 - 완료
+2025-09-04 19:08:05,351 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-04 19:08:05,354 - INFO - ==================================
+2025-09-04 19:08:05,354 - INFO - ★★★ IP 변경 - START ★★★
+2025-09-04 19:08:05,355 - INFO - [#1 mobile_ip 전환 - try ]
+2025-09-04 19:08:05,508 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-09-04 19:08:05,537 - INFO - --- ADB 모바일 연결 [진행]
+2025-09-04 19:08:05,627 - INFO - --- USB테더링 리미트 해제 [진행]
+2025-09-04 19:08:07,174 - INFO - --- USB테더링 활성화 - 성공
+2025-09-04 19:08:07,175 - INFO - -----------------------------
+2025-09-04 19:08:08,076 - INFO - --- 모바일 USB 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-09-04 19:08:08,433 - INFO - --- USB 어댑터 찾기 및 활성화 시도 [완료]
+2025-09-04 19:08:08,436 - INFO - --- 이더넷(WI-FI, 랜선) 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-04 19:08:11,601 - INFO - --- USB 어댑터 외의 모든 어댑터 비활성화 시도 [완료]
+2025-09-04 19:08:14,138 - INFO - --- USB 어뎁터가 활성화 [확인]
+2025-09-04 19:08:16,482 - INFO - --- 이더넷 어뎁터가 비활성화 [확인]
+2025-09-04 19:08:16,482 - INFO - -----------------------------
+2025-09-04 19:08:16,562 - INFO - --- WiFi off - 성공
+2025-09-04 19:08:16,644 - INFO - --- '모바일 데이터' on - 성공
+2025-09-04 19:08:17,220 - INFO - ★ 모바일IP 전환 - Success ★
+2025-09-04 19:08:17,221 - INFO - [# USB테더링 전환 #] - 성공
+2025-09-04 19:08:17,221 - INFO - [#1 mobile_ip 전환 - success ]
+2025-09-04 19:08:17,222 - INFO - -----------------------------
+2025-09-04 19:08:17,222 - INFO - [#2 before_ip 추출] - try
+2025-09-04 19:08:17,223 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:08:17,625 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:08:17,626 - INFO - [#2 before_ip 추출] - success : 160.238.37.70
+2025-09-04 19:08:17,627 - INFO - -----------------------------
+2025-09-04 19:08:18,010 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:08:18,401 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:08:18,796 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:08:19,170 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:08:19,171 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:08:19,172 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:08:20,179 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:08:21,262 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:08:21,262 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:08:21,263 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:08:21,638 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:08:22,096 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:08:22,453 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:08:22,834 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:08:22,834 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:08:22,835 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:08:23,848 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:08:24,933 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:08:24,934 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:08:24,935 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:08:25,375 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:08:25,726 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:08:26,081 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:08:26,450 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:08:26,450 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:08:26,451 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:08:27,458 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:08:28,523 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:08:28,524 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:08:28,525 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:08:28,915 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:08:29,284 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:08:29,635 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:08:30,019 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:08:30,019 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:08:30,020 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:08:31,033 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:08:32,043 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:08:32,043 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:08:32,044 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:08:32,425 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:08:32,796 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:08:33,138 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:08:33,508 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:08:33,508 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:08:33,508 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:08:34,513 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:08:35,980 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:08:35,981 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:08:35,982 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:08:36,384 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:08:36,759 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:08:37,139 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:08:37,521 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:08:37,521 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:08:37,521 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:08:38,531 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:08:39,518 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:08:39,519 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:08:39,519 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:08:39,520 - INFO - ★★★ IP 변경 - Fail ★★★
+2025-09-04 19:08:39,521 - ERROR - 3/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 19:08:39,523 - ERROR - Traceback (most recent call last):
+2025-09-04 19:08:39,523 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 19:08:39,524 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 19:08:39,524 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+2025-09-04 19:08:39,524 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+2025-09-04 19:08:39,524 - ERROR - Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+2025-09-04 19:08:39,525 - INFO - 텔레그램 에러 메시지 : [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+2025-09-04 19:08:41,336 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:08:41,336 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:08:42,337 - INFO - ==================================
+2025-09-04 19:08:42,337 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 19:08:42,488 - INFO - ==================================
+2025-09-04 19:08:42,488 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-09-04 19:08:42,627 - INFO - -----------------------------
+2025-09-04 19:08:42,627 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-04 19:08:42,901 - INFO - -----------------------------
+2025-09-04 19:08:42,901 - INFO - 이더넷(WI-FI, 랜선) 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-09-04 19:08:54,564 - INFO - 이더넷 어뎁터가 활성화 되었습니다.
+2025-09-04 19:08:54,989 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - Success ★
+2025-09-04 19:08:54,989 - INFO - ==================================
+2025-09-04 19:08:55,138 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 19:08:56,417 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-04 19:08:58,428 - INFO - ==================================
+2025-09-04 19:08:58,429 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-04 19:08:58,429 - INFO - -----------------------------
+2025-09-04 19:08:58,429 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-04 19:08:58,429 - INFO - ==================================
+2025-09-04 19:08:58,579 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:08:58,579 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:08:59,580 - INFO - ==================================
+2025-09-04 19:08:59,582 - INFO - 시트이름: 대시보드
+2025-09-04 19:08:59,583 - INFO - 구글 시트 로드 - 시도중....
+2025-09-04 19:08:59,875 - INFO - 구글 시트 로드 - 완료
+2025-09-04 19:09:00,301 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-04 19:09:00,303 - INFO - ==================================
+2025-09-04 19:09:00,303 - INFO - ★★★ IP 변경 - START ★★★
+2025-09-04 19:09:00,303 - INFO - [#1 mobile_ip 전환 - try ]
+2025-09-04 19:09:00,446 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-09-04 19:09:00,474 - INFO - --- ADB 모바일 연결 [진행]
+2025-09-04 19:09:00,578 - INFO - --- USB테더링 리미트 해제 [진행]
+2025-09-04 19:09:02,060 - INFO - --- USB테더링 활성화 - 성공
+2025-09-04 19:09:02,060 - INFO - -----------------------------
+2025-09-04 19:09:02,975 - INFO - --- 모바일 USB 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-09-04 19:09:03,339 - INFO - --- USB 어댑터 찾기 및 활성화 시도 [완료]
+2025-09-04 19:09:03,340 - INFO - --- 이더넷(WI-FI, 랜선) 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-04 19:09:06,489 - INFO - --- USB 어댑터 외의 모든 어댑터 비활성화 시도 [완료]
+2025-09-04 19:09:09,024 - INFO - --- USB 어뎁터가 활성화 [확인]
+2025-09-04 19:09:11,367 - INFO - --- 이더넷 어뎁터가 비활성화 [확인]
+2025-09-04 19:09:11,368 - INFO - -----------------------------
+2025-09-04 19:09:11,454 - INFO - --- WiFi off - 성공
+2025-09-04 19:09:11,529 - INFO - --- '모바일 데이터' on - 성공
+2025-09-04 19:09:12,477 - INFO - ★ 모바일IP 전환 - Success ★
+2025-09-04 19:09:12,478 - INFO - [# USB테더링 전환 #] - 성공
+2025-09-04 19:09:12,479 - INFO - [#1 mobile_ip 전환 - success ]
+2025-09-04 19:09:12,480 - INFO - -----------------------------
+2025-09-04 19:09:12,480 - INFO - [#2 before_ip 추출] - try
+2025-09-04 19:09:12,481 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:09:13,077 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:09:13,079 - INFO - [#2 before_ip 추출] - success : 160.238.37.70
+2025-09-04 19:09:13,080 - INFO - -----------------------------
+2025-09-04 19:09:13,499 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:09:13,874 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:09:14,275 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:09:14,654 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:09:14,654 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:09:14,655 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:09:15,665 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:09:16,691 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:09:16,691 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:09:16,691 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:09:17,095 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:09:17,495 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:09:17,901 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:09:18,303 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:09:18,303 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:09:18,303 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:09:19,312 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:09:20,431 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:09:20,432 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:09:20,432 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:09:20,869 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:09:21,250 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:09:21,618 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:09:21,993 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:09:21,993 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:09:21,994 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:09:23,003 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:09:24,051 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:09:24,051 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:09:24,051 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:09:24,450 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:09:24,826 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:09:25,184 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:09:25,559 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:09:25,559 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:09:25,561 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:09:28,005 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:09:28,007 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:09:28,008 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:09:28,427 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:09:28,780 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:09:29,154 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:09:29,514 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:09:29,516 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:09:29,517 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:09:30,532 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:09:31,446 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:09:31,447 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:09:31,448 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:09:31,853 - INFO - --- 모바일 데이터 off - 성공
+2025-09-04 19:09:32,223 - INFO - --- 비행기 모드 on - 성공
+2025-09-04 19:09:32,618 - INFO - --- 비행기 모드 off - 성공
+2025-09-04 19:09:32,970 - INFO - --- 모바일 데이터 on - 성공
+2025-09-04 19:09:32,970 - INFO - [#3 after_ip 추출] - try
+2025-09-04 19:09:32,970 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-04 19:09:33,984 - INFO - - 추출 실패 1/3 재시도
+2025-09-04 19:09:34,921 - INFO - -- 'https://ipinfo.io/ip' : 160.238.37.70
+2025-09-04 19:09:34,921 - INFO - [#3 after_ip 추출] - success : 160.238.37.70
+2025-09-04 19:09:34,922 - INFO - Fail - IP 주소가 같습니다
+2025-09-04 19:09:34,923 - INFO - ★★★ IP 변경 - Fail ★★★
+2025-09-04 19:09:34,925 - ERROR - 4/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 19:09:34,926 - ERROR - Traceback (most recent call last):
+2025-09-04 19:09:34,927 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 19:09:34,927 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 19:09:34,927 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+2025-09-04 19:09:34,927 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+2025-09-04 19:09:34,927 - ERROR - Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+2025-09-04 19:09:34,927 - INFO - 텔레그램 에러 메시지 : [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 956, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 899, in run
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1988, in change_ip
+    raise Exception("'휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.")
+Exception: '휴대폰을 USB로 컴퓨터와 연결 => USB테더링'을 다시 연결 한 후 실행시켜 주세요.
+2025-09-04 19:09:36,991 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:09:36,991 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:09:37,992 - INFO - ==================================
+2025-09-04 19:09:37,992 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 19:09:38,140 - INFO - ==================================
+2025-09-04 19:09:38,141 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-09-04 19:09:38,298 - INFO - -----------------------------
+2025-09-04 19:09:38,298 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-04 19:09:38,576 - INFO - -----------------------------
+2025-09-04 19:09:38,576 - INFO - 이더넷(WI-FI, 랜선) 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-09-04 19:09:43,380 - INFO - 모바일 USB 어뎁터가 비활성화 되었습니다.

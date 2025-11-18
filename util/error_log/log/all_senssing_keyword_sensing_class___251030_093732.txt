@@ -1,0 +1,46 @@
+2025-10-30 09:37:36,216 - INFO - ==================================
+2025-10-30 09:37:36,216 - INFO - ==================================
+2025-10-30 09:37:36,216 - INFO - [ 9시] - 키워드 센싱을 시작합니다
+2025-10-30 09:37:36,216 - INFO - ==================================
+2025-10-30 09:37:36,216 - INFO - -----------------------------
+2025-10-30 09:37:36,216 - INFO - 시트이름: #3 브랜드_커뮤니티선별
+2025-10-30 09:37:36,216 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 09:37:37,058 - INFO - 구글 시트 로드 - 완료
+2025-10-30 09:37:37,664 - INFO - #3 브랜드_커뮤니티선별 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 09:37:37,664 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 09:37:37,664 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 09:37:38,242 - INFO - 구글 시트 로드 - 완료
+2025-10-30 09:37:38,870 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 09:37:38,870 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 09:37:38,870 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 09:37:39,451 - INFO - 구글 시트 로드 - 완료
+2025-10-30 09:37:39,993 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 09:37:40,000 - ERROR - 1/10번째 [ all_senssing_keyword_sensing_class.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1034, in <module>
+    sensing_manager.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1009, in run
+    self.community_crawler.init_crawl_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 508, in init_crawl_data
+    today_weekday_start_cell = chr(self.start_coll) + "2"
+                               ^^^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object cannot be interpreted as an integer
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-30 09:37:40,000 - ERROR - Traceback (most recent call last):
+2025-10-30 09:37:40,000 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1034, in <module>
+    sensing_manager.run()
+2025-10-30 09:37:40,000 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1009, in run
+    self.community_crawler.init_crawl_data()
+2025-10-30 09:37:40,000 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 508, in init_crawl_data
+    today_weekday_start_cell = chr(self.start_coll) + "2"
+                               ^^^^^^^^^^^^^^^^^^^^
+2025-10-30 09:37:40,000 - ERROR - TypeError: 'str' object cannot be interpreted as an integer
+2025-10-30 09:37:40,118 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 09:37:40,118 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 09:37:41,119 - INFO - ==================================
+2025-10-30 09:37:41,119 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-30 09:37:41,268 - INFO - [현재 크롬 버전] : 142.0.7444.60
+2025-10-30 09:37:42,455 - INFO - Chrome 업데이트를 확인하는 중...

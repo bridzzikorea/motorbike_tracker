@@ -1,0 +1,93 @@
+2025-11-03 09:25:28,951 - INFO - ==================================
+2025-11-03 09:25:28,970 - INFO - ==================================
+2025-11-03 09:25:28,973 - INFO - [ 9시] - 키워드 센싱을 시작합니다
+2025-11-03 09:25:28,974 - INFO - ==================================
+2025-11-03 09:25:28,974 - INFO - ==================================
+2025-11-03 09:25:28,974 - INFO - ★★★★★★ 커뮤니티 크롤링 - 시작 ★★★★★★
+2025-11-03 09:25:28,976 - INFO - 시트이름: (최근 작동 시간)
+2025-11-03 09:25:28,976 - INFO - 구글 시트 로드 - 시도중....
+2025-11-03 09:25:30,404 - INFO - 구글 시트 로드 - 완료
+2025-11-03 09:25:30,891 - INFO - 시트이름: #3 브랜드_커뮤니티선별
+2025-11-03 09:25:30,891 - INFO - 구글 시트 로드 - 시도중....
+2025-11-03 09:25:32,161 - INFO - 구글 시트 로드 - 완료
+2025-11-03 09:25:32,503 - INFO - #3 브랜드_커뮤니티선별 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-11-03 09:25:32,503 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-11-03 09:25:32,503 - INFO - 구글 시트 로드 - 시도중....
+2025-11-03 09:25:33,739 - INFO - 구글 시트 로드 - 완료
+2025-11-03 09:25:34,075 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-11-03 09:25:34,076 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-11-03 09:25:34,076 - INFO - 구글 시트 로드 - 시도중....
+2025-11-03 09:25:35,805 - INFO - 구글 시트 로드 - 완료
+2025-11-03 09:25:36,135 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-11-03 09:25:36,136 - INFO - 시트이름: 일주일 추출 링크
+2025-11-03 09:25:36,136 - INFO - 구글 시트 로드 - 시도중....
+2025-11-03 09:25:37,678 - INFO - 구글 시트 로드 - 완료
+2025-11-03 09:29:20,143 - INFO - 시트이름: 일주일 추출 링크
+2025-11-03 09:29:20,143 - INFO - 구글 시트 로드 - 시도중....
+2025-11-03 09:29:22,057 - INFO - 구글 시트 로드 - 완료
+2025-11-03 09:29:22,460 - ERROR - 1/10번째 [ all_senssing_keyword_sensing_class.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1495, in <module>
+    sensing_manager.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1460, in run
+    self.community_crawler.init_crawl_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 536, in init_crawl_data
+    self.googlesheet.clear_column("일주일 추출 링크", clear_start_cell)
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 83, in wrapper
+    return method(*args, **kwargs)  # 원래 메서드 실행
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 713, in clear_column
+    if last_row < start_row:
+       ^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'str' and 'int'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-11-03 09:29:22,460 - ERROR - Traceback (most recent call last):
+2025-11-03 09:29:22,460 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1495, in <module>
+    sensing_manager.run()
+2025-11-03 09:29:22,460 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1460, in run
+    self.community_crawler.init_crawl_data()
+2025-11-03 09:29:22,460 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 536, in init_crawl_data
+    self.googlesheet.clear_column("일주일 추출 링크", clear_start_cell)
+2025-11-03 09:29:22,460 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 83, in wrapper
+    return method(*args, **kwargs)  # 원래 메서드 실행
+           ^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-03 09:29:22,460 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 713, in clear_column
+    if last_row < start_row:
+       ^^^^^^^^^^^^^^^^^^^^
+2025-11-03 09:29:22,460 - ERROR - TypeError: '<' not supported between instances of 'str' and 'int'
+2025-11-03 09:29:22,460 - ERROR - 1/10번째 [ all_senssing_keyword_sensing_class.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1495, in <module>
+    sensing_manager.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1460, in run
+    self.community_crawler.init_crawl_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 536, in init_crawl_data
+    self.googlesheet.clear_column("일주일 추출 링크", clear_start_cell)
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 83, in wrapper
+    return method(*args, **kwargs)  # 원래 메서드 실행
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 713, in clear_column
+    if last_row < start_row:
+       ^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'str' and 'int'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-11-03 09:29:22,583 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-03 09:29:22,588 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-03 09:29:23,589 - INFO - ==================================
+2025-11-03 09:29:23,589 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-11-03 09:29:23,748 - INFO - [현재 크롬 버전] : 142.0.7444.60
+2025-11-03 09:29:25,027 - INFO - Chrome 업데이트를 확인하는 중...
+2025-11-03 09:29:27,034 - INFO - ==================================
+2025-11-03 09:29:27,035 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-11-03 09:29:27,035 - INFO - -----------------------------
+2025-11-03 09:29:27,035 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-11-03 09:29:27,035 - INFO - ==================================
+2025-11-03 09:29:27,189 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-03 09:29:27,189 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-03 09:29:28,192 - INFO - ==================================

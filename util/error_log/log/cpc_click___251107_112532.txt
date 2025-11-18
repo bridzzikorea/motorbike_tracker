@@ -1,0 +1,810 @@
+2025-11-07 11:25:34,154 - INFO - 시트이름: 광고키워드
+2025-11-07 11:25:34,155 - INFO - 구글 시트 로드 - 시도중....
+2025-11-07 11:25:34,428 - INFO - 구글 시트 로드 - 완료
+2025-11-07 11:25:34,428 - INFO - ==================================
+2025-11-07 11:25:34,428 - INFO - ★★★ IP 변경 - START ★★★
+2025-11-07 11:25:34,428 - INFO - [#1 mobile_ip 전환 - try ]
+2025-11-07 11:25:34,577 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:36,212 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:37,843 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:37,854 - ERROR - 1/10번째 [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-11-07 11:25:37,854 - ERROR - Traceback (most recent call last):
+2025-11-07 11:25:37,854 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-07 11:25:37,854 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+2025-11-07 11:25:37,854 - ERROR - TypeError: exceptions must derive from BaseException
+2025-11-07 11:25:37,854 - ERROR - During handling of the above exception, another exception occurred:
+2025-11-07 11:25:37,854 - ERROR - Traceback (most recent call last):
+2025-11-07 11:25:37,854 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+2025-11-07 11:25:37,854 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+2025-11-07 11:25:37,854 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+2025-11-07 11:25:37,854 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:37,996 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:25:37,996 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:25:38,997 - INFO - ==================================
+2025-11-07 11:25:38,997 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-11-07 11:25:39,130 - INFO - [현재 크롬 버전] : 142.0.7444.135
+2025-11-07 11:25:40,381 - INFO - Chrome 업데이트를 확인하는 중...
+2025-11-07 11:25:42,382 - INFO - ==================================
+2025-11-07 11:25:42,382 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-11-07 11:25:42,382 - INFO - -----------------------------
+2025-11-07 11:25:42,382 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-11-07 11:25:42,382 - INFO - ==================================
+2025-11-07 11:25:42,563 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:25:42,563 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:25:44,075 - INFO - ==================================
+2025-11-07 11:25:44,075 - INFO - ==================================
+2025-11-07 11:25:44,075 - INFO - ★★★ IP 변경 - START ★★★
+2025-11-07 11:25:44,075 - INFO - [#1 mobile_ip 전환 - try ]
+2025-11-07 11:25:44,222 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:45,847 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:47,489 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:47,489 - ERROR - 2/10번째 [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-11-07 11:25:47,497 - ERROR - Traceback (most recent call last):
+2025-11-07 11:25:47,497 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-07 11:25:47,498 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+2025-11-07 11:25:47,498 - ERROR - TypeError: exceptions must derive from BaseException
+2025-11-07 11:25:47,498 - ERROR - During handling of the above exception, another exception occurred:
+2025-11-07 11:25:47,498 - ERROR - Traceback (most recent call last):
+2025-11-07 11:25:47,498 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+2025-11-07 11:25:47,499 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+2025-11-07 11:25:47,499 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+2025-11-07 11:25:47,499 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:47,499 - INFO - 텔레그램 에러 메시지 : [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:48,815 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:25:48,815 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:25:49,820 - INFO - ==================================
+2025-11-07 11:25:49,820 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-11-07 11:25:49,955 - INFO - [현재 크롬 버전] : 142.0.7444.135
+2025-11-07 11:25:51,191 - INFO - Chrome 업데이트를 확인하는 중...
+2025-11-07 11:25:53,192 - INFO - ==================================
+2025-11-07 11:25:53,192 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-11-07 11:25:53,192 - INFO - -----------------------------
+2025-11-07 11:25:53,192 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-11-07 11:25:53,192 - INFO - ==================================
+2025-11-07 11:25:53,380 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:25:53,380 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:25:54,882 - INFO - ==================================
+2025-11-07 11:25:54,883 - INFO - ==================================
+2025-11-07 11:25:54,884 - INFO - ★★★ IP 변경 - START ★★★
+2025-11-07 11:25:54,885 - INFO - [#1 mobile_ip 전환 - try ]
+2025-11-07 11:25:55,030 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:56,659 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:58,290 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:58,290 - ERROR - 3/10번째 [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-11-07 11:25:58,290 - ERROR - Traceback (most recent call last):
+2025-11-07 11:25:58,290 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-07 11:25:58,290 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+2025-11-07 11:25:58,290 - ERROR - TypeError: exceptions must derive from BaseException
+2025-11-07 11:25:58,290 - ERROR - During handling of the above exception, another exception occurred:
+2025-11-07 11:25:58,290 - ERROR - Traceback (most recent call last):
+2025-11-07 11:25:58,290 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+2025-11-07 11:25:58,290 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+2025-11-07 11:25:58,290 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+2025-11-07 11:25:58,290 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:58,290 - INFO - 텔레그램 에러 메시지 : [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:25:59,475 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:25:59,475 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:00,477 - INFO - ==================================
+2025-11-07 11:26:00,477 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-11-07 11:26:00,615 - INFO - [현재 크롬 버전] : 142.0.7444.135
+2025-11-07 11:26:01,925 - INFO - Chrome 업데이트를 확인하는 중...
+2025-11-07 11:26:03,930 - INFO - ==================================
+2025-11-07 11:26:03,930 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-11-07 11:26:03,930 - INFO - -----------------------------
+2025-11-07 11:26:03,930 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-11-07 11:26:03,930 - INFO - ==================================
+2025-11-07 11:26:04,101 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:26:04,101 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:05,604 - INFO - ==================================
+2025-11-07 11:26:05,604 - INFO - ==================================
+2025-11-07 11:26:05,604 - INFO - ★★★ IP 변경 - START ★★★
+2025-11-07 11:26:05,604 - INFO - [#1 mobile_ip 전환 - try ]
+2025-11-07 11:26:05,751 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:07,389 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:09,028 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:09,028 - ERROR - 4/10번째 [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-11-07 11:26:09,028 - ERROR - Traceback (most recent call last):
+2025-11-07 11:26:09,028 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-07 11:26:09,034 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+2025-11-07 11:26:09,034 - ERROR - TypeError: exceptions must derive from BaseException
+2025-11-07 11:26:09,034 - ERROR - During handling of the above exception, another exception occurred:
+2025-11-07 11:26:09,034 - ERROR - Traceback (most recent call last):
+2025-11-07 11:26:09,034 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+2025-11-07 11:26:09,034 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+2025-11-07 11:26:09,034 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+2025-11-07 11:26:09,035 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:09,035 - INFO - 텔레그램 에러 메시지 : [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:10,268 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:26:10,268 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:11,275 - INFO - ==================================
+2025-11-07 11:26:11,275 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-11-07 11:26:11,414 - INFO - [현재 크롬 버전] : 142.0.7444.135
+2025-11-07 11:26:12,650 - INFO - Chrome 업데이트를 확인하는 중...
+2025-11-07 11:26:14,652 - INFO - ==================================
+2025-11-07 11:26:14,652 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-11-07 11:26:14,652 - INFO - -----------------------------
+2025-11-07 11:26:14,652 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-11-07 11:26:14,652 - INFO - ==================================
+2025-11-07 11:26:14,820 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:26:14,820 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:16,325 - INFO - ==================================
+2025-11-07 11:26:16,325 - INFO - ==================================
+2025-11-07 11:26:16,325 - INFO - ★★★ IP 변경 - START ★★★
+2025-11-07 11:26:16,325 - INFO - [#1 mobile_ip 전환 - try ]
+2025-11-07 11:26:16,471 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:18,111 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:19,747 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:19,747 - ERROR - 5/10번째 [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 5번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-11-07 11:26:19,747 - ERROR - Traceback (most recent call last):
+2025-11-07 11:26:19,747 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-07 11:26:19,747 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+2025-11-07 11:26:19,747 - ERROR - TypeError: exceptions must derive from BaseException
+2025-11-07 11:26:19,747 - ERROR - During handling of the above exception, another exception occurred:
+2025-11-07 11:26:19,747 - ERROR - Traceback (most recent call last):
+2025-11-07 11:26:19,747 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+2025-11-07 11:26:19,747 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+2025-11-07 11:26:19,747 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+2025-11-07 11:26:19,747 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:19,747 - INFO - 텔레그램 에러 메시지 : [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 5번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:21,147 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:26:21,147 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:22,152 - INFO - ==================================
+2025-11-07 11:26:22,152 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-11-07 11:26:22,287 - INFO - [현재 크롬 버전] : 142.0.7444.135
+2025-11-07 11:26:23,520 - INFO - Chrome 업데이트를 확인하는 중...
+2025-11-07 11:26:25,521 - INFO - ==================================
+2025-11-07 11:26:25,521 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-11-07 11:26:25,521 - INFO - -----------------------------
+2025-11-07 11:26:25,521 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-11-07 11:26:25,521 - INFO - ==================================
+2025-11-07 11:26:25,697 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:26:25,697 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:27,201 - INFO - ==================================
+2025-11-07 11:26:27,201 - INFO - ==================================
+2025-11-07 11:26:27,201 - INFO - ★★★ IP 변경 - START ★★★
+2025-11-07 11:26:27,203 - INFO - [#1 mobile_ip 전환 - try ]
+2025-11-07 11:26:27,343 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:28,971 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:30,611 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:30,611 - ERROR - 6/10번째 [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 6번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-11-07 11:26:30,611 - ERROR - Traceback (most recent call last):
+2025-11-07 11:26:30,611 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-07 11:26:30,611 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+2025-11-07 11:26:30,611 - ERROR - TypeError: exceptions must derive from BaseException
+2025-11-07 11:26:30,611 - ERROR - During handling of the above exception, another exception occurred:
+2025-11-07 11:26:30,611 - ERROR - Traceback (most recent call last):
+2025-11-07 11:26:30,611 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+2025-11-07 11:26:30,611 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+2025-11-07 11:26:30,611 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+2025-11-07 11:26:30,611 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:30,611 - INFO - 텔레그램 에러 메시지 : [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 6번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:31,996 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:26:31,996 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:33,012 - INFO - ==================================
+2025-11-07 11:26:33,012 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-11-07 11:26:33,147 - INFO - [현재 크롬 버전] : 142.0.7444.135
+2025-11-07 11:26:34,413 - INFO - Chrome 업데이트를 확인하는 중...
+2025-11-07 11:26:36,415 - INFO - ==================================
+2025-11-07 11:26:36,415 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-11-07 11:26:36,415 - INFO - -----------------------------
+2025-11-07 11:26:36,415 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-11-07 11:26:36,415 - INFO - ==================================
+2025-11-07 11:26:36,588 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:26:36,594 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:38,095 - INFO - ==================================
+2025-11-07 11:26:38,095 - INFO - ==================================
+2025-11-07 11:26:38,095 - INFO - ★★★ IP 변경 - START ★★★
+2025-11-07 11:26:38,095 - INFO - [#1 mobile_ip 전환 - try ]
+2025-11-07 11:26:38,239 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:39,883 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:41,526 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:41,527 - ERROR - 7/10번째 [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 7번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-11-07 11:26:41,527 - ERROR - Traceback (most recent call last):
+2025-11-07 11:26:41,527 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-07 11:26:41,527 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+2025-11-07 11:26:41,528 - ERROR - TypeError: exceptions must derive from BaseException
+2025-11-07 11:26:41,528 - ERROR - During handling of the above exception, another exception occurred:
+2025-11-07 11:26:41,528 - ERROR - Traceback (most recent call last):
+2025-11-07 11:26:41,528 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+2025-11-07 11:26:41,528 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+2025-11-07 11:26:41,528 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+2025-11-07 11:26:41,528 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:41,529 - INFO - 텔레그램 에러 메시지 : [ cpc_click.py 프로그램 ] - < Exception 발생 >
+~~ 7번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1698, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1676, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\cpc_click.py", line 513, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1919, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1720, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-11-07 11:26:43,183 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:26:43,183 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:44,195 - INFO - ==================================
+2025-11-07 11:26:44,195 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-11-07 11:26:44,354 - INFO - ==================================
+2025-11-07 11:26:44,354 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-11-07 11:26:44,487 - INFO - -----------------------------
+2025-11-07 11:26:44,487 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-11-07 11:26:45,399 - INFO - -----------------------------
+2025-11-07 11:26:45,399 - INFO - 이더넷(WI-FI, 랜선) 어뎁터가 이미 활성화 되어 있습니다.
+2025-11-07 11:26:49,938 - INFO - 모바일 USB 어뎁터가 비활성화 되었습니다.
+2025-11-07 11:26:52,438 - INFO - 이더넷 어뎁터가 활성화 되었습니다.
+2025-11-07 11:26:52,867 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - Success ★
+2025-11-07 11:26:52,867 - INFO - ==================================
+2025-11-07 11:26:53,011 - INFO - [현재 크롬 버전] : 142.0.7444.135
+2025-11-07 11:26:54,381 - INFO - Chrome 업데이트를 확인하는 중...
+2025-11-07 11:26:56,386 - INFO - ==================================
+2025-11-07 11:26:56,386 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-11-07 11:26:56,386 - INFO - -----------------------------
+2025-11-07 11:26:56,386 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-11-07 11:26:56,386 - INFO - ==================================
+2025-11-07 11:26:56,650 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:26:56,650 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:26:58,151 - INFO - ==================================
+2025-11-07 11:26:58,151 - INFO - ==================================
+2025-11-07 11:26:58,151 - INFO - ★★★ IP 변경 - START ★★★
+2025-11-07 11:26:58,152 - INFO - [#1 mobile_ip 전환 - try ]
+2025-11-07 11:26:58,304 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-11-07 11:27:03,481 - INFO - --- ADB 모바일 연결 [진행]
+2025-11-07 11:27:03,596 - INFO - --- USB테더링 리미트 해제 [진행]
+2025-11-07 11:27:04,798 - INFO - --- USB테더링 활성화 - 성공
+2025-11-07 11:27:04,798 - INFO - -----------------------------
+2025-11-07 11:27:05,703 - INFO - --- 모바일 USB 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-11-07 11:27:06,062 - INFO - --- USB 어댑터 찾기 및 활성화 시도 [완료]
+2025-11-07 11:27:06,064 - INFO - --- 이더넷(WI-FI, 랜선) 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-11-07 11:27:09,295 - INFO - --- USB 어댑터 외의 모든 어댑터 비활성화 시도 [완료]
+2025-11-07 11:27:11,870 - INFO - --- USB 어뎁터가 활성화 [확인]
+2025-11-07 11:27:14,265 - INFO - --- 이더넷 어뎁터가 비활성화 [확인]
+2025-11-07 11:27:14,265 - INFO - -----------------------------
+2025-11-07 11:27:14,370 - INFO - --- WiFi off - 성공
+2025-11-07 11:27:14,476 - INFO - --- '모바일 데이터' on - 성공
+2025-11-07 11:27:15,062 - INFO - ★ 모바일IP 전환 - Success ★
+2025-11-07 11:27:15,062 - INFO - [# USB테더링 전환 #] - 성공
+2025-11-07 11:27:15,062 - INFO - [#1 mobile_ip 전환 - success ]
+2025-11-07 11:27:15,062 - INFO - -----------------------------
+2025-11-07 11:27:15,062 - INFO - [#2 before_ip 추출] - try
+2025-11-07 11:27:15,062 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-11-07 11:27:15,432 - INFO - -- 'https://ipinfo.io/ip' : 118.235.73.237
+2025-11-07 11:27:15,432 - INFO - [#2 before_ip 추출] - success : 118.235.73.237
+2025-11-07 11:27:15,432 - INFO - -----------------------------
+2025-11-07 11:27:15,812 - INFO - --- 모바일 데이터 off - 성공
+2025-11-07 11:27:16,268 - INFO - --- 비행기 모드 on - 성공
+2025-11-07 11:27:16,596 - INFO - --- 비행기 모드 off - 성공
+2025-11-07 11:27:16,924 - INFO - --- 모바일 데이터 on - 성공
+2025-11-07 11:27:16,924 - INFO - [#3 after_ip 추출] - try
+2025-11-07 11:27:16,924 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-11-07 11:27:17,929 - INFO - - 추출 실패 1/3 재시도
+2025-11-07 11:27:18,906 - INFO - -- 'https://ipinfo.io/ip' : 39.7.46.227
+2025-11-07 11:27:18,906 - INFO - [#3 after_ip 추출] - success : 39.7.46.227
+2025-11-07 11:27:18,906 - INFO - Success -IP 변경(성공): before 118.235.73.237 => after 39.7.46.227
+2025-11-07 11:27:18,906 - INFO - ★★★ IP 변경 - Success ★★★
+2025-11-07 11:27:18,906 - INFO - ==================================
+2025-11-07 11:27:22,510 - INFO - CPC 광고클릭 작업 시작합니다.
+2025-11-07 11:27:22,510 - INFO - -----------------------------
+2025-11-07 11:27:22,510 - INFO - G마켓 키워드 - ['오븐에어프라이어32', '선풍기추천']
+2025-11-07 11:27:22,510 - INFO - -----------------------------
+2025-11-07 11:27:24,886 - INFO - C:\program_cookies 폴더 크기: 2.45 GB
+2025-11-07 11:27:24,946 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-11-07 11:27:24,946 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-11-07 11:27:24,946 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-11-07 11:27:24,946 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-11-07 11:27:24,946 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36입니다.
+2025-11-07 11:27:24,946 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-11-07 11:27:24,946 - INFO - 시크릿 모드로 실행합니다.
+2025-11-07 11:27:24,946 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-11-07 11:27:29,928 - INFO - ==================================
+2025-11-07 11:27:29,928 - INFO - devicemetrics를 override 합니다..
+2025-11-07 11:27:29,941 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-11-07 11:27:29,941 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-11-07 11:27:29,941 - INFO - RANDOM gps 정보는 {'latitude': 37.562416838844285, 'longitude': 126.95746068796906, 'accuracy': 100} 입니다.
+2025-11-07 11:27:29,948 - INFO - 모든 변경이 완료되었습니다...
+2025-11-07 11:27:29,949 - INFO - ~~~~~~~~~~
+2025-11-07 11:27:29,983 - INFO - === gmarket 시작 ===
+2025-11-07 11:27:41,937 - INFO - 6 - g
+2025-11-07 11:27:44,132 - INFO - 7 - g
+2025-11-07 11:27:44,315 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:27:44,315 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:27:45,581 - INFO - C:\program_cookies 폴더 크기: 2.45 GB
+2025-11-07 11:27:45,635 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-11-07 11:27:45,635 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-11-07 11:27:45,641 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-11-07 11:27:45,641 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-11-07 11:27:45,641 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Trailer/93.3.3570.29입니다.
+2025-11-07 11:27:45,641 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-11-07 11:27:45,641 - INFO - 시크릿 모드로 실행합니다.
+2025-11-07 11:27:45,641 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-11-07 11:27:50,006 - INFO - ==================================
+2025-11-07 11:27:50,006 - INFO - devicemetrics를 override 합니다..
+2025-11-07 11:27:50,015 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-11-07 11:27:50,015 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-11-07 11:27:50,017 - INFO - RANDOM gps 정보는 {'latitude': 37.56887144073692, 'longitude': 126.94947590627575, 'accuracy': 100} 입니다.
+2025-11-07 11:27:50,023 - INFO - 모든 변경이 완료되었습니다...
+2025-11-07 11:27:50,023 - INFO - ~~~~~~~~~~
+2025-11-07 11:27:50,058 - INFO - === gmarket 시작 ===
+2025-11-07 11:28:03,165 - INFO - 6 - g
+2025-11-07 11:28:05,261 - INFO - 7 - g
+2025-11-07 11:28:05,447 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:28:05,448 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:28:06,072 - INFO - === gmarket 종료 ===
+2025-11-07 11:28:06,219 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:28:06,219 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:28:06,219 - INFO - -----------------------------
+2025-11-07 11:28:06,219 - INFO - 옥션 키워드 - ['삼성전자큐커', '에어프라이오븐']
+2025-11-07 11:28:06,219 - INFO - -----------------------------
+2025-11-07 11:28:06,219 - INFO - === action 시작 ===
+2025-11-07 11:28:06,620 - INFO - C:\program_cookies 폴더 크기: 2.45 GB
+2025-11-07 11:28:06,686 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-11-07 11:28:06,686 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-11-07 11:28:06,686 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-11-07 11:28:06,686 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-11-07 11:28:06,686 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-11-07 11:28:06,686 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-11-07 11:28:06,686 - INFO - 시크릿 모드로 실행합니다.
+2025-11-07 11:28:06,686 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-11-07 11:28:10,860 - INFO - ==================================
+2025-11-07 11:28:10,860 - INFO - devicemetrics를 override 합니다..
+2025-11-07 11:28:10,869 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-11-07 11:28:10,869 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-11-07 11:28:10,869 - INFO - RANDOM gps 정보는 {'latitude': 37.58565210776226, 'longitude': 127.08753366042238, 'accuracy': 100} 입니다.
+2025-11-07 11:28:10,877 - INFO - 모든 변경이 완료되었습니다...
+2025-11-07 11:28:10,877 - INFO - ~~~~~~~~~~
+2025-11-07 11:28:20,073 - INFO - 상품명: 25년 NEW 비스포크 큐커 멀티 에어프라이어 전자레인지 그릴 홈베이킹 MO22A7797CW2 글램 화이트 - 셀러명: 판매자/삼성현성/판매자평가정보/최우수판매자 :: 클릭 - 시작
+2025-11-07 11:28:23,189 - INFO - 제품사진 클릭
+2025-11-07 11:28:23,195 - INFO - 상품명: 25년 NEW 비스포크 큐커 멀티 에어프라이어 전자레인지 그릴 홈베이킹 MO22A7797CW2 글램 화이트 - 셀러명: 판매자/삼성현성/판매자평가정보/최우수판매자 :: 클릭 - 완료
+2025-11-07 11:28:24,007 - INFO - 스크롤 - 시작
+2025-11-07 11:28:26,092 - INFO - 스크롤 - 완료
+2025-11-07 11:28:26,094 - INFO - 1
+2025-11-07 11:28:26,097 - INFO - 2
+2025-11-07 11:28:26,385 - INFO - 3
+2025-11-07 11:28:26,387 - INFO - 4
+2025-11-07 11:28:27,618 - INFO - 6 - a
+2025-11-07 11:28:29,864 - INFO - 7 - a
+2025-11-07 11:28:30,093 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:28:30,093 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:28:31,110 - INFO - C:\program_cookies 폴더 크기: 2.45 GB
+2025-11-07 11:28:31,165 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-11-07 11:28:31,166 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-11-07 11:28:31,166 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-11-07 11:28:31,166 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-11-07 11:28:31,166 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36입니다.
+2025-11-07 11:28:31,166 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-11-07 11:28:31,167 - INFO - 시크릿 모드로 실행합니다.
+2025-11-07 11:28:31,167 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-11-07 11:28:34,967 - INFO - ==================================
+2025-11-07 11:28:34,967 - INFO - devicemetrics를 override 합니다..
+2025-11-07 11:28:34,978 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-11-07 11:28:34,978 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-11-07 11:28:34,978 - INFO - RANDOM gps 정보는 {'latitude': 37.589727875579946, 'longitude': 126.95947795580277, 'accuracy': 100} 입니다.
+2025-11-07 11:28:34,984 - INFO - 모든 변경이 완료되었습니다...
+2025-11-07 11:28:34,985 - INFO - ~~~~~~~~~~
+2025-11-07 11:28:43,868 - INFO - 상품명: 25년 NEW 비스포크 큐커 멀티 에어프라이어 전자레인지 그릴 홈베이킹 MO22A7797CW2 글램 화이트 - 셀러명: 판매자/삼성현성/판매자평가정보/최우수판매자 :: 클릭 - 시작
+2025-11-07 11:28:46,876 - INFO - 제품명 클릭
+2025-11-07 11:28:46,876 - INFO - 상품명: 25년 NEW 비스포크 큐커 멀티 에어프라이어 전자레인지 그릴 홈베이킹 MO22A7797CW2 글램 화이트 - 셀러명: 판매자/삼성현성/판매자평가정보/최우수판매자 :: 클릭 - 완료
+2025-11-07 11:28:47,547 - INFO - 스크롤 - 시작
+2025-11-07 11:28:48,634 - INFO - 스크롤 - 완료
+2025-11-07 11:28:48,638 - INFO - 1
+2025-11-07 11:28:48,640 - INFO - 2
+2025-11-07 11:28:48,898 - INFO - 3
+2025-11-07 11:28:48,901 - INFO - 4
+2025-11-07 11:28:50,161 - INFO - 6 - a
+2025-11-07 11:28:52,442 - INFO - 7 - a
+2025-11-07 11:28:52,647 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:28:52,648 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:28:53,614 - INFO - === action 종료 ===
+2025-11-07 11:28:53,752 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:28:53,752 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:28:54,760 - INFO - ==================================
+2025-11-07 11:28:54,761 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-11-07 11:28:54,900 - INFO - ==================================
+2025-11-07 11:28:54,900 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-11-07 11:28:55,024 - INFO - -----------------------------
+2025-11-07 11:28:55,024 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-11-07 11:28:55,386 - INFO - -----------------------------
+2025-11-07 11:28:55,386 - INFO - 이더넷(WI-FI, 랜선) 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-11-07 11:29:00,636 - INFO - 모바일 USB 어뎁터가 비활성화 되었습니다.
+2025-11-07 11:29:03,172 - INFO - 이더넷 어뎁터가 활성화 되었습니다.
+2025-11-07 11:29:04,611 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - Success ★
+2025-11-07 11:29:04,612 - INFO - ==================================
+2025-11-07 11:29:04,820 - INFO - [현재 크롬 버전] : 142.0.7444.135
+2025-11-07 11:29:06,159 - INFO - Chrome 업데이트를 확인하는 중...
+2025-11-07 11:29:08,167 - INFO - ==================================
+2025-11-07 11:29:08,169 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-11-07 11:29:08,169 - INFO - -----------------------------
+2025-11-07 11:29:08,169 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-11-07 11:29:08,169 - INFO - ==================================
+2025-11-07 11:29:08,523 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:29:08,523 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-11-07 11:29:10,025 - INFO - ==================================
+2025-11-07 11:29:10,025 - INFO - ==================================
+2025-11-07 11:29:10,025 - INFO - ★★★ IP 변경 - START ★★★
+2025-11-07 11:29:10,025 - INFO - [#1 mobile_ip 전환 - try ]
+2025-11-07 11:29:10,214 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-11-07 11:29:10,249 - INFO - --- ADB 모바일 연결 [진행]
+2025-11-07 11:29:10,373 - INFO - --- USB테더링 리미트 해제 [진행]
+2025-11-07 11:29:11,530 - INFO - --- USB테더링 활성화 - 성공
+2025-11-07 11:29:11,530 - INFO - -----------------------------
+2025-11-07 11:29:12,519 - INFO - --- 모바일 USB 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-11-07 11:29:12,986 - INFO - --- USB 어댑터 찾기 및 활성화 시도 [완료]
+2025-11-07 11:29:12,988 - INFO - --- 이더넷(WI-FI, 랜선) 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-11-07 11:29:16,108 - INFO - --- USB 어댑터 외의 모든 어댑터 비활성화 시도 [완료]
+2025-11-07 11:29:18,798 - INFO - --- USB 어뎁터가 활성화 [확인]
+2025-11-07 11:29:21,185 - INFO - --- 이더넷 어뎁터가 비활성화 [확인]
+2025-11-07 11:29:21,185 - INFO - -----------------------------
+2025-11-07 11:29:21,284 - INFO - --- WiFi off - 성공
+2025-11-07 11:29:21,411 - INFO - --- '모바일 데이터' on - 성공
+2025-11-07 11:29:22,019 - INFO - ★ 모바일IP 전환 - Success ★
+2025-11-07 11:29:22,020 - INFO - [# USB테더링 전환 #] - 성공
+2025-11-07 11:29:22,020 - INFO - [#1 mobile_ip 전환 - success ]
+2025-11-07 11:29:22,020 - INFO - -----------------------------
+2025-11-07 11:29:22,020 - INFO - [#2 before_ip 추출] - try
+2025-11-07 11:29:22,020 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-11-07 11:29:22,343 - INFO - -- 'https://ipinfo.io/ip' : 39.7.46.227
+2025-11-07 11:29:22,343 - INFO - [#2 before_ip 추출] - success : 39.7.46.227
+2025-11-07 11:29:22,343 - INFO - -----------------------------
+2025-11-07 11:29:22,692 - INFO - --- 모바일 데이터 off - 성공
+2025-11-07 11:29:23,091 - INFO - --- 비행기 모드 on - 성공
+2025-11-07 11:29:23,466 - INFO - --- 비행기 모드 off - 성공
+2025-11-07 11:29:23,823 - INFO - --- 모바일 데이터 on - 성공
+2025-11-07 11:29:23,823 - INFO - [#3 after_ip 추출] - try
+2025-11-07 11:29:23,823 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-11-07 11:29:24,824 - INFO - - 추출 실패 1/3 재시도
+2025-11-07 11:29:25,817 - INFO - -- 'https://ipinfo.io/ip' : 39.7.24.13
+2025-11-07 11:29:25,817 - INFO - [#3 after_ip 추출] - success : 39.7.24.13
+2025-11-07 11:29:25,817 - INFO - Success -IP 변경(성공): before 39.7.46.227 => after 39.7.24.13
+2025-11-07 11:29:25,817 - INFO - ★★★ IP 변경 - Success ★★★
+2025-11-07 11:29:25,817 - INFO - ==================================
+2025-11-07 11:29:29,116 - INFO - CPC 광고클릭 작업 시작합니다.
+2025-11-07 11:29:29,116 - INFO - -----------------------------
+2025-11-07 11:29:29,116 - INFO - G마켓 키워드 - ['삼성방수비데', '디지털비데']
+2025-11-07 11:29:29,116 - INFO - -----------------------------
+2025-11-07 11:29:29,541 - INFO - C:\program_cookies 폴더 크기: 2.45 GB
+2025-11-07 11:29:29,606 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-11-07 11:29:29,607 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-11-07 11:29:29,607 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-11-07 11:29:29,608 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-11-07 11:29:29,608 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36입니다.
+2025-11-07 11:29:29,608 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-11-07 11:29:29,608 - INFO - 시크릿 모드로 실행합니다.
+2025-11-07 11:29:29,608 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-11-07 11:29:34,514 - INFO - ==================================
+2025-11-07 11:29:34,515 - INFO - devicemetrics를 override 합니다..
+2025-11-07 11:29:34,521 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-11-07 11:29:34,521 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-11-07 11:29:34,521 - INFO - RANDOM gps 정보는 {'latitude': 37.575578168376225, 'longitude': 127.05186627997539, 'accuracy': 100} 입니다.
+2025-11-07 11:29:34,528 - INFO - 모든 변경이 완료되었습니다...
+2025-11-07 11:29:34,528 - INFO - ~~~~~~~~~~
+2025-11-07 11:29:34,578 - INFO - === gmarket 시작 ===
+2025-11-07 11:31:08,073 - INFO - ===== 작업 중 에러 발생 - 크롬창 종류 및 업데이트(진행)
+2025-11-07 11:31:08,076 - INFO - Message: target frame detached
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=142.0.7444.135)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12a58d3
+	0x12a5914
+	0x10be5bb
+	0x10ae98d
+	0x10adb3a
+	0x10cc734
+	0x10cba31
+	0x10cbb77
+	0x114edb5
+	0x112c766
+	0x10fdac0
+	0x10fede4
+	0x1527974
+	0x1522bea
+	0x12ce5c4
+	0x12bdd38
+	0x12c4d9d
+	0x12adee8
+	0x12ae0ac
+	0x1297d2a
+	0x751a5d49
+	0x7746d6db
+	0x7746d661
+2025-11-07 11:31:08,343 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-11-07 11:31:08,343 - INFO - ✅ Chrome 종료 결과: Chrome 종료

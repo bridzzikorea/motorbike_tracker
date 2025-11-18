@@ -1,0 +1,48 @@
+2025-08-21 15:05:41,734 - INFO - ==================================
+2025-08-21 15:05:41,734 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-21 15:05:41,735 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-21 15:05:41,735 - INFO - 구글 시트 로드 - 시도중....
+2025-08-21 15:05:42,597 - INFO - 구글 시트 로드 - 완료
+2025-08-21 15:05:57,337 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-21 15:05:57,339 - INFO - ==================================
+2025-08-21 15:05:57,343 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-21 15:05:57,344 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-21 15:05:57,496 - INFO - [# USB테더링 전환 #] - 성공
+2025-08-21 15:05:57,497 - INFO - [#1 mobile_ip 전환 - success ]
+2025-08-21 15:05:57,497 - INFO - -----------------------------
+2025-08-21 15:05:57,497 - INFO - [#2 before_ip 추출] - try
+2025-08-21 15:05:57,497 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 15:05:57,889 - INFO - -- 'https://ipinfo.io/ip' : 39.7.28.157
+2025-08-21 15:05:57,889 - INFO - [#2 before_ip 추출] - success : 39.7.28.157
+2025-08-21 15:05:57,890 - INFO - -----------------------------
+2025-08-21 15:06:03,314 - INFO - --- 모바일 데이터 off - 성공
+2025-08-21 15:06:03,661 - INFO - --- 비행기 모드 on - 성공
+2025-08-21 15:06:04,040 - INFO - --- 비행기 모드 off - 성공
+2025-08-21 15:06:04,438 - INFO - --- 모바일 데이터 on - 성공
+2025-08-21 15:06:04,438 - INFO - [#3 after_ip 추출] - try
+2025-08-21 15:06:04,440 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 15:06:05,451 - INFO - - 추출 실패 1/3 재시도
+2025-08-21 15:06:07,074 - INFO - - 추출 실패 2/3 재시도
+2025-08-21 15:06:08,858 - INFO - -- 'https://ipinfo.io/ip' : 118.235.4.102
+2025-08-21 15:06:08,858 - INFO - [#3 after_ip 추출] - success : 118.235.4.102
+2025-08-21 15:06:08,859 - INFO - Success -IP 변경(성공): before 39.7.28.157 => after 118.235.4.102
+2025-08-21 15:06:08,859 - INFO - ★★★ IP 변경 - Success ★★★
+2025-08-21 15:06:08,859 - INFO - ==================================
+2025-08-21 15:06:09,866 - INFO - C:\program_cookies 폴더 크기: 0.00 GB
+2025-08-21 15:06:09,867 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 15:06:09,867 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 15:06:09,867 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6784.68 Safari/537.36입니다.
+2025-08-21 15:06:11,376 - INFO - [<Tab [BC4744594170BC46A7138DE0B8C9623B] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [06153811BF5B33D01A005D8D077C95D1] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [EE2EBCB378EE08846BF1BAC627003ADB] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [1897A9C78766583B9EB1C2AF0A16EA4C] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [4E01D38D69E1BD492F5921D0CCC17119] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [6491E9339CFE50B433F448BEC4A691CD] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [F0199DC8690DCD29183129637BDCB937] [page] [url: https://cafe.naver.com/coolishz/768571]>]
+2025-08-21 15:06:11,376 - INFO - 7
+2025-08-21 15:06:14,696 - INFO - C:\program_cookies 폴더 크기: 0.00 GB
+2025-08-21 15:06:14,697 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 15:06:14,697 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 15:06:14,697 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36입니다.
+2025-08-21 15:06:16,146 - INFO - [<Tab [A15B4052B854E524B7B2A15DC5928C71] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [7A1026D69F0955586C2E189ABE968B5D] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [3802B022780A4BC2D9BBF386CDD62FBA] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [29B2973335DCFBDFC1118CA548891FDE] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [DFBA8483DAB62D29B75B3ED08173766D] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [A30CF723947A0EF365EFB2DA5B6DFB61] [page] [url: https://cafe.naver.com/coolishz/768571]>]
+2025-08-21 15:06:16,147 - INFO - 6
+2025-08-21 15:06:19,404 - INFO - C:\program_cookies 폴더 크기: 0.00 GB
+2025-08-21 15:06:19,404 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 15:06:19,404 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 15:06:19,404 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-08-21 15:06:20,966 - INFO - [<Tab [FCE3F3F2338D5C2845CB15C9D730601B] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [E2E9876152C347BC86ADF022A66570DB] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [37A804012BA4955A6E705B3CACF8757E] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [492EFAF394D1C2F74BFD2C1CA57AD005] [page] [url: https://cafe.naver.com/coolishz/768571]>, <Tab [7C2479A6D2E1789AFAD547FFADBF3DA5] [page] [url: https://cafe.naver.com/coolishz/768571]>]
+2025-08-21 15:06:20,966 - INFO - 5

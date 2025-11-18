@@ -1,0 +1,57 @@
+2025-07-21 09:29:13,847 - INFO - CPC 광고클릭 작업 시작합니다.
+2025-07-21 09:29:13,847 - INFO - -----------------------------
+2025-07-21 09:29:13,847 - INFO - G마켓 키워드 - ['삼성전자무료설치비데', '비데설치']
+2025-07-21 09:29:13,847 - INFO - -----------------------------
+2025-07-21 09:29:14,010 - INFO - C:\program_cookies 폴더 크기: 0.81 GB
+2025-07-21 09:29:14,032 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-07-21 09:29:14,039 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-07-21 09:29:14,039 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-07-21 09:29:14,040 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-21 09:29:14,040 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6784.68 Safari/537.36입니다.
+2025-07-21 09:29:14,040 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-07-21 09:29:14,040 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-07-21 09:29:16,472 - INFO - ==================================
+2025-07-21 09:29:16,472 - INFO - devicemetrics를 override 합니다..
+2025-07-21 09:29:16,476 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-21 09:29:16,476 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-07-21 09:29:16,477 - INFO - RANDOM gps 정보는 {'latitude': 37.584047935712135, 'longitude': 126.94804565828228, 'accuracy': 100} 입니다.
+2025-07-21 09:29:16,484 - INFO - 모든 변경이 완료되었습니다...
+2025-07-21 09:29:16,484 - INFO - ~~~~~~~~~~
+2025-07-21 09:29:19,343 - INFO - === gmarket 시작 ===
+2025-07-21 09:29:22,446 - INFO - ===== 작업 중 에러 발생 - 크롬창 종류 및 업데이트(진행)
+2025-07-21 09:29:22,446 - INFO - Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x451a33+62339]
+	GetHandleVerifier [0x0x451a74+62404]
+	(No symbol) [0x0x292123]
+	(No symbol) [0x0x2820b0]
+	(No symbol) [0x0x282036]
+	(No symbol) [0x0x280953]
+	(No symbol) [0x0x2814fb]
+	(No symbol) [0x0x27ff95]
+	(No symbol) [0x0x29ce83]
+	(No symbol) [0x0x32a0c6]
+	(No symbol) [0x0x2ff3bc]
+	(No symbol) [0x0x3207a3]
+	(No symbol) [0x0x2ff1b6]
+	(No symbol) [0x0x2ce7a2]
+	(No symbol) [0x0x2cf644]
+	GetHandleVerifier [0x0x6c65c3+2637587]
+	GetHandleVerifier [0x0x6c19ca+2618138]
+	GetHandleVerifier [0x0x4784aa+220666]
+	GetHandleVerifier [0x0x4688d8+156200]
+	GetHandleVerifier [0x0x46f06d+182717]
+	GetHandleVerifier [0x0x459978+94920]
+	GetHandleVerifier [0x0x459b02+95314]
+	GetHandleVerifier [0x0x444c4a+9626]
+	BaseThreadInitThunk [0x0x75d85d49+25]
+	RtlInitializeExceptionChain [0x0x76efd1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76efd131+561]
+2025-07-21 09:29:22,572 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-07-21 09:29:22,574 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-07-21 09:29:23,574 - INFO - ==================================
+2025-07-21 09:29:23,574 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-07-21 09:29:23,665 - INFO - [현재 크롬 버전] : 138.0.7204.158
+2025-07-21 09:29:24,870 - INFO - Chrome 업데이트를 확인하는 중...

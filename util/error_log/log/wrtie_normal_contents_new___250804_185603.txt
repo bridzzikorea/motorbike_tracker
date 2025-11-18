@@ -1,0 +1,22 @@
+2025-08-04 18:56:04,718 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\gspread\client.py", line 134, in open
+    properties = finditem(
+                 ^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\gspread\utils.py", line 218, in finditem
+    return next(item for item in seq if func(item))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+StopIteration
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 389, in <module>
+    googlesheet = GoogleSheet("bridzzi_naver_google.json", "New 단순게시글")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 135, in __init__
+    self.spreadsheet = self.client.open(spreadsheet_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\gspread\client.py", line 139, in open
+    raise SpreadsheetNotFound(response) from ex
+gspread.exceptions.SpreadsheetNotFound: <Response [200]>

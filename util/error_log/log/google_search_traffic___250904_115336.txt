@@ -1,0 +1,14 @@
+2025-09-04 11:53:38,440 - INFO - C:\program_cookies 폴더 크기: 0.47 GB
+2025-09-04 11:53:38,440 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-09-04 11:53:38,447 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-09-04 11:53:38,447 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-09-04 11:53:38,447 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6780.64 Safari/537.36입니다.
+2025-09-04 11:53:39,617 - ERROR - C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py:79: RuntimeWarning: coroutine 'NoDriver.element_random_click' was never awaited
+  self.nodriver.element_random_click(stay_signed_out_btn_element)
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-04 11:53:39,619 - ERROR - C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py:83: RuntimeWarning: coroutine 'Tab.select' was never awaited
+  await self._init_google_usa()
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-04 11:53:39,619 - ERROR - C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py:87: RuntimeWarning: coroutine 'NoDriver.element_random_click' was never awaited
+  self.nodriver.element_random_click(google_search_bar_element)
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback

@@ -1,0 +1,172 @@
+2025-09-10 14:36:14,287 - INFO - ==================================
+2025-09-10 14:36:14,622 - INFO - # 1단계 : N지식인 질문하기 #
+2025-09-10 14:36:15,504 - INFO - 시트이름: [자문자답]질문/대시보드
+2025-09-10 14:36:15,504 - INFO - 구글 시트 로드 - 시도중....
+2025-09-10 14:36:17,562 - INFO - 구글 시트 로드 - 완료
+2025-09-10 14:36:18,015 - INFO - [자문자답]질문/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-10 14:36:32,821 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-10 14:36:32,823 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-10 14:36:32,823 - INFO - ==================================
+2025-09-10 14:36:32,824 - INFO - ★★★ IP 변경 - START ★★★
+2025-09-10 14:36:32,826 - INFO - [#1 mobile_ip 전환 - try ]
+2025-09-10 14:36:33,031 - INFO - [# USB테더링 전환 #] - 성공
+2025-09-10 14:36:33,031 - INFO - [#1 mobile_ip 전환 - success ]
+2025-09-10 14:36:33,032 - INFO - -----------------------------
+2025-09-10 14:36:33,032 - INFO - [#2 before_ip 추출] - try
+2025-09-10 14:36:33,032 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-10 14:36:33,556 - INFO - -- 'https://ipinfo.io/ip' : 118.235.24.220
+2025-09-10 14:36:33,556 - INFO - [#2 before_ip 추출] - success : 118.235.24.220
+2025-09-10 14:36:33,564 - INFO - -----------------------------
+2025-09-10 14:36:39,018 - INFO - --- 모바일 데이터 off - 성공
+2025-09-10 14:36:39,418 - INFO - --- 비행기 모드 on - 성공
+2025-09-10 14:36:39,859 - INFO - --- 비행기 모드 off - 성공
+2025-09-10 14:36:40,260 - INFO - --- 모바일 데이터 on - 성공
+2025-09-10 14:36:40,260 - INFO - [#3 after_ip 추출] - try
+2025-09-10 14:36:40,260 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-10 14:36:41,267 - INFO - - 추출 실패 1/3 재시도
+2025-09-10 14:36:42,190 - INFO - -- 'https://ipinfo.io/ip' : 118.235.73.44
+2025-09-10 14:36:42,190 - INFO - [#3 after_ip 추출] - success : 118.235.73.44
+2025-09-10 14:36:42,192 - INFO - Success -IP 변경(성공): before 118.235.24.220 => after 118.235.73.44
+2025-09-10 14:36:42,192 - INFO - ★★★ IP 변경 - Success ★★★
+2025-09-10 14:36:42,192 - INFO - ==================================
+2025-09-10 14:36:43,568 - INFO - C:\program_cookies 폴더 크기: 0.91 GB
+2025-09-10 14:36:43,600 - INFO - C:\program_cookies\PC_tf90il32 폴더 크기: 0.09 GB
+2025-09-10 14:36:43,600 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_tf90il32 폴더를 지정합니다.
+2025-09-10 14:36:43,600 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-09-10 14:36:43,600 - INFO - fixed UA가 있습니다.
+2025-09-10 14:36:43,600 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-09-10 14:36:43,600 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-09-10 14:36:43,600 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-09-10 14:36:59,928 - INFO - ==================================
+2025-09-10 14:36:59,929 - INFO - devicemetrics를 override 합니다..
+2025-09-10 14:36:59,935 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-09-10 14:36:59,935 - INFO - FIXED gps 정보를 적용합니다.
+2025-09-10 14:36:59,936 - INFO - FIXED gps 정보는 {'latitude': 37.51984438, 'longitude': 126.9706907, 'accuracy': 100} 입니다.
+2025-09-10 14:36:59,943 - INFO - 모든 변경이 완료되었습니다...
+2025-09-10 14:36:59,943 - INFO - ~~~~~~~~~~
+2025-09-10 14:37:00,558 - INFO - # Mobile 네이버 로그인 시작 --- [ NAVER__id : tf90il32 ] #
+2025-09-10 14:37:01,824 - INFO - [완료] 1. 네이버 PC 홈페이지 get
+2025-09-10 14:37:02,408 - INFO - [완료] 2. 네이버 계정 로그인 박스 - 확인
+2025-09-10 14:37:15,338 - INFO - [완료] 3. 네이버 로그인
+2025-09-10 14:37:15,338 - INFO - (PC) 메일 로그인 인증 작업을 시작합니다
+2025-09-10 14:37:18,052 - INFO - 메일 내용 : 질문에 새로운 답변이 등록되었습니다.
+2025-09-10 14:37:18,408 - INFO - [완료] 4. 네이버 메일 - 계정 로그인 확인
+2025-09-10 14:37:18,660 - INFO - [완료] 5. 네이버 로그인이 정상적으로 완료되었습니다
+2025-09-10 14:37:40,347 - INFO - 답변채택하라는 멘트가 없어서 다음으로 넘어갑니다.
+2025-09-10 14:37:53,708 - INFO - Q&A > 건강 > 식생활, 식습관 > 건강에좋은음식
+2025-09-10 14:37:59,762 - ERROR - 1/10번째 [ naver_kin_id_levelup.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Kin\naver_kin_id_levelup.py", line 1374, in <module>
+    if status := naver_kin_bot.kin_levelup_start():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1367, in kin_levelup_start
+    success_question = self.question_process(count=3, delay_second=60)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1029, in question_process
+    if not self.write_question__pc():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 739, in write_question__pc
+    self._submit_question_content()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 726, in _submit_question_content
+    self.browser.switch_to.alert.accept()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    _ = alert.text
+        ^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\alert.py", line 58, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=140.0.7339.81)
+Stacktrace:
+	GetHandleVerifier [0x0x81d2a3+66419]
+	GetHandleVerifier [0x0x81d2e4+66484]
+	(No symbol) [0x0x5f4a20]
+	(No symbol) [0x0x5e7248]
+	(No symbol) [0x0x607133]
+	(No symbol) [0x0x616f32]
+	(No symbol) [0x0x6610b4]
+	(No symbol) [0x0x616d8a]
+	(No symbol) [0x0x660e16]
+	(No symbol) [0x0x6325ce]
+	(No symbol) [0x0x6334a4]
+	GetHandleVerifier [0x0xa65ee3+2461619]
+	GetHandleVerifier [0x0xa60f66+2441270]
+	GetHandleVerifier [0x0x846242+234258]
+	GetHandleVerifier [0x0x836208+168664]
+	GetHandleVerifier [0x0x83d1ad+197245]
+	GetHandleVerifier [0x0x8255f8+100040]
+	GetHandleVerifier [0x0x825792+100450]
+	GetHandleVerifier [0x0x80f74a+10266]
+	BaseThreadInitThunk [0x0x759d5d49+25]
+	RtlInitializeExceptionChain [0x0x7770d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-10 14:37:59,766 - ERROR - Traceback (most recent call last):
+2025-09-10 14:37:59,766 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Kin\naver_kin_id_levelup.py", line 1374, in <module>
+    if status := naver_kin_bot.kin_levelup_start():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-10 14:37:59,767 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1367, in kin_levelup_start
+    success_question = self.question_process(count=3, delay_second=60)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-10 14:37:59,767 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1029, in question_process
+    if not self.write_question__pc():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-10 14:37:59,767 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 739, in write_question__pc
+    self._submit_question_content()
+2025-09-10 14:37:59,768 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 726, in _submit_question_content
+    self.browser.switch_to.alert.accept()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-10 14:37:59,768 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    _ = alert.text
+        ^^^^^^^^^^
+2025-09-10 14:37:59,768 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\alert.py", line 58, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-10 14:37:59,768 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-09-10 14:37:59,769 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-09-10 14:37:59,770 - ERROR - selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=140.0.7339.81)
+Stacktrace:
+	GetHandleVerifier [0x0x81d2a3+66419]
+	GetHandleVerifier [0x0x81d2e4+66484]
+	(No symbol) [0x0x5f4a20]
+	(No symbol) [0x0x5e7248]
+	(No symbol) [0x0x607133]
+	(No symbol) [0x0x616f32]
+	(No symbol) [0x0x6610b4]
+	(No symbol) [0x0x616d8a]
+	(No symbol) [0x0x660e16]
+	(No symbol) [0x0x6325ce]
+	(No symbol) [0x0x6334a4]
+	GetHandleVerifier [0x0xa65ee3+2461619]
+	GetHandleVerifier [0x0xa60f66+2441270]
+	GetHandleVerifier [0x0x846242+234258]
+	GetHandleVerifier [0x0x836208+168664]
+	GetHandleVerifier [0x0x83d1ad+197245]
+	GetHandleVerifier [0x0x8255f8+100040]
+	GetHandleVerifier [0x0x825792+100450]
+	GetHandleVerifier [0x0x80f74a+10266]
+	BaseThreadInitThunk [0x0x759d5d49+25]
+	RtlInitializeExceptionChain [0x0x7770d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d281+561]
+2025-09-10 14:37:59,899 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-10 14:37:59,900 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-10 14:38:00,902 - INFO - ==================================
+2025-09-10 14:38:00,903 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-10 14:38:01,070 - INFO - ==================================
+2025-09-10 14:38:01,070 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-09-10 14:38:01,217 - INFO - -----------------------------
+2025-09-10 14:38:01,217 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-10 14:38:01,662 - INFO - -----------------------------
+2025-09-10 14:38:01,662 - INFO - 이더넷(WI-FI, 랜선) 어뎁터 - 활성화(시도 & 명령어 작동)

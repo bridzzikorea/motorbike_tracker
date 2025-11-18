@@ -1,0 +1,660 @@
+2025-08-12 09:51:52,117 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:51:52,117 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:51:52,657 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:51:53,242 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:51:53,439 - INFO - C:\program_cookies 폴더 크기: 1.07 GB
+2025-08-12 09:51:53,457 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.09 GB
+2025-08-12 09:51:53,457 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:51:53,457 - INFO - fixed UA가 있습니다.
+2025-08-12 09:51:53,457 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:51:53,458 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:51:53,458 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:51:56,849 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:51:56,851 - INFO - Android
+2025-08-12 09:51:56,857 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:51:56,858 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:51:56,858 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:51:57,223 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:51:57,223 - INFO - ~~~~~~~~~~
+2025-08-12 09:51:57,557 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:51:58,101 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:51:59,755 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:52:01,824 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:52:09,624 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:52:09,850 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:52:11,827 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:52:11,836 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:52:14,850 - ERROR - 1/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:52:14,850 - ERROR - Traceback (most recent call last):
+2025-08-12 09:52:14,850 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:52:14,850 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:52:14,850 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:52:15,017 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:52:15,017 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:52:15,520 - INFO - ==================================
+2025-08-12 09:52:15,520 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:52:15,648 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:52:16,923 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:52:18,924 - INFO - ==================================
+2025-08-12 09:52:18,924 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:52:18,924 - INFO - -----------------------------
+2025-08-12 09:52:18,924 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:52:18,924 - INFO - ==================================
+2025-08-12 09:52:22,531 - INFO - ==================================
+2025-08-12 09:52:25,374 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:52:25,374 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:52:25,925 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:52:26,376 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:52:26,575 - INFO - C:\program_cookies 폴더 크기: 1.08 GB
+2025-08-12 09:52:26,588 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.10 GB
+2025-08-12 09:52:26,588 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:52:26,588 - INFO - fixed UA가 있습니다.
+2025-08-12 09:52:26,588 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:52:26,588 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:52:26,588 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:52:29,936 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:52:29,936 - INFO - Android
+2025-08-12 09:52:29,943 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:52:29,943 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:52:29,943 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:52:30,295 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:52:30,295 - INFO - ~~~~~~~~~~
+2025-08-12 09:52:30,707 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:52:31,259 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:52:32,973 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:52:35,234 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:52:42,113 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:52:42,680 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:52:44,215 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:52:44,217 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:52:47,367 - ERROR - 2/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:52:47,368 - ERROR - Traceback (most recent call last):
+2025-08-12 09:52:47,368 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:52:47,368 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:52:47,368 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:52:47,368 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:52:48,515 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:52:48,515 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:52:49,019 - INFO - ==================================
+2025-08-12 09:52:49,019 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:52:49,150 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:52:50,393 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:52:52,394 - INFO - ==================================
+2025-08-12 09:52:52,394 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:52:52,394 - INFO - -----------------------------
+2025-08-12 09:52:52,394 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:52:52,394 - INFO - ==================================
+2025-08-12 09:52:56,026 - INFO - ==================================
+2025-08-12 09:52:57,661 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:52:57,661 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:52:58,230 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:52:58,799 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:52:58,985 - INFO - C:\program_cookies 폴더 크기: 1.09 GB
+2025-08-12 09:52:58,994 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.11 GB
+2025-08-12 09:52:58,994 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:52:58,994 - INFO - fixed UA가 있습니다.
+2025-08-12 09:52:58,994 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:52:58,994 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:52:58,994 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:53:02,448 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:53:02,448 - INFO - Android
+2025-08-12 09:53:02,458 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:53:02,458 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:53:02,458 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:53:02,833 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:53:02,833 - INFO - ~~~~~~~~~~
+2025-08-12 09:53:03,145 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:53:03,890 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:53:05,772 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:53:07,775 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:53:15,302 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:53:15,700 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:53:17,355 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:53:17,355 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:53:20,351 - ERROR - 3/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:53:20,351 - ERROR - Traceback (most recent call last):
+2025-08-12 09:53:20,351 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:53:20,357 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:53:20,357 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:53:20,357 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:53:21,402 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:53:21,402 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:53:21,907 - INFO - ==================================
+2025-08-12 09:53:21,907 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:53:22,048 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:53:23,279 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:53:25,281 - INFO - ==================================
+2025-08-12 09:53:25,281 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:53:25,281 - INFO - -----------------------------
+2025-08-12 09:53:25,281 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:53:25,281 - INFO - ==================================
+2025-08-12 09:53:28,887 - INFO - ==================================
+2025-08-12 09:53:30,614 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:53:30,614 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:53:31,161 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:53:31,714 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:53:31,889 - INFO - C:\program_cookies 폴더 크기: 1.09 GB
+2025-08-12 09:53:31,906 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.11 GB
+2025-08-12 09:53:31,906 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:53:31,906 - INFO - fixed UA가 있습니다.
+2025-08-12 09:53:31,907 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:53:31,907 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:53:31,907 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:53:35,247 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:53:35,247 - INFO - Android
+2025-08-12 09:53:35,255 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:53:35,255 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:53:35,256 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:53:35,619 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:53:35,619 - INFO - ~~~~~~~~~~
+2025-08-12 09:53:36,091 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:53:36,593 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:53:38,597 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:53:40,582 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:53:47,797 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:53:48,365 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:53:49,982 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:53:49,987 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:53:52,980 - ERROR - 4/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:53:52,980 - ERROR - Traceback (most recent call last):
+2025-08-12 09:53:52,980 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:53:52,980 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:53:52,980 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:53:52,980 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:53:54,014 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:53:54,014 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:53:54,520 - INFO - ==================================
+2025-08-12 09:53:54,520 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:53:54,666 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:53:55,893 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:53:57,894 - INFO - ==================================
+2025-08-12 09:53:57,894 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:53:57,894 - INFO - -----------------------------
+2025-08-12 09:53:57,894 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:53:57,894 - INFO - ==================================
+2025-08-12 09:54:01,495 - INFO - ==================================
+2025-08-12 09:54:03,175 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:54:03,175 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:54:03,731 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:54:04,258 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:54:04,448 - INFO - C:\program_cookies 폴더 크기: 1.10 GB
+2025-08-12 09:54:04,461 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.12 GB
+2025-08-12 09:54:04,461 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:54:04,461 - INFO - fixed UA가 있습니다.
+2025-08-12 09:54:04,461 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:54:04,461 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:54:04,462 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:54:07,776 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:54:07,776 - INFO - Android
+2025-08-12 09:54:07,798 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:54:07,798 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:54:07,798 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:54:08,173 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:54:08,173 - INFO - ~~~~~~~~~~
+2025-08-12 09:54:08,628 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:54:09,190 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:54:11,150 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:54:13,104 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:54:19,980 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:54:20,313 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:54:21,791 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:54:21,795 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:54:26,172 - ERROR - 5/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 5번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:54:26,172 - ERROR - Traceback (most recent call last):
+2025-08-12 09:54:26,172 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:54:26,172 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:54:26,173 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:54:26,174 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 5번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:54:27,299 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:54:27,299 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:54:27,805 - INFO - ==================================
+2025-08-12 09:54:27,805 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:54:27,940 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:54:29,196 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:54:31,204 - INFO - ==================================
+2025-08-12 09:54:31,204 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:54:31,204 - INFO - -----------------------------
+2025-08-12 09:54:31,204 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:54:31,204 - INFO - ==================================
+2025-08-12 09:54:34,787 - INFO - ==================================
+2025-08-12 09:54:36,327 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:54:36,327 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:54:36,780 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:54:37,351 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:54:37,546 - INFO - C:\program_cookies 폴더 크기: 1.11 GB
+2025-08-12 09:54:37,553 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.13 GB
+2025-08-12 09:54:37,553 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:54:37,553 - INFO - fixed UA가 있습니다.
+2025-08-12 09:54:37,553 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:54:37,553 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:54:37,553 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:54:40,888 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:54:40,888 - INFO - Android
+2025-08-12 09:54:40,901 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:54:40,902 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:54:40,902 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:54:41,265 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:54:41,265 - INFO - ~~~~~~~~~~
+2025-08-12 09:54:41,594 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:54:42,354 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:54:44,553 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:54:46,604 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:54:53,724 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:54:54,194 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:54:55,488 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:54:55,523 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:54:59,975 - ERROR - 6/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 6번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:54:59,978 - ERROR - Traceback (most recent call last):
+2025-08-12 09:54:59,978 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:54:59,978 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:54:59,978 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:54:59,978 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 6번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:55:00,944 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:55:00,944 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:55:01,460 - INFO - ==================================
+2025-08-12 09:55:01,460 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:55:01,593 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:55:02,860 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:55:04,863 - INFO - ==================================
+2025-08-12 09:55:04,863 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:55:04,863 - INFO - -----------------------------
+2025-08-12 09:55:04,863 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:55:04,863 - INFO - ==================================
+2025-08-12 09:55:08,477 - INFO - ==================================
+2025-08-12 09:55:10,492 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:55:10,492 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:55:10,929 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:55:11,530 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:55:11,722 - INFO - C:\program_cookies 폴더 크기: 1.12 GB
+2025-08-12 09:55:11,724 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.14 GB
+2025-08-12 09:55:11,724 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:55:11,724 - INFO - fixed UA가 있습니다.
+2025-08-12 09:55:11,724 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:55:11,724 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:55:11,737 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:55:15,121 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:55:15,121 - INFO - Android
+2025-08-12 09:55:15,133 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:55:15,133 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:55:15,134 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:55:15,487 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:55:15,487 - INFO - ~~~~~~~~~~
+2025-08-12 09:55:15,976 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:55:16,544 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:55:18,645 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:55:20,575 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:55:28,183 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:55:28,800 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:55:30,641 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:55:30,656 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:55:34,784 - ERROR - 7/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 7번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:55:34,784 - ERROR - Traceback (most recent call last):
+2025-08-12 09:55:34,785 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:55:34,785 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:55:34,785 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:55:34,785 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 7번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:55:35,781 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:55:35,781 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:55:36,286 - INFO - ==================================
+2025-08-12 09:55:36,286 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:55:36,403 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:55:37,657 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:55:39,658 - INFO - ==================================
+2025-08-12 09:55:39,658 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:55:39,658 - INFO - -----------------------------
+2025-08-12 09:55:39,658 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:55:39,658 - INFO - ==================================
+2025-08-12 09:55:43,255 - INFO - ==================================
+2025-08-12 09:55:45,178 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:55:45,178 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:55:45,764 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:55:46,323 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:55:46,520 - INFO - C:\program_cookies 폴더 크기: 1.13 GB
+2025-08-12 09:55:46,541 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.15 GB
+2025-08-12 09:55:46,541 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:55:46,541 - INFO - fixed UA가 있습니다.
+2025-08-12 09:55:46,541 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:55:46,541 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:55:46,541 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:55:49,893 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:55:49,893 - INFO - Android
+2025-08-12 09:55:49,913 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:55:49,914 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:55:49,914 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:55:50,272 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:55:50,272 - INFO - ~~~~~~~~~~
+2025-08-12 09:55:50,563 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:55:51,100 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:55:53,107 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:55:55,116 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:56:02,138 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:56:02,662 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:56:04,206 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:56:04,206 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:56:07,117 - ERROR - 8/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 8번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:56:07,117 - ERROR - Traceback (most recent call last):
+2025-08-12 09:56:07,117 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:56:07,117 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:56:07,117 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:56:07,117 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 8번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:56:08,293 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:56:08,293 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:56:08,795 - INFO - ==================================
+2025-08-12 09:56:08,795 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:56:08,936 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:56:10,172 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:56:12,180 - INFO - ==================================
+2025-08-12 09:56:12,180 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:56:12,181 - INFO - -----------------------------
+2025-08-12 09:56:12,181 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:56:12,181 - INFO - ==================================
+2025-08-12 09:56:15,779 - INFO - ==================================
+2025-08-12 09:56:17,574 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:56:17,574 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:56:18,194 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:56:18,836 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:56:19,019 - INFO - C:\program_cookies 폴더 크기: 1.13 GB
+2025-08-12 09:56:19,036 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.15 GB
+2025-08-12 09:56:19,038 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:56:19,038 - INFO - fixed UA가 있습니다.
+2025-08-12 09:56:19,038 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:56:19,038 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:56:19,038 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:56:22,440 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:56:22,440 - INFO - Android
+2025-08-12 09:56:22,463 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:56:22,463 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:56:22,463 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:56:22,803 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:56:22,803 - INFO - ~~~~~~~~~~
+2025-08-12 09:56:23,313 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:56:24,104 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:56:26,099 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:56:28,048 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:56:34,865 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:56:35,361 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:56:37,009 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:56:37,016 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:56:41,837 - ERROR - 9/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 9번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:56:41,837 - ERROR - Traceback (most recent call last):
+2025-08-12 09:56:41,837 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:56:41,838 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:56:41,838 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:56:41,838 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 9번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:56:42,937 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:56:42,937 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:56:43,439 - INFO - ==================================
+2025-08-12 09:56:43,439 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:56:43,588 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:56:45,147 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:56:47,150 - INFO - ==================================
+2025-08-12 09:56:47,150 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:56:47,150 - INFO - -----------------------------
+2025-08-12 09:56:47,150 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:56:47,150 - INFO - ==================================
+2025-08-12 09:56:50,770 - INFO - ==================================
+2025-08-12 09:56:52,933 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:56:52,933 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:56:53,508 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:56:54,001 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:56:54,214 - INFO - C:\program_cookies 폴더 크기: 1.14 GB
+2025-08-12 09:56:54,225 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.16 GB
+2025-08-12 09:56:54,225 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 09:56:54,225 - INFO - fixed UA가 있습니다.
+2025-08-12 09:56:54,225 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 09:56:54,225 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:56:54,225 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:56:57,788 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:56:57,788 - INFO - Android
+2025-08-12 09:56:57,794 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:56:57,794 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:56:57,794 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 09:56:58,157 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:56:58,157 - INFO - ~~~~~~~~~~
+2025-08-12 09:56:58,468 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 09:56:58,982 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:57:00,794 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:57:02,705 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:57:10,265 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:57:10,585 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:57:12,408 - INFO - 메일 내용 : ❨광고❩무료 가족사진 촬영! 선착순 30팀 한정!
+2025-08-12 09:57:12,419 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:57:16,809 - ERROR - 10/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 10번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:57:16,809 - ERROR - Traceback (most recent call last):
+2025-08-12 09:57:16,810 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+2025-08-12 09:57:16,810 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+2025-08-12 09:57:16,810 - ERROR - Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:57:16,810 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 10번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:57:18,082 - INFO - 화면 캡처가 성공적으로 저장되었습니다: screenshot.png
+2025-08-12 09:57:18,082 - INFO - 텔레그램 에러 메시지 : [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 10번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 242, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 158, in start_delete_content
+    raise Exception(f"{str(row['삭제 관리번호'])} - {row['게시완료링크']} 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.\n alert_message: {alert_message}")
+Exception: delete-5704 - https://cafe.naver.com/cjcjmom/3398949 알 수 없는 alert가 발견되었습니다. 강제 종료 합니다.
+ alert_message: 삭제되었거나 없는 게시글입니다.
+2025-08-12 09:57:19,308 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:57:19,309 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:57:19,810 - INFO - ==================================
+2025-08-12 09:57:19,810 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:57:19,938 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:57:21,175 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:57:23,180 - INFO - ==================================
+2025-08-12 09:57:23,180 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 09:57:23,180 - INFO - -----------------------------
+2025-08-12 09:57:23,180 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 09:57:23,180 - INFO - ==================================

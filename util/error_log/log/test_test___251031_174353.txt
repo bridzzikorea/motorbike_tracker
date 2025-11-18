@@ -1,0 +1,4 @@
+2025-10-31 17:43:59,119 - INFO - 시트이름: 자동메시지/대시보드
+2025-10-31 17:43:59,120 - INFO - 구글 시트 로드 - 시도중....
+2025-10-31 17:43:59,695 - INFO - 구글 시트 로드 - 완료
+2025-10-31 17:44:13,318 - INFO - [오류] 행 삭제 중 예외 발생: APIError: [400]: Invalid requests[0].deleteDimension: You are trying to edit a protected cell or object. Please contact the spreadsheet owner to remove protection if you need to edit.

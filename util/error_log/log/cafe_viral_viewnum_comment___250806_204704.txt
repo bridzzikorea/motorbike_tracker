@@ -1,0 +1,50 @@
+2025-08-06 20:47:11,091 - INFO - ==================================
+2025-08-06 20:47:11,529 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-06 20:47:11,987 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-06 20:47:13,993 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-08-06 20:47:15,955 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : list index out of range
+2025-08-06 20:47:17,609 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-08-06 20:47:19,482 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : list index out of range
+2025-08-06 20:47:21,133 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-08-06 20:47:22,793 - INFO - [# USB테더링 전환 #] - 최종 실패 : list index out of range
+2025-08-06 20:47:22,799 - ERROR - 1/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1700, in mobile_ip
+    enable_usb_tethering()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1602, in enable_usb_tethering
+    adb_device_state = adb_device_state_row[1].split('\t')[1]
+                       ~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1080, in <module>
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1918, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1719, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : list index out of range
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-06 20:47:22,800 - ERROR - Traceback (most recent call last):
+2025-08-06 20:47:22,800 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1700, in mobile_ip
+    enable_usb_tethering()
+2025-08-06 20:47:22,801 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1602, in enable_usb_tethering
+    adb_device_state = adb_device_state_row[1].split('\t')[1]
+                       ~~~~~~~~~~~~~~~~~~~~^^^
+2025-08-06 20:47:22,801 - ERROR - IndexError: list index out of range
+2025-08-06 20:47:22,801 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-06 20:47:22,801 - ERROR - Traceback (most recent call last):
+2025-08-06 20:47:22,802 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1080, in <module>
+    selenium_util.change_ip()
+2025-08-06 20:47:22,802 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1918, in change_ip
+    mobile_ip()
+2025-08-06 20:47:22,802 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1719, in mobile_ip
+    raise Exception(error_message)
+2025-08-06 20:47:22,802 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : list index out of range
+2025-08-06 20:47:22,960 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-06 20:47:22,961 - INFO - ✅ Chrome 종료 결과: Chrome 종료

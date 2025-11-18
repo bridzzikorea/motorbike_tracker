@@ -1,0 +1,75 @@
+2025-07-30 13:29:00,956 - INFO - ==================================
+2025-07-30 13:29:00,956 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.
+2025-07-30 13:29:40,832 - INFO - 바이럴대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-30 13:29:40,859 - INFO - C:\program_cookies 폴더 크기: 0.00 GB
+2025-07-30 13:29:40,859 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_ghij456klmno 폴더를 지정합니다.
+2025-07-30 13:29:40,859 - INFO - fixed UA가 있습니다.
+2025-07-30 13:29:40,859 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-07-30 13:29:40,859 - INFO - 옵션 수동설정을 시작합니다.
+2025-07-30 13:29:40,859 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-07-30 13:29:42,714 - INFO - 크롬창을 열었습니다.
+2025-07-30 13:29:42,715 - INFO - Android
+2025-07-30 13:29:42,721 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-30 13:29:42,722 - INFO - FIXED gps 정보를 적용합니다.
+2025-07-30 13:29:42,722 - INFO - FIXED gps 정보는 {'latitude': 37.5491199, 'longitude': 127.167448, 'accuracy': 100} 입니다.
+2025-07-30 13:29:43,094 - INFO - 모든 변경이 완료되었습니다...
+2025-07-30 13:29:43,094 - INFO - ~~~~~~~~~~
+2025-07-30 13:29:43,540 - INFO - [ NAVER_ID : ghij456klmno ]
+2025-07-30 13:29:44,442 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-07-30 13:29:46,767 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-07-30 13:29:49,072 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-07-30 13:29:56,558 - INFO - [완료] 4. 네이버 로그인
+2025-07-30 13:29:57,116 - INFO - ==================================
+2025-07-30 13:29:59,404 - INFO - ==================================
+2025-07-30 13:30:04,474 - INFO - [로그인 실패] ghij456klmno : 네이버ID 보호조치 창 활성화 - 정상적인 로그인에 실패했습니다
+[1단계 보호조치] 생년월일
+[2단계 보호조치] 이메일
+2025-07-30 13:30:04,474 - INFO - 텔레그램 에러 메시지 : [로그인 실패] ghij456klmno : 네이버ID 보호조치 창 활성화 - 정상적인 로그인에 실패했습니다
+[1단계 보호조치] 생년월일
+[2단계 보호조치] 이메일
+2025-07-30 13:30:05,502 - ERROR - 1/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1142, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1094, in cafe_post_comment_start
+    is_completd_cafe_viral = start_cafe_viral(googlesheet)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1083, in start_cafe_viral
+    cafe_viral_post(googlesheet, postdata)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 860, in cafe_viral_post
+    naver_util.naver_login_mo(browser, data['바이럴ID'][0], data['PW'][0])
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 996, in naver_login_mo
+    check_id_safety_mo(driver, _id, _pw)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 1122, in check_id_safety_mo
+    raise errors.SafetyIDError(error_message)
+util.error_log.errors.SafetyIDError: [로그인 실패] ghij456klmno : 네이버ID 보호조치 창 활성화 - 정상적인 로그인에 실패했습니다
+[1단계 보호조치] 생년월일
+[2단계 보호조치] 이메일
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-07-30 13:30:05,502 - ERROR - Traceback (most recent call last):
+2025-07-30 13:30:05,502 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1142, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 13:30:05,502 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1094, in cafe_post_comment_start
+    is_completd_cafe_viral = start_cafe_viral(googlesheet)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 13:30:05,502 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1083, in start_cafe_viral
+    cafe_viral_post(googlesheet, postdata)
+2025-07-30 13:30:05,502 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 860, in cafe_viral_post
+    naver_util.naver_login_mo(browser, data['바이럴ID'][0], data['PW'][0])
+2025-07-30 13:30:05,502 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 996, in naver_login_mo
+    check_id_safety_mo(driver, _id, _pw)
+2025-07-30 13:30:05,502 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 1122, in check_id_safety_mo
+    raise errors.SafetyIDError(error_message)
+2025-07-30 13:30:05,502 - ERROR - util.error_log.errors.SafetyIDError: [로그인 실패] ghij456klmno : 네이버ID 보호조치 창 활성화 - 정상적인 로그인에 실패했습니다
+[1단계 보호조치] 생년월일
+[2단계 보호조치] 이메일
+2025-07-30 13:30:05,682 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-07-30 13:30:05,685 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-07-30 13:30:05,685 - INFO - ==================================
+2025-07-30 13:30:05,688 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.

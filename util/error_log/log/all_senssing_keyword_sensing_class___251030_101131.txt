@@ -1,0 +1,87 @@
+2025-10-30 10:11:35,127 - INFO - ==================================
+2025-10-30 10:11:35,127 - INFO - ==================================
+2025-10-30 10:11:35,127 - INFO - [ 10시] - 키워드 센싱을 시작합니다
+2025-10-30 10:11:35,127 - INFO - ==================================
+2025-10-30 10:11:35,127 - INFO - -----------------------------
+2025-10-30 10:11:35,127 - INFO - 시트이름: #3 브랜드_커뮤니티선별
+2025-10-30 10:11:35,127 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 10:11:36,177 - INFO - 구글 시트 로드 - 완료
+2025-10-30 10:11:36,794 - INFO - #3 브랜드_커뮤니티선별 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 10:11:36,794 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 10:11:36,794 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 10:11:37,410 - INFO - 구글 시트 로드 - 완료
+2025-10-30 10:11:37,858 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 10:11:37,874 - INFO - 시트이름: #4 [종합]_키워드_리스트
+2025-10-30 10:11:37,874 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 10:11:38,365 - INFO - 구글 시트 로드 - 완료
+2025-10-30 10:11:38,928 - INFO - #4 [종합]_키워드_리스트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 10:11:38,928 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 10:11:38,928 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 10:11:39,406 - INFO - 구글 시트 로드 - 완료
+2025-10-30 10:11:39,828 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 10:11:39,828 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 10:11:40,377 - INFO - 구글 시트 로드 - 완료
+2025-10-30 10:11:41,353 - INFO - E5:E5
+2025-10-30 10:11:41,845 - INFO - Success E5부터 E5까지 값 삭제
+2025-10-30 10:11:41,845 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 10:11:41,845 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 10:11:42,770 - INFO - 구글 시트 로드 - 완료
+2025-10-30 10:11:43,603 - INFO - 시트이름: 일주일 추출 링크
+2025-10-30 10:11:43,603 - INFO - 구글 시트 로드 - 시도중....
+2025-10-30 10:11:44,253 - INFO - 구글 시트 로드 - 완료
+2025-10-30 10:11:44,676 - INFO - 일주일 추출 링크 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-30 10:11:44,676 - ERROR - 1/10번째 [ all_senssing_keyword_sensing_class.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1036, in <module>
+    sensing_manager.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1011, in run
+    self.community_crawler.init_crawl_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 515, in init_crawl_data
+    self.crawl_data["week_crawl"] = [item for item in today_keyword_data['커뮤니티 링크'] if item]
+                                              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: '커뮤니티 링크'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-30 10:11:44,676 - ERROR - Traceback (most recent call last):
+2025-10-30 10:11:44,676 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1036, in <module>
+    sensing_manager.run()
+2025-10-30 10:11:44,676 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1011, in run
+    self.community_crawler.init_crawl_data()
+2025-10-30 10:11:44,676 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 515, in init_crawl_data
+    self.crawl_data["week_crawl"] = [item for item in today_keyword_data['커뮤니티 링크'] if item]
+                                              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+2025-10-30 10:11:44,676 - ERROR - KeyError: '커뮤니티 링크'
+2025-10-30 10:11:44,784 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 10:11:44,784 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 10:11:45,797 - INFO - ==================================
+2025-10-30 10:11:45,797 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-30 10:11:45,943 - INFO - [현재 크롬 버전] : 142.0.7444.60
+2025-10-30 10:11:47,170 - INFO - Chrome 업데이트를 확인하는 중...
+2025-10-30 10:11:49,183 - INFO - ==================================
+2025-10-30 10:11:49,183 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-10-30 10:11:49,183 - INFO - -----------------------------
+2025-10-30 10:11:49,183 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-10-30 10:11:49,183 - INFO - ==================================
+2025-10-30 10:11:49,317 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-30 10:11:49,317 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-30 10:11:50,318 - INFO - ==================================
+2025-10-30 10:11:50,318 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1036, in <module>
+    sensing_manager.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1011, in run
+    self.community_crawler.init_crawl_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 515, in init_crawl_data
+    self.crawl_data["week_crawl"] = [item for item in today_keyword_data['커뮤니티 링크'] if item]
+                                              ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: '커뮤니티 링크'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\Crawling\all_senssing_keyword_sensing_class.py", line 1065, in <module>
+    previous_length = len(previous_error) if previous_error is not None else 0
+                                             ^^^^^^^^^^^^^^
+NameError: name 'previous_error' is not defined

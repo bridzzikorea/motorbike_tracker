@@ -1,0 +1,849 @@
+2025-11-14 09:42:06,254 - INFO - 로그인 응답 코드:
+2025-11-14 09:42:06,254 - INFO - 200
+2025-11-14 09:42:06,255 - INFO - 서버가 준 쿠키:
+2025-11-14 09:42:06,255 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=750E6EA86D70B40D229C73D77959CC6C for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 09:42:06,255 - INFO - <!-- 기준점 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>현황판</title>
+    <link rel="icon" href="/owls-fms-admin/favicon.ico">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+    <link href="/owls-fms-admin/bootstrap-5.2.3/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/owls-fms-admin/bootstrap-5.2.3/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="/owls-fms-admin/css/app.css">
+    <link rel="stylesheet" href="/owls-fms-admin/css/loading.css">
+    <script defer src="/owls-fms-admin/js/common.js"></script>
+    <style>
+        .dashboard-table-list button {
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        .dashboard-table-list button:hover {
+            background-color: #e9ecef;
+        }
+        .btn-on {
+            background-color: #28a745 !important;
+            color: white;
+        }
+        .btn-off {
+            background-color: #dc3545 !important;
+            color: white;
+        }
+        .btn-location {
+            background-color: #007bff !important;
+            color: white;
+        }
+        .btn-tracker {
+            background-color: #6610f2 !important;
+            color: white;
+        }
+        .loading-inline {
+            display: inline-block;
+            width: 1rem;
+            height: 1rem;
+            border: 2px solid rgba(0, 0, 0, 0.1);
+            border-top-color: #007bff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+            vertical-align: middle;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .data-status {
+            display: inline-block;
+            font-size: 0.8rem;
+            color: #6c757d;
+            margin-left: 10px;
+        }
+        .data-fresh {
+            color: #28a745;
+        }
+        .data-cached {
+            color: #ffc107;
+        }
+        /* 검색 폼 스타일 */
+        .search-form {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+        .search-form .form-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 0;
+        }
+        .search-form select, 
+        .search-form input {
+            padding: 8px 12px;
+            border-radius: 4px;
+            border: 1px solid #ced4da;
+        }
+        .search-form select {
+            min-width: 150px;
+        }
+        .search-form input {
+            flex-grow: 1;
+        }
+        .search-results {
+            margin-top: 15px;
+            display: none;
+        }
+        .search-loading {
+            display: inline-block;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<!-- BODY -->
+<body>
+
+	<div id="loading-container" class="loading-container">
+    	<div id="loading"></div>
+	</div>
+	
+	<main id="dashboard">
+
+	<header id="dashboard-header">
+            <figure class="logo"><img src="/owls-fms-admin/img/login-logo.png" alt="logo"></figure>
+            <nav>
+                <ul class="nav-lists">
+                	<li class="nav-list  active">
+                        <a href="/owls-fms-admin/">
+                            <strong class="nav-title">메인 화면</strong>
+                            <span class="nav-list-bar"></span>
+                        </a>
+                    </li>
+                   <li class="nav-list nav-dropdowns  ">
+                        <span class="nav-dropdown-header" onclick="dropdownOpener(this)">
+                            <strong class="nav-title">FMS 관리</strong>
+                            <span class="nav-dropdown-bar"></span>
+                        </span>
+                        <ul class="nav-dropdown-lists">
+                            <li class="nav-dropdown-list">
+                                <a href="/owls-fms-admin/tracker">
+                                    <strong class="nav-title">TRACKER</strong>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="nav-dropdown-lists">
+                            <li class="nav-dropdown-list">
+                                <a href="/owls-fms-admin/fms/user/modify">
+                                    <strong class="nav-title">장비 정보 수정</strong>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li class="nav-list nav-dropdowns  ">
+                         <span class="nav-dropdown-header" onclick="dropdownOpener(this)">
+                             <strong class="nav-title">사용자 관리</strong>
+                             <span class="nav-dropdown-bar"></span>
+                         </span>
+                         <ul class="nav-dropdown-lists">
+                             <li class="nav-dropdown-list">
+                                 <a href="/owls-fms-admin/user/register">
+                                     <strong class="nav-title">사용자 등록</strong>
+                                 </a>
+                             </li>
+                         </ul>
+                         <ul class="nav-dropdown-lists">
+                             <li class="nav-dropdown-list">
+                                 <a href="/owls-fms-admin/user/login-logs">
+                                     <strong class="nav-title">로그인 로그</strong>
+                                 </a>
+                             </li>
+                         </ul>
+                     </li>
+                 
+                    
+                </ul>
+            </nav>
+            <div class="header-profile-wrap">
+                <!-- <figure class="profile-img-wrap"><img th:src="@{/user/profile/}+${profile_url}" alt="sample-profile"></figure> -->
+                <span>
+                    <strong class="profile-name">eylee</strong>
+                    <a href="/owls-fms-admin/user/logout" class="logout">Logout</a>
+                    <span style="color:white" >0.4.0</span>
+                </span>
+            </div>
+        </header>
+	
+	<span class="mobile-hamberger-menu" onclick="mobileMenuHandler()">
+    	<img src="/owls-fms-admin/img/icon-mobile-menu.png" alt="mobile-hamberger-menu">
+	</span>
+        
+    <section id="dashboard-body" class="riderRegister">
+    	<div class="dashboard-content">
+			<div class="dashboard-table-wrap">
+                <!-- 검색 폼 추가 -->
+                <div class="search-form">
+                    <div class="form-group">
+                        <select id="search-category" class="form-select">
+                            <option value="device_id">운행자ID(장비ID)</option>
+                            <option value="driver_name">운전자 이름</option>
+                            <option value="vehicle_number">차량 번호</option>
+                        </select>
+                        <input type="text" id="search-keyword" class="form-control" placeholder="검색어를 입력하세요">
+                        <button id="search-btn" class="btn fill primary">검색</button>
+                        <div id="search-loading" class="loading-inline" style="display: none;"></div>
+                    </div>
+                </div>
+                
+                <!-- 검색 결과 테이블 -->
+                <div id="search-results" class="search-results">
+                    <div class="dashboard-table-header">
+                        <p class="dashboard-table-summary">
+                            검색 결과: <span id="search-total-size" class="color-primary">0</span>개
+                        </p>
+                    </div>
+                    <div class="dashboard-table-contents">
+                        <table id="search-result-table" class="dashboard-table-list table-hover">
+                            <thead>
+                                <tr>
+                                    <th>운행자ID</th>
+                                    <th>운전자 이름</th>
+                                    <th>차량 번호</th>
+                                    <th>최근 통신 시간</th>
+                                    <th>배터리</th>
+                                    <th>상태</th>
+                                    <th>추적</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- 검색 결과가 여기에 표시됩니다 -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+				<div class="dashboard-table-header">
+                    <p class="dashboard-table-summary">
+                        현재 접속중인 디바이스 <span id="equip_total_size" class="color-primary">0</span>개
+                        <span id="loading-indicator" class="loading-inline" style="display: none;"></span>
+                        <span id="data-status" class="data-status"></span>
+                    </p>
+                    <div class="dashboard-right-contents">
+                    	<button id="refresh-btn" class="btn fill primary">새로고침</button>
+                	</div>
+                </div>
+				<div class="dashboard-table-contents">
+					<table id="equip_data_table" class="dashboard-table-list table-hover">
+					<thead>
+					<tr>
+					<th>장비ID</th>
+					<th>클라이언트ID</th>
+					<th>차량번호</th>
+					<th>PORT</th>
+					<th>IP</th>
+					<th>ON</th>
+					<th>OFF</th>
+					<th>위치</th>
+					<th>추적</th>
+					</tr>
+					</thead>
+					<tbody>
+					<!-- 데이터는 JavaScript에서 동적으로 추가됩니다 -->
+					</tbody>
+					</table>
+					</div>
+			</div>
+    	</div>
+    	
+	</section>
+	
+	</main>
+	
+ <script>
+    // 로컬 데이터 캐싱
+    let cachedEquipData = [];
+    let lastCacheTime = 0;
+    const CACHE_DURATION = 30000; // 30초 캐싱
+    let cachedSearchResults = {}; // 검색 결과 캐싱
+
+    // 검색 기능 추가
+    $(document).ready(function() {
+        // 검색 버튼 클릭 이벤트
+        $('#search-btn').on('click', function() {
+            performSearch();
+        });
+        
+        // 엔터 키 눌렀을 때 검색 수행
+        $('#search-keyword').on('keypress', function(e) {
+            if (e.which === 13) { // 엔터 키 코드
+                performSearch();
+            }
+        });
+        
+        // 페이지 로드 시 URL 파라미터 확인
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.has('category') && urlParams.has('keyword')) {
+            $('#search-category').val(urlParams.get('category'));
+            $('#search-keyword').val(urlParams.get('keyword'));
+            performSearch();
+        }
+    });
+    
+    // 검색 실행 함수
+    function performSearch() {
+        const category = $('#search-category').val();
+        const keyword = $('#search-keyword').val().trim();
+        
+        if (!keyword) {
+            alert('검색어를 입력해주세요.');
+            $('#search-keyword').focus();
+            return;
+        }
+        
+        // 검색 로딩 표시
+        $('#search-loading').show();
+        $('#search-results').hide();
+        
+        // 캐시 확인 (10분 이내)
+        const cacheKey = `${category}:${keyword}`;
+        const currentTime = Date.now();
+        if (cachedSearchResults[cacheKey] && currentTime - cachedSearchResults[cacheKey].timestamp < 600000) {
+            displaySearchResults(cachedSearchResults[cacheKey].data);
+            $('#search-loading').hide();
+            return;
+        }
+        
+        // URL 구성
+        const hostname = window.location.hostname;
+        let apiUrl;
+        
+        if (hostname === 'localhost' || hostname === '127.0.0.1') {
+            // 로컬 개발환경 - 새로운 빠른 검색 API 사용
+            apiUrl = `/fms/data/quick-search?category=${category}&keyword=${encodeURIComponent(keyword)}&_=${currentTime}`;
+        } else {
+            // 배포 환경 - 새로운 빠른 검색 API 사용
+            apiUrl = `/owls-fms-admin/fms/data/quick-search?category=${category}&keyword=${encodeURIComponent(keyword)}&_=${currentTime}`;
+        }
+        
+        // 검색 API 호출
+        $.ajax({
+            type: "GET",
+            url: apiUrl,
+            dataType: 'json',
+            cache: false,
+            timeout: 5000, // 타임아웃 감소 (빠른 검색)
+            success: function(data) {
+                // 검색 결과 캐싱
+                cachedSearchResults[cacheKey] = {
+                    timestamp: currentTime,
+                    data: data
+                };
+                
+                // 결과 표시
+                displaySearchResults(data);
+                $('#search-loading').hide();
+            },
+            error: function(xhr, status, error) {
+                console.error("빠른 검색 실패:", error, "상태:", status);
+                $('#search-loading').hide();
+                
+                // 원래 검색 API로 폴백
+                fallbackOldSearch(category, keyword);
+            }
+        });
+    }
+    
+    // 원래 검색 API 사용 함수 (폴백)
+    function fallbackOldSearch(category, keyword) {
+        console.log("원래 검색 API로 폴백");
+        const currentTime = Date.now();
+        let apiUrl;
+        
+        // URL 구성
+        const hostname = window.location.hostname;
+        if (hostname === 'localhost' || hostname === '127.0.0.1') {
+            apiUrl = `/fms/data/search?category=${category}&keyword=${encodeURIComponent(keyword)}&_=${currentTime}`;
+        } else {
+            apiUrl = `/owls-fms-admin/fms/data/search?category=${category}&keyword=${encodeURIComponent(keyword)}&_=${currentTime}`;
+        }
+        
+        // 원래 검색 API 호출
+        $.ajax({
+            type: "GET",
+            url: apiUrl,
+            dataType: 'json',
+            cache: false,
+            timeout: 15000,
+            success: function(data) {
+                // 결과 표시
+                displaySearchResults(data);
+                $('#search-loading').hide();
+            },
+            error: function(xhr, status, error) {
+                console.error("원래 검색 API도 실패:", error);
+                $('#search-loading').hide();
+                
+                // 대체 검색 사용
+                fallbackSearch(category, keyword);
+            }
+        });
+    }
+    
+    // 대체 검색 함수 (검색 API 실패 시 실행)
+    function fallbackSearch(category, keyword) {
+        const currentTime = Date.now();
+        let apiUrl;
+        
+        // URL 구성
+        const hostname = window.location.hostname;
+        if (hostname === 'localhost' || hostname === '127.0.0.1') {
+            apiUrl = `/fms/data/refresh?_=${currentTime}`;
+        } else {
+            apiUrl = `/owls-fms-admin/fms/data/refresh?_=${currentTime}`;
+        }
+        
+        $.ajax({
+            type: "GET",
+            url: apiUrl,
+            dataType: 'json',
+            cache: false,
+            timeout: 15000,
+            success: function(data) {
+                if (!data.fmsDataList) {
+                    alert('검색 중 오류가 발생했습니다.');
+                    return;
+                }
+                
+                // 클라이언트 측에서 필터링
+                const filtered = filterSearchResults(data.fmsDataList, category, keyword);
+                
+                // 결과 표시
+                const searchData = { searchResults: filtered };
+                displaySearchResults(searchData);
+                $('#search-loading').hide();
+            },
+            error: function(xhr, status, error) {
+                console.error("대체 검색 실패:", error);
+                $('#search-loading').hide();
+                alert('검색 중 오류가 발생했습니다. 다시 시도해주세요.');
+            }
+        });
+    }
+    
+    // 클라이언트 측 검색 필터링
+    function filterSearchResults(data, category, keyword) {
+        const lowerKeyword = keyword.toLowerCase();
+        return data.filter(item => {
+            if (category === 'device_id' && item.user_id) {
+                return item.user_id.toLowerCase().includes(lowerKeyword);
+            } 
+            else if (category === 'driver_name' && item.driver_name) {
+                return item.driver_name.toLowerCase().includes(lowerKeyword);
+            }
+            else if (category === 'vehicle_number' && item.vehicle_number) {
+                return item.vehicle_number.toLowerCase().includes(lowerKeyword);
+            }
+            return false;
+        });
+    }
+    
+    // 검색 결과 표시 함수
+    function displaySearchResults(data) {
+        const results = data.searchResults || [];
+        $('#search-total-size').text(results.length);
+        
+        // 결과 테이블 비우기
+        $('#search-result-table > tbody').empty();
+        
+        if (results.length === 0) {
+            $('#search-result-table > tbody').html(
+                '<tr><td colspan="8" class="text-center">검색 결과가 없습니다.</td></tr>'
+            );
+        } else {
+            let tableHtml = '';
+            
+            // 결과 정렬 (최근 데이터 우선)
+            results.sort((a, b) => {
+                return new Date(b.time || 0) - new Date(a.time || 0);
+            });
+            
+            results.forEach(item => {
+                // 시간 포맷팅
+                let timeStr = '';
+                if (item.time) {
+                    const d = new Date(item.time);
+                    timeStr = moment(d).format('YYYY-MM-DD HH:mm:ss');
+                }
+                
+                // 위치 정보 포맷팅
+                let locationStr = '위치정보 없음';
+                let latLngParam = '';
+                
+                if (item.latitude && item.longitude && 
+                    !isNaN(parseFloat(item.latitude)) && !isNaN(parseFloat(item.longitude)) && 
+                    parseFloat(item.latitude) !== 0 && parseFloat(item.longitude) !== 0) {
+                    
+                    locationStr = parseFloat(item.latitude).toFixed(6) + ', ' + parseFloat(item.longitude).toFixed(6);
+                    latLngParam = `&lat=${item.latitude}&lng=${item.longitude}`;
+                }
+                
+                // URL 구성 (로컬/배포 환경 고려)
+                const hostname = window.location.hostname;
+                let contextPath = '';
+                if (hostname !== 'localhost' && hostname !== '127.0.0.1') {
+                    contextPath = '/owls-fms-admin';
+                }
+                
+                // 결과 행 생성
+                tableHtml += `
+                    <tr>
+                        <td>${item.user_id || '-'}</td>
+                        <td>${item.driver_name || '-'}</td>
+                        <td>${item.vehicle_number || '-'}</td>
+                        <td>${timeStr || '-'}</td>
+                        <td>${item.battery ? item.battery + 'V' : '-'}</td>
+                        <td>${item.status_text || '정상'}</td>
+                        <td>
+                            <button 
+                                class="btn-tracker" 
+                                onclick="location.href='${contextPath}/tracker?search_name=${item.user_id || ''}${latLngParam}'"
+                            >
+                                추적
+                            </button>
+                        </td>
+                    </tr>
+                `;
+            });
+            
+            $('#search-result-table > tbody').html(tableHtml);
+        }
+        
+        // 검색 결과 표시
+        $('#search-results').show();
+    }
+
+    // 페이지 로드 직후에 로딩 표시
+    document.getElementById('loading-container').style.display = 'flex';
+
+    function showLoading() {
+        $("#loading-indicator").show();
+    }
+    
+    function hideLoading() {
+        $("#loading-indicator").hide();
+    }
+
+    function showPageLoading() {
+        document.getElementById('loading-container').style.display = 'flex';
+    }
+    
+    function hidePageLoading() {
+        document.getElementById('loading-container').style.display = 'none';
+    }
+    
+    function updateDataStatus(isCached) {
+        const status = $("#data-status");
+        const now = new Date().toLocaleTimeString();
+        
+        if (isCached) {
+            status.text("캐시된 데이터 (" + now + ")").removeClass("data-fresh").addClass("data-cached");
+        } else {
+            status.text("최신 데이터 (" + now + ")").removeClass("data-cached").addClass("data-fresh");
+        }
+    }
+    
+    function fn_refresh(forceRefresh = false) {
+        // 첫 로딩 시 전체 페이지 로딩 표시
+        const isFirstLoad = cachedEquipData.length === 0;
+        
+        // 로컬 캐시가 유효하고 강제 새로고침이 아닌 경우 캐시 사용
+        const currentTime = Date.now();
+        if (!forceRefresh && !isFirstLoad && cachedEquipData.length > 0 && (currentTime - lastCacheTime < CACHE_DURATION)) {
+            console.log("로컬 캐시 데이터 사용 (항목 수: " + cachedEquipData.length + ")");
+            updateEquipmentTable(cachedEquipData, true);
+            return;
+        }
+        
+        // 첫 로딩 시에는 전체 페이지 로딩, 그 외에는 인라인 로딩만 표시
+        if (isFirstLoad) {
+            showPageLoading();
+        } else {
+            showLoading();
+        }
+        
+        // API 요청 경로
+        var url = window.location.href.endsWith('/') ? 
+                  "fms/data/refresh" : 
+                  "/fms/data/refresh";
+        
+        $.ajax({
+            type: "GET",
+            url: url,
+            dataType: 'json',
+            cache: false,
+            timeout: 15000, // 15초로 타임아웃 증가
+            success: function (data) {
+                if (isFirstLoad) {
+                    hidePageLoading();
+                } else {
+                    hideLoading();
+                }
+                
+                const equipList = data.equipDataList || [];
+                
+                // 캐시 업데이트
+                cachedEquipData = equipList;
+                lastCacheTime = currentTime;
+                
+                updateEquipmentTable(equipList, false);
+            },
+            error: function (xhr, status, error) {
+                console.log("GET 요청 실패:", error, "상태:", status);
+                
+                // 로컬 캐시가 있으면 사용
+                if (cachedEquipData.length > 0) {
+                    console.log("API 오류 발생, 로컬 캐시 데이터 사용");
+                    if (isFirstLoad) {
+                        hidePageLoading();
+                    } else {
+                        hideLoading();
+                    }
+                    updateEquipmentTable(cachedEquipData, true);
+                    return;
+                }
+                
+                // POST 요청으로 재시도
+                $.ajax({
+                    type: "POST",
+                    contentType: "application/json",
+                    url: url,
+                    data: JSON.stringify({}),
+                    dataType: 'json',
+                    cache: false,
+                    timeout: 15000,
+                    success: function (data) {
+                        if (isFirstLoad) {
+                            hidePageLoading();
+                        } else {
+                            hideLoading();
+                        }
+                        
+                        const equipList = data.equipDataList || [];
+                        cachedEquipData = equipList;
+                        lastCacheTime = currentTime;
+                        updateEquipmentTable(equipList, false);
+                    },
+                    error: function (e) {
+                        if (isFirstLoad) {
+                            hidePageLoading();
+                        } else {
+                            hideLoading();
+                        }
+                        
+                        console.log("최종 오류:", e);
+                        
+                        if (cachedEquipData.length > 0) {
+                            updateEquipmentTable(cachedEquipData, true);
+                        } else {
+                            updateEquipmentTable([], false);
+                        }
+                        
+                        // 첫 로딩 시에만 오류 메시지 표시
+                        if (isFirstLoad) {
+                            alert("서버 연결에 문제가 있습니다. 잠시 후 다시 시도해주세요.");
+                        }
+                    }
+                });
+            }
+        });        
+    }
+    
+    function updateEquipmentTable(equipList, isCached) {
+        // 상태 표시 업데이트
+        updateDataStatus(isCached);
+        
+        // 테이블 비우기
+        $('#equip_data_table > tbody').empty();
+        
+        // 카운터 업데이트
+        $('#equip_total_size').text(equipList.length);
+        
+        if (equipList.length === 0) {
+            // 데이터가 없을 경우 메시지 표시
+            var noDataRow = '<tr><td colspan="8" class="text-center">접속 중인 디바이스가 없습니다.</td></tr>';
+            $("#equip_data_table > tbody").append(noDataRow);
+            return;
+        }
+        
+        // 데이터 추가 (비동기적으로 DOM 조작 최소화)
+        let tableHtml = '';
+        equipList.forEach(function(equip) {
+            tableHtml += 
+                '<tr>' +
+                '<td>' + (equip.id || '-') + '</td>' +
+                '<td>' + (equip.client_id || '-') + '</td>' +
+                '<td>' + (equip.vehicle_number || '-') + '</td>' +
+                '<td>' + (equip.port || '-') + '</td>' +
+                '<td>' + (equip.ip_address || '-') + '</td>' +
+                '<td><button class="btn-on" data-id="' + (equip.id || '') + '">시동ON</button></td>' +
+                '<td><button class="btn-off" data-id="' + (equip.id || '') + '">시동OFF</button></td>' +
+                '<td><button class="btn-location" data-id="' + (equip.id || '') + '">위치</button></td>' +
+                '<td><button class="btn-tracker" data-id="' + (equip.id || '') + '" data-client-id="' + (equip.client_id || '') + '">추적</button></td>' +
+                '</tr>';
+        });
+        
+        // 한 번에 DOM에 추가
+        $("#equip_data_table > tbody").html(tableHtml);
+        
+        // 버튼 이벤트 핸들러 설정
+        setupButtonHandlers();
+    }
+    
+    function setupButtonHandlers() {
+        // 시동 ON 버튼
+        $('.btn-on').off('click').on('click', function() {
+            var id = $(this).data('id');
+            if (!id) {
+                alert("유효한 장비 ID가 없습니다.");
+                return;
+            }
+            
+            var ipAddress = $(this).closest('tr').find('td:eq(3)').text();
+            sendCommand('on', id, ipAddress);
+        });
+        
+        // 시동 OFF 버튼
+        $('.btn-off').off('click').on('click', function() {
+            var id = $(this).data('id');
+            if (!id) {
+                alert("유효한 장비 ID가 없습니다.");
+                return;
+            }
+            
+            sendCommand('off', id);
+        });
+        
+        // 위치 요청 버튼
+        $('.btn-location').off('click').on('click', function() {
+            var id = $(this).data('id');
+            if (!id) {
+                alert("유효한 장비 ID가 없습니다.");
+                return;
+            }
+            
+            sendCommand('location', id);
+        });
+        
+        // 추적 버튼
+        $('.btn-tracker').off('click').on('click', function() {
+            var id = $(this).data('id');
+            var clientId = $(this).data('client-id');
+            
+            var searchId = id || clientId;
+            if (!searchId) {
+                alert("유효한 ID가 없습니다.");
+                return;
+            }
+            
+            // tracker 페이지로 이동
+            var trackerUrl = window.location.href.endsWith('/') ? 
+                  "tracker?search_name=" + searchId : 
+                  "/tracker?search_name=" + searchId;
+            
+            window.location.href = trackerUrl;
+        });
+    }
+    
+    function sendCommand(command, id, ipAddress) {
+        var url, data;
+        
+        // 커맨드에 따른 URL과 데이터 구성
+        if (command === 'on') {
+            url = "http://52.78.62.183:9090/request/key/on";
+            data = {
+                id: id,
+                ip_address: ipAddress
+            };
+        } else if (command === 'off') {
+            url = "http://52.78.62.183:9090/request/key/off";
+            data = { id: id };
+        } else if (command === 'location') {
+            url = "http://52.78.62.183:9090/request/location";
+            data = { id: id };
+        } else {
+            alert("알 수 없는 명령입니다.");
+            return;
+        }
+        
+        // 버튼 상태 업데이트 (피드백 제공)
+        const $button = $('.btn-' + command + '[data-id="' + id + '"]');
+        const originalText = $button.text();
+        $button.prop('disabled', true).text('처리 중...');
+        
+        // API 호출
+        $.ajax({
+            type: "POST",
+            contentType: "application/json",
+            url: url,
+            data: JSON.stringify(data),
+            dataType: 'json',
+            cache: false,
+            timeout: 7000, // 7초 타임아웃
+            success: function(response) {
+                $button.prop('disabled', false).text(originalText);
+                
+                // 명령에 따른 메시지 표시
+                var cmdText = command === 'on' ? '시동 ON' : 
+                            command === 'off' ? '시동 OFF' : '위치 요청';
+                alert(cmdText + " 요청이 성공했습니다.");
+                
+                // 성공 후 강제 새로고침
+                setTimeout(() => fn_refresh(true), 1000);
+            },
+            error: function(xhr, status, error) {
+                $button.prop('disabled', false).text(originalText);
+                console.log(error);
+                
+                // 명령에 따른 메시지 표시
+                var cmdText = command === 'on' ? '시동 ON' : 
+                            command === 'off' ? '시동 OFF' : '위치 요청';
+                
+                if (status === 'timeout') {
+                    alert(cmdText + " 요청 시간이 초과되었습니다. 나중에 다시 시도해주세요.");
+                } else {
+                    alert(cmdText + " 요청 처리에 실패했습니다.");
+                }
+            }
+        });
+    }
+    
+    // 페이지 로드 시 이벤트 설정
+    $(document).ready(function() {
+        // 새로고침 버튼 클릭 이벤트
+        $('#refresh-btn').on('click', function() {
+            fn_refresh(true); // 강제 새로고침
+        });
+        
+        // 페이지 로드 시 데이터 로드
+        setTimeout(fn_refresh, 500);
+        
+        // 30초마다 자동 새로고침 (백그라운드에서)
+        setInterval(function() {
+            // 백그라운드 새로고침은 캐시 우선 사용
+            fn_refresh(false);
+        }, 30000);
+    });
+</script>
+<script type="text/javascript" src="/owls-fms-admin/js/moment.js"></script>
+<script type="text/javascript" src="/owls-fms-admin/js/device-connection.js"></script>
+</body>

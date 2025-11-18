@@ -1,0 +1,19 @@
+2025-07-24 10:39:37,747 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-24 10:39:39,332 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 10:39:39,802 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 350, in <module>
+    uc.loop().run_until_complete(main())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 340, in main
+    await nodriver.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 217, in run
+    self._init_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 274, in _init_data
+    self._get_work_computer_name()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 299, in _get_work_computer_name
+    self.googlesheet.update_oneline("[데이터 컴퓨터]", [self.computer_number], "C")
+                                                        ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BlogViews' object has no attribute 'computer_number'

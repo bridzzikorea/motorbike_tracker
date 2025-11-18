@@ -1,0 +1,25 @@
+2025-11-14 11:32:37,402 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\gspread\client.py", line 134, in open
+    properties = finditem(
+                 ^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\gspread\utils.py", line 218, in finditem
+    return next(item for item in seq if func(item))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+StopIteration
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 163, in <module>
+    motobike_tracker_bot = MotobikeTracker()
+                           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 45, in __init__
+    self.googlesheet = GoogleSheet("bridzzi_naver_google.json", "오토바이 추적DB")
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 135, in __init__
+    self.spreadsheet = self.client.open(spreadsheet_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\gspread\client.py", line 139, in open
+    raise SpreadsheetNotFound(response) from ex
+gspread.exceptions.SpreadsheetNotFound: <Response [200]>

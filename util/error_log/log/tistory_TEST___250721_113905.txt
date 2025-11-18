@@ -1,0 +1,89 @@
+2025-07-21 11:39:10,085 - INFO - 대시보드 TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-21 11:39:10,085 - INFO - ==================================
+2025-07-21 11:39:10,085 - INFO - 21
+2025-07-21 11:39:10,267 - INFO - C:\program_cookies 폴더 크기: 0.97 GB
+2025-07-21 11:39:10,283 - INFO - C:\program_cookies\PC_dnghwhd8819@naver.com 폴더 크기: 0.10 GB
+2025-07-21 11:39:10,283 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_dnghwhd8819@naver.com 폴더를 지정합니다.
+2025-07-21 11:39:10,283 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-07-21 11:39:10,284 - INFO - fixed UA가 있습니다.
+2025-07-21 11:39:10,284 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36입니다.
+2025-07-21 11:39:10,284 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-07-21 11:39:10,284 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-07-21 11:39:12,655 - INFO - ==================================
+2025-07-21 11:39:12,655 - INFO - devicemetrics를 override 합니다..
+2025-07-21 11:39:12,660 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-21 11:39:12,661 - INFO - FIXED gps 정보를 적용합니다.
+2025-07-21 11:39:12,661 - INFO - FIXED gps 정보는 {'latitude': 37.6653341, 'longitude': 127.075382, 'accuracy': 100} 입니다.
+2025-07-21 11:39:12,666 - INFO - 모든 변경이 완료되었습니다...
+2025-07-21 11:39:12,667 - INFO - ~~~~~~~~~~
+2025-07-21 11:39:15,655 - INFO - 로그인이 되어있지 않아 로그인 과정을 진행합니다.
+2025-07-21 11:39:19,148 - INFO - 티스토리를 선택하고, 선택한 티스토리로 이동합니다.
+2025-07-21 11:39:25,136 - INFO - Alert Message:
+2025-07-21 11:39:25,136 - INFO - 2025. 7. 21. 11:32에 저장된 글이 있습니다.
+이어서 작성하시겠습니까?
+2025-07-21 11:39:25,612 - INFO - 작성되는글이 있어서 취소를 눌렀습니다.
+2025-07-21 11:39:26,929 - INFO - 카테고리 선택을 시작합니다
+2025-07-21 11:39:26,955 - INFO - '공간대여정보' 카테고리를 선택합니다
+2025-07-21 11:39:28,947 - INFO - 카테고리 선택을 완료했습니다
+2025-07-21 11:39:28,947 - INFO - stop_check: False
+2025-07-21 11:39:28,947 - INFO - 랜덤이미지 경로에서 이미지 파일 찾기를 시작합니다.
+2025-07-21 11:39:28,947 - INFO - 전체 랜덤이미지 개수는 3개입니다.
+2025-07-21 11:39:37,105 - INFO - 35
+2025-07-21 11:39:40,206 - INFO - 35
+2025-07-21 11:39:45,164 - INFO - 35
+2025-07-21 11:39:48,693 - INFO - 35
+2025-07-21 11:39:51,810 - INFO - [선택사진]: 이거뭐에요.jpg(하이퍼링크:www.naver.com)
+2025-07-21 11:39:51,810 - INFO - 파일 삭제: C:\브리찌\sysuk0307_브리찌 소개\선택사진\Output\이거뭐에요.jpg
+2025-07-21 11:39:52,312 - INFO - C:\브리찌\sysuk0307_브리찌 소개\선택사진\Output\이거뭐에요.jpg
+2025-07-21 11:39:52,313 - INFO - C:\브리찌\sysuk0307_브리찌 소개\선택사진\Output\이거뭐에요.jpg - 이미지 처리(썸네일 및 메타데이터 삭제) 시작
+2025-07-21 11:39:53,094 - INFO - 변경 전 메타데이터
+2025-07-21 11:39:53,094 - INFO - {'0th': {}, 'Exif': {}, 'GPS': {}, 'Interop': {}, '1st': {}, 'thumbnail': None}
+2025-07-21 11:39:53,094 - INFO - 변경 후 메타데이터
+2025-07-21 11:39:53,095 - INFO - {'0th': {}, 'Exif': {}, 'GPS': {}, 'Interop': {}, '1st': {}, 'thumbnail': None}
+2025-07-21 11:39:53,096 - INFO - 메타데이터가 추가되었습니다.
+2025-07-21 11:39:53,096 - INFO - 추가된 메타데이터:
+2025-07-21 11:39:53,104 - INFO - {'0th': {306: b'2025:07:13 11:39:53', 34665: 58}, 'Exif': {36867: b'2025:07:13 11:39:53', 36868: b'2025:07:13 11:39:53'}, 'GPS': {}, 'Interop': {}, '1st': {}, 'thumbnail': None}
+2025-07-21 11:39:53,107 - INFO - C:\브리찌\sysuk0307_브리찌 소개\썸네일 - 썸네일 제작 (시작)
+2025-07-21 11:39:53,108 - INFO - -- 이미지 크기: 225x225
+2025-07-21 11:39:53,776 - INFO - 18.0
+2025-07-21 11:39:53,783 - INFO - C:\브리찌\sysuk0307_브리찌 소개\썸네일 - 썸네일 제작 (완료)
+2025-07-21 11:39:53,784 - INFO - C:\브리찌\sysuk0307_브리찌 소개\선택사진\Output\이거뭐에요.jpg - 이미지 처리(썸네일 및 메타데이터 삭제) 성공
+2025-07-21 11:39:53,816 - ERROR - [ tistory_TEST.py 프로그램 ] - < Exception 'NoneType' object has no attribute 'size' 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory_TEST.py", line 52, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 912, in run
+    self._write_context(self.dash_data['제목'], self.dash_data['내용'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 769, in _write_context
+    self._onebyonetext(text, path_data, thumbdata)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 672, in _onebyonetext
+    self._specialfunction(specialword, path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 473, in _specialfunction
+    selenium_util.random_click(self.browser, picture_list_btn_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 551, in random_click
+    element_random_click(browser, element)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 505, in element_random_click
+    el_width, el_height = element.size['width'], element.size['height']
+                          ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'size'
+
+오류가 발생하여 프로그램을 종료했습니다. 확인 부탁드립니다
+2025-07-21 11:39:53,816 - INFO - 텔레그램 에러 메시지 : [ tistory_TEST.py 프로그램 ] - < Exception 'NoneType' object has no attribute 'size' 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory_TEST.py", line 52, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 912, in run
+    self._write_context(self.dash_data['제목'], self.dash_data['내용'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 769, in _write_context
+    self._onebyonetext(text, path_data, thumbdata)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 672, in _onebyonetext
+    self._specialfunction(specialword, path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 473, in _specialfunction
+    selenium_util.random_click(self.browser, picture_list_btn_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 551, in random_click
+    element_random_click(browser, element)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 505, in element_random_click
+    el_width, el_height = element.size['width'], element.size['height']
+                          ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'size'
+2025-07-21 11:39:55,086 - INFO - 화면 캡처가 성공적으로 저장되었습니다: screenshot.png

@@ -1,0 +1,11 @@
+2025-11-14 10:07:23,755 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 93, in <module>
+    motobike_tracker_bot = MotobikeTracker()
+                           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 45, in __init__
+    self.googlesheet = GoogleSheet("bridzzi_naver_google", "오토바이 추적DB")
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 111, in __init__
+    raise FileNotFoundError(f"파일을 찾을 수 없습니다: {self.json_path}")
+FileNotFoundError: 파일을 찾을 수 없습니다: data/bridzzi_naver_google

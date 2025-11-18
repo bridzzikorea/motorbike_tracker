@@ -1,0 +1,173 @@
+2025-08-01 16:35:39,400 - INFO - 대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-01 16:35:39,400 - INFO - ==================================
+2025-08-01 16:35:39,400 - INFO - 50
+2025-08-01 16:35:39,797 - INFO - C:\program_cookies 폴더 크기: 0.29 GB
+2025-08-01 16:35:39,798 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_dnghwhd8819@naver.com 폴더를 지정합니다.
+2025-08-01 16:35:39,798 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-08-01 16:35:39,798 - INFO - fixed UA가 있습니다.
+2025-08-01 16:35:39,799 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36입니다.
+2025-08-01 16:35:39,799 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-08-01 16:35:39,799 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-08-01 16:35:41,533 - INFO - ==================================
+2025-08-01 16:35:41,533 - INFO - devicemetrics를 override 합니다..
+2025-08-01 16:35:41,541 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-01 16:35:41,541 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-01 16:35:41,541 - INFO - FIXED gps 정보는 {'latitude': 37.6653341, 'longitude': 127.075382, 'accuracy': 100} 입니다.
+2025-08-01 16:35:41,550 - INFO - 모든 변경이 완료되었습니다...
+2025-08-01 16:35:41,550 - INFO - ~~~~~~~~~~
+2025-08-01 16:35:45,051 - INFO - 로그인이 되어있지 않아 로그인 과정을 진행합니다.
+2025-08-01 16:36:03,191 - INFO - 티스토리를 선택하고, 선택한 티스토리로 이동합니다.
+2025-08-01 16:36:29,446 - INFO - 카테고리 선택을 시작합니다
+2025-08-01 16:36:29,475 - INFO - '공간대여정보' 카테고리를 선택합니다
+2025-08-01 16:36:31,591 - INFO - 카테고리 선택을 완료했습니다
+2025-08-01 16:36:31,591 - INFO - stop_check: False
+2025-08-01 16:36:31,591 - INFO - 랜덤이미지 경로에서 이미지 파일 찾기를 시작합니다.
+2025-08-01 16:36:31,595 - INFO - 전체 랜덤이미지 개수는 3개입니다.
+2025-08-01 16:37:21,362 - INFO - C:\브리찌\sysuk0307_브리찌 소개\썸네일 - 썸네일 제작 (시작)
+2025-08-01 16:37:21,362 - INFO - -- 이미지 크기: 600x600
+2025-08-01 16:37:22,654 - INFO - 57.142857142857146
+2025-08-01 16:37:22,660 - INFO - C:\브리찌\sysuk0307_브리찌 소개\썸네일 - 썸네일 제작 (완료)
+2025-08-01 16:37:23,183 - ERROR - C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py:76: DeprecationWarning: Method .SetEditText() is deprecated, use .set_edit_text() instead.
+  edit.SetText(file_path)
+2025-08-01 16:37:23,454 - ERROR - C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py:80: DeprecationWarning: Method .SetEditText() is deprecated, use .set_edit_text() instead.
+  edit.SetText(file_name)
+2025-08-01 16:37:26,852 - ERROR - [ tistory.py 프로그램 ] - < Exception Message: no such element: Unable to locate element: {"method":"css selector","selector":"dl:nth-child(2) > dd > div.inp_item:nth-child(1)"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb7ba83+63395]
+	GetHandleVerifier [0x0xb7bac4+63460]
+	(No symbol) [0x0x9c2113]
+	(No symbol) [0x0xa0a85e]
+	(No symbol) [0x0xa0abfb]
+	(No symbol) [0x0xa52f92]
+	(No symbol) [0x0xa2f3f4]
+	(No symbol) [0x0xa507ba]
+	(No symbol) [0x0xa2f1a6]
+	(No symbol) [0x0x9fe7b2]
+	(No symbol) [0x0x9ff654]
+	GetHandleVerifier [0x0xdf8883+2672035]
+	GetHandleVerifier [0x0xdf3cba+2652634]
+	GetHandleVerifier [0x0xba2bca+223466]
+	GetHandleVerifier [0x0xb92cb8+158168]
+	GetHandleVerifier [0x0xb9978d+185517]
+	GetHandleVerifier [0x0xb83b78+96408]
+	GetHandleVerifier [0x0xb83d02+96802]
+	GetHandleVerifier [0x0xb6e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+ 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory.py", line 55, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 907, in run
+    self._issue(self.dash_data['해시태그'], self.dash_data['제목'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 811, in _issue
+    selenium_util.random_click(self.browser, open_button_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 550, in random_click
+    element = browser.find_element(By.CSS_SELECTOR, css_selector)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"dl:nth-child(2) > dd > div.inp_item:nth-child(1)"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb7ba83+63395]
+	GetHandleVerifier [0x0xb7bac4+63460]
+	(No symbol) [0x0x9c2113]
+	(No symbol) [0x0xa0a85e]
+	(No symbol) [0x0xa0abfb]
+	(No symbol) [0x0xa52f92]
+	(No symbol) [0x0xa2f3f4]
+	(No symbol) [0x0xa507ba]
+	(No symbol) [0x0xa2f1a6]
+	(No symbol) [0x0x9fe7b2]
+	(No symbol) [0x0x9ff654]
+	GetHandleVerifier [0x0xdf8883+2672035]
+	GetHandleVerifier [0x0xdf3cba+2652634]
+	GetHandleVerifier [0x0xba2bca+223466]
+	GetHandleVerifier [0x0xb92cb8+158168]
+	GetHandleVerifier [0x0xb9978d+185517]
+	GetHandleVerifier [0x0xb83b78+96408]
+	GetHandleVerifier [0x0xb83d02+96802]
+	GetHandleVerifier [0x0xb6e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+오류가 발생하여 프로그램을 종료했습니다. 확인 부탁드립니다
+2025-08-01 16:37:26,852 - INFO - 텔레그램 에러 메시지 : [ tistory.py 프로그램 ] - < Exception Message: no such element: Unable to locate element: {"method":"css selector","selector":"dl:nth-child(2) > dd > div.inp_item:nth-child(1)"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb7ba83+63395]
+	GetHandleVerifier [0x0xb7bac4+63460]
+	(No symbol) [0x0x9c2113]
+	(No symbol) [0x0xa0a85e]
+	(No symbol) [0x0xa0abfb]
+	(No symbol) [0x0xa52f92]
+	(No symbol) [0x0xa2f3f4]
+	(No symbol) [0x0xa507ba]
+	(No symbol) [0x0xa2f1a6]
+	(No symbol) [0x0x9fe7b2]
+	(No symbol) [0x0x9ff654]
+	GetHandleVerifier [0x0xdf8883+2672035]
+	GetHandleVerifier [0x0xdf3cba+2652634]
+	GetHandleVerifier [0x0xba2bca+223466]
+	GetHandleVerifier [0x0xb92cb8+158168]
+	GetHandleVerifier [0x0xb9978d+185517]
+	GetHandleVerifier [0x0xb83b78+96408]
+	GetHandleVerifier [0x0xb83d02+96802]
+	GetHandleVerifier [0x0xb6e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+ 발생 >
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\tistory.py", line 55, in <module>
+    tistory_bot.run(input_dashboard_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 907, in run
+    self._issue(self.dash_data['해시태그'], self.dash_data['제목'], write_path_data, thumb_data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\kakao\tistory_bot.py", line 811, in _issue
+    selenium_util.random_click(self.browser, open_button_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 550, in random_click
+    element = browser.find_element(By.CSS_SELECTOR, css_selector)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"dl:nth-child(2) > dd > div.inp_item:nth-child(1)"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb7ba83+63395]
+	GetHandleVerifier [0x0xb7bac4+63460]
+	(No symbol) [0x0x9c2113]
+	(No symbol) [0x0xa0a85e]
+	(No symbol) [0x0xa0abfb]
+	(No symbol) [0x0xa52f92]
+	(No symbol) [0x0xa2f3f4]
+	(No symbol) [0x0xa507ba]
+	(No symbol) [0x0xa2f1a6]
+	(No symbol) [0x0x9fe7b2]
+	(No symbol) [0x0x9ff654]
+	GetHandleVerifier [0x0xdf8883+2672035]
+	GetHandleVerifier [0x0xdf3cba+2652634]
+	GetHandleVerifier [0x0xba2bca+223466]
+	GetHandleVerifier [0x0xb92cb8+158168]
+	GetHandleVerifier [0x0xb9978d+185517]
+	GetHandleVerifier [0x0xb83b78+96408]
+	GetHandleVerifier [0x0xb83d02+96802]
+	GetHandleVerifier [0x0xb6e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-01 16:37:28,158 - INFO - 화면 캡처가 성공적으로 저장되었습니다: screenshot.png

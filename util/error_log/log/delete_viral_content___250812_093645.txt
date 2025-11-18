@@ -1,0 +1,273 @@
+2025-08-12 09:36:47,002 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 09:36:47,002 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:36:47,598 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:36:48,220 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 09:36:48,388 - INFO - C:\program_cookies 폴더 크기: 0.95 GB
+2025-08-12 09:36:48,416 - INFO - C:\program_cookies\Mobile_cd456efg 폴더 크기: 0.12 GB
+2025-08-12 09:36:48,417 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_cd456efg 폴더를 지정합니다.
+2025-08-12 09:36:48,421 - INFO - fixed UA가 있습니다.
+2025-08-12 09:36:48,421 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 10; SM-N950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4280.141 Mobile Safari/537.36입니다.
+2025-08-12 09:36:48,421 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:36:48,421 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:36:51,847 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:36:51,847 - INFO - Android
+2025-08-12 09:36:51,868 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:36:51,868 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:36:51,869 - INFO - FIXED gps 정보는 {'latitude': 37.5389049, 'longitude': 127.044366, 'accuracy': 100} 입니다.
+2025-08-12 09:36:52,252 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:36:52,252 - INFO - ~~~~~~~~~~
+2025-08-12 09:36:52,546 - INFO - [ NAVER_ID : cd456efg ]
+2025-08-12 09:36:53,104 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:36:54,885 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:36:57,033 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:37:04,144 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:37:04,679 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 09:37:07,578 - INFO - 메일 내용 : 비밀번호가 변경되었습니다.
+2025-08-12 09:37:07,578 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 09:37:16,855 - INFO - delete-6583 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:37:23,152 - INFO - delete-6585 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:37:28,501 - INFO - delete-6745 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:37:34,222 - INFO - delete-6746 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:37:39,527 - INFO - delete-6747 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:37:39,527 - INFO - 시트이름: 게시글삭제/작성내역
+2025-08-12 09:37:39,527 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:37:40,153 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:37:47,661 - INFO - delete-6748 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:37:53,360 - INFO - delete-6749 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:37:59,240 - INFO - delete-6750 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:38:04,893 - INFO - delete-6751 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:38:10,463 - INFO - delete-6752 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:38:10,463 - INFO - 시트이름: 게시글삭제/작성내역
+2025-08-12 09:38:10,464 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:38:11,060 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:38:18,471 - INFO - delete-6754 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:38:24,878 - INFO - delete-6755 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:38:30,670 - INFO - delete-6756 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:38:31,400 - INFO - delete-6757 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 09:38:37,570 - INFO - delete-6758 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:38:37,571 - INFO - 시트이름: 게시글삭제/작성내역
+2025-08-12 09:38:37,572 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:38:38,142 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:38:45,307 - INFO - delete-6759 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:38:51,415 - INFO - delete-6823 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 09:38:51,415 - INFO - delete-6810 - 새로운 아이디 데이터를 가지고 왔습니다. 새로 브라우저를 엽니다
+2025-08-12 09:38:51,580 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:38:51,580 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:38:52,261 - INFO - C:\program_cookies 폴더 크기: 0.93 GB
+2025-08-12 09:38:52,276 - INFO - C:\program_cookies\Mobile_defg456hij 폴더 크기: 0.05 GB
+2025-08-12 09:38:52,276 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_defg456hij 폴더를 지정합니다.
+2025-08-12 09:38:52,277 - INFO - fixed UA가 있습니다.
+2025-08-12 09:38:52,277 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 10; SM-G981U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4297.3 Mobile Safari/537.36입니다.
+2025-08-12 09:38:52,277 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:38:52,277 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:38:55,656 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:38:55,656 - INFO - Android
+2025-08-12 09:38:55,678 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:38:55,679 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:38:55,679 - INFO - FIXED gps 정보는 {'latitude': 38.3281151, 'longitude': 127.784562, 'accuracy': 100} 입니다.
+2025-08-12 09:38:56,058 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:38:56,058 - INFO - ~~~~~~~~~~
+2025-08-12 09:38:56,392 - INFO - [ NAVER_ID : defg456hij ]
+2025-08-12 09:38:57,056 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:38:58,893 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:39:00,781 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:39:08,304 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 09:39:08,795 - INFO - ==================================
+2025-08-12 09:39:11,287 - INFO - ==================================
+2025-08-12 09:39:13,934 - INFO - 시트이름: [N]보호조치&비번오류
+2025-08-12 09:39:13,934 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 09:39:14,575 - INFO - 구글 시트 로드 - 완료
+2025-08-12 09:39:16,105 - INFO - [로그인 실패] defg456hij : 네이버ID 보호조치 창 활성화 - 정상적인 로그인에 실패했습니다
+[1단계 보호조치] 생년월일
+[2단계 보호조치] 이메일
+2025-08-12 09:39:16,106 - INFO - 텔레그램 에러 메시지 : [로그인 실패] defg456hij : 네이버ID 보호조치 창 활성화 - 정상적인 로그인에 실패했습니다
+[1단계 보호조치] 생년월일
+[2단계 보호조치] 이메일
+2025-08-12 09:39:17,030 - INFO - ID: defg456hij - 로그인 실패
+2025-08-12 09:39:17,189 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:39:17,190 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:39:17,191 - INFO - delete-6811 - 새로운 아이디 데이터를 가지고 왔습니다. 새로 브라우저를 엽니다
+2025-08-12 09:39:17,308 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:39:17,308 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:39:17,980 - INFO - C:\program_cookies 폴더 크기: 0.94 GB
+2025-08-12 09:39:18,006 - INFO - C:\program_cookies\Mobile_defg456hij 폴더 크기: 0.06 GB
+2025-08-12 09:39:18,006 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_defg456hij 폴더를 지정합니다.
+2025-08-12 09:39:18,006 - INFO - fixed UA가 있습니다.
+2025-08-12 09:39:18,006 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 10; SM-G981U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4297.3 Mobile Safari/537.36입니다.
+2025-08-12 09:39:18,006 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 09:39:18,006 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 09:39:21,368 - INFO - 크롬창을 열었습니다.
+2025-08-12 09:39:21,368 - INFO - Android
+2025-08-12 09:39:21,376 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 09:39:21,376 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 09:39:21,376 - INFO - FIXED gps 정보는 {'latitude': 38.3281151, 'longitude': 127.784562, 'accuracy': 100} 입니다.
+2025-08-12 09:39:21,739 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 09:39:21,739 - INFO - ~~~~~~~~~~
+2025-08-12 09:39:22,094 - INFO - [ NAVER_ID : defg456hij ]
+2025-08-12 09:39:22,615 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 09:39:24,696 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 09:39:26,564 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 09:39:29,642 - ERROR - 1/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 238, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 101, in start_delete_content
+    browser = browser_load(row)
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 68, in browser_load
+    naver_bot.naver_login_mo(ID, PW)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 129, in naver_login_mo
+    selenium_util.input_id_pw(self.browser, "input#pw", self._pw)  # 비밀번호
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 268, in input_id_pw
+    selenium_util.wait_for_element(browser, 10, css_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 104, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0x102fd23+62915]
+	GetHandleVerifier [0x0x102fd64+62980]
+	(No symbol) [0x0xe63e13]
+	(No symbol) [0x0xe53760]
+	(No symbol) [0x0xe715d2]
+	(No symbol) [0x0xed7cac]
+	(No symbol) [0x0xef1fc9]
+	(No symbol) [0x0xed11d6]
+	(No symbol) [0x0xea0833]
+	(No symbol) [0x0xea16a4]
+	GetHandleVerifier [0x0x1298d13+2590131]
+	GetHandleVerifier [0x0x1293f5a+2570234]
+	GetHandleVerifier [0x0x10559da+217722]
+	GetHandleVerifier [0x0x1046048+153832]
+	GetHandleVerifier [0x0x104c4ad+179533]
+	GetHandleVerifier [0x0x1037728+94152]
+	GetHandleVerifier [0x0x10378b2+94546]
+	GetHandleVerifier [0x0x1022bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 09:39:29,642 - ERROR - Traceback (most recent call last):
+2025-08-12 09:39:29,645 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 238, in <module>
+    start_delete_content()
+2025-08-12 09:39:29,645 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 101, in start_delete_content
+    browser = browser_load(row)
+    ^^^^^^^^^^^^^^^^^
+2025-08-12 09:39:29,645 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 68, in browser_load
+    naver_bot.naver_login_mo(ID, PW)
+2025-08-12 09:39:29,645 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 129, in naver_login_mo
+    selenium_util.input_id_pw(self.browser, "input#pw", self._pw)  # 비밀번호
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 09:39:29,645 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 268, in input_id_pw
+    selenium_util.wait_for_element(browser, 10, css_selector)
+2025-08-12 09:39:29,645 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 09:39:29,645 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+2025-08-12 09:39:29,645 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 104, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 09:39:29,645 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 09:39:29,645 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-08-12 09:39:29,645 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-08-12 09:39:29,645 - ERROR - selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0x102fd23+62915]
+	GetHandleVerifier [0x0x102fd64+62980]
+	(No symbol) [0x0xe63e13]
+	(No symbol) [0x0xe53760]
+	(No symbol) [0x0xe715d2]
+	(No symbol) [0x0xed7cac]
+	(No symbol) [0x0xef1fc9]
+	(No symbol) [0x0xed11d6]
+	(No symbol) [0x0xea0833]
+	(No symbol) [0x0xea16a4]
+	GetHandleVerifier [0x0x1298d13+2590131]
+	GetHandleVerifier [0x0x1293f5a+2570234]
+	GetHandleVerifier [0x0x10559da+217722]
+	GetHandleVerifier [0x0x1046048+153832]
+	GetHandleVerifier [0x0x104c4ad+179533]
+	GetHandleVerifier [0x0x1037728+94152]
+	GetHandleVerifier [0x0x10378b2+94546]
+	GetHandleVerifier [0x0x1022bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-12 09:39:29,769 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 09:39:29,769 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 09:39:30,278 - INFO - ==================================
+2025-08-12 09:39:30,278 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 09:39:30,403 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 09:39:31,582 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 09:39:33,583 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 310, in <module>
+    time.sleep(0.5)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 82, in update_chromedriver
+    update_chrome()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 40, in update_chrome
+    status = get_chrome_update_status(driver)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 29, in get_chrome_update_status
+    return driver.execute_script(script)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 544, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7222d6b55+79621]
+	GetHandleVerifier [0x0x7ff7222d6bb0+79712]
+	(No symbol) [0x0x7ff72206c0ea]
+	(No symbol) [0x0x7ff722058355]
+	(No symbol) [0x0x7ff72207cefa]
+	(No symbol) [0x0x7ff7220f2845]
+	(No symbol) [0x0x7ff722112d02]
+	(No symbol) [0x0x7ff7220eaf13]
+	(No symbol) [0x0x7ff7220b4151]
+	(No symbol) [0x0x7ff7220b4ee3]
+	GetHandleVerifier [0x0x7ff72259686d+2962461]
+	GetHandleVerifier [0x0x7ff722590b8d+2938685]
+	GetHandleVerifier [0x0x7ff7225af74d+3064573]
+	GetHandleVerifier [0x0x7ff7222f0c9e+186446]
+	GetHandleVerifier [0x0x7ff7222f8a6f+218655]
+	GetHandleVerifier [0x0x7ff7222df944+115956]
+	GetHandleVerifier [0x0x7ff7222dfaf9+116393]
+	GetHandleVerifier [0x0x7ff7222c5f28+10968]
+	BaseThreadInitThunk [0x0x7ff9559ee8d7+23]
+	RtlUserThreadStart [0x0x7ff95643c34c+44]
+

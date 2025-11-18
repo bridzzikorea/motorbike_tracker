@@ -1,0 +1,28 @@
+2025-10-31 17:42:08,847 - INFO - 시트이름: 자동메시지/대시보드
+2025-10-31 17:42:08,847 - INFO - 구글 시트 로드 - 시도중....
+2025-10-31 17:42:09,514 - INFO - 구글 시트 로드 - 완료
+2025-10-31 17:42:10,473 - INFO - [오류] 행 삭제 중 예외 발생: APIError: [400]: Invalid requests[0].deleteDimension: You are trying to edit a protected cell or object. Please contact the spreadsheet owner to remove protection if you need to edit.
+2025-10-31 17:42:10,587 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-31 17:42:10,587 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-31 17:42:11,596 - INFO - ==================================
+2025-10-31 17:42:11,596 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-31 17:42:11,747 - INFO - [현재 크롬 버전] : 142.0.7444.60
+2025-10-31 17:42:13,000 - INFO - Chrome 업데이트를 확인하는 중...
+2025-10-31 17:42:15,001 - INFO - ==================================
+2025-10-31 17:42:15,001 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-10-31 17:42:15,001 - INFO - -----------------------------
+2025-10-31 17:42:15,001 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-10-31 17:42:15,001 - INFO - ==================================
+2025-10-31 17:42:15,130 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-31 17:42:15,130 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-31 17:42:16,132 - INFO - ==================================
+2025-10-31 17:42:16,132 - INFO - 시트이름: 자동메시지/대시보드
+2025-10-31 17:42:16,132 - INFO - 구글 시트 로드 - 시도중....
+2025-10-31 17:42:16,627 - INFO - 구글 시트 로드 - 완료
+2025-10-31 17:42:17,655 - INFO - [오류] 행 삭제 중 예외 발생: APIError: [400]: Invalid requests[0].deleteDimension: You are trying to edit a protected cell or object. Please contact the spreadsheet owner to remove protection if you need to edit.
+2025-10-31 17:42:17,768 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-31 17:42:17,768 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-31 17:42:18,770 - INFO - ==================================
+2025-10-31 17:42:18,770 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-31 17:42:18,936 - INFO - [현재 크롬 버전] : 142.0.7444.60
+2025-10-31 17:42:20,150 - INFO - Chrome 업데이트를 확인하는 중...

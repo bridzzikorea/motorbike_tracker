@@ -1,0 +1,401 @@
+2025-08-21 16:23:20,167 - INFO - ==================================
+2025-08-21 16:23:20,168 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-21 16:23:20,168 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-21 16:23:20,168 - INFO - 구글 시트 로드 - 시도중....
+2025-08-21 16:23:20,662 - INFO - 구글 시트 로드 - 완료
+2025-08-21 16:23:35,743 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-21 16:23:35,746 - INFO - ==================================
+2025-08-21 16:23:35,746 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-21 16:23:35,746 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-21 16:23:35,894 - INFO - [# USB테더링 전환 #] - 성공
+2025-08-21 16:23:35,895 - INFO - [#1 mobile_ip 전환 - success ]
+2025-08-21 16:23:35,895 - INFO - -----------------------------
+2025-08-21 16:23:35,895 - INFO - [#2 before_ip 추출] - try
+2025-08-21 16:23:35,895 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:23:36,278 - INFO - -- 'https://ipinfo.io/ip' : 118.235.27.17
+2025-08-21 16:23:36,279 - INFO - [#2 before_ip 추출] - success : 118.235.27.17
+2025-08-21 16:23:36,280 - INFO - -----------------------------
+2025-08-21 16:23:41,749 - INFO - --- 모바일 데이터 off - 성공
+2025-08-21 16:23:42,133 - INFO - --- 비행기 모드 on - 성공
+2025-08-21 16:23:42,514 - INFO - --- 비행기 모드 off - 성공
+2025-08-21 16:23:42,908 - INFO - --- 모바일 데이터 on - 성공
+2025-08-21 16:23:42,908 - INFO - [#3 after_ip 추출] - try
+2025-08-21 16:23:42,908 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:23:44,237 - INFO - -- 'https://ipinfo.io/ip' : 118.235.65.179
+2025-08-21 16:23:44,238 - INFO - [#3 after_ip 추출] - success : 118.235.65.179
+2025-08-21 16:23:44,239 - INFO - Success -IP 변경(성공): before 118.235.27.17 => after 118.235.65.179
+2025-08-21 16:23:44,239 - INFO - ★★★ IP 변경 - Success ★★★
+2025-08-21 16:23:44,240 - INFO - ==================================
+2025-08-21 16:23:45,257 - INFO - C:\program_cookies 폴더 크기: 0.03 GB
+2025-08-21 16:23:45,258 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-21 16:23:45,259 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:23:45,260 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:23:45,261 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6833.84 Safari/537.36입니다.
+2025-08-21 16:23:53,921 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:23:53,921 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:23:53,922 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:23:53,922 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6805.69 Safari/537.36입니다.
+2025-08-21 16:24:02,078 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:24:02,079 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:24:02,079 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:24:02,079 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6780.64 Safari/537.36입니다.
+2025-08-21 16:24:10,374 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:24:10,375 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:24:10,375 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:24:10,376 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6832.64 Safari/537.36입니다.
+2025-08-21 16:24:19,633 - ERROR - 1/10번째 [ cafe_viral_only_vewnum_nodriver_ver.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 80, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 146, in <module>
+    status = uc.loop().run_until_complete(naver_cafe_view_bot.manual_cafe_viewnum_process())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 112, in manual_cafe_viewnum_process
+    await self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 83, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-21 16:24:19,634 - ERROR - Traceback (most recent call last):
+2025-08-21 16:24:19,635 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 80, in _view_num_add
+    await self.nodriver.quit()
+2025-08-21 16:24:19,635 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+2025-08-21 16:24:19,635 - ERROR - TypeError: object NoneType can't be used in 'await' expression
+2025-08-21 16:24:19,635 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-21 16:24:19,635 - ERROR - Traceback (most recent call last):
+2025-08-21 16:24:19,635 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 146, in <module>
+    status = uc.loop().run_until_complete(naver_cafe_view_bot.manual_cafe_viewnum_process())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-21 16:24:19,636 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-08-21 16:24:19,636 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 112, in manual_cafe_viewnum_process
+    await self._view_num_add(url, view_count)
+2025-08-21 16:24:19,636 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 83, in _view_num_add
+    await self.nodriver.quit()
+2025-08-21 16:24:19,636 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+2025-08-21 16:24:19,636 - ERROR - TypeError: object NoneType can't be used in 'await' expression
+2025-08-21 16:24:19,637 - INFO - ==================================
+2025-08-21 16:24:19,637 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-21 16:24:19,637 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-21 16:24:19,637 - INFO - 구글 시트 로드 - 시도중....
+2025-08-21 16:24:38,889 - INFO - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) - 네트워크 오류 발생. 5초 후 재시작. 재시도: 1/10
+2025-08-21 16:24:43,891 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-21 16:24:43,891 - INFO - 구글 시트 로드 - 시도중....
+2025-08-21 16:24:44,518 - INFO - 구글 시트 로드 - 완료
+2025-08-21 16:24:47,950 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-21 16:24:47,951 - INFO - ==================================
+2025-08-21 16:24:47,951 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-21 16:24:47,951 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-21 16:24:48,095 - INFO - [# USB테더링 전환 #] - 성공
+2025-08-21 16:24:48,095 - INFO - [#1 mobile_ip 전환 - success ]
+2025-08-21 16:24:48,095 - INFO - -----------------------------
+2025-08-21 16:24:48,096 - INFO - [#2 before_ip 추출] - try
+2025-08-21 16:24:48,096 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:24:48,515 - INFO - -- 'https://ipinfo.io/ip' : 118.235.65.179
+2025-08-21 16:24:48,516 - INFO - [#2 before_ip 추출] - success : 118.235.65.179
+2025-08-21 16:24:48,516 - INFO - -----------------------------
+2025-08-21 16:24:48,904 - INFO - --- 모바일 데이터 off - 성공
+2025-08-21 16:24:49,278 - INFO - --- 비행기 모드 on - 성공
+2025-08-21 16:24:49,613 - INFO - --- 비행기 모드 off - 성공
+2025-08-21 16:24:49,974 - INFO - --- 모바일 데이터 on - 성공
+2025-08-21 16:24:49,974 - INFO - [#3 after_ip 추출] - try
+2025-08-21 16:24:49,975 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:24:51,344 - INFO - -- 'https://ipinfo.io/ip' : 118.235.24.155
+2025-08-21 16:24:51,344 - INFO - [#3 after_ip 추출] - success : 118.235.24.155
+2025-08-21 16:24:51,345 - INFO - Success -IP 변경(성공): before 118.235.65.179 => after 118.235.24.155
+2025-08-21 16:24:51,345 - INFO - ★★★ IP 변경 - Success ★★★
+2025-08-21 16:24:51,345 - INFO - ==================================
+2025-08-21 16:24:52,353 - INFO - C:\program_cookies 폴더 크기: 0.00 GB
+2025-08-21 16:24:52,354 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:24:52,354 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:24:52,355 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6805.69 Safari/537.36입니다.
+2025-08-21 16:25:00,987 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:25:00,988 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:25:00,988 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:25:00,989 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Trailer/93.3.3570.29입니다.
+2025-08-21 16:25:08,904 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:25:08,904 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:25:08,905 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:25:08,905 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6831.68 Safari/537.36입니다.
+2025-08-21 16:25:17,507 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:25:17,507 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:25:17,507 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:25:17,507 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6812.76 Safari/537.36입니다.
+2025-08-21 16:25:25,994 - INFO - C:\program_cookies 폴더 크기: 0.00 GB
+2025-08-21 16:25:25,995 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:25:25,995 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:25:25,995 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-08-21 16:25:35,547 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:25:35,547 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:25:35,547 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:25:35,547 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.43 Safari/537.36입니다.
+2025-08-21 16:25:45,975 - ERROR - 2/10번째 [ cafe_viral_only_vewnum_nodriver_ver.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 80, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 146, in <module>
+    status = uc.loop().run_until_complete(naver_cafe_view_bot.manual_cafe_viewnum_process())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 112, in manual_cafe_viewnum_process
+    await self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 83, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-21 16:25:45,977 - ERROR - Traceback (most recent call last):
+2025-08-21 16:25:45,977 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 80, in _view_num_add
+    await self.nodriver.quit()
+2025-08-21 16:25:45,977 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+2025-08-21 16:25:45,977 - ERROR - TypeError: object NoneType can't be used in 'await' expression
+2025-08-21 16:25:45,978 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-21 16:25:45,978 - ERROR - Traceback (most recent call last):
+2025-08-21 16:25:45,978 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 146, in <module>
+    status = uc.loop().run_until_complete(naver_cafe_view_bot.manual_cafe_viewnum_process())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-21 16:25:45,978 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-08-21 16:25:45,979 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 112, in manual_cafe_viewnum_process
+    await self._view_num_add(url, view_count)
+2025-08-21 16:25:45,979 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 83, in _view_num_add
+    await self.nodriver.quit()
+2025-08-21 16:25:45,979 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+2025-08-21 16:25:45,979 - ERROR - TypeError: object NoneType can't be used in 'await' expression
+2025-08-21 16:25:45,980 - INFO - 텔레그램 에러 메시지 : [ cafe_viral_only_vewnum_nodriver_ver.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 80, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 146, in <module>
+    status = uc.loop().run_until_complete(naver_cafe_view_bot.manual_cafe_viewnum_process())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 112, in manual_cafe_viewnum_process
+    await self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 83, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+2025-08-21 16:25:47,259 - INFO - ==================================
+2025-08-21 16:25:47,259 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-21 16:25:47,259 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-21 16:25:47,260 - INFO - 구글 시트 로드 - 시도중....
+2025-08-21 16:26:06,498 - INFO - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) - 네트워크 오류 발생. 5초 후 재시작. 재시도: 1/10
+2025-08-21 16:26:11,499 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-21 16:26:11,499 - INFO - 구글 시트 로드 - 시도중....
+2025-08-21 16:26:12,162 - INFO - 구글 시트 로드 - 완료
+2025-08-21 16:26:12,717 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-21 16:26:12,719 - INFO - ==================================
+2025-08-21 16:26:12,720 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-21 16:26:12,720 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-21 16:26:12,875 - INFO - [# USB테더링 전환 #] - 성공
+2025-08-21 16:26:12,875 - INFO - [#1 mobile_ip 전환 - success ]
+2025-08-21 16:26:12,875 - INFO - -----------------------------
+2025-08-21 16:26:12,875 - INFO - [#2 before_ip 추출] - try
+2025-08-21 16:26:12,876 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:26:13,289 - INFO - -- 'https://ipinfo.io/ip' : 118.235.24.155
+2025-08-21 16:26:13,291 - INFO - [#2 before_ip 추출] - success : 118.235.24.155
+2025-08-21 16:26:13,291 - INFO - -----------------------------
+2025-08-21 16:26:13,656 - INFO - --- 모바일 데이터 off - 성공
+2025-08-21 16:26:14,019 - INFO - --- 비행기 모드 on - 성공
+2025-08-21 16:26:14,407 - INFO - --- 비행기 모드 off - 성공
+2025-08-21 16:26:14,783 - INFO - --- 모바일 데이터 on - 성공
+2025-08-21 16:26:14,783 - INFO - [#3 after_ip 추출] - try
+2025-08-21 16:26:14,783 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:26:15,798 - INFO - - 추출 실패 1/3 재시도
+2025-08-21 16:26:16,716 - INFO - -- 'https://ipinfo.io/ip' : 39.7.46.148
+2025-08-21 16:26:16,717 - INFO - [#3 after_ip 추출] - success : 39.7.46.148
+2025-08-21 16:26:16,717 - INFO - Success -IP 변경(성공): before 118.235.24.155 => after 39.7.46.148
+2025-08-21 16:26:16,718 - INFO - ★★★ IP 변경 - Success ★★★
+2025-08-21 16:26:16,718 - INFO - ==================================
+2025-08-21 16:26:17,723 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:26:17,724 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:26:17,724 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:26:17,724 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6805.69 Safari/537.36입니다.
+2025-08-21 16:26:25,864 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:26:25,865 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:26:25,865 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:26:25,865 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.86 Safari/537.36입니다.
+2025-08-21 16:26:35,895 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:26:35,896 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:26:35,896 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:26:35,896 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6812.76 Safari/537.36입니다.
+2025-08-21 16:26:45,550 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:26:45,550 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:26:45,550 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:26:45,550 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36입니다.
+2025-08-21 16:26:57,237 - ERROR - 3/10번째 [ cafe_viral_only_vewnum_nodriver_ver.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 80, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 146, in <module>
+    status = uc.loop().run_until_complete(naver_cafe_view_bot.manual_cafe_viewnum_process())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 112, in manual_cafe_viewnum_process
+    await self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 83, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-21 16:26:57,239 - ERROR - Traceback (most recent call last):
+2025-08-21 16:26:57,240 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 80, in _view_num_add
+    await self.nodriver.quit()
+2025-08-21 16:26:57,240 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+2025-08-21 16:26:57,241 - ERROR - TypeError: object NoneType can't be used in 'await' expression
+2025-08-21 16:26:57,241 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-21 16:26:57,242 - ERROR - Traceback (most recent call last):
+2025-08-21 16:26:57,242 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 146, in <module>
+    status = uc.loop().run_until_complete(naver_cafe_view_bot.manual_cafe_viewnum_process())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-21 16:26:57,243 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-08-21 16:26:57,243 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 112, in manual_cafe_viewnum_process
+    await self._view_num_add(url, view_count)
+2025-08-21 16:26:57,243 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 83, in _view_num_add
+    await self.nodriver.quit()
+2025-08-21 16:26:57,244 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+2025-08-21 16:26:57,244 - ERROR - TypeError: object NoneType can't be used in 'await' expression
+2025-08-21 16:26:57,244 - INFO - 텔레그램 에러 메시지 : [ cafe_viral_only_vewnum_nodriver_ver.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 80, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 146, in <module>
+    status = uc.loop().run_until_complete(naver_cafe_view_bot.manual_cafe_viewnum_process())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 112, in manual_cafe_viewnum_process
+    await self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum_nodriver_ver.py", line 83, in _view_num_add
+    await self.nodriver.quit()
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 1043, in quit
+    if await self.tab:
+       ^^^^^^^^^^^^^^
+TypeError: object NoneType can't be used in 'await' expression
+2025-08-21 16:26:58,539 - INFO - ==================================
+2025-08-21 16:26:58,539 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-21 16:26:58,539 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-21 16:26:58,539 - INFO - 구글 시트 로드 - 시도중....
+2025-08-21 16:27:17,791 - INFO - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) - 네트워크 오류 발생. 5초 후 재시작. 재시도: 1/10
+2025-08-21 16:27:22,793 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-21 16:27:22,793 - INFO - 구글 시트 로드 - 시도중....
+2025-08-21 16:27:23,480 - INFO - 구글 시트 로드 - 완료
+2025-08-21 16:27:23,878 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-21 16:27:23,879 - INFO - ==================================
+2025-08-21 16:27:23,879 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-21 16:27:23,879 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-21 16:27:24,032 - INFO - [# USB테더링 전환 #] - 성공
+2025-08-21 16:27:24,032 - INFO - [#1 mobile_ip 전환 - success ]
+2025-08-21 16:27:24,032 - INFO - -----------------------------
+2025-08-21 16:27:24,033 - INFO - [#2 before_ip 추출] - try
+2025-08-21 16:27:24,033 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:27:24,410 - INFO - -- 'https://ipinfo.io/ip' : 39.7.46.148
+2025-08-21 16:27:24,411 - INFO - [#2 before_ip 추출] - success : 39.7.46.148
+2025-08-21 16:27:24,411 - INFO - -----------------------------
+2025-08-21 16:27:24,782 - INFO - --- 모바일 데이터 off - 성공
+2025-08-21 16:27:25,142 - INFO - --- 비행기 모드 on - 성공
+2025-08-21 16:27:25,480 - INFO - --- 비행기 모드 off - 성공
+2025-08-21 16:27:25,844 - INFO - --- 모바일 데이터 on - 성공
+2025-08-21 16:27:25,844 - INFO - [#3 after_ip 추출] - try
+2025-08-21 16:27:25,844 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-21 16:27:26,857 - INFO - - 추출 실패 1/3 재시도
+2025-08-21 16:27:27,859 - INFO - -- 'https://ipinfo.io/ip' : 118.235.12.24
+2025-08-21 16:27:27,859 - INFO - [#3 after_ip 추출] - success : 118.235.12.24
+2025-08-21 16:27:27,859 - INFO - Success -IP 변경(성공): before 39.7.46.148 => after 118.235.12.24
+2025-08-21 16:27:27,860 - INFO - ★★★ IP 변경 - Success ★★★
+2025-08-21 16:27:27,860 - INFO - ==================================
+2025-08-21 16:27:28,865 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:27:28,865 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:27:28,865 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:27:28,866 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-08-21 16:27:37,271 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-08-21 16:27:37,271 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-21 16:27:37,272 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-21 16:27:37,272 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.43 Safari/537.36입니다.

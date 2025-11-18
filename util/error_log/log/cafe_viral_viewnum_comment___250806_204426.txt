@@ -1,0 +1,75 @@
+2025-08-06 20:44:29,201 - INFO - ==================================
+2025-08-06 20:44:29,202 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.
+2025-08-06 20:45:40,498 - INFO - 바이럴대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-06 20:45:40,501 - INFO - ==================================
+2025-08-06 20:45:40,501 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-06 20:45:40,501 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-06 20:45:40,729 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-08-06 20:45:46,780 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : list index out of range
+2025-08-06 20:45:48,441 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-08-06 20:45:57,959 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : list index out of range
+2025-08-06 20:45:59,619 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-08-06 20:46:01,782 - INFO - [# USB테더링 전환 #] - 최종 실패 : list index out of range
+2025-08-06 20:46:01,789 - ERROR - 1/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1700, in mobile_ip
+    enable_usb_tethering()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1602, in enable_usb_tethering
+    adb_device_state = adb_device_state_row[1].split('\t')[1]
+                       ~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1081, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start(googlesheet):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 804, in cafe_post_comment_start
+    is_completd_cafe_viral = self.cafe_viral_contents_process()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 631, in cafe_viral_contents_process
+    self._ID_inint_browser(data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 38, in _ID_inint_browser
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1918, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1719, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : list index out of range
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-06 20:46:01,790 - ERROR - Traceback (most recent call last):
+2025-08-06 20:46:01,790 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1700, in mobile_ip
+    enable_usb_tethering()
+2025-08-06 20:46:01,790 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1602, in enable_usb_tethering
+    adb_device_state = adb_device_state_row[1].split('\t')[1]
+                       ~~~~~~~~~~~~~~~~~~~~^^^
+2025-08-06 20:46:01,791 - ERROR - IndexError: list index out of range
+2025-08-06 20:46:01,791 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-06 20:46:01,791 - ERROR - Traceback (most recent call last):
+2025-08-06 20:46:01,792 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1081, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start(googlesheet):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 20:46:01,793 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 804, in cafe_post_comment_start
+    is_completd_cafe_viral = self.cafe_viral_contents_process()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 20:46:01,793 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 631, in cafe_viral_contents_process
+    self._ID_inint_browser(data)
+2025-08-06 20:46:01,793 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 38, in _ID_inint_browser
+    selenium_util.change_ip()
+2025-08-06 20:46:01,794 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1918, in change_ip
+    mobile_ip()
+2025-08-06 20:46:01,794 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1719, in mobile_ip
+    raise Exception(error_message)
+2025-08-06 20:46:01,794 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : list index out of range
+2025-08-06 20:46:01,998 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-06 20:46:01,999 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-06 20:46:03,000 - INFO - ==================================
+2025-08-06 20:46:03,000 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-06 20:46:03,158 - INFO - ==================================
+2025-08-06 20:46:03,158 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-08-06 20:46:03,300 - INFO - -----------------------------
+2025-08-06 20:46:03,300 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)

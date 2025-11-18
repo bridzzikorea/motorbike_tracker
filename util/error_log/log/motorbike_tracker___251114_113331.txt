@@ -1,0 +1,47 @@
+2025-11-14 11:33:32,819 - INFO - ==================================
+2025-11-14 11:33:32,819 - INFO - -----------------------------
+2025-11-14 11:33:32,819 - INFO - # 로그인 - 시작 #
+2025-11-14 11:33:33,021 - INFO - 로그인 응답 코드:
+2025-11-14 11:33:33,021 - INFO - 200
+2025-11-14 11:33:33,021 - INFO - 서버가 준 쿠키:
+2025-11-14 11:33:33,022 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=A677431781566B554700BBA7622C110F for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 11:33:33,022 - INFO - # 로그인 - 종료 #
+2025-11-14 11:33:33,022 - INFO - -----------------------------
+2025-11-14 11:33:33,025 - INFO - # 오토바이 데이터 수집 - 시작 #
+2025-11-14 11:33:33,039 - INFO - 로그인 응답 코드:
+2025-11-14 11:33:33,039 - INFO - 200
+2025-11-14 11:33:33,041 - INFO - 장비 개수:
+2025-11-14 11:33:33,041 - INFO - 71
+2025-11-14 11:33:33,041 - INFO - # 오토바이 데이터 수집 - 종료 #
+2025-11-14 11:33:33,041 - INFO - -----------------------------
+2025-11-14 11:33:33,042 - INFO - # 오토바이 좌표 데이터 수집 - 시작 #
+2025-11-14 11:33:34,318 - INFO - # 오토바이 좌표 데이터 수집 - 종료 #
+2025-11-14 11:33:34,318 - INFO - -----------------------------
+2025-11-14 11:33:34,318 - INFO - # 데이터 정제 - 시작 #
+2025-11-14 11:33:34,327 - INFO - port   vehicle_number       ip_address        id                             client_id                           time  ...    accx    accy    accz   gyrox   gyroy   gyroz
+0  43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc  2025-11-14T02:33:08.000+00:00  ...  +09545  -08509  -05943  -00113  +00029  +00011
+1  51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6  2025-11-14T02:33:15.000+00:00  ...  -01434  -02807  -15773  -00149  +00004  -00039
+2  49232     경기 수원 거 9533     37.17.191.68  FD1D0C84  b3764d25-7ffe-4695-a22c-a064de67e669  2025-11-14T02:33:11.000+00:00  ...  +08449  +00633  -13932  -00223  +00024  -00049
+
+[3 rows x 16 columns]
+2025-11-14 11:33:34,329 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 164, in <module>
+    motobike_tracker_bot.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 144, in run
+    self._normalize_dataframe_structure()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 120, in _normalize_dataframe_structure
+    self.df = self.df.drop(columns=["port", "ip_adress"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 5581, in drop
+    return super().drop(
+           ^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\generic.py", line 4788, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\generic.py", line 4830, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 7070, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: "['ip_adress'] not found in axis"

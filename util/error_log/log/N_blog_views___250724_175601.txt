@@ -1,0 +1,323 @@
+2025-07-24 17:56:01,648 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-24 17:56:02,412 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:56:03,688 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:56:04,571 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:56:04,582 - INFO - C:\program_cookies 폴더 크기: 0.04 GB
+2025-07-24 17:56:04,588 - INFO - random 폴더 초기화 - 'C:\program_cookies\Mobile_PC_random'에서 폴더 삭제(완료)
+2025-07-24 17:56:04,588 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:56:04,588 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:56:04,588 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-A515U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 17:56:06,073 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:56:06,073 - INFO - 블로그 검색 키워드: 필터 교체 알림 기능 믿어도 될까? - 시작
+2025-07-24 17:56:10,665 - INFO - 블로그 검색 키워드: 필터 교체 알림 기능 믿어도 될까? - 완료
+2025-07-24 17:56:10,665 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:56:10,665 - INFO - 검색키워드 : '필터 교체 알림 기능 믿어도 될까?'!r
+2025-07-24 17:56:10,665 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:56:10,827 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:56:10,827 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:56:10,827 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:56:15,137 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:56:15,137 - INFO - cur_scrollY:0, screen_height:869, element_y:222, element_height:24
+2025-07-24 17:56:15,137 - INFO - False
+2025-07-24 17:56:15,137 - INFO - cur_scrollY:0, element_y:222
+2025-07-24 17:56:15,137 - INFO - False
+2025-07-24 17:56:16,715 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:56:17,316 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:56:20,809 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:56:22,446 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 17:56:22,446 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:56:22,446 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:56:22,446 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 17:56:23,628 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:56:23,628 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 핵 - 시작
+2025-07-24 17:56:27,948 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 핵 - 완료
+2025-07-24 17:56:27,948 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:56:27,948 - INFO - 검색키워드 : '친환경 정수기 선택 가이드 NSF 인증이 핵'!r
+2025-07-24 17:56:27,948 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:56:28,045 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:56:28,045 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:56:28,045 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:56:32,506 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:56:32,521 - INFO - cur_scrollY:0, screen_height:667, element_y:707, element_height:24
+2025-07-24 17:56:32,521 - INFO - True
+2025-07-24 17:56:32,521 - INFO - cur_scrollY:0, element_y:707
+2025-07-24 17:56:32,521 - INFO - False
+2025-07-24 17:56:33,077 - INFO - cur_scrollY:318, screen_height:667, element_y:707, element_height:24
+2025-07-24 17:56:33,077 - INFO - False
+2025-07-24 17:56:33,077 - INFO - cur_scrollY:318, element_y:707
+2025-07-24 17:56:33,077 - INFO - False
+2025-07-24 17:56:34,744 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:56:34,961 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:56:39,110 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:56:40,728 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 17:56:40,728 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:56:40,728 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:56:40,728 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-A536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 17:56:41,950 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:56:41,950 - INFO - 블로그 검색 키워드: 필터 교체 주기와 유지비 NSF 정수기 - 시작
+2025-07-24 17:56:46,415 - INFO - 블로그 검색 키워드: 필터 교체 주기와 유지비 NSF 정수기 - 완료
+2025-07-24 17:56:46,415 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:56:46,415 - INFO - 검색키워드 : '필터 교체 주기와 유지비 NSF 정수기'!r
+2025-07-24 17:56:46,415 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:56:46,536 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:56:46,536 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:56:46,536 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:56:50,654 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:56:50,657 - INFO - cur_scrollY:0, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:50,657 - INFO - True
+2025-07-24 17:56:50,657 - INFO - cur_scrollY:0, element_y:5575
+2025-07-24 17:56:50,657 - INFO - False
+2025-07-24 17:56:51,046 - INFO - cur_scrollY:278, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:51,047 - INFO - True
+2025-07-24 17:56:51,047 - INFO - cur_scrollY:278, element_y:5575
+2025-07-24 17:56:51,047 - INFO - False
+2025-07-24 17:56:51,636 - INFO - cur_scrollY:566, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:51,636 - INFO - True
+2025-07-24 17:56:51,636 - INFO - cur_scrollY:566, element_y:5575
+2025-07-24 17:56:51,636 - INFO - False
+2025-07-24 17:56:52,202 - INFO - cur_scrollY:867, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:52,202 - INFO - True
+2025-07-24 17:56:52,202 - INFO - cur_scrollY:867, element_y:5575
+2025-07-24 17:56:52,202 - INFO - False
+2025-07-24 17:56:52,747 - INFO - cur_scrollY:999, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:52,747 - INFO - True
+2025-07-24 17:56:52,747 - INFO - cur_scrollY:999, element_y:5575
+2025-07-24 17:56:52,747 - INFO - False
+2025-07-24 17:56:53,331 - INFO - cur_scrollY:1219, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:53,331 - INFO - True
+2025-07-24 17:56:53,331 - INFO - cur_scrollY:1219, element_y:5575
+2025-07-24 17:56:53,333 - INFO - False
+2025-07-24 17:56:53,603 - INFO - cur_scrollY:1406, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:53,603 - INFO - True
+2025-07-24 17:56:53,603 - INFO - cur_scrollY:1406, element_y:5575
+2025-07-24 17:56:53,603 - INFO - False
+2025-07-24 17:56:54,102 - INFO - cur_scrollY:1636, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:54,102 - INFO - True
+2025-07-24 17:56:54,102 - INFO - cur_scrollY:1636, element_y:5575
+2025-07-24 17:56:54,102 - INFO - False
+2025-07-24 17:56:54,611 - INFO - cur_scrollY:1959, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:54,611 - INFO - True
+2025-07-24 17:56:54,611 - INFO - cur_scrollY:1959, element_y:5575
+2025-07-24 17:56:54,611 - INFO - False
+2025-07-24 17:56:54,970 - INFO - cur_scrollY:2201, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:54,972 - INFO - True
+2025-07-24 17:56:54,972 - INFO - cur_scrollY:2201, element_y:5575
+2025-07-24 17:56:54,972 - INFO - False
+2025-07-24 17:56:55,210 - INFO - cur_scrollY:2375, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:55,210 - INFO - True
+2025-07-24 17:56:55,210 - INFO - cur_scrollY:2375, element_y:5575
+2025-07-24 17:56:55,210 - INFO - False
+2025-07-24 17:56:55,820 - INFO - cur_scrollY:2664, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:55,820 - INFO - True
+2025-07-24 17:56:55,820 - INFO - cur_scrollY:2664, element_y:5575
+2025-07-24 17:56:55,820 - INFO - False
+2025-07-24 17:56:56,218 - INFO - cur_scrollY:2894, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:56,218 - INFO - True
+2025-07-24 17:56:56,218 - INFO - cur_scrollY:2894, element_y:5575
+2025-07-24 17:56:56,218 - INFO - False
+2025-07-24 17:56:56,568 - INFO - cur_scrollY:3015, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:56,568 - INFO - True
+2025-07-24 17:56:56,568 - INFO - cur_scrollY:3015, element_y:5575
+2025-07-24 17:56:56,568 - INFO - False
+2025-07-24 17:56:57,085 - INFO - cur_scrollY:3273, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:57,085 - INFO - True
+2025-07-24 17:56:57,085 - INFO - cur_scrollY:3273, element_y:5575
+2025-07-24 17:56:57,085 - INFO - False
+2025-07-24 17:56:57,470 - INFO - cur_scrollY:3509, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:57,470 - INFO - True
+2025-07-24 17:56:57,470 - INFO - cur_scrollY:3509, element_y:5575
+2025-07-24 17:56:57,470 - INFO - False
+2025-07-24 17:56:57,705 - INFO - cur_scrollY:3727, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:57,705 - INFO - True
+2025-07-24 17:56:57,705 - INFO - cur_scrollY:3727, element_y:5575
+2025-07-24 17:56:57,705 - INFO - False
+2025-07-24 17:56:57,962 - INFO - cur_scrollY:4077, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:57,962 - INFO - True
+2025-07-24 17:56:57,962 - INFO - cur_scrollY:4077, element_y:5575
+2025-07-24 17:56:57,962 - INFO - False
+2025-07-24 17:56:58,597 - INFO - cur_scrollY:4213, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:58,597 - INFO - True
+2025-07-24 17:56:58,597 - INFO - cur_scrollY:4213, element_y:5575
+2025-07-24 17:56:58,597 - INFO - False
+2025-07-24 17:56:59,120 - INFO - cur_scrollY:4370, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:59,120 - INFO - True
+2025-07-24 17:56:59,120 - INFO - cur_scrollY:4370, element_y:5575
+2025-07-24 17:56:59,120 - INFO - False
+2025-07-24 17:56:59,762 - INFO - cur_scrollY:4497, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:56:59,762 - INFO - True
+2025-07-24 17:56:59,762 - INFO - cur_scrollY:4497, element_y:5575
+2025-07-24 17:56:59,762 - INFO - False
+2025-07-24 17:57:00,145 - INFO - cur_scrollY:4616, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:57:00,147 - INFO - True
+2025-07-24 17:57:00,147 - INFO - cur_scrollY:4616, element_y:5575
+2025-07-24 17:57:00,147 - INFO - False
+2025-07-24 17:57:00,487 - INFO - cur_scrollY:4718, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:57:00,487 - INFO - True
+2025-07-24 17:57:00,487 - INFO - cur_scrollY:4718, element_y:5575
+2025-07-24 17:57:00,487 - INFO - False
+2025-07-24 17:57:01,104 - INFO - cur_scrollY:5011, screen_height:915, element_y:5575, element_height:24
+2025-07-24 17:57:01,104 - INFO - False
+2025-07-24 17:57:01,104 - INFO - cur_scrollY:5011, element_y:5575
+2025-07-24 17:57:01,104 - INFO - False
+2025-07-24 17:57:02,583 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:57:03,098 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:57:06,437 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:57:07,895 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 17:57:07,895 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:57:07,895 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:57:07,895 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-N986U Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.5672.162 Mobile Safari/537.36입니다.
+2025-07-24 17:57:09,062 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:57:09,062 - INFO - 블로그 검색 키워드: NFC NSF - 시작
+2025-07-24 17:57:13,238 - INFO - 블로그 검색 키워드: NFC NSF - 완료
+2025-07-24 17:57:13,238 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:57:13,238 - INFO - 검색키워드 : 'NFC NSF'!r
+2025-07-24 17:57:13,238 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:57:13,361 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:57:13,361 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:57:13,361 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:57:17,875 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:57:17,886 - INFO - cur_scrollY:0, screen_height:915, element_y:222, element_height:24
+2025-07-24 17:57:17,886 - INFO - False
+2025-07-24 17:57:17,886 - INFO - cur_scrollY:0, element_y:222
+2025-07-24 17:57:17,886 - INFO - False
+2025-07-24 17:57:19,542 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:57:19,876 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:57:23,580 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:57:25,151 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 17:57:25,153 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:57:25,153 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:57:25,153 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-S901U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 17:57:26,336 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:57:26,336 - INFO - 블로그 검색 키워드: 정수기 전력 소비 직수형이 정말 - 시작
+2025-07-24 17:57:31,196 - INFO - 블로그 검색 키워드: 정수기 전력 소비 직수형이 정말 - 완료
+2025-07-24 17:57:31,196 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:57:31,196 - INFO - 검색키워드 : '정수기 전력 소비 직수형이 정말'!r
+2025-07-24 17:57:31,196 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:57:31,319 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:57:31,319 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:57:31,319 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:57:35,939 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:57:35,957 - INFO - cur_scrollY:0, screen_height:915, element_y:760, element_height:24
+2025-07-24 17:57:35,957 - INFO - True
+2025-07-24 17:57:35,957 - INFO - cur_scrollY:0, element_y:760
+2025-07-24 17:57:35,958 - INFO - False
+2025-07-24 17:57:36,531 - INFO - cur_scrollY:216, screen_height:915, element_y:760, element_height:24
+2025-07-24 17:57:36,537 - INFO - False
+2025-07-24 17:57:36,537 - INFO - cur_scrollY:216, element_y:760
+2025-07-24 17:57:36,537 - INFO - False
+2025-07-24 17:57:38,130 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:57:38,528 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:57:42,276 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:57:43,910 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 17:57:43,910 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:57:43,910 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:57:43,910 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-A536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 17:57:45,210 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:57:45,223 - INFO - 블로그 검색 키워드: 제로에너지 시대 태양광 연계 정수기 선택 가이 - 시작
+2025-07-24 17:57:49,507 - INFO - 블로그 검색 키워드: 제로에너지 시대 태양광 연계 정수기 선택 가이 - 완료
+2025-07-24 17:57:49,507 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:57:49,507 - INFO - 검색키워드 : '제로에너지 시대 태양광 연계 정수기 선택 가이'!r
+2025-07-24 17:57:49,507 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:57:49,588 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:57:49,588 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:57:49,588 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:57:54,036 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:57:54,036 - INFO - cur_scrollY:0, screen_height:740, element_y:1362, element_height:48
+2025-07-24 17:57:54,036 - INFO - True
+2025-07-24 17:57:54,036 - INFO - cur_scrollY:0, element_y:1362
+2025-07-24 17:57:54,036 - INFO - False
+2025-07-24 17:57:54,531 - INFO - cur_scrollY:377, screen_height:740, element_y:1362, element_height:48
+2025-07-24 17:57:54,531 - INFO - True
+2025-07-24 17:57:54,531 - INFO - cur_scrollY:377, element_y:1362
+2025-07-24 17:57:54,531 - INFO - False
+2025-07-24 17:57:55,011 - INFO - cur_scrollY:769, screen_height:740, element_y:1362, element_height:48
+2025-07-24 17:57:55,011 - INFO - True
+2025-07-24 17:57:55,011 - INFO - cur_scrollY:769, element_y:1362
+2025-07-24 17:57:55,011 - INFO - False
+2025-07-24 17:57:55,431 - INFO - cur_scrollY:914, screen_height:740, element_y:1362, element_height:48
+2025-07-24 17:57:55,431 - INFO - False
+2025-07-24 17:57:55,431 - INFO - cur_scrollY:914, element_y:1362
+2025-07-24 17:57:55,431 - INFO - False
+2025-07-24 17:57:56,549 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:57:57,148 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:58:00,842 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:03,462 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:04,594 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:05,364 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:05,364 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 17:58:05,364 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:58:05,364 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:58:05,364 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-A515U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 17:58:06,881 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:06,881 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 핵 - 시작
+2025-07-24 17:58:10,879 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 핵 - 완료
+2025-07-24 17:58:10,879 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:58:10,879 - INFO - 검색키워드 : '친환경 정수기 선택 가이드 NSF 인증이 핵'!r
+2025-07-24 17:58:10,879 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:58:11,020 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:58:11,020 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:58:11,020 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:58:14,847 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:58:14,852 - INFO - cur_scrollY:0, screen_height:812, element_y:707, element_height:24
+2025-07-24 17:58:14,852 - INFO - True
+2025-07-24 17:58:14,852 - INFO - cur_scrollY:0, element_y:707
+2025-07-24 17:58:14,852 - INFO - False
+2025-07-24 17:58:15,343 - INFO - cur_scrollY:168, screen_height:812, element_y:707, element_height:24
+2025-07-24 17:58:15,343 - INFO - False
+2025-07-24 17:58:15,343 - INFO - cur_scrollY:168, element_y:707
+2025-07-24 17:58:15,343 - INFO - False
+2025-07-24 17:58:19,958 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:58:20,535 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:58:23,877 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:25,652 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 17:58:25,652 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:58:25,652 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:58:25,652 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36입니다.
+2025-07-24 17:58:26,933 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:26,933 - INFO - 블로그 검색 키워드: NFC NSF - 시작
+2025-07-24 17:58:30,634 - INFO - 블로그 검색 키워드: NFC NSF - 완료
+2025-07-24 17:58:30,634 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:58:30,634 - INFO - 검색키워드 : 'NFC NSF'!r
+2025-07-24 17:58:30,634 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:58:30,740 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:58:30,740 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:58:30,740 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:58:35,410 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:58:35,410 - INFO - cur_scrollY:0, screen_height:667, element_y:222, element_height:24
+2025-07-24 17:58:35,410 - INFO - False
+2025-07-24 17:58:35,410 - INFO - cur_scrollY:0, element_y:222
+2025-07-24 17:58:35,410 - INFO - False
+2025-07-24 17:58:36,946 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:58:37,344 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:58:41,095 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:42,534 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 17:58:42,534 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:58:42,534 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:58:42,534 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36입니다.
+2025-07-24 17:58:43,721 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:43,721 - INFO - 블로그 검색 키워드: 정수기 전력 소비 직수형이 정말 - 시작
+2025-07-24 17:58:48,081 - INFO - 블로그 검색 키워드: 정수기 전력 소비 직수형이 정말 - 완료
+2025-07-24 17:58:48,081 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 17:58:48,081 - INFO - 검색키워드 : '정수기 전력 소비 직수형이 정말'!r
+2025-07-24 17:58:48,081 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 17:58:48,241 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 17:58:48,241 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 17:58:48,241 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 17:58:51,960 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 17:58:51,966 - INFO - cur_scrollY:0, screen_height:740, element_y:784, element_height:24
+2025-07-24 17:58:51,966 - INFO - True
+2025-07-24 17:58:51,967 - INFO - cur_scrollY:0, element_y:784
+2025-07-24 17:58:51,967 - INFO - False
+2025-07-24 17:58:52,221 - INFO - cur_scrollY:381, screen_height:740, element_y:784, element_height:24
+2025-07-24 17:58:52,221 - INFO - False
+2025-07-24 17:58:52,221 - INFO - cur_scrollY:381, element_y:784
+2025-07-24 17:58:52,221 - INFO - False
+2025-07-24 17:58:53,615 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 17:58:53,903 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 17:58:57,439 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:58:59,132 - INFO - C:\program_cookies 폴더 크기: 0.01 GB
+2025-07-24 17:58:59,133 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 17:58:59,133 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 17:58:59,133 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 12; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 17:59:00,918 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 17:59:00,923 - INFO - 블로그 검색 키워드: 필터 교체 주기와 유지비 NSF 정수기 - 시작

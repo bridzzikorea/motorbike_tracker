@@ -1,0 +1,288 @@
+2025-09-01 14:12:48,796 - INFO - [지식인 등업] '질문','답변' 대시보드에 작동할 데이터가 없어 종료합니다
+2025-09-01 14:12:48,796 - INFO - ==================================
+2025-09-01 14:12:48,796 - INFO - # 3단계 : 채택을 시작합니다.
+2025-09-01 14:12:48,797 - INFO - 시트이름: [자문자답]채택/대시보드
+2025-09-01 14:12:48,797 - INFO - 구글 시트 로드 - 시도중....
+2025-09-01 14:12:50,977 - INFO - 구글 시트 로드 - 완료
+2025-09-01 14:12:51,714 - INFO - [자문자답]채택/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-01 14:12:51,842 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-01 14:12:51,842 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-01 14:12:51,842 - INFO - ==================================
+2025-09-01 14:12:51,842 - INFO - ★★★ IP 변경 - START ★★★
+2025-09-01 14:12:51,842 - INFO - [#1 mobile_ip 전환 - try ]
+2025-09-01 14:12:51,966 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-09-01 14:12:57,073 - INFO - --- ADB 모바일 연결 [진행]
+2025-09-01 14:12:57,169 - INFO - --- USB테더링 리미트 해제 [진행]
+2025-09-01 14:12:58,739 - INFO - --- USB테더링 활성화 - 성공
+2025-09-01 14:12:58,739 - INFO - -----------------------------
+2025-09-01 14:12:59,623 - INFO - --- 모바일 USB 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-09-01 14:12:59,998 - INFO - --- USB 어댑터 찾기 및 활성화 시도 [완료]
+2025-09-01 14:13:00,000 - INFO - --- 이더넷(WI-FI, 랜선) 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-01 14:13:03,199 - INFO - --- USB 어댑터 외의 모든 어댑터 비활성화 시도 [완료]
+2025-09-01 14:13:05,737 - INFO - --- USB 어뎁터가 활성화 [확인]
+2025-09-01 14:13:08,077 - INFO - --- 이더넷 어뎁터가 비활성화 [확인]
+2025-09-01 14:13:08,077 - INFO - -----------------------------
+2025-09-01 14:13:08,146 - INFO - --- WiFi off - 성공
+2025-09-01 14:13:08,230 - INFO - --- '모바일 데이터' on - 성공
+2025-09-01 14:13:08,813 - INFO - ★ 모바일IP 전환 - Success ★
+2025-09-01 14:13:08,813 - INFO - [# USB테더링 전환 #] - 성공
+2025-09-01 14:13:08,813 - INFO - [#1 mobile_ip 전환 - success ]
+2025-09-01 14:13:08,813 - INFO - -----------------------------
+2025-09-01 14:13:08,813 - INFO - [#2 before_ip 추출] - try
+2025-09-01 14:13:08,813 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-01 14:13:09,223 - INFO - -- 'https://ipinfo.io/ip' : 118.235.2.35
+2025-09-01 14:13:09,223 - INFO - [#2 before_ip 추출] - success : 118.235.2.35
+2025-09-01 14:13:09,223 - INFO - -----------------------------
+2025-09-01 14:13:09,599 - INFO - --- 모바일 데이터 off - 성공
+2025-09-01 14:13:09,947 - INFO - --- 비행기 모드 on - 성공
+2025-09-01 14:13:10,291 - INFO - --- 비행기 모드 off - 성공
+2025-09-01 14:13:10,658 - INFO - --- 모바일 데이터 on - 성공
+2025-09-01 14:13:10,658 - INFO - [#3 after_ip 추출] - try
+2025-09-01 14:13:10,658 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-01 14:13:11,671 - INFO - - 추출 실패 1/3 재시도
+2025-09-01 14:13:12,604 - INFO - -- 'https://ipinfo.io/ip' : 118.235.5.173
+2025-09-01 14:13:12,604 - INFO - [#3 after_ip 추출] - success : 118.235.5.173
+2025-09-01 14:13:12,620 - INFO - Success -IP 변경(성공): before 118.235.2.35 => after 118.235.5.173
+2025-09-01 14:13:12,620 - INFO - ★★★ IP 변경 - Success ★★★
+2025-09-01 14:13:12,620 - INFO - ==================================
+2025-09-01 14:13:13,621 - INFO - [현재 IP] 변경 완료 : 118.235.5.173
+2025-09-01 14:13:13,689 - INFO - C:\program_cookies 폴더 크기: 0.36 GB
+2025-09-01 14:13:13,711 - INFO - C:\program_cookies\PC_nzfcd22238 폴더 크기: 0.07 GB
+2025-09-01 14:13:13,712 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_nzfcd22238 폴더를 지정합니다.
+2025-09-01 14:13:13,712 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-09-01 14:13:13,712 - INFO - fixed UA가 있습니다.
+2025-09-01 14:13:13,712 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-09-01 14:13:13,712 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-09-01 14:13:13,712 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-09-01 14:13:24,836 - INFO - ==================================
+2025-09-01 14:13:24,836 - INFO - devicemetrics를 override 합니다..
+2025-09-01 14:13:24,844 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-09-01 14:13:24,844 - INFO - FIXED gps 정보를 적용합니다.
+2025-09-01 14:13:24,844 - INFO - FIXED gps 정보는 {'latitude': 37.66533413, 'longitude': 127.0753824, 'accuracy': 100} 입니다.
+2025-09-01 14:13:24,850 - INFO - 모든 변경이 완료되었습니다...
+2025-09-01 14:13:24,850 - INFO - ~~~~~~~~~~
+2025-09-01 14:13:25,434 - INFO - # Mobile 네이버 로그인 시작 --- [ NAVER__id : nzfcd22238 ] #
+2025-09-01 14:13:25,794 - INFO - [완료] 1. 네이버 PC 홈페이지 get
+2025-09-01 14:13:26,311 - INFO - [완료] 2. 네이버 계정 로그인 박스 - 확인
+2025-09-01 14:13:38,893 - INFO - [완료] 3. 네이버 로그인
+2025-09-01 14:13:38,900 - INFO - (PC) 메일 로그인 인증 작업을 시작합니다
+2025-09-01 14:13:40,638 - INFO - 메일 내용 : 질문에 새로운 답변이 등록되었습니다.
+2025-09-01 14:13:40,989 - INFO - [완료] 4. 네이버 메일 - 계정 로그인 확인
+2025-09-01 14:13:41,136 - INFO - [완료] 5. 네이버 로그인이 정상적으로 완료되었습니다
+2025-09-01 14:13:55,882 - INFO - 3단계 : 채택 시작 - 옵션 : 전체
+2025-09-01 14:13:59,887 - INFO - [전체선택] 1번째 답변
+2025-09-01 14:13:59,932 - INFO - cur_scrollY:0, screen_height:1039, element_y:1049, element_height:50
+2025-09-01 14:13:59,932 - INFO - True
+2025-09-01 14:13:59,932 - INFO - cur_scrollY:0, element_y:1049
+2025-09-01 14:13:59,933 - INFO - False
+2025-09-01 14:14:06,364 - INFO - [전체선택] 1번째 답변을 찾아서 채택 완료했습니다
+2025-09-01 14:14:13,375 - INFO - [전체선택] 2번째 답변
+2025-09-01 14:14:13,421 - INFO - cur_scrollY:0, screen_height:1039, element_y:2281, element_height:50
+2025-09-01 14:14:13,422 - INFO - True
+2025-09-01 14:14:13,422 - INFO - cur_scrollY:0, element_y:2281
+2025-09-01 14:14:13,422 - INFO - False
+2025-09-01 14:14:14,724 - INFO - cur_scrollY:203, screen_height:1039, element_y:2281, element_height:50
+2025-09-01 14:14:14,724 - INFO - True
+2025-09-01 14:14:14,724 - INFO - cur_scrollY:203, element_y:2281
+2025-09-01 14:14:14,724 - INFO - False
+2025-09-01 14:14:15,662 - INFO - cur_scrollY:430, screen_height:1039, element_y:2281, element_height:50
+2025-09-01 14:14:15,662 - INFO - True
+2025-09-01 14:14:15,662 - INFO - cur_scrollY:430, element_y:2281
+2025-09-01 14:14:15,662 - INFO - False
+2025-09-01 14:14:16,843 - INFO - cur_scrollY:810, screen_height:1039, element_y:2281, element_height:50
+2025-09-01 14:14:16,843 - INFO - True
+2025-09-01 14:14:16,843 - INFO - cur_scrollY:810, element_y:2281
+2025-09-01 14:14:16,843 - INFO - False
+2025-09-01 14:14:17,666 - INFO - cur_scrollY:1180, screen_height:1039, element_y:2281, element_height:50
+2025-09-01 14:14:17,666 - INFO - True
+2025-09-01 14:14:17,666 - INFO - cur_scrollY:1180, element_y:2281
+2025-09-01 14:14:17,666 - INFO - False
+2025-09-01 14:14:24,335 - INFO - [전체선택] 2번째 답변을 찾아서 채택 완료했습니다
+2025-09-01 14:14:25,874 - INFO - [전체선택] 3번째 답변
+2025-09-01 14:14:31,902 - INFO - [전체선택] 3번째 답변을 찾아서 채택 완료했습니다
+2025-09-01 14:14:33,617 - INFO - 3단계 : 채택 종료
+2025-09-01 14:14:33,621 - INFO - 고마운 답변에 보답하세요 라는 창이 안떴습니다.
+2025-09-01 14:14:33,621 - INFO - @ [주의!] 채택 작성 완료 - 시트 기록 중 입니다 @
+2025-09-01 14:14:33,621 - INFO - 시트이름: [자문자답]작성내역
+2025-09-01 14:14:33,621 - INFO - 구글 시트 로드 - 시도중....
+2025-09-01 14:14:36,945 - INFO - 구글 시트 로드 - 완료
+2025-09-01 14:14:36,945 - INFO - 시트이름: [자문자답]작성내역
+2025-09-01 14:14:36,945 - INFO - 구글 시트 로드 - 시도중....
+2025-09-01 14:14:39,281 - INFO - 구글 시트 로드 - 완료
+2025-09-01 14:14:40,222 - INFO - [자문자답]작성내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-01 14:14:41,633 - INFO - @ 채택 시트 - 기록 완료했습니다
+2025-09-01 14:14:41,633 - INFO - 지식인(채택) :: 계정: nzfcd22238 - 작업 성공 / 질문 링크: https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70404&docId=488493442
+2025-09-01 14:14:41,811 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-01 14:14:41,813 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-01 14:14:41,815 - INFO - ==================================
+2025-09-01 14:14:41,816 - INFO - ★★★ IP 변경 - START ★★★
+2025-09-01 14:14:41,818 - INFO - [#1 mobile_ip 전환 - try ]
+2025-09-01 14:14:42,006 - INFO - [# USB테더링 전환 #] - 성공
+2025-09-01 14:14:42,006 - INFO - [#1 mobile_ip 전환 - success ]
+2025-09-01 14:14:42,006 - INFO - -----------------------------
+2025-09-01 14:14:42,006 - INFO - [#2 before_ip 추출] - try
+2025-09-01 14:14:42,006 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-01 14:14:42,592 - INFO - -- 'https://ipinfo.io/ip' : 118.235.5.173
+2025-09-01 14:14:42,592 - INFO - [#2 before_ip 추출] - success : 118.235.5.173
+2025-09-01 14:14:42,596 - INFO - -----------------------------
+2025-09-01 14:14:42,969 - INFO - --- 모바일 데이터 off - 성공
+2025-09-01 14:14:43,307 - INFO - --- 비행기 모드 on - 성공
+2025-09-01 14:14:43,652 - INFO - --- 비행기 모드 off - 성공
+2025-09-01 14:14:44,021 - INFO - --- 모바일 데이터 on - 성공
+2025-09-01 14:14:44,021 - INFO - [#3 after_ip 추출] - try
+2025-09-01 14:14:44,021 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-01 14:14:45,028 - INFO - - 추출 실패 1/3 재시도
+2025-09-01 14:14:46,129 - INFO - -- 'https://ipinfo.io/ip' : 39.7.24.207
+2025-09-01 14:14:46,129 - INFO - [#3 after_ip 추출] - success : 39.7.24.207
+2025-09-01 14:14:46,129 - INFO - Success -IP 변경(성공): before 118.235.5.173 => after 39.7.24.207
+2025-09-01 14:14:46,129 - INFO - ★★★ IP 변경 - Success ★★★
+2025-09-01 14:14:46,129 - INFO - ==================================
+2025-09-01 14:14:47,136 - INFO - [현재 IP] 변경 완료 : 39.7.24.207
+2025-09-01 14:14:47,211 - INFO - C:\program_cookies 폴더 크기: 0.39 GB
+2025-09-01 14:14:47,227 - INFO - C:\program_cookies\PC_tf90il32 폴더 크기: 0.07 GB
+2025-09-01 14:14:47,228 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_tf90il32 폴더를 지정합니다.
+2025-09-01 14:14:47,228 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-09-01 14:14:47,228 - INFO - fixed UA가 있습니다.
+2025-09-01 14:14:47,228 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-09-01 14:14:47,228 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-09-01 14:14:47,229 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-09-01 14:14:55,451 - INFO - ==================================
+2025-09-01 14:14:55,451 - INFO - devicemetrics를 override 합니다..
+2025-09-01 14:14:55,459 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-09-01 14:14:55,459 - INFO - FIXED gps 정보를 적용합니다.
+2025-09-01 14:14:55,460 - INFO - FIXED gps 정보는 {'latitude': 37.51984438, 'longitude': 126.9706907, 'accuracy': 100} 입니다.
+2025-09-01 14:14:55,465 - INFO - 모든 변경이 완료되었습니다...
+2025-09-01 14:14:55,466 - INFO - ~~~~~~~~~~
+2025-09-01 14:14:55,750 - INFO - # Mobile 네이버 로그인 시작 --- [ NAVER__id : tf90il32 ] #
+2025-09-01 14:14:56,091 - INFO - [완료] 1. 네이버 PC 홈페이지 get
+2025-09-01 14:14:56,605 - INFO - [완료] 2. 네이버 계정 로그인 박스 - 확인
+2025-09-01 14:15:09,465 - INFO - [완료] 3. 네이버 로그인
+2025-09-01 14:15:09,465 - INFO - (PC) 메일 로그인 인증 작업을 시작합니다
+2025-09-01 14:15:10,914 - INFO - 메일 내용 : 질문에 새로운 답변이 등록되었습니다.
+2025-09-01 14:15:11,349 - INFO - [완료] 4. 네이버 메일 - 계정 로그인 확인
+2025-09-01 14:15:11,510 - INFO - [완료] 5. 네이버 로그인이 정상적으로 완료되었습니다
+2025-09-01 14:15:24,043 - INFO - 3단계 : 채택 시작 - 옵션 : 선택
+2025-09-01 14:15:29,340 - INFO - cur_scrollY:800, screen_height:1048, element_y:2287, element_height:50
+2025-09-01 14:15:29,340 - INFO - True
+2025-09-01 14:15:29,340 - INFO - cur_scrollY:800, element_y:2287
+2025-09-01 14:15:29,340 - INFO - False
+2025-09-01 14:15:30,238 - INFO - cur_scrollY:1016, screen_height:1048, element_y:2287, element_height:50
+2025-09-01 14:15:30,238 - INFO - True
+2025-09-01 14:15:30,238 - INFO - cur_scrollY:1016, element_y:2287
+2025-09-01 14:15:30,238 - INFO - False
+2025-09-01 14:15:30,834 - INFO - cur_scrollY:1301, screen_height:1048, element_y:2287, element_height:50
+2025-09-01 14:15:30,834 - INFO - True
+2025-09-01 14:15:30,834 - INFO - cur_scrollY:1301, element_y:2287
+2025-09-01 14:15:30,834 - INFO - False
+2025-09-01 14:15:32,147 - ERROR - 1/10번째 [ naver_kin_id_levelup.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Kin\naver_kin_id_levelup.py", line 1374, in <module>
+    if status := naver_kin_bot.kin_levelup_start():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1418, in kin_levelup_start
+    success_choice = self.choice_process(count=3)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1326, in choice_process
+    if not self._choice_kin_pc(data):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1261, in _choice_kin_pc
+    self.choose_to_answer__pc(my_answer)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 900, in choose_to_answer__pc
+    selenium_util.element_random_click(self.browser, choose_button)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 505, in element_random_click
+    el_width, el_height = element.size['width'], element.size['height']
+                          ^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 380, in size
+    size = self._execute(Command.GET_ELEMENT_RECT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 574, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.155)
+Stacktrace:
+	GetHandleVerifier [0x0x9ea8a3+63283]
+	GetHandleVerifier [0x0x9ea8e4+63348]
+	(No symbol) [0x0x823e43]
+	(No symbol) [0x0x813790]
+	(No symbol) [0x0x831602]
+	(No symbol) [0x0x897cdc]
+	(No symbol) [0x0x8b1ff9]
+	(No symbol) [0x0x891216]
+	(No symbol) [0x0x860855]
+	(No symbol) [0x0x8616f4]
+	GetHandleVerifier [0x0xc5bb43+2623955]
+	GetHandleVerifier [0x0xc56daa+2604090]
+	GetHandleVerifier [0x0xa1069a+218410]
+	GetHandleVerifier [0x0xa00ed8+154984]
+	GetHandleVerifier [0x0xa0742d+180925]
+	GetHandleVerifier [0x0x9f22b8+94536]
+	GetHandleVerifier [0x0x9f2442+94930]
+	GetHandleVerifier [0x0x9dd5ea+9338]
+	BaseThreadInitThunk [0x0x75ca5d49+25]
+	RtlInitializeExceptionChain [0x0x77add2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77add281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-01 14:15:32,147 - ERROR - Traceback (most recent call last):
+2025-09-01 14:15:32,147 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Kin\naver_kin_id_levelup.py", line 1374, in <module>
+    if status := naver_kin_bot.kin_levelup_start():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-01 14:15:32,147 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1418, in kin_levelup_start
+    success_choice = self.choice_process(count=3)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-01 14:15:32,147 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1326, in choice_process
+    if not self._choice_kin_pc(data):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-01 14:15:32,147 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1261, in _choice_kin_pc
+    self.choose_to_answer__pc(my_answer)
+2025-09-01 14:15:32,147 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 900, in choose_to_answer__pc
+    selenium_util.element_random_click(self.browser, choose_button)
+2025-09-01 14:15:32,147 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 505, in element_random_click
+    el_width, el_height = element.size['width'], element.size['height']
+                          ^^^^^^^^^^^^
+2025-09-01 14:15:32,147 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 380, in size
+    size = self._execute(Command.GET_ELEMENT_RECT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-01 14:15:32,147 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 574, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-01 14:15:32,147 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-09-01 14:15:32,155 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-09-01 14:15:32,155 - ERROR - selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.155)
+Stacktrace:
+	GetHandleVerifier [0x0x9ea8a3+63283]
+	GetHandleVerifier [0x0x9ea8e4+63348]
+	(No symbol) [0x0x823e43]
+	(No symbol) [0x0x813790]
+	(No symbol) [0x0x831602]
+	(No symbol) [0x0x897cdc]
+	(No symbol) [0x0x8b1ff9]
+	(No symbol) [0x0x891216]
+	(No symbol) [0x0x860855]
+	(No symbol) [0x0x8616f4]
+	GetHandleVerifier [0x0xc5bb43+2623955]
+	GetHandleVerifier [0x0xc56daa+2604090]
+	GetHandleVerifier [0x0xa1069a+218410]
+	GetHandleVerifier [0x0xa00ed8+154984]
+	GetHandleVerifier [0x0xa0742d+180925]
+	GetHandleVerifier [0x0x9f22b8+94536]
+	GetHandleVerifier [0x0x9f2442+94930]
+	GetHandleVerifier [0x0x9dd5ea+9338]
+	BaseThreadInitThunk [0x0x75ca5d49+25]
+	RtlInitializeExceptionChain [0x0x77add2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77add281+561]
+2025-09-01 14:15:32,282 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-01 14:15:32,282 - INFO - ✅ Chrome 종료 결과: Chrome 종료

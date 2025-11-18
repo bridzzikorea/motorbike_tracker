@@ -1,0 +1,147 @@
+2025-08-13 10:18:21,034 - ERROR - Traceback (most recent call last):
+2025-08-13 10:18:21,034 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 297, in <module>
+    app.run()
+2025-08-13 10:18:21,034 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 276, in run
+    self.root.mainloop()
+    ^^^^^^^^^
+2025-08-13 10:18:21,035 - ERROR - AttributeError: 'ImageGeneratorApp' object has no attribute 'root'
+2025-08-13 10:18:21,152 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:18:21,152 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:18:22,152 - INFO - ==================================
+2025-08-13 10:18:22,152 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-13 10:18:22,389 - INFO - [현재 크롬 버전] : 139.0.7258.128
+2025-08-13 10:18:23,982 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-13 10:18:25,987 - INFO - ==================================
+2025-08-13 10:18:25,987 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-13 10:18:25,987 - INFO - -----------------------------
+2025-08-13 10:18:25,988 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-13 10:18:25,988 - INFO - ==================================
+2025-08-13 10:18:26,109 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:18:26,110 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:18:27,110 - INFO - ==================================
+2025-08-13 10:18:27,110 - ERROR - Traceback (most recent call last):
+2025-08-13 10:18:27,110 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 297, in <module>
+    app.run()
+2025-08-13 10:18:27,112 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 276, in run
+    self.root.mainloop()
+    ^^^^^^^^^
+2025-08-13 10:18:27,112 - ERROR - AttributeError: 'ImageGeneratorApp' object has no attribute 'root'
+2025-08-13 10:18:27,112 - INFO - 텔레그램 에러 메시지 : [ image_downloader_app.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 297, in <module>
+    app.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 276, in run
+    self.root.mainloop()
+    ^^^^^^^^^
+AttributeError: 'ImageGeneratorApp' object has no attribute 'root'
+2025-08-13 10:18:28,241 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:18:28,241 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:18:29,242 - INFO - ==================================
+2025-08-13 10:18:29,242 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-13 10:18:29,367 - INFO - [현재 크롬 버전] : 139.0.7258.128
+2025-08-13 10:18:30,631 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-13 10:18:32,634 - INFO - ==================================
+2025-08-13 10:18:32,635 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-13 10:18:32,635 - INFO - -----------------------------
+2025-08-13 10:18:32,635 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-13 10:18:32,635 - INFO - ==================================
+2025-08-13 10:18:32,747 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:18:32,747 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:18:33,748 - INFO - ==================================
+2025-08-13 10:18:33,749 - ERROR - Traceback (most recent call last):
+2025-08-13 10:18:33,750 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 297, in <module>
+    app.run()
+2025-08-13 10:18:33,750 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 276, in run
+    self.root.mainloop()
+    ^^^^^^^^^
+2025-08-13 10:18:33,750 - ERROR - AttributeError: 'ImageGeneratorApp' object has no attribute 'root'
+2025-08-13 10:18:33,751 - INFO - 텔레그램 에러 메시지 : [ image_downloader_app.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 297, in <module>
+    app.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 276, in run
+    self.root.mainloop()
+    ^^^^^^^^^
+AttributeError: 'ImageGeneratorApp' object has no attribute 'root'
+2025-08-13 10:18:34,793 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:18:34,793 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:18:35,794 - INFO - ==================================
+2025-08-13 10:18:35,794 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-13 10:18:35,912 - INFO - [현재 크롬 버전] : 139.0.7258.128
+2025-08-13 10:18:37,060 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-13 10:18:39,071 - INFO - ==================================
+2025-08-13 10:18:39,071 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-13 10:18:39,071 - INFO - -----------------------------
+2025-08-13 10:18:39,071 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-13 10:18:39,071 - INFO - ==================================
+2025-08-13 10:18:39,183 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:18:39,183 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:18:40,183 - INFO - ==================================
+2025-08-13 10:18:40,183 - ERROR - Traceback (most recent call last):
+2025-08-13 10:18:40,183 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 297, in <module>
+    app.run()
+2025-08-13 10:18:40,184 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 276, in run
+    self.root.mainloop()
+    ^^^^^^^^^
+2025-08-13 10:18:40,184 - ERROR - AttributeError: 'ImageGeneratorApp' object has no attribute 'root'
+2025-08-13 10:18:40,184 - INFO - 텔레그램 에러 메시지 : [ image_downloader_app.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 297, in <module>
+    app.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 276, in run
+    self.root.mainloop()
+    ^^^^^^^^^
+AttributeError: 'ImageGeneratorApp' object has no attribute 'root'
+2025-08-13 10:18:41,330 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:18:41,330 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:18:42,331 - INFO - ==================================
+2025-08-13 10:18:42,331 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-13 10:18:42,459 - INFO - [현재 크롬 버전] : 139.0.7258.128
+2025-08-13 10:18:43,650 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-13 10:18:45,655 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 369, in <module>
+    pcdriver.update_chromedriver()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 82, in update_chromedriver
+    update_chrome()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 40, in update_chrome
+    status = get_chrome_update_status(driver)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 29, in get_chrome_update_status
+    return driver.execute_script(script)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 544, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.128)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7496a6b25+79621]
+	GetHandleVerifier [0x0x7ff7496a6b80+79712]
+	(No symbol) [0x0x7ff74943c0ea]
+	(No symbol) [0x0x7ff749428355]
+	(No symbol) [0x0x7ff74944cefa]
+	(No symbol) [0x0x7ff7494c2845]
+	(No symbol) [0x0x7ff7494e2d02]
+	(No symbol) [0x0x7ff7494baf13]
+	(No symbol) [0x0x7ff749484151]
+	(No symbol) [0x0x7ff749484ee3]
+	GetHandleVerifier [0x0x7ff74996683d+2962461]
+	GetHandleVerifier [0x0x7ff749960b5d+2938685]
+	GetHandleVerifier [0x0x7ff74997f71d+3064573]
+	GetHandleVerifier [0x0x7ff7496c0c6e+186446]
+	GetHandleVerifier [0x0x7ff7496c8a3f+218655]
+	GetHandleVerifier [0x0x7ff7496af914+115956]
+	GetHandleVerifier [0x0x7ff7496afac9+116393]
+	GetHandleVerifier [0x0x7ff749695ef8+10968]
+	BaseThreadInitThunk [0x0x7ffecd3de8d7+23]
+	RtlUserThreadStart [0x0x7ffece7fc34c+44]
+

@@ -1,0 +1,59 @@
+2025-09-16 14:00:42,347 - ERROR - 1/3번째 [ naver_influencer_talk.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 95, in <module>
+    influencerTalk.run()
+TypeError: influencerTalk.run() missing 1 required positional argument: 'self'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-16 14:00:42,347 - ERROR - Traceback (most recent call last):
+2025-09-16 14:00:42,347 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 95, in <module>
+    influencerTalk.run()
+2025-09-16 14:00:42,362 - ERROR - TypeError: influencerTalk.run() missing 1 required positional argument: 'self'
+2025-09-16 14:00:42,498 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-16 14:00:42,498 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-16 14:00:43,501 - INFO - ==================================
+2025-09-16 14:00:43,501 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-16 14:00:43,661 - INFO - [현재 크롬 버전] : 140.0.7339.128
+2025-09-16 14:00:44,886 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-16 14:00:46,887 - INFO - ==================================
+2025-09-16 14:00:46,887 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-16 14:00:46,887 - INFO - -----------------------------
+2025-09-16 14:00:46,887 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-16 14:00:46,887 - INFO - ==================================
+2025-09-16 14:00:47,028 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-16 14:00:47,028 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-16 14:00:48,029 - INFO - ==================================
+2025-09-16 14:00:48,029 - ERROR - 2/3번째 [ naver_influencer_talk.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 95, in <module>
+    influencerTalk.run()
+TypeError: influencerTalk.run() missing 1 required positional argument: 'self'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-16 14:00:48,029 - ERROR - Traceback (most recent call last):
+2025-09-16 14:00:48,029 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 95, in <module>
+    influencerTalk.run()
+2025-09-16 14:00:48,029 - ERROR - TypeError: influencerTalk.run() missing 1 required positional argument: 'self'
+2025-09-16 14:00:48,029 - INFO - 텔레그램 에러 메시지 : [ naver_influencer_talk.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 95, in <module>
+    influencerTalk.run()
+TypeError: influencerTalk.run() missing 1 required positional argument: 'self'
+2025-09-16 14:00:49,316 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-16 14:00:49,316 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-16 14:00:50,324 - INFO - ==================================
+2025-09-16 14:00:50,324 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-16 14:00:50,486 - INFO - [현재 크롬 버전] : 140.0.7339.128
+2025-09-16 14:00:51,697 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-16 14:00:53,700 - INFO - ==================================
+2025-09-16 14:00:53,700 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-16 14:00:53,700 - INFO - -----------------------------
+2025-09-16 14:00:53,700 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-16 14:00:53,700 - INFO - ==================================
+2025-09-16 14:00:53,841 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-16 14:00:53,842 - INFO - ✅ Chrome 종료 결과: Chrome 종료

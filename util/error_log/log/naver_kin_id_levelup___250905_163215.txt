@@ -1,0 +1,49 @@
+2025-09-05 16:32:19,099 - INFO - ==================================
+2025-09-05 16:32:19,099 - INFO - # 1단계 : N지식인 질문하기 #
+2025-09-05 16:32:19,101 - INFO - 시트이름: [자문자답]질문/대시보드
+2025-09-05 16:32:19,101 - INFO - 구글 시트 로드 - 시도중....
+2025-09-05 16:32:21,268 - INFO - 구글 시트 로드 - 완료
+2025-09-05 16:32:21,996 - INFO - [자문자답]질문/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-05 16:32:22,023 - ERROR - 1/10번째 [ naver_kin_id_levelup.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Kin\naver_kin_id_levelup.py", line 1374, in <module>
+    if status := naver_kin_bot.kin_levelup_start():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1361, in kin_levelup_start
+    success_question = self.question_process(count=3, delay_second=60)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 973, in question_process
+    dash_df = dash_df[~dash_df['시간 동작여부'].isin("FALSE")]
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\series.py", line 5559, in isin
+    result = algorithms.isin(self._values, values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\algorithms.py", line 477, in isin
+    raise TypeError(
+TypeError: only list-like objects are allowed to be passed to isin(), you passed a `str`
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-05 16:32:22,023 - ERROR - Traceback (most recent call last):
+2025-09-05 16:32:22,023 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Kin\naver_kin_id_levelup.py", line 1374, in <module>
+    if status := naver_kin_bot.kin_levelup_start():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-05 16:32:22,023 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1361, in kin_levelup_start
+    success_question = self.question_process(count=3, delay_second=60)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-05 16:32:22,023 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 973, in question_process
+    dash_df = dash_df[~dash_df['시간 동작여부'].isin("FALSE")]
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-05 16:32:22,023 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\series.py", line 5559, in isin
+    result = algorithms.isin(self._values, values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-05 16:32:22,023 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\pandas\core\algorithms.py", line 477, in isin
+    raise TypeError(
+2025-09-05 16:32:22,023 - ERROR - TypeError: only list-like objects are allowed to be passed to isin(), you passed a `str`
+2025-09-05 16:32:22,222 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-05 16:32:22,223 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-05 16:32:23,224 - INFO - ==================================
+2025-09-05 16:32:23,224 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-05 16:32:23,490 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-05 16:32:25,433 - INFO - Chrome 업데이트를 확인하는 중...

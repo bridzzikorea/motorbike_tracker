@@ -1,0 +1,265 @@
+2025-07-30 17:25:14,044 - INFO - ==================================
+2025-07-30 17:25:14,044 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.
+2025-07-30 17:25:27,351 - INFO - Fail 구글 시트에서 데이터가 비어 있거나 함수오류로 #N/A가 데이터에 있습니다
+2025-07-30 17:25:27,351 - INFO - 더이상 작업할 계정이 없어서 포스팅은 생략합니다
+2025-07-30 17:25:30,352 - INFO - ==================================
+2025-07-30 17:25:30,353 - INFO - #2 댓글 달기를 시작합니다.
+2025-07-30 17:26:06,821 - INFO - 댓글대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-30 17:26:06,826 - INFO - ~~ 바이럴 댓글 작업을 시작합니다. ~~
+2025-07-30 17:26:06,826 - INFO - 자연스러운 작업을 위해 - 4 ~ 6분 휴식 후 댓글 작업을 시작합니다.
+2025-07-30 17:26:06,873 - INFO - C:\program_cookies 폴더 크기: 0.13 GB
+2025-07-30 17:26:06,891 - INFO - C:\program_cookies\Mobile_dnghwhd8819 폴더 크기: 0.06 GB
+2025-07-30 17:26:06,891 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dnghwhd8819 폴더를 지정합니다.
+2025-07-30 17:26:06,891 - INFO - fixed UA가 있습니다.
+2025-07-30 17:26:06,892 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 12; SM-G991U) AppleWebKit/537.36 (KHTML like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36입니다.
+2025-07-30 17:26:06,892 - INFO - 옵션 수동설정을 시작합니다.
+2025-07-30 17:26:06,892 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-07-30 17:26:08,656 - INFO - 크롬창을 열었습니다.
+2025-07-30 17:26:08,657 - INFO - Android
+2025-07-30 17:26:08,662 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-30 17:26:08,663 - INFO - FIXED gps 정보를 적용합니다.
+2025-07-30 17:26:08,663 - INFO - FIXED gps 정보는 {'latitude': 38.3487074, 'longitude': 127.805154, 'accuracy': 100} 입니다.
+2025-07-30 17:26:09,033 - INFO - 모든 변경이 완료되었습니다...
+2025-07-30 17:26:09,034 - INFO - ~~~~~~~~~~
+2025-07-30 17:26:09,066 - INFO - [ NAVER_ID : dnghwhd8819 ]
+2025-07-30 17:26:10,294 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-07-30 17:26:12,165 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-07-30 17:26:13,873 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-07-30 17:26:20,660 - INFO - [완료] 4. 네이버 로그인
+2025-07-30 17:26:21,063 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-07-30 17:26:21,955 - INFO - 이미 읽어 본 메일이라 스킵하고 넘어갑니다.
+2025-07-30 17:26:22,399 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-07-30 17:26:32,272 - INFO - 댓글작성을 완료했습니다.
+2025-07-30 17:26:32,272 - INFO - [경고!] 구글 시트 '댓글작업완료'에 작업내역을 기입 중입니다 끄지마세요
+2025-07-30 17:27:28,207 - INFO - Success 구글 시트에 작성이 완료되었습니다
+2025-07-30 17:27:36,227 - INFO - 댓글작성을 완료했습니다.
+2025-07-30 17:27:36,227 - INFO - [경고!] 구글 시트 '댓글작업완료'에 작업내역을 기입 중입니다 끄지마세요
+2025-07-30 17:29:54,376 - INFO - Success 구글 시트에 작성이 완료되었습니다
+2025-07-30 17:30:21,058 - ERROR - 1/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1143, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1100, in cafe_post_comment_start
+    is_completd_cafe_comment = start_cafe_comment(googlesheet)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1060, in start_cafe_comment
+    아이디변경 = cafe_comment_write(googlesheet, commentdata)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 981, in cafe_comment_write
+    write_comments(browser, data['댓글'][k], each_url)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 954, in write_comments
+    selenium_util.wait_for_element(browser, 20, 등록버튼)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2011, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xd0ba83+63395]
+	GetHandleVerifier [0x0xd0bac4+63460]
+	(No symbol) [0x0xb52113]
+	(No symbol) [0x0xb9a85e]
+	(No symbol) [0x0xb9abfb]
+	(No symbol) [0x0xbe2f92]
+	(No symbol) [0x0xbbf3f4]
+	(No symbol) [0x0xbe07ba]
+	(No symbol) [0x0xbbf1a6]
+	(No symbol) [0x0xb8e7b2]
+	(No symbol) [0x0xb8f654]
+	GetHandleVerifier [0x0xf88883+2672035]
+	GetHandleVerifier [0x0xf83cba+2652634]
+	GetHandleVerifier [0x0xd32bca+223466]
+	GetHandleVerifier [0x0xd22cb8+158168]
+	GetHandleVerifier [0x0xd2978d+185517]
+	GetHandleVerifier [0x0xd13b78+96408]
+	GetHandleVerifier [0x0xd13d02+96802]
+	GetHandleVerifier [0x0xcfe90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-07-30 17:30:21,058 - ERROR - Traceback (most recent call last):
+2025-07-30 17:30:21,058 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1143, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 17:30:21,058 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1100, in cafe_post_comment_start
+    is_completd_cafe_comment = start_cafe_comment(googlesheet)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 17:30:21,058 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1060, in start_cafe_comment
+    아이디변경 = cafe_comment_write(googlesheet, commentdata)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 17:30:21,058 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 981, in cafe_comment_write
+    write_comments(browser, data['댓글'][k], each_url)
+2025-07-30 17:30:21,058 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 954, in write_comments
+    selenium_util.wait_for_element(browser, 20, 등록버튼)
+2025-07-30 17:30:21,058 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2011, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 17:30:21,058 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+2025-07-30 17:30:21,058 - ERROR - selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xd0ba83+63395]
+	GetHandleVerifier [0x0xd0bac4+63460]
+	(No symbol) [0x0xb52113]
+	(No symbol) [0x0xb9a85e]
+	(No symbol) [0x0xb9abfb]
+	(No symbol) [0x0xbe2f92]
+	(No symbol) [0x0xbbf3f4]
+	(No symbol) [0x0xbe07ba]
+	(No symbol) [0x0xbbf1a6]
+	(No symbol) [0x0xb8e7b2]
+	(No symbol) [0x0xb8f654]
+	GetHandleVerifier [0x0xf88883+2672035]
+	GetHandleVerifier [0x0xf83cba+2652634]
+	GetHandleVerifier [0x0xd32bca+223466]
+	GetHandleVerifier [0x0xd22cb8+158168]
+	GetHandleVerifier [0x0xd2978d+185517]
+	GetHandleVerifier [0x0xd13b78+96408]
+	GetHandleVerifier [0x0xd13d02+96802]
+	GetHandleVerifier [0x0xcfe90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-07-30 17:30:21,264 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-07-30 17:30:21,264 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-07-30 17:30:21,267 - INFO - ==================================
+2025-07-30 17:30:21,267 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.
+2025-07-30 17:31:13,947 - INFO - Fail 구글 시트에서 데이터가 비어 있거나 함수오류로 #N/A가 데이터에 있습니다
+2025-07-30 17:31:13,947 - INFO - 더이상 작업할 계정이 없어서 포스팅은 생략합니다
+2025-07-30 17:31:16,949 - INFO - ==================================
+2025-07-30 17:31:16,949 - INFO - #2 댓글 달기를 시작합니다.
+2025-07-30 17:31:54,896 - INFO - 댓글대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-30 17:31:54,897 - INFO - ~~ 바이럴 댓글 작업을 시작합니다. ~~
+2025-07-30 17:31:54,897 - INFO - 자연스러운 작업을 위해 - 4 ~ 6분 휴식 후 댓글 작업을 시작합니다.
+2025-07-30 17:31:54,982 - INFO - C:\program_cookies 폴더 크기: 0.12 GB
+2025-07-30 17:31:54,984 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_witch780919 폴더를 지정합니다.
+2025-07-30 17:31:54,984 - INFO - fixed UA가 있습니다.
+2025-07-30 17:31:54,985 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 10; SM-N950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4280.141 Mobile Safari/537.36입니다.
+2025-07-30 17:31:54,985 - INFO - 옵션 수동설정을 시작합니다.
+2025-07-30 17:31:54,985 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-07-30 17:31:57,139 - INFO - 크롬창을 열었습니다.
+2025-07-30 17:31:57,141 - INFO - Android
+2025-07-30 17:31:57,152 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-30 17:31:57,152 - INFO - FIXED gps 정보를 적용합니다.
+2025-07-30 17:31:57,153 - INFO - FIXED gps 정보는 {'latitude': 36.3558, 'longitude': 127.960453, 'accuracy': 100} 입니다.
+2025-07-30 17:31:57,525 - INFO - 모든 변경이 완료되었습니다...
+2025-07-30 17:31:57,526 - INFO - ~~~~~~~~~~
+2025-07-30 17:31:57,564 - INFO - [ NAVER_ID : witch780919 ]
+2025-07-30 17:31:58,396 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-07-30 17:32:00,651 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-07-30 17:32:02,958 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-07-30 17:32:10,101 - INFO - [완료] 4. 네이버 로그인
+2025-07-30 17:32:10,657 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-07-30 17:32:11,928 - INFO - 메일 내용 : (광고)문경 방님, 그동안 감사했습니다!
+2025-07-30 17:32:11,946 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-07-30 17:32:19,760 - ERROR - 2/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1143, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1100, in cafe_post_comment_start
+    is_completd_cafe_comment = start_cafe_comment(googlesheet)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1060, in start_cafe_comment
+    아이디변경 = cafe_comment_write(googlesheet, commentdata)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 981, in cafe_comment_write
+    write_comments(browser, data['댓글'][k], each_url)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 941, in write_comments
+    browser.switch_to.default_content()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\switch_to.py", line 66, in default_content
+    self._driver.execute(Command.SWITCH_TO_FRAME, {"id": None})
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 231, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 카페에 가입할 수 없습니다.
+카페 매니저에 의해 재가입이 불가 처리되었습니다.
+Message: unexpected alert open: {Alert text : 카페에 가입할 수 없습니다.
+카페 매니저에 의해 재가입이 불가 처리되었습니다.}
+  (Session info: chrome=138.0.7204.184)
+Stacktrace:
+	GetHandleVerifier [0x0x61ba83+63395]
+	GetHandleVerifier [0x0x61bac4+63460]
+	(No symbol) [0x0x462113]
+	(No symbol) [0x0x4f101f]
+	(No symbol) [0x0x4cf1a6]
+	(No symbol) [0x0x49e7b2]
+	(No symbol) [0x0x49f654]
+	GetHandleVerifier [0x0x898883+2672035]
+	GetHandleVerifier [0x0x893cba+2652634]
+	GetHandleVerifier [0x0x642bca+223466]
+	GetHandleVerifier [0x0x632cb8+158168]
+	GetHandleVerifier [0x0x63978d+185517]
+	GetHandleVerifier [0x0x623b78+96408]
+	GetHandleVerifier [0x0x623d02+96802]
+	GetHandleVerifier [0x0x60e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-07-30 17:32:19,761 - ERROR - Traceback (most recent call last):
+2025-07-30 17:32:19,762 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1143, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 17:32:19,762 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1100, in cafe_post_comment_start
+    is_completd_cafe_comment = start_cafe_comment(googlesheet)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 17:32:19,762 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1060, in start_cafe_comment
+    아이디변경 = cafe_comment_write(googlesheet, commentdata)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 17:32:19,763 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 981, in cafe_comment_write
+    write_comments(browser, data['댓글'][k], each_url)
+2025-07-30 17:32:19,763 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 941, in write_comments
+    browser.switch_to.default_content()
+2025-07-30 17:32:19,763 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\switch_to.py", line 66, in default_content
+    self._driver.execute(Command.SWITCH_TO_FRAME, {"id": None})
+2025-07-30 17:32:19,763 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-07-30 17:32:19,763 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 231, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 17:32:19,763 - ERROR - selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 카페에 가입할 수 없습니다.
+카페 매니저에 의해 재가입이 불가 처리되었습니다.
+Message: unexpected alert open: {Alert text : 카페에 가입할 수 없습니다.
+카페 매니저에 의해 재가입이 불가 처리되었습니다.}
+  (Session info: chrome=138.0.7204.184)
+Stacktrace:
+	GetHandleVerifier [0x0x61ba83+63395]
+	GetHandleVerifier [0x0x61bac4+63460]
+	(No symbol) [0x0x462113]
+	(No symbol) [0x0x4f101f]
+	(No symbol) [0x0x4cf1a6]
+	(No symbol) [0x0x49e7b2]
+	(No symbol) [0x0x49f654]
+	GetHandleVerifier [0x0x898883+2672035]
+	GetHandleVerifier [0x0x893cba+2652634]
+	GetHandleVerifier [0x0x642bca+223466]
+	GetHandleVerifier [0x0x632cb8+158168]
+	GetHandleVerifier [0x0x63978d+185517]
+	GetHandleVerifier [0x0x623b78+96408]
+	GetHandleVerifier [0x0x623d02+96802]
+	GetHandleVerifier [0x0x60e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-07-30 17:32:20,133 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-07-30 17:32:20,135 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-07-30 17:32:20,135 - INFO - ==================================
+2025-07-30 17:32:20,137 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.
+2025-07-30 17:33:05,088 - INFO - Fail 구글 시트에서 데이터가 비어 있거나 함수오류로 #N/A가 데이터에 있습니다
+2025-07-30 17:33:05,088 - INFO - 더이상 작업할 계정이 없어서 포스팅은 생략합니다
+2025-07-30 17:33:08,089 - INFO - ==================================
+2025-07-30 17:33:08,089 - INFO - #2 댓글 달기를 시작합니다.

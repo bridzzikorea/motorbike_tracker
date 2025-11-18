@@ -1,0 +1,57 @@
+2025-07-24 11:05:21,898 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-24 11:05:23,081 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 11:05:24,699 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 11:05:25,764 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 11:05:25,964 - INFO - C:\program_cookies 폴더 크기: 1.06 GB
+2025-07-24 11:05:25,968 - INFO - random 폴더 초기화 - 'C:\program_cookies\Mobile_PC_random'에서 폴더 삭제(완료)
+2025-07-24 11:05:25,969 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 11:05:25,969 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 11:05:25,969 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36입니다.
+2025-07-24 11:05:27,909 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 11:05:27,912 - INFO - 블로그 검색 키워드: 야구 경기장 특별한 순가 - 시작
+2025-07-24 11:05:30,158 - INFO - 블로그 검색 키워드: 야구 경기장 특별한 순가 - 완료
+2025-07-24 11:05:30,158 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 11:05:30,158 - INFO - 검색키워드 : '야구 경기장 특별한 순가'!r
+2025-07-24 11:05:30,159 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 11:05:30,192 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 11:05:30,193 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 11:05:30,193 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 11:05:32,436 - INFO - 2. 최신순 검색 - 실패 : 블로그 글이 발견되지 않았습니다.
+2025-07-24 11:05:32,437 - INFO - 블로그 검색 키워드: 야구 경기장에서 느낀 특별한 - 시작
+2025-07-24 11:05:34,558 - INFO - 블로그 검색 키워드: 야구 경기장에서 느낀 특별한 - 완료
+2025-07-24 11:05:34,558 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 11:05:34,559 - INFO - 검색키워드 : '야구 경기장에서 느낀 특별한'!r
+2025-07-24 11:05:34,559 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 11:05:34,713 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 11:05:35,739 - INFO - 1. 관련도순 검색 - 성공
+2025-07-24 11:05:36,282 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 11:05:40,605 - INFO - Fail 구글 시트에서 데이터가 비어 있습니다. 시트와 범위를 확인해주세요.
+2025-07-24 11:05:45,526 - INFO - C:\program_cookies 폴더 크기: 0.02 GB
+2025-07-24 11:05:45,526 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 11:05:45,526 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 11:05:45,527 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 11:05:47,391 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 11:05:47,393 - INFO - 블로그 검색 키워드: 필터 교체 - 시작
+2025-07-24 11:05:48,065 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 351, in <module>
+    uc.loop().run_until_complete(main())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 341, in main
+    await nodriver.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 219, in run
+    await self.mobile_view()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 111, in mobile_view
+    await self.browser.random_click(input_select)
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 801, in random_click
+    element = await self.tab.query_selector(css_selector)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\tab.py", line 570, in query_selector
+    node_id = await self.send(cdp.dom.query_selector(doc.node_id, selector))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\connection.py", line 518, in send
+    return await tx
+           ^^^^^^^^
+nodriver.core.connection.ProtocolException: Could not find node with given id [code: -32000]

@@ -1,0 +1,237 @@
+2025-08-11 15:39:53,565 - INFO - ==================================
+2025-08-11 15:39:53,565 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-11 15:39:53,565 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-11 15:39:53,565 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 15:39:53,982 - INFO - 구글 시트 로드 - 완료
+2025-08-11 15:39:54,382 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-11 15:39:54,382 - ERROR - 1/10번째 [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+TypeError: can only concatenate str (not "int") to str
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-11 15:39:54,390 - ERROR - Traceback (most recent call last):
+2025-08-11 15:39:54,390 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-11 15:39:54,390 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+2025-08-11 15:39:54,390 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+2025-08-11 15:39:54,390 - ERROR - TypeError: can only concatenate str (not "int") to str
+2025-08-11 15:39:54,532 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 15:39:54,532 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 15:39:55,538 - INFO - ==================================
+2025-08-11 15:39:55,538 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 15:39:55,697 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 15:39:56,927 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 15:39:58,929 - INFO - ==================================
+2025-08-11 15:39:58,929 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 15:39:58,929 - INFO - -----------------------------
+2025-08-11 15:39:58,929 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 15:39:58,929 - INFO - ==================================
+2025-08-11 15:40:02,549 - INFO - ==================================
+2025-08-11 15:40:02,549 - INFO - ==================================
+2025-08-11 15:40:02,549 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-11 15:40:02,549 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-11 15:40:02,549 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 15:40:02,946 - INFO - 구글 시트 로드 - 완료
+2025-08-11 15:40:03,422 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-11 15:40:03,440 - ERROR - 2/10번째 [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+TypeError: can only concatenate str (not "int") to str
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-11 15:40:03,440 - ERROR - Traceback (most recent call last):
+2025-08-11 15:40:03,440 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-11 15:40:03,440 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+2025-08-11 15:40:03,440 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+2025-08-11 15:40:03,440 - ERROR - TypeError: can only concatenate str (not "int") to str
+2025-08-11 15:40:03,445 - INFO - 텔레그램 에러 메시지 : [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+TypeError: can only concatenate str (not "int") to str
+2025-08-11 15:40:04,541 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 15:40:04,541 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 15:40:05,541 - INFO - ==================================
+2025-08-11 15:40:05,541 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 15:40:05,679 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 15:40:06,895 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 15:40:08,901 - INFO - ==================================
+2025-08-11 15:40:08,901 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 15:40:08,901 - INFO - -----------------------------
+2025-08-11 15:40:08,901 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 15:40:08,901 - INFO - ==================================
+2025-08-11 15:40:12,487 - INFO - ==================================
+2025-08-11 15:40:12,487 - INFO - ==================================
+2025-08-11 15:40:12,487 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-11 15:40:12,488 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-11 15:40:12,488 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 15:40:12,877 - INFO - 구글 시트 로드 - 완료
+2025-08-11 15:40:13,262 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-11 15:40:13,265 - ERROR - 3/10번째 [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+TypeError: can only concatenate str (not "int") to str
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-11 15:40:13,266 - ERROR - Traceback (most recent call last):
+2025-08-11 15:40:13,267 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-11 15:40:13,268 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+2025-08-11 15:40:13,268 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+2025-08-11 15:40:13,269 - ERROR - TypeError: can only concatenate str (not "int") to str
+2025-08-11 15:40:13,269 - INFO - 텔레그램 에러 메시지 : [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+TypeError: can only concatenate str (not "int") to str
+2025-08-11 15:40:14,286 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 15:40:14,286 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 15:40:15,287 - INFO - ==================================
+2025-08-11 15:40:15,287 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 15:40:15,415 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 15:40:16,620 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 15:40:18,627 - INFO - ==================================
+2025-08-11 15:40:18,627 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 15:40:18,627 - INFO - -----------------------------
+2025-08-11 15:40:18,627 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 15:40:18,628 - INFO - ==================================
+2025-08-11 15:40:22,229 - INFO - ==================================
+2025-08-11 15:40:22,229 - INFO - ==================================
+2025-08-11 15:40:22,229 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-11 15:40:22,229 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-11 15:40:22,229 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 15:40:22,714 - INFO - 구글 시트 로드 - 완료
+2025-08-11 15:40:23,106 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-11 15:40:23,107 - ERROR - 4/10번째 [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+TypeError: can only concatenate str (not "int") to str
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-11 15:40:23,107 - ERROR - Traceback (most recent call last):
+2025-08-11 15:40:23,108 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-11 15:40:23,108 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+2025-08-11 15:40:23,108 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+2025-08-11 15:40:23,108 - ERROR - TypeError: can only concatenate str (not "int") to str
+2025-08-11 15:40:23,108 - INFO - 텔레그램 에러 메시지 : [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 4번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+TypeError: can only concatenate str (not "int") to str
+2025-08-11 15:40:24,153 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 15:40:24,154 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 15:40:25,155 - INFO - ==================================
+2025-08-11 15:40:25,156 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 15:40:25,287 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 15:40:26,554 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 15:40:28,564 - INFO - ==================================
+2025-08-11 15:40:28,564 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 15:40:28,564 - INFO - -----------------------------
+2025-08-11 15:40:28,565 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 15:40:28,565 - INFO - ==================================
+2025-08-11 15:40:32,171 - INFO - ==================================
+2025-08-11 15:40:32,171 - INFO - ==================================
+2025-08-11 15:40:32,171 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-11 15:40:32,172 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-11 15:40:32,172 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 15:40:32,559 - INFO - 구글 시트 로드 - 완료
+2025-08-11 15:40:32,942 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-11 15:40:32,945 - ERROR - 5/10번째 [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 5번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+TypeError: can only concatenate str (not "int") to str
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-11 15:40:32,945 - ERROR - Traceback (most recent call last):
+2025-08-11 15:40:32,945 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-11 15:40:32,945 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+2025-08-11 15:40:32,945 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+2025-08-11 15:40:32,945 - ERROR - TypeError: can only concatenate str (not "int") to str
+2025-08-11 15:40:32,945 - INFO - 텔레그램 에러 메시지 : [ cafe_viral_only_vewnum.py 프로그램 ] - < Exception 발생 >
+~~ 5번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 62, in <module>
+    status = naver_cafe_bot.manual_cafe_viewnum_process()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 849, in manual_cafe_viewnum_process
+    self._view_num_add(url, view_count)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 782, in _view_num_add
+    view_count += random.randint(1, 3)
+TypeError: can only concatenate str (not "int") to str

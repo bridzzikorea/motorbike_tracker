@@ -1,0 +1,76 @@
+2025-08-06 19:43:09,007 - INFO - ==================================
+2025-08-06 19:43:09,007 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.
+2025-08-06 19:46:15,007 - INFO - APIError: [503]: The service is currently unavailable. - 네트워크 오류 발생. 5초 후 재시작. 재시도: 1/10
+2025-08-06 19:48:18,448 - INFO - 바이럴대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-06 19:48:18,450 - INFO - ==================================
+2025-08-06 19:48:18,450 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-06 19:48:18,450 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-06 19:48:18,636 - INFO - [# USB테더링 전환 #] - 1 번째 시도 실패 : exceptions must derive from BaseException
+2025-08-06 19:48:20,263 - INFO - [# USB테더링 전환 #] - 2 번째 시도 실패 : exceptions must derive from BaseException
+2025-08-06 19:48:21,896 - INFO - [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-08-06 19:48:21,896 - ERROR - 1/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1697, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1675, in is_usb_tethering_enabled
+    raise False
+TypeError: exceptions must derive from BaseException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1081, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start(googlesheet):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 804, in cafe_post_comment_start
+    is_completd_cafe_viral = self.cafe_viral_contents_process()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 631, in cafe_viral_contents_process
+    self._ID_inint_browser(data)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 38, in _ID_inint_browser
+    selenium_util.change_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1918, in change_ip
+    mobile_ip()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1719, in mobile_ip
+    raise Exception(error_message)
+Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-06 19:48:21,896 - ERROR - Traceback (most recent call last):
+2025-08-06 19:48:21,896 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1697, in mobile_ip
+    if not is_usb_tethering_enabled():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 19:48:21,896 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1675, in is_usb_tethering_enabled
+    raise False
+2025-08-06 19:48:21,896 - ERROR - TypeError: exceptions must derive from BaseException
+2025-08-06 19:48:21,896 - ERROR - During handling of the above exception, another exception occurred:
+2025-08-06 19:48:21,896 - ERROR - Traceback (most recent call last):
+2025-08-06 19:48:21,896 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1081, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start(googlesheet):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 19:48:21,896 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 804, in cafe_post_comment_start
+    is_completd_cafe_viral = self.cafe_viral_contents_process()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-06 19:48:21,896 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 631, in cafe_viral_contents_process
+    self._ID_inint_browser(data)
+2025-08-06 19:48:21,896 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 38, in _ID_inint_browser
+    selenium_util.change_ip()
+2025-08-06 19:48:21,896 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1918, in change_ip
+    mobile_ip()
+2025-08-06 19:48:21,908 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 1719, in mobile_ip
+    raise Exception(error_message)
+2025-08-06 19:48:21,908 - ERROR - Exception: [# USB테더링 전환 #] - 최종 실패 : exceptions must derive from BaseException
+2025-08-06 19:48:22,070 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-06 19:48:22,070 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-06 19:48:23,072 - INFO - ==================================
+2025-08-06 19:48:23,072 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-06 19:48:23,202 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-06 19:48:24,443 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-06 19:48:26,448 - INFO - ==================================
+2025-08-06 19:48:26,448 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-06 19:48:26,448 - INFO - -----------------------------
+2025-08-06 19:48:26,448 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-06 19:48:26,448 - INFO - ==================================

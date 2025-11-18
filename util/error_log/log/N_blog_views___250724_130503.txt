@@ -1,0 +1,117 @@
+2025-07-24 13:05:03,595 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-24 13:05:04,483 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 13:05:05,726 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 13:05:06,566 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 13:05:06,587 - INFO - C:\program_cookies 폴더 크기: 0.14 GB
+2025-07-24 13:05:06,587 - INFO - random 폴더 초기화 - 'C:\program_cookies\Mobile_PC_random'에서 폴더 삭제(완료)
+2025-07-24 13:05:06,588 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 13:05:06,588 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 13:05:06,588 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 13:05:08,262 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 13:05:08,263 - INFO - 블로그 검색 키워드: 정수기 - 시작
+2025-07-24 13:05:12,674 - INFO - 블로그 검색 키워드: 정수기 - 완료
+2025-07-24 13:05:12,674 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 13:05:12,674 - INFO - 검색키워드 : '정수기'!r
+2025-07-24 13:05:12,674 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 13:05:12,856 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 13:05:12,856 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 13:05:12,856 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 13:05:18,047 - INFO - 2. 최신순 검색 - 실패 : 블로그 글이 발견되지 않았습니다.
+2025-07-24 13:05:18,047 - INFO - 블로그 검색 키워드: 친환경 정수기 - 시작
+2025-07-24 13:05:23,537 - INFO - 블로그 검색 키워드: 친환경 정수기 - 완료
+2025-07-24 13:05:23,537 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 13:05:23,537 - INFO - 검색키워드 : '친환경 정수기'!r
+2025-07-24 13:05:23,537 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 13:05:23,634 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 13:05:23,634 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 13:05:23,634 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 13:05:28,344 - INFO - 2. 최신순 검색 - 실패 : 블로그 글이 발견되지 않았습니다.
+2025-07-24 13:05:28,345 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 핵 - 시작
+2025-07-24 13:05:33,036 - INFO - 블로그 검색 키워드: 친환경 정수기 선택 가이드 NSF 인증이 핵 - 완료
+2025-07-24 13:05:33,036 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 13:05:33,036 - INFO - 검색키워드 : '친환경 정수기 선택 가이드 NSF 인증이 핵'!r
+2025-07-24 13:05:33,036 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 13:05:33,208 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 13:05:33,208 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 13:05:33,209 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 13:05:37,689 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-07-24 13:05:38,555 - INFO - 2. 최신순 검색 - 성공
+2025-07-24 13:05:39,050 - INFO - 타켓 블로그 서치 - 완료
+2025-07-24 13:05:43,263 - INFO - 조회수 작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 13:05:46,814 - INFO - C:\program_cookies 폴더 크기: 0.04 GB
+2025-07-24 13:05:46,814 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_PC_random 폴더를 지정합니다.
+2025-07-24 13:05:46,815 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-24 13:05:46,815 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-S901U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36입니다.
+2025-07-24 13:05:48,952 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-24 13:05:48,953 - INFO - 블로그 검색 키워드: 필터 교체 - 시작
+2025-07-24 13:05:53,959 - INFO - 블로그 검색 키워드: 필터 교체 - 완료
+2025-07-24 13:05:53,959 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 13:05:53,959 - INFO - 검색키워드 : '필터 교체'!r
+2025-07-24 13:05:53,959 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 13:05:54,123 - INFO - 1. 관련도순 검색 - 실패 : 블로그 글이 발견 되지 않았습니다
+2025-07-24 13:05:54,123 - INFO - => 최신순으로 검색 진행하겠습니다
+2025-07-24 13:05:54,123 - INFO - 2. 최신순 검색 - 시작
+2025-07-24 13:05:58,905 - INFO - 2. 최신순 검색 - 실패 : 블로그 글이 발견되지 않았습니다.
+2025-07-24 13:05:58,905 - INFO - 블로그 검색 키워드: 필터 교체 - 시작
+2025-07-24 13:06:03,824 - INFO - 블로그 검색 키워드: 필터 교체 - 완료
+2025-07-24 13:06:03,824 - INFO - 타켓 블로그 서치 - 시작
+2025-07-24 13:06:03,824 - INFO - 검색키워드 : '필터 교체'!r
+2025-07-24 13:06:03,824 - INFO - 1. 관련도순 검색 - 시작
+2025-07-24 13:06:05,852 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 358, in <module>
+    uc.loop().run_until_complete(main())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 348, in main
+    await nodriver.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 225, in run
+    await self.mobile_view()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 125, in mobile_view
+    if is_search_success := await self.mo_search_blog_post(URL, search_keyword=search_keyword):
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 72, in mo_search_blog_post
+    if not await self.mo_select_blog_post(url):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views.py", line 51, in mo_select_blog_post
+    await self.browser.wait_for_element_with_refresh(10, view_board_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 550, in wait_for_element_with_refresh
+    element = await self.wait_for_element(timeout, css_selector)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 564, in wait_for_element
+    element = await self.tab.select(css_selector, timeout=timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\tab.py", line 320, in select
+    item = await self.query_selector(selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\tab.py", line 562, in query_selector
+    doc: cdp.dom.Node = await self.send(cdp.dom.get_document(-1, True))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\connection.py", line 510, in send
+    await self.connect()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\connection.py", line 325, in connect
+    self._websocket = await websockets.connect(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\websockets\asyncio\client.py", line 541, in __await_impl__
+    self.connection = await self.create_connection()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\websockets\asyncio\client.py", line 467, in create_connection
+    _, connection = await loop.create_connection(factory, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 1127, in create_connection
+    raise exceptions[0]
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 1102, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 1005, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\proactor_events.py", line 729, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\windows_events.py", line 803, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\windows_events.py", line 599, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] 원격 컴퓨터가 네트워크 연결을 거부했습니다

@@ -1,0 +1,43 @@
+2025-09-01 13:23:43,940 - INFO - ==================================
+2025-09-01 13:23:43,940 - INFO - # 1단계 : N지식인 질문하기 #
+2025-09-01 13:23:43,941 - INFO - 시트이름: [자문자답]질문/대시보드
+2025-09-01 13:23:43,941 - INFO - 구글 시트 로드 - 시도중....
+2025-09-01 13:23:46,057 - INFO - 구글 시트 로드 - 완료
+2025-09-01 13:23:57,296 - INFO - [자문자답]질문/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-01 13:23:57,307 - ERROR - 1/10번째 [ naver_kin_id_levelup.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Kin\naver_kin_id_levelup.py", line 1374, in <module>
+    if status := naver_kin_bot.kin_levelup_start():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1351, in kin_levelup_start
+    success_question = self.question_process(count=3, delay_second=60)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1002, in question_process
+    self._create_folders_if_not_exist(data['선택사진경로'], data['랜덤사진경로'])
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 584, in _create_folders_if_not_exist
+    os.makedirs(s_image_path)
+  File "<frozen os>", line 225, in makedirs
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: ''
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-01 13:23:57,307 - ERROR - Traceback (most recent call last):
+2025-09-01 13:23:57,307 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Kin\naver_kin_id_levelup.py", line 1374, in <module>
+    if status := naver_kin_bot.kin_levelup_start():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-01 13:23:57,307 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1351, in kin_levelup_start
+    success_question = self.question_process(count=3, delay_second=60)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-01 13:23:57,307 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_kin_bot.py", line 1002, in question_process
+    self._create_folders_if_not_exist(data['선택사진경로'], data['랜덤사진경로'])
+2025-09-01 13:23:57,307 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 584, in _create_folders_if_not_exist
+    os.makedirs(s_image_path)
+2025-09-01 13:23:57,317 - ERROR - File "<frozen os>", line 225, in makedirs
+2025-09-01 13:23:57,318 - ERROR - FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: ''
+2025-09-01 13:23:57,570 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-01 13:23:57,570 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-01 13:23:58,571 - INFO - ==================================
+2025-09-01 13:23:58,571 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-01 13:23:58,861 - INFO - [현재 크롬 버전] : 139.0.7258.155
+2025-09-01 13:24:00,922 - INFO - Chrome 업데이트를 확인하는 중...

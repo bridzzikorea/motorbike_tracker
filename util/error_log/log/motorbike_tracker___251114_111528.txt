@@ -1,0 +1,1490 @@
+2025-11-14 11:15:28,444 - INFO - ==================================
+2025-11-14 11:15:28,445 - INFO - -----------------------------
+2025-11-14 11:15:28,636 - INFO - 로그인 응답 코드:
+2025-11-14 11:15:28,636 - INFO - 200
+2025-11-14 11:15:28,636 - INFO - 서버가 준 쿠키:
+2025-11-14 11:15:28,636 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=0B19CAD40578E1D62D87BB6C4007A3A7 for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 11:15:28,636 - INFO - -----------------------------
+2025-11-14 11:15:28,656 - INFO - 로그인 응답 코드:
+2025-11-14 11:15:28,656 - INFO - 200
+2025-11-14 11:15:28,657 - INFO - 장비 개수:
+2025-11-14 11:15:28,657 - INFO - 69
+2025-11-14 11:15:28,666 - INFO - port   vehicle_number       ip_address        id                             client_id
+0   51908     경기 수원 거 7502     37.17.191.68  EAE28066  d3471980-9964-4fc9-979c-c3c0e84ae279
+1   43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc
+2   51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6
+3   49232     경기 수원 거 9533     37.17.191.68  FD1D0C84  b3764d25-7ffe-4695-a22c-a064de67e669
+4   62090     경기 수원 거 5801     37.17.191.68  E0459619  892c2cc6-e48e-47da-b68f-e47edef82e81
+..    ...              ...              ...       ...                                   ...
+64  57607     경기 수원 거 7504     37.17.191.68  DBF892A1  27df4de4-6147-4ac1-ac93-a8aacbe2d901
+65  59879     경기 수원 거 4878     5.35.166.165  E853AE78  5b6f6f74-ea2a-41c3-981f-0de18af84f0f
+66  64887     경기 수원 거 4350   195.226.133.59  C4CAE7ED  2b371927-e303-4a1e-91bb-76ecb2287e4e
+67  56265     경기 수원 거 7504     37.17.191.68  DBF892A1  35c9141c-445c-4cd9-b0d4-dde9c4dc46dc
+68  38639     경기 수원 거 5705     5.35.166.165  D10C8A81  f30ba072-cafb-4b3f-994c-eeca566935ba
+
+[69 rows x 5 columns]
+2025-11-14 11:15:28,666 - INFO - -----------------------------
+2025-11-14 11:15:28,687 - INFO - 데이터 개수:
+2025-11-14 11:15:28,687 - INFO - 100
+2025-11-14 11:15:28,689 - INFO - latitude                                37.290386
+battery                                       2.1
+gyrox                                      -00116
+speed                                           0
+gyroy                                      +00016
+running_distance                              0.0
+gyroz                                      -00006
+driver_name                          경기 수원 거 7502
+accz                                       +10186
+user_id                                  EAE28066
+accy                                       +12173
+mc_key                                          0
+vehicle_number                  MH3SEL147SK002916
+running_time                                    0
+accx                                       +01528
+time                2025-11-14T01:54:53.000+00:00
+longitude                              127.006233
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:28,715 - INFO - 데이터 개수:
+2025-11-14 11:15:28,715 - INFO - 100
+2025-11-14 11:15:28,720 - INFO - latitude                                37.522537
+battery                                      14.3
+gyrox                                      -00031
+speed                                          26
+gyroy                                      -00106
+running_distance                              0.0
+gyroz                                      +00136
+driver_name                       포르자350 블랙 세팅 차량
+accz                                       -09016
+user_id                                  F1086AAE
+accy                                       -10771
+mc_key                                          0
+vehicle_number                  MLHNF09K8S5404496
+running_time                                    0
+accx                                       +09597
+time                2025-11-14T02:15:07.000+00:00
+longitude                              126.701599
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:28,740 - INFO - 데이터 개수:
+2025-11-14 11:15:28,740 - INFO - 100
+2025-11-14 11:15:28,745 - INFO - latitude                                37.036163
+battery                                      13.6
+gyrox                                      -00117
+speed                                           0
+gyroy                                      +00024
+running_distance                              0.0
+gyroz                                      +00026
+driver_name                          경기 수원 너 3633
+accz                                       -18740
+user_id                                  CB16F562
+accy                                       -00168
+mc_key                                          0
+vehicle_number                  RLHJK05K3SY315761
+running_time                                    0
+accx                                       +02394
+time                2025-11-14T02:15:06.000+00:00
+longitude                              127.030159
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:28,776 - INFO - 데이터 개수:
+2025-11-14 11:15:28,777 - INFO - 100
+2025-11-14 11:15:28,779 - INFO - latitude                                37.252105
+battery                                      11.5
+gyrox                                      -00112
+speed                                           0
+gyroy                                      +00012
+running_distance                              0.0
+gyroz                                      +00006
+driver_name                          경기 수원 거 9533
+accz                                       -14600
+user_id                                  FD1D0C84
+accy                                       -02674
+mc_key                                          0
+vehicle_number                  MLHNF14K1S5300512
+running_time                                    0
+accx                                       +06989
+time                2025-11-14T02:15:26.000+00:00
+longitude                              127.029769
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:28,820 - INFO - 데이터 개수:
+2025-11-14 11:15:28,820 - INFO - 100
+2025-11-14 11:15:28,820 - INFO - latitude                                37.199783
+battery                                      14.3
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5801
+accz                                             
+user_id                                  E0459619
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K4SY305692
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:11.000+00:00
+longitude                              127.113578
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:28,861 - INFO - 데이터 개수:
+2025-11-14 11:15:28,861 - INFO - 100
+2025-11-14 11:15:28,861 - INFO - latitude                                37.000812
+battery                                      13.4
+gyrox                                            
+speed                                          82
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5250
+accz                                             
+user_id                                  D3992722
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K5S5400146
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:25.000+00:00
+longitude                              126.918449
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:28,883 - INFO - 데이터 개수:
+2025-11-14 11:15:28,883 - INFO - 100
+2025-11-14 11:15:28,886 - INFO - latitude                                37.261402
+battery                                      13.8
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                                   미지정
+accz                                             
+user_id                                  EBD1EB91
+accy                                             
+mc_key                                          0
+vehicle_number                                미지정
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:07.000+00:00
+longitude                              127.018524
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:28,928 - INFO - 데이터 개수:
+2025-11-14 11:15:28,929 - INFO - 100
+2025-11-14 11:15:28,930 - INFO - latitude                                37.146713
+battery                                      12.7
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5747
+accz                                             
+user_id                                  E6B659B3
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K1SY305939
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:01.000+00:00
+longitude                              127.070167
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:28,937 - INFO - 데이터 개수:
+2025-11-14 11:15:28,937 - INFO - 100
+2025-11-14 11:15:28,951 - INFO - latitude                                37.203849
+battery                                      13.6
+gyrox                                      -00071
+speed                                           0
+gyroy                                      +00042
+running_distance                              0.0
+gyroz                                      -00016
+driver_name                          경기 수원 거 5894
+accz                                       -17248
+user_id                                  EF495AEF
+accy                                       +00762
+mc_key                                          0
+vehicle_number                  RLHJK05K6SY303653
+running_time                                    0
+accx                                       -04423
+time                2025-11-14T02:15:00.000+00:00
+longitude                              127.005432
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:28,994 - INFO - 데이터 개수:
+2025-11-14 11:15:28,994 - INFO - 100
+2025-11-14 11:15:28,994 - INFO - latitude                                37.240276
+battery                                      13.3
+gyrox                                            
+speed                                          26
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7627
+accz                                             
+user_id                                  D4CB32FA
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K6S5400155
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:23.000+00:00
+longitude                               126.96241
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:29,235 - INFO - 데이터 개수:
+2025-11-14 11:15:29,235 - INFO - 100
+2025-11-14 11:15:29,237 - INFO - latitude                                      0.0
+battery                                      14.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4891
+accz                                             
+user_id                                  CA02EF4C
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K0SY302045
+running_time                                    0
+accx                                             
+time                2025-11-14T01:29:13.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:29,282 - INFO - 데이터 개수:
+2025-11-14 11:15:29,282 - INFO - 100
+2025-11-14 11:15:29,286 - INFO - latitude                                35.897361
+battery                                     -0.04
+gyrox                                      -00102
+speed                                           0
+gyroy                                      -00006
+running_distance                              0.0
+gyroz                                      +00039
+driver_name                          경기 수원 거 7570
+accz                                       +15695
+user_id                                  CB2378C1
+accy                                       +02823
+mc_key                                          0
+vehicle_number                  MH3SH2388SK002568
+running_time                                    0
+accx                                       +02130
+time                2025-11-14T02:12:56.000+00:00
+longitude                              128.605819
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:29,325 - INFO - 데이터 개수:
+2025-11-14 11:15:29,325 - INFO - 100
+2025-11-14 11:15:29,327 - INFO - latitude                                37.042793
+battery                                      13.9
+gyrox                                            
+speed                                           9
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5286
+accz                                             
+user_id                                  C56CE8A4
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K3S5400341
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:12.000+00:00
+longitude                              127.050926
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:29,359 - INFO - 데이터 개수:
+2025-11-14 11:15:29,360 - INFO - 100
+2025-11-14 11:15:29,361 - INFO - latitude                                 37.14756
+battery                                      13.9
+gyrox                                      +00084
+speed                                          11
+gyroy                                      +00160
+running_distance                              0.0
+gyroz                                      -00154
+driver_name                            NMAX125 블랙
+accz                                       -10306
+user_id                                  ED05EF1C
+accy                                       -03012
+mc_key                                          0
+vehicle_number                  MH3SEL147SK006108
+running_time                                    0
+accx                                       -03987
+time                2025-11-14T02:15:02.000+00:00
+longitude                              127.072822
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:29,426 - INFO - 데이터 개수:
+2025-11-14 11:15:29,427 - INFO - 100
+2025-11-14 11:15:29,428 - INFO - latitude                                37.290565
+battery                                      2.86
+gyrox                                      -00093
+speed                                           0
+gyroy                                      +00058
+running_distance                              0.0
+gyroz                                      +00241
+driver_name                          경기 수원 거 9492
+accz                                       -15196
+user_id                                  EFCFC13E
+accy                                       -03106
+mc_key                                          0
+vehicle_number                  MH3SEL141SK003589
+running_time                                    0
+accx                                       -06031
+time                2025-11-14T01:52:43.000+00:00
+longitude                              126.940452
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:29,486 - INFO - 데이터 개수:
+2025-11-14 11:15:29,486 - INFO - 100
+2025-11-14 11:15:29,486 - INFO - latitude                                37.211418
+battery                                      14.4
+gyrox                                            
+speed                                          34
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7551
+accz                                             
+user_id                                  DCBE68BE
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K4SY307359
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:29.000+00:00
+longitude                              127.036125
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:29,544 - INFO - 데이터 개수:
+2025-11-14 11:15:29,544 - INFO - 100
+2025-11-14 11:15:29,546 - INFO - latitude                                37.213687
+battery                                      13.9
+gyrox                                      +00393
+speed                                           4
+gyroy                                      +00618
+running_distance                              0.0
+gyroz                                      +00616
+driver_name                          경기 수원 거 7717
+accz                                       +12159
+user_id                                  F3957091
+accy                                       +26882
+mc_key                                          0
+vehicle_number                  MH3SEL140SK002837
+running_time                                    0
+accx                                       +04107
+time                2025-11-14T02:15:20.000+00:00
+longitude                               127.04219
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:29,584 - INFO - 데이터 개수:
+2025-11-14 11:15:29,585 - INFO - 100
+2025-11-14 11:15:29,586 - INFO - latitude                                37.261833
+battery                                      13.9
+gyrox                                      -00115
+speed                                          36
+gyroy                                      +00015
+running_distance                              0.0
+gyroz                                      -00016
+driver_name                          경기 수원 너 3706
+accz                                       -12146
+user_id                                  E113D03E
+accy                                       -00732
+mc_key                                          0
+vehicle_number                  MLHNF14K7S5300417
+running_time                                    0
+accx                                       +09259
+time                2025-11-14T02:12:08.000+00:00
+longitude                              127.035743
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:29,638 - INFO - 데이터 개수:
+2025-11-14 11:15:29,639 - INFO - 100
+2025-11-14 11:15:29,640 - INFO - latitude                                37.216476
+battery                                      14.5
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4938
+accz                                             
+user_id                                  D5BD3F51
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K3S5400212
+running_time                                    0
+accx                                             
+time                2025-11-14T02:07:15.000+00:00
+longitude                              126.975669
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:29,687 - INFO - 데이터 개수:
+2025-11-14 11:15:29,687 - INFO - 100
+2025-11-14 11:15:29,689 - INFO - latitude                                36.190685
+battery                                      14.2
+gyrox                                            
+speed                                           3
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4868
+accz                                             
+user_id                                  E84813B3
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05KXSY300383
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:24.000+00:00
+longitude                              127.089912
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:29,740 - INFO - 데이터 개수:
+2025-11-14 11:15:29,740 - INFO - 100
+2025-11-14 11:15:29,741 - INFO - latitude                                37.501144
+battery                                      13.5
+gyrox                                      -00143
+speed                                          23
+gyroy                                      -00032
+running_distance                              0.0
+gyroz                                      -00181
+driver_name                       PCX125 블랙 세팅 차량
+accz                                       -16778
+user_id                                  C81423CF
+accy                                       -02497
+mc_key                                          0
+vehicle_number                  RLHJK05KXSY316695
+running_time                                    0
+accx                                       +02135
+time                2025-11-14T02:15:10.000+00:00
+longitude                              126.788841
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:29,786 - INFO - 데이터 개수:
+2025-11-14 11:15:29,786 - INFO - 100
+2025-11-14 11:15:29,786 - INFO - latitude                                37.269973
+battery                                      13.7
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5295
+accz                                             
+user_id                                  E1C3ED9B
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K2S5400329
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:09.000+00:00
+longitude                              127.004501
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:29,807 - INFO - 데이터 개수:
+2025-11-14 11:15:29,807 - INFO - 100
+2025-11-14 11:15:29,808 - INFO - latitude                                37.170352
+battery                                      0.02
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5749
+accz                                             
+user_id                                  FE7ACC2E
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K0SY306337
+running_time                                    0
+accx                                             
+time                2025-11-14T02:07:22.000+00:00
+longitude                              127.064453
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:29,857 - INFO - 데이터 개수:
+2025-11-14 11:15:29,857 - INFO - 100
+2025-11-14 11:15:29,858 - INFO - latitude                                37.205986
+battery                                      13.8
+gyrox                                            
+speed                                          16
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                                   미지정
+accz                                             
+user_id                                  E9A5C773
+accy                                             
+mc_key                                          0
+vehicle_number                                미지정
+running_time                                    0
+accx                                             
+time                2025-11-14T02:08:53.000+00:00
+longitude                              127.111747
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:29,902 - INFO - 데이터 개수:
+2025-11-14 11:15:29,902 - INFO - 100
+2025-11-14 11:15:29,903 - INFO - latitude                                37.212047
+battery                                      14.1
+gyrox                                            
+speed                                           3
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4926
+accz                                             
+user_id                                  D905D5F6
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K4S5400767
+running_time                                    0
+accx                                             
+time                2025-11-14T02:05:12.000+00:00
+longitude                              127.043083
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,019 - INFO - 데이터 개수:
+2025-11-14 11:15:30,019 - INFO - 100
+2025-11-14 11:15:30,019 - INFO - latitude                                37.144279
+battery                                      14.2
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5000
+accz                                             
+user_id                                  F4D162E2
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K4SY303814
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:11.000+00:00
+longitude                               127.07357
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,287 - INFO - 데이터 개수:
+2025-11-14 11:15:30,287 - INFO - 100
+2025-11-14 11:15:30,288 - INFO - latitude                                37.292797
+battery                                      13.3
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5983
+accz                                             
+user_id                                  F227BD6C
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K6S5400138
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:01.000+00:00
+longitude                              126.994644
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,333 - INFO - 데이터 개수:
+2025-11-14 11:15:30,334 - INFO - 100
+2025-11-14 11:15:30,335 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,382 - INFO - 데이터 개수:
+2025-11-14 11:15:30,382 - INFO - 100
+2025-11-14 11:15:30,384 - INFO - latitude                                37.208446
+battery                                      11.9
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5831
+accz                                             
+user_id                                  EB76FE62
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K5SY305779
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:18.000+00:00
+longitude                               127.06771
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,403 - INFO - 데이터 개수:
+2025-11-14 11:15:30,403 - INFO - 100
+2025-11-14 11:15:30,405 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,445 - INFO - 데이터 개수:
+2025-11-14 11:15:30,446 - INFO - 100
+2025-11-14 11:15:30,447 - INFO - latitude                                37.497238
+battery                                      14.3
+gyrox                                            
+speed                                           6
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5210
+accz                                             
+user_id                                  E59D8D1C
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K1SY302412
+running_time                                    0
+accx                                             
+time                2025-11-14T02:07:18.000+00:00
+longitude                              126.786491
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,499 - INFO - 데이터 개수:
+2025-11-14 11:15:30,499 - INFO - 100
+2025-11-14 11:15:30,500 - INFO - latitude                                37.246791
+battery                                      12.1
+gyrox                                      -00105
+speed                                           0
+gyroy                                      +00029
+running_distance                              0.0
+gyroz                                      -00002
+driver_name                          경기 수원 너 3529
+accz                                       -15993
+user_id                                  D18B0D8B
+accy                                       -01524
+mc_key                                          0
+vehicle_number                  RLHJK05K7SY308277
+running_time                                    0
+accx                                       +04175
+time                2025-11-14T02:15:07.000+00:00
+longitude                              127.029045
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:30,522 - INFO - 데이터 개수:
+2025-11-14 11:15:30,522 - INFO - 100
+2025-11-14 11:15:30,524 - INFO - latitude                                37.290348
+battery                                      13.8
+gyrox                                      -00026
+speed                                           0
+gyroy                                      +00059
+running_distance                              0.0
+gyroz                                      +00026
+driver_name                          경기 수원 너 3524
+accz                                       -17110
+user_id                                  C4BC2DA0
+accy                                       -02013
+mc_key                                          0
+vehicle_number                  RLHJK05K4SY316269
+running_time                                    0
+accx                                       +00023
+time                2025-11-14T02:15:23.000+00:00
+longitude                              127.007797
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:30,543 - INFO - 데이터 개수:
+2025-11-14 11:15:30,543 - INFO - 100
+2025-11-14 11:15:30,545 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,594 - INFO - 데이터 개수:
+2025-11-14 11:15:30,595 - INFO - 100
+2025-11-14 11:15:30,597 - INFO - latitude                                37.564937
+battery                                      14.0
+gyrox                                            
+speed                                           9
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5238
+accz                                             
+user_id                                  E5EDB067
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K9S5401235
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:19.000+00:00
+longitude                               126.67366
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,651 - INFO - 데이터 개수:
+2025-11-14 11:15:30,651 - INFO - 100
+2025-11-14 11:15:30,653 - INFO - latitude                                37.158527
+battery                                      13.2
+gyrox                                      -00107
+speed                                           0
+gyroy                                      +00019
+running_distance                              0.0
+gyroz                                      -00012
+driver_name                          경기 수원 거 7719
+accz                                       -14957
+user_id                                  DC790BA6
+accy                                       -02134
+mc_key                                          0
+vehicle_number                  MLHNF09K0S5402869
+running_time                                    0
+accx                                       +04585
+time                2025-11-14T02:15:07.000+00:00
+longitude                              127.054168
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:30,671 - INFO - 데이터 개수:
+2025-11-14 11:15:30,671 - INFO - 100
+2025-11-14 11:15:30,673 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,736 - INFO - 데이터 개수:
+2025-11-14 11:15:30,736 - INFO - 100
+2025-11-14 11:15:30,736 - INFO - latitude                                37.212257
+battery                                      14.3
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5830
+accz                                             
+user_id                                  F433B5A4
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K4SY304932
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:25.000+00:00
+longitude                              127.039543
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,794 - INFO - 데이터 개수:
+2025-11-14 11:15:30,794 - INFO - 100
+2025-11-14 11:15:30,796 - INFO - latitude                                37.199775
+battery                                      13.3
+gyrox                                            
+speed                                           7
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5766
+accz                                             
+user_id                                  E771D5B1
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K8SY306103
+running_time                                    0
+accx                                             
+time                2025-11-14T02:09:40.000+00:00
+longitude                              127.091438
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,843 - INFO - 데이터 개수:
+2025-11-14 11:15:30,843 - INFO - 100
+2025-11-14 11:15:30,845 - INFO - latitude                                37.158195
+battery                                      14.0
+gyrox                                            
+speed                                           5
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5715
+accz                                             
+user_id                                  F69D703A
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05KXSY300268
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:07.000+00:00
+longitude                              127.102844
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,862 - INFO - 데이터 개수:
+2025-11-14 11:15:30,862 - INFO - 100
+2025-11-14 11:15:30,864 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,912 - INFO - 데이터 개수:
+2025-11-14 11:15:30,912 - INFO - 100
+2025-11-14 11:15:30,913 - INFO - latitude                                 37.25624
+battery                                      14.0
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4974
+accz                                             
+user_id                                  FAD1AF1B
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K6SY300915
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:39.000+00:00
+longitude                              127.029739
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,931 - INFO - 데이터 개수:
+2025-11-14 11:15:30,931 - INFO - 100
+2025-11-14 11:15:30,933 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:30,983 - INFO - 데이터 개수:
+2025-11-14 11:15:30,983 - INFO - 100
+2025-11-14 11:15:30,985 - INFO - latitude                                37.247993
+battery                                      13.4
+gyrox                                      +00093
+speed                                          54
+gyroy                                      +00014
+running_distance                              0.0
+gyroz                                      -00048
+driver_name                                  제이크루
+accz                                       -20843
+user_id                                  E30FFCA3
+accy                                       -02818
+mc_key                                          0
+vehicle_number                  RLHJK05K3SY311788
+running_time                                    0
+accx                                       -02662
+time                2025-11-14T02:09:56.000+00:00
+longitude                              127.075668
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:31,005 - INFO - 데이터 개수:
+2025-11-14 11:15:31,005 - INFO - 100
+2025-11-14 11:15:31,006 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,020 - INFO - 데이터 개수:
+2025-11-14 11:15:31,020 - INFO - 100
+2025-11-14 11:15:31,020 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,211 - INFO - 데이터 개수:
+2025-11-14 11:15:31,211 - INFO - 100
+2025-11-14 11:15:31,211 - INFO - latitude                                36.336036
+battery                                      14.1
+gyrox                                            
+speed                                           4
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4897
+accz                                             
+user_id                                  FC633C52
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K9SY300214
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:08.000+00:00
+longitude                              127.387817
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,259 - INFO - 데이터 개수:
+2025-11-14 11:15:31,259 - INFO - 100
+2025-11-14 11:15:31,261 - INFO - latitude                                37.169773
+battery                                      14.3
+gyrox                                            
+speed                                          21
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4869
+accz                                             
+user_id                                  CFE782BF
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K1SY300353
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:28.000+00:00
+longitude                              127.052093
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,279 - INFO - 데이터 개수:
+2025-11-14 11:15:31,279 - INFO - 100
+2025-11-14 11:15:31,280 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,325 - INFO - 데이터 개수:
+2025-11-14 11:15:31,325 - INFO - 100
+2025-11-14 11:15:31,326 - INFO - latitude                                37.041191
+battery                                      14.0
+gyrox                                            
+speed                                          24
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4949
+accz                                             
+user_id                                  F1254EFD
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K7SY302852
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:23.000+00:00
+longitude                              127.047775
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,362 - INFO - 데이터 개수:
+2025-11-14 11:15:31,362 - INFO - 100
+2025-11-14 11:15:31,369 - INFO - latitude                                37.186225
+battery                                      13.6
+gyrox                                      -00107
+speed                                           0
+gyroy                                      +00016
+running_distance                              0.0
+gyroz                                      -00014
+driver_name                          경기 수원 거 5791
+accz                                       -14845
+user_id                                  D1B1E85A
+accy                                       -06487
+mc_key                                          0
+vehicle_number                  MLHNF09K2S5401559
+running_time                                    0
+accx                                       +00957
+time                2025-11-14T02:15:16.000+00:00
+longitude                              127.100174
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:31,417 - INFO - 데이터 개수:
+2025-11-14 11:15:31,417 - INFO - 100
+2025-11-14 11:15:31,419 - INFO - latitude                                36.336494
+battery                                      13.1
+gyrox                                            
+speed                                          28
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5947
+accz                                             
+user_id                                  DCD5C881
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K0S5400099
+running_time                                    0
+accx                                             
+time                2025-11-14T02:12:37.000+00:00
+longitude                              127.377708
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,439 - INFO - 데이터 개수:
+2025-11-14 11:15:31,440 - INFO - 100
+2025-11-14 11:15:31,442 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,460 - INFO - 데이터 개수:
+2025-11-14 11:15:31,461 - INFO - 100
+2025-11-14 11:15:31,463 - INFO - latitude                                37.158195
+battery                                      14.0
+gyrox                                            
+speed                                           5
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5715
+accz                                             
+user_id                                  F69D703A
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05KXSY300268
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:07.000+00:00
+longitude                              127.102844
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,569 - INFO - 데이터 개수:
+2025-11-14 11:15:31,569 - INFO - 100
+2025-11-14 11:15:31,569 - INFO - latitude                                      0.0
+battery                                      13.9
+gyrox                                      -00032
+speed                                           0
+gyroy                                      +00135
+running_distance                              0.0
+gyroz                                      -00014
+driver_name                          경기 수원 거 5878
+accz                                       -18556
+user_id                                  E7F01D7D
+accy                                       +00359
+mc_key                                          0
+vehicle_number                  RLHJK05K7SY307520
+running_time                                    0
+accx                                       -01780
+time                2025-11-14T02:11:39.000+00:00
+longitude                                     0.0
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:31,611 - INFO - 데이터 개수:
+2025-11-14 11:15:31,611 - INFO - 100
+2025-11-14 11:15:31,611 - INFO - latitude                                      0.0
+battery                                      14.3
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5767
+accz                                             
+user_id                                  E75CFB46
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05KXSY300934
+running_time                                    0
+accx                                             
+time                2025-11-14T02:11:39.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,686 - INFO - 데이터 개수:
+2025-11-14 11:15:31,686 - INFO - 100
+2025-11-14 11:15:31,688 - INFO - latitude                                      0.0
+battery                                      2.22
+gyrox                                      -00112
+speed                                           0
+gyroy                                      +00027
+running_distance                              0.0
+gyroz                                      +00002
+driver_name                          경기 수원 너 3571
+accz                                       -05342
+user_id                                  C973F14E
+accy                                       -13022
+mc_key                                          0
+vehicle_number                  MLHNF09K5S5403841
+running_time                                    0
+accx                                       +08490
+time                2025-11-14T02:12:36.000+00:00
+longitude                                     0.0
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:31,731 - INFO - 데이터 개수:
+2025-11-14 11:15:31,731 - INFO - 100
+2025-11-14 11:15:31,732 - INFO - latitude                                37.202663
+battery                                      14.2
+gyrox                                            
+speed                                          61
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5974
+accz                                             
+user_id                                  FFFE1069
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5400256
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:16.000+00:00
+longitude                              127.113853
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,792 - INFO - 데이터 개수:
+2025-11-14 11:15:31,792 - INFO - 100
+2025-11-14 11:15:31,793 - INFO - latitude                                37.214149
+battery                                      12.8
+gyrox                                      -00125
+speed                                           0
+gyroy                                      +00008
+running_distance                              0.0
+gyroz                                      +00029
+driver_name                          경기 수원 거 5852
+accz                                       -18640
+user_id                                  C65F5A56
+accy                                       +05139
+mc_key                                          0
+vehicle_number                  RLHJK05K8SY305842
+running_time                                    0
+accx                                       -00571
+time                2025-11-14T02:15:18.000+00:00
+longitude                              127.041999
+status                                       0x00
+Name: 0, dtype: object
+2025-11-14 11:15:31,811 - INFO - 데이터 개수:
+2025-11-14 11:15:31,812 - INFO - 100
+2025-11-14 11:15:31,813 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,878 - INFO - 데이터 개수:
+2025-11-14 11:15:31,878 - INFO - 100
+2025-11-14 11:15:31,878 - INFO - latitude                                37.039394
+battery                                      13.9
+gyrox                                            
+speed                                          17
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5208
+accz                                             
+user_id                                  E732F7ED
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K1SY301857
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:27.000+00:00
+longitude                              127.048408
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,929 - INFO - 데이터 개수:
+2025-11-14 11:15:31,929 - INFO - 100
+2025-11-14 11:15:31,931 - INFO - latitude                                37.182697
+battery                                      13.8
+gyrox                                            
+speed                                          19
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5807
+accz                                             
+user_id                                  C89AD1A2
+accy                                             
+mc_key                                          0
+vehicle_number                  LWMTDJEJ3SHJ07747
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:06.000+00:00
+longitude                              127.044311
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,949 - INFO - 데이터 개수:
+2025-11-14 11:15:31,949 - INFO - 100
+2025-11-14 11:15:31,950 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:31,996 - INFO - 데이터 개수:
+2025-11-14 11:15:31,996 - INFO - 100
+2025-11-14 11:15:31,998 - INFO - latitude                                37.181045
+battery                                      14.0
+gyrox                                            
+speed                                          81
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4995
+accz                                             
+user_id                                  D72D964E
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K7S5400245
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:30.000+00:00
+longitude                              127.129531
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:32,016 - INFO - 데이터 개수:
+2025-11-14 11:15:32,016 - INFO - 100
+2025-11-14 11:15:32,018 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:32,119 - INFO - 데이터 개수:
+2025-11-14 11:15:32,119 - INFO - 100
+2025-11-14 11:15:32,126 - INFO - latitude                                      0.0
+battery                                      14.3
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4878
+accz                                             
+user_id                                  E853AE78
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K4SY301027
+running_time                                    0
+accx                                             
+time                2025-11-14T02:13:52.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:32,195 - INFO - 데이터 개수:
+2025-11-14 11:15:32,195 - INFO - 100
+2025-11-14 11:15:32,195 - INFO - latitude                                      0.0
+battery                                      14.1
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 4350
+accz                                             
+user_id                                  C4CAE7ED
+accy                                             
+mc_key                                          0
+vehicle_number                  LWMTDJEJ9SHJ07218
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:23.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:32,217 - INFO - 데이터 개수:
+2025-11-14 11:15:32,217 - INFO - 100
+2025-11-14 11:15:32,218 - INFO - latitude                                      0.0
+battery                                      13.4
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 7504
+accz                                             
+user_id                                  DBF892A1
+accy                                             
+mc_key                                          0
+vehicle_number                  MLHNF09K1S5401438
+running_time                                    0
+accx                                             
+time                2025-11-14T02:14:35.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:32,318 - INFO - 데이터 개수:
+2025-11-14 11:15:32,318 - INFO - 100
+2025-11-14 11:15:32,318 - INFO - latitude                                      0.0
+battery                                      14.0
+gyrox                                            
+speed                                           0
+gyroy                                            
+running_distance                              0.0
+gyroz                                            
+driver_name                          경기 수원 거 5705
+accz                                             
+user_id                                  D10C8A81
+accy                                             
+mc_key                                          0
+vehicle_number                  RLHJK05K4SY300525
+running_time                                    0
+accx                                             
+time                2025-11-14T02:15:05.000+00:00
+longitude                                     0.0
+status                                       0x10
+Name: 0, dtype: object
+2025-11-14 11:15:32,340 - INFO - port   vehicle_number       ip_address        id                             client_id                           time  ...    accx    accy    accz   gyrox   gyroy   gyroz
+0   51908     경기 수원 거 7502     37.17.191.68  EAE28066  d3471980-9964-4fc9-979c-c3c0e84ae279  2025-11-14T01:54:53.000+00:00  ...  +01528  +12173  +10186  -00116  +00016  -00006
+1   43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc  2025-11-14T02:15:07.000+00:00  ...  +09597  -10771  -09016  -00031  -00106  +00136
+2   51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6  2025-11-14T02:15:06.000+00:00  ...  +02394  -00168  -18740  -00117  +00024  +00026
+3   49232     경기 수원 거 9533     37.17.191.68  FD1D0C84  b3764d25-7ffe-4695-a22c-a064de67e669  2025-11-14T02:15:26.000+00:00  ...  +06989  -02674  -14600  -00112  +00012  +00006
+4   62090     경기 수원 거 5801     37.17.191.68  E0459619  892c2cc6-e48e-47da-b68f-e47edef82e81  2025-11-14T02:15:11.000+00:00  ...                                                
+..    ...              ...              ...       ...                                   ...                            ...  ...     ...     ...     ...     ...     ...     ...
+64  57607     경기 수원 거 7504     37.17.191.68  DBF892A1  27df4de4-6147-4ac1-ac93-a8aacbe2d901  2025-11-14T02:14:35.000+00:00  ...                                                
+65  59879     경기 수원 거 4878     5.35.166.165  E853AE78  5b6f6f74-ea2a-41c3-981f-0de18af84f0f  2025-11-14T02:13:52.000+00:00  ...                                                
+66  64887     경기 수원 거 4350   195.226.133.59  C4CAE7ED  2b371927-e303-4a1e-91bb-76ecb2287e4e  2025-11-14T02:14:23.000+00:00  ...                                                
+67  56265     경기 수원 거 7504     37.17.191.68  DBF892A1  35c9141c-445c-4cd9-b0d4-dde9c4dc46dc  2025-11-14T02:14:35.000+00:00  ...                                                
+68  38639     경기 수원 거 5705     5.35.166.165  D10C8A81  f30ba072-cafb-4b3f-994c-eeca566935ba  2025-11-14T02:15:05.000+00:00  ...                                                
+
+[69 rows x 16 columns]
+2025-11-14 11:15:32,340 - INFO - -----------------------------

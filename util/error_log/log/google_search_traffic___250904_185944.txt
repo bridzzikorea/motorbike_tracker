@@ -1,0 +1,142 @@
+2025-09-04 18:59:45,896 - INFO - 시트이름: 대시보드
+2025-09-04 18:59:45,896 - INFO - 구글 시트 로드 - 시도중....
+2025-09-04 18:59:46,197 - INFO - 구글 시트 로드 - 완료
+2025-09-04 18:59:46,522 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-04 18:59:46,710 - INFO - C:\program_cookies 폴더 크기: 0.75 GB
+2025-09-04 18:59:46,711 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-09-04 18:59:46,711 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-09-04 18:59:46,711 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-09-04 18:59:46,711 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36입니다.
+2025-09-04 18:59:51,584 - INFO - Stay signed out 버튼이 없습니다 - 'NoneType' object has no attribute 'get_position'
+2025-09-04 19:00:01,775 - ERROR - 1/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 915, in run
+    await self._search_keyword(row["검색어"])
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 810, in _search_keyword
+    await self.nodriver.element_random_click(google_search_bar_element)
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 798, in element_random_click
+    pos = await element.get_position()
+                ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_position'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 19:00:01,777 - ERROR - Traceback (most recent call last):
+2025-09-04 19:00:01,777 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 19:00:01,777 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 19:00:01,777 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 915, in run
+    await self._search_keyword(row["검색어"])
+2025-09-04 19:00:01,777 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 810, in _search_keyword
+    await self.nodriver.element_random_click(google_search_bar_element)
+2025-09-04 19:00:01,778 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 798, in element_random_click
+    pos = await element.get_position()
+                ^^^^^^^^^^^^^^^^^^^^
+2025-09-04 19:00:01,778 - ERROR - AttributeError: 'NoneType' object has no attribute 'get_position'
+2025-09-04 19:00:02,075 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:00:02,076 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:00:03,078 - INFO - ==================================
+2025-09-04 19:00:03,078 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 19:00:03,262 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 19:00:04,491 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-04 19:00:06,495 - INFO - ==================================
+2025-09-04 19:00:06,496 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-04 19:00:06,496 - INFO - -----------------------------
+2025-09-04 19:00:06,496 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-04 19:00:06,496 - INFO - ==================================
+2025-09-04 19:00:06,645 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:00:06,646 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:00:07,647 - INFO - ==================================
+2025-09-04 19:00:07,647 - INFO - 시트이름: 대시보드
+2025-09-04 19:00:07,647 - INFO - 구글 시트 로드 - 시도중....
+2025-09-04 19:00:08,364 - INFO - 구글 시트 로드 - 완료
+2025-09-04 19:00:08,732 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-04 19:00:08,861 - INFO - C:\program_cookies 폴더 크기: 0.75 GB
+2025-09-04 19:00:08,862 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-09-04 19:00:08,862 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-09-04 19:00:08,862 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-09-04 19:00:08,862 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6832.64 Safari/537.36입니다.
+2025-09-04 19:00:13,131 - INFO - Stay signed out 버튼이 없습니다 - 'NoneType' object has no attribute 'get_position'
+2025-09-04 19:01:25,180 - ERROR - 2/10번째 [ google_search_traffic.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 916, in run
+    await self._search_target_url(row)
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 856, in _search_target_url
+    await self._go_to_page(page)
+  File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 846, in _go_to_page
+    page_element = await self.nodriver.tab.select(page_select, timeout=2)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\tab.py", line 320, in select
+    item = await self.query_selector(selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\tab.py", line 570, in query_selector
+    node_id = await self.send(cdp.dom.query_selector(doc.node_id, selector))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\connection.py", line 518, in send
+    return await tx
+           ^^^^^^^^
+nodriver.core.connection.ProtocolException: Could not find node with given id [code: -32000]
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-04 19:01:25,180 - ERROR - Traceback (most recent call last):
+2025-09-04 19:01:25,181 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 951, in <module>
+    uc.loop().run_until_complete(google_view_bot.run())
+2025-09-04 19:01:25,181 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+2025-09-04 19:01:25,181 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 916, in run
+    await self._search_target_url(row)
+2025-09-04 19:01:25,181 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 856, in _search_target_url
+    await self._go_to_page(page)
+2025-09-04 19:01:25,181 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\google\google_search_traffic.py", line 846, in _go_to_page
+    page_element = await self.nodriver.tab.select(page_select, timeout=2)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-04 19:01:25,181 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\tab.py", line 320, in select
+    item = await self.query_selector(selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-04 19:01:25,182 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\tab.py", line 570, in query_selector
+    node_id = await self.send(cdp.dom.query_selector(doc.node_id, selector))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-04 19:01:25,182 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\nodriver\core\connection.py", line 518, in send
+    return await tx
+           ^^^^^^^^
+2025-09-04 19:01:25,182 - ERROR - nodriver.core.connection.ProtocolException: Could not find node with given id [code: -32000]
+2025-09-04 19:01:25,379 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:01:25,380 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:01:26,380 - INFO - ==================================
+2025-09-04 19:01:26,380 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-04 19:01:26,537 - INFO - [현재 크롬 버전] : 140.0.7339.81
+2025-09-04 19:01:27,806 - INFO - Chrome 업데이트를 확인하는 중...
+2025-09-04 19:01:29,811 - INFO - ==================================
+2025-09-04 19:01:29,811 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-09-04 19:01:29,811 - INFO - -----------------------------
+2025-09-04 19:01:29,812 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-09-04 19:01:29,812 - INFO - ==================================
+2025-09-04 19:01:29,955 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-04 19:01:29,956 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-04 19:01:30,957 - INFO - ==================================
+2025-09-04 19:01:30,957 - INFO - 시트이름: 대시보드
+2025-09-04 19:01:30,957 - INFO - 구글 시트 로드 - 시도중....
+2025-09-04 19:01:31,536 - INFO - 구글 시트 로드 - 완료
+2025-09-04 19:01:31,849 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-04 19:01:31,984 - INFO - C:\program_cookies 폴더 크기: 0.75 GB
+2025-09-04 19:01:31,985 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-09-04 19:01:31,985 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-09-04 19:01:31,985 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-09-04 19:01:31,985 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6833.84 Safari/537.36입니다.
+2025-09-04 19:01:35,989 - INFO - Stay signed out 버튼이 없습니다 - 'NoneType' object has no attribute 'get_position'

@@ -1,0 +1,287 @@
+2025-07-30 15:08:48,700 - INFO - ==================================
+2025-07-30 15:08:48,700 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.
+2025-07-30 15:09:14,769 - INFO - 바이럴대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-30 15:09:14,828 - INFO - C:\program_cookies 폴더 크기: 0.05 GB
+2025-07-30 15:09:14,846 - INFO - C:\program_cookies\Mobile_ghij456klmno 폴더 크기: 0.04 GB
+2025-07-30 15:09:14,847 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_ghij456klmno 폴더를 지정합니다.
+2025-07-30 15:09:14,847 - INFO - fixed UA가 있습니다.
+2025-07-30 15:09:14,847 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-07-30 15:09:14,848 - INFO - 옵션 수동설정을 시작합니다.
+2025-07-30 15:09:14,848 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-07-30 15:09:16,665 - INFO - 크롬창을 열었습니다.
+2025-07-30 15:09:16,668 - INFO - Android
+2025-07-30 15:09:16,685 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-30 15:09:16,686 - INFO - FIXED gps 정보를 적용합니다.
+2025-07-30 15:09:16,686 - INFO - FIXED gps 정보는 {'latitude': 37.5491199, 'longitude': 127.167448, 'accuracy': 100} 입니다.
+2025-07-30 15:09:17,063 - INFO - 모든 변경이 완료되었습니다...
+2025-07-30 15:09:17,065 - INFO - ~~~~~~~~~~
+2025-07-30 15:09:17,494 - INFO - [ NAVER_ID : ghij456klmno ]
+2025-07-30 15:09:18,260 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-07-30 15:09:20,174 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-07-30 15:09:21,991 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-07-30 15:09:29,834 - INFO - [완료] 4. 네이버 로그인
+2025-07-30 15:09:30,199 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-07-30 15:09:31,265 - INFO - 메일 내용 : 비밀번호가 변경되었습니다.
+2025-07-30 15:09:31,274 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-07-30 15:09:40,990 - INFO - 글쓰기를 시작합니다
+2025-07-30 15:09:51,168 - INFO - 랜덤이미지 경로를 찾고 있습니다
+2025-07-30 15:09:51,170 - INFO - 전체 랜덤이미지 개수는 3개입니다.
+2025-07-30 15:09:51,262 - INFO - ============선택이미지를 불러옵니다============
+2025-07-30 15:09:51,317 - INFO - [선택사진]: 스누피팝업1.jpg
+2025-07-30 15:09:51,415 - INFO - 파일 삭제: C:\카페바이럴\브리찌\선택사진\Output\backup_스누피팝업12.jpg
+2025-07-30 15:09:51,416 - INFO - 파일 삭제: C:\카페바이럴\브리찌\선택사진\Output\스누피팝업12.jpg
+2025-07-30 15:09:51,917 - INFO - C:\카페바이럴\브리찌\선택사진\Output\스누피팝업1.jpg
+2025-07-30 15:09:52,094 - INFO - 이미지 사이즈를 500px로 축소 완료했습니다 : C:\카페바이럴\브리찌\선택사진\Output\스누피팝업1.jpg
+2025-07-30 15:09:53,564 - INFO - 변경 전 메타데이터
+2025-07-30 15:09:53,564 - INFO - {'0th': {}, 'Exif': {}, 'GPS': {}, 'Interop': {}, '1st': {}, 'thumbnail': None}
+2025-07-30 15:09:53,566 - INFO - 변경 후 메타데이터
+2025-07-30 15:09:53,571 - INFO - {'0th': {}, 'Exif': {}, 'GPS': {}, 'Interop': {}, '1st': {}, 'thumbnail': None}
+2025-07-30 15:09:57,617 - ERROR - C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py:608: DeprecationWarning: Method .SetEditText() is deprecated, use .set_edit_text() instead.
+  edit.SetText(fr"{s_image_path}")
+2025-07-30 15:09:57,875 - ERROR - C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py:612: DeprecationWarning: Method .SetEditText() is deprecated, use .set_edit_text() instead.
+  dlg.Edit.SetText(select_image)
+2025-07-30 15:10:02,752 - INFO - 이미지 로딩중
+2025-07-30 15:10:02,772 - INFO - .
+2025-07-30 15:10:02,881 - ERROR - 1/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1143, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1095, in cafe_post_comment_start
+    is_completd_cafe_viral = start_cafe_viral(googlesheet)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1084, in start_cafe_viral
+    cafe_viral_post(googlesheet, postdata)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 875, in cafe_viral_post
+    writtenurl = write_contents(browser, data['자유게시판링크'][k], data['제목'][k], data['본문'][k], data['랜덤사진경로'][k], data['선택사진경로'][k], data['동영상경로'][k])
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 811, in write_contents
+    onebyonetext(browser, content, r_image_path, s_image_path, video_path)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 758, in onebyonetext
+    specialfunction(browser, specialword, r_image_path, s_image_path, video_path)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 621, in specialfunction
+    while selenium_util.is_element_present(browser, image_state_selector):
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 125, in is_element_present
+    temp = browser.find_element(By.CSS_SELECTOR, css_selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.184)
+Stacktrace:
+	GetHandleVerifier [0x0xb4ba83+63395]
+	GetHandleVerifier [0x0xb4bac4+63460]
+	(No symbol) [0x0x992113]
+	(No symbol) [0x0x970fb9]
+	(No symbol) [0x0xa05ace]
+	(No symbol) [0x0xa20099]
+	(No symbol) [0x0x9ff1a6]
+	(No symbol) [0x0x9ce7b2]
+	(No symbol) [0x0x9cf654]
+	GetHandleVerifier [0x0xdc8883+2672035]
+	GetHandleVerifier [0x0xdc3cba+2652634]
+	GetHandleVerifier [0x0xb72bca+223466]
+	GetHandleVerifier [0x0xb62cb8+158168]
+	GetHandleVerifier [0x0xb6978d+185517]
+	GetHandleVerifier [0x0xb53b78+96408]
+	GetHandleVerifier [0x0xb53d02+96802]
+	GetHandleVerifier [0x0xb3e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-07-30 15:10:02,884 - ERROR - Traceback (most recent call last):
+2025-07-30 15:10:02,885 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1143, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:02,885 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1095, in cafe_post_comment_start
+    is_completd_cafe_viral = start_cafe_viral(googlesheet)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:02,885 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1084, in start_cafe_viral
+    cafe_viral_post(googlesheet, postdata)
+2025-07-30 15:10:02,885 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 875, in cafe_viral_post
+    writtenurl = write_contents(browser, data['자유게시판링크'][k], data['제목'][k], data['본문'][k], data['랜덤사진경로'][k], data['선택사진경로'][k], data['동영상경로'][k])
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:02,886 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 811, in write_contents
+    onebyonetext(browser, content, r_image_path, s_image_path, video_path)
+2025-07-30 15:10:02,886 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 758, in onebyonetext
+    specialfunction(browser, specialword, r_image_path, s_image_path, video_path)
+2025-07-30 15:10:02,886 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 621, in specialfunction
+    while selenium_util.is_element_present(browser, image_state_selector):
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:02,886 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 125, in is_element_present
+    temp = browser.find_element(By.CSS_SELECTOR, css_selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:02,886 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:02,886 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-07-30 15:10:02,886 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-07-30 15:10:02,887 - ERROR - selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.184)
+Stacktrace:
+	GetHandleVerifier [0x0xb4ba83+63395]
+	GetHandleVerifier [0x0xb4bac4+63460]
+	(No symbol) [0x0x992113]
+	(No symbol) [0x0x970fb9]
+	(No symbol) [0x0xa05ace]
+	(No symbol) [0x0xa20099]
+	(No symbol) [0x0x9ff1a6]
+	(No symbol) [0x0x9ce7b2]
+	(No symbol) [0x0x9cf654]
+	GetHandleVerifier [0x0xdc8883+2672035]
+	GetHandleVerifier [0x0xdc3cba+2652634]
+	GetHandleVerifier [0x0xb72bca+223466]
+	GetHandleVerifier [0x0xb62cb8+158168]
+	GetHandleVerifier [0x0xb6978d+185517]
+	GetHandleVerifier [0x0xb53b78+96408]
+	GetHandleVerifier [0x0xb53d02+96802]
+	GetHandleVerifier [0x0xb3e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-07-30 15:10:03,146 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-07-30 15:10:03,148 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-07-30 15:10:03,150 - INFO - ==================================
+2025-07-30 15:10:03,152 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.
+2025-07-30 15:10:08,421 - INFO - 바이럴대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-30 15:10:08,447 - INFO - C:\program_cookies 폴더 크기: 0.06 GB
+2025-07-30 15:10:08,460 - INFO - C:\program_cookies\Mobile_ghij456klmno 폴더 크기: 0.05 GB
+2025-07-30 15:10:08,460 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_ghij456klmno 폴더를 지정합니다.
+2025-07-30 15:10:08,460 - INFO - fixed UA가 있습니다.
+2025-07-30 15:10:08,461 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-07-30 15:10:08,461 - INFO - 옵션 수동설정을 시작합니다.
+2025-07-30 15:10:08,461 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-07-30 15:10:08,480 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\patcher.py:254: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  return LooseVersion(last_versions["channels"]["Stable"]["version"])
+2025-07-30 15:10:09,621 - ERROR - c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\__init__.py:363: DeprecationWarning: 'locale.getdefaultlocale' is deprecated and slated for removal in Python 3.15. Use setlocale(), getencoding() and getlocale() instead.
+  language = locale.getdefaultlocale()[0].replace("_", "-")
+2025-07-30 15:10:10,258 - INFO - 크롬창을 열었습니다.
+2025-07-30 15:10:10,258 - INFO - Android
+2025-07-30 15:10:10,278 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-07-30 15:10:10,279 - INFO - FIXED gps 정보를 적용합니다.
+2025-07-30 15:10:10,279 - INFO - FIXED gps 정보는 {'latitude': 37.5491199, 'longitude': 127.167448, 'accuracy': 100} 입니다.
+2025-07-30 15:10:10,658 - INFO - 모든 변경이 완료되었습니다...
+2025-07-30 15:10:10,658 - INFO - ~~~~~~~~~~
+2025-07-30 15:10:11,193 - INFO - [ NAVER_ID : ghij456klmno ]
+2025-07-30 15:10:11,926 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-07-30 15:10:12,415 - ERROR - 2/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1143, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1095, in cafe_post_comment_start
+    is_completd_cafe_viral = start_cafe_viral(googlesheet)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1084, in start_cafe_viral
+    cafe_viral_post(googlesheet, postdata)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 861, in cafe_viral_post
+    naver_util.naver_login_mo(browser, data['바이럴ID'][0], data['PW'][0])
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 885, in naver_login_mo
+    if selenium_util.is_element_present(driver, popup_list_select):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 125, in is_element_present
+    temp = browser.find_element(By.CSS_SELECTOR, css_selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.184)
+Stacktrace:
+	GetHandleVerifier [0x0x93ba83+63395]
+	GetHandleVerifier [0x0x93bac4+63460]
+	(No symbol) [0x0x782113]
+	(No symbol) [0x0x760fb9]
+	(No symbol) [0x0x7f5ace]
+	(No symbol) [0x0x810099]
+	(No symbol) [0x0x7ef1a6]
+	(No symbol) [0x0x7be7b2]
+	(No symbol) [0x0x7bf654]
+	GetHandleVerifier [0x0xbb8883+2672035]
+	GetHandleVerifier [0x0xbb3cba+2652634]
+	GetHandleVerifier [0x0x962bca+223466]
+	GetHandleVerifier [0x0x952cb8+158168]
+	GetHandleVerifier [0x0x95978d+185517]
+	GetHandleVerifier [0x0x943b78+96408]
+	GetHandleVerifier [0x0x943d02+96802]
+	GetHandleVerifier [0x0x92e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-07-30 15:10:12,416 - ERROR - Traceback (most recent call last):
+2025-07-30 15:10:12,416 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1143, in <module>
+    if status := cafe_post_comment_start(googlesheet):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:12,416 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1095, in cafe_post_comment_start
+    is_completd_cafe_viral = start_cafe_viral(googlesheet)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:12,416 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1084, in start_cafe_viral
+    cafe_viral_post(googlesheet, postdata)
+2025-07-30 15:10:12,416 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 861, in cafe_viral_post
+    naver_util.naver_login_mo(browser, data['바이럴ID'][0], data['PW'][0])
+2025-07-30 15:10:12,417 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 885, in naver_login_mo
+    if selenium_util.is_element_present(driver, popup_list_select):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:12,417 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 125, in is_element_present
+    temp = browser.find_element(By.CSS_SELECTOR, css_selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:12,417 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-30 15:10:12,417 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-07-30 15:10:12,417 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-07-30 15:10:12,417 - ERROR - selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.184)
+Stacktrace:
+	GetHandleVerifier [0x0x93ba83+63395]
+	GetHandleVerifier [0x0x93bac4+63460]
+	(No symbol) [0x0x782113]
+	(No symbol) [0x0x760fb9]
+	(No symbol) [0x0x7f5ace]
+	(No symbol) [0x0x810099]
+	(No symbol) [0x0x7ef1a6]
+	(No symbol) [0x0x7be7b2]
+	(No symbol) [0x0x7bf654]
+	GetHandleVerifier [0x0xbb8883+2672035]
+	GetHandleVerifier [0x0xbb3cba+2652634]
+	GetHandleVerifier [0x0x962bca+223466]
+	GetHandleVerifier [0x0x952cb8+158168]
+	GetHandleVerifier [0x0x95978d+185517]
+	GetHandleVerifier [0x0x943b78+96408]
+	GetHandleVerifier [0x0x943d02+96802]
+	GetHandleVerifier [0x0x92e90a+9770]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-07-30 15:10:12,544 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-07-30 15:10:12,544 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-07-30 15:10:12,544 - INFO - ==================================
+2025-07-30 15:10:12,545 - INFO - #1 바이럴 글쓰기 작업을 시작합니다.

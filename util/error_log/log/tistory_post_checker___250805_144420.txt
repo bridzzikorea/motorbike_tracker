@@ -1,0 +1,99 @@
+2025-08-05 14:44:25,840 - INFO - [★포스팅 체커★] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-05 14:44:27,591 - INFO - [★포스팅 체커★] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-05 14:44:29,250 - INFO - [★포스팅 체커★] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-05 14:44:29,251 - INFO - ==================================
+2025-08-05 14:44:29,256 - INFO - 1번째 작업 - 시작
+2025-08-05 14:44:29,256 - INFO - -----------------------------
+2025-08-05 14:44:29,258 - INFO - [ 1단계 :: 잘못된 태그 => 올바른 태그(수정)
+2025-08-05 14:44:29,260 - INFO - </굅게> => '</굵게>' : 변경완료
+2025-08-05 14:44:29,260 - INFO - <굅게> => '<굵게>' : 변경완료
+2025-08-05 14:44:29,261 - INFO - -----------------------------
+2025-08-05 14:44:29,261 - INFO - [ 2단계 :: <제목> </제목> - 태그 띄어쓰기 제거
+2025-08-05 14:44:29,263 - INFO - -----------------------------
+2025-08-05 14:44:29,265 - INFO - [ 3단계 :: 링크 태그 - 확인]
+2025-08-05 14:44:29,268 - INFO - -----------------------------
+2025-08-05 14:44:29,268 - INFO - [ 4단계 :: 표 태그 - 확인]
+2025-08-05 14:44:29,269 - INFO - =======================================
+2025-08-05 14:44:29,270 - INFO - -----------------------------
+2025-08-05 14:44:29,270 - INFO - [ 5단계 :: 짝 태그 불일치 - 확인]
+2025-08-05 14:44:29,276 - INFO - 짝 태그 개수(일치) --- <제목1> : 2개  /  </제목1> : 2개
+2025-08-05 14:44:29,277 - INFO - 짝 태그 개수(일치) --- <제목2> : 3개  /  </제목2> : 3개
+2025-08-05 14:44:29,277 - INFO - 짝 태그 개수(일치) --- <제목3> : 0개  /  </제목3> : 0개
+2025-08-05 14:44:29,277 - INFO - 짝 태그 개수(일치) --- <굵게> : 15개  /  </굵게> : 15개
+2025-08-05 14:44:29,277 - INFO - 짝 태그 개수(일치) --- <밑줄> : 0개  /  </밑줄> : 0개
+2025-08-05 14:44:29,277 - INFO - 짝 태그 개수(일치) --- <취소선> : 0개  /  </취소선> : 0개
+2025-08-05 14:44:29,277 - INFO - 짝 태그 개수(일치) --- <기울이기> : 0개  /  </기울이기> : 0개
+2025-08-05 14:44:29,277 - INFO - 짝 태그 개수(일치) --- <색상> : 0개  /  </색상> : 0개
+2025-08-05 14:44:29,278 - INFO - 짝 태그 개수(일치) --- <배경색> : 0개  /  </배경색> : 0개
+2025-08-05 14:44:29,278 - INFO - 짝 태그 개수(일치) --- <인용구> : 1개  /  </인용구> : 1개
+2025-08-05 14:44:29,278 - INFO - -----------------------------
+2025-08-05 14:44:29,278 - INFO - [ 99단계  :: 버그 태그 - 확인]
+2025-08-05 14:44:29,278 - INFO - ==================================
+2025-08-05 14:44:29,278 - INFO - ==================================
+2025-08-05 14:44:29,278 - INFO - ★ 1단계 작업 (변경 완료) - '잘못된 문구'를 '올바른 문구'로 변경했습니다
+  -  </굅게> => '</굵게>' : 변경완료
+  -  <굅게> => '<굵게>' : 변경완료
+2025-08-05 14:44:32,117 - INFO - [★포스팅 체커★] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-05 14:44:32,550 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\PostCheckr\tistory_post_checker.py", line 628, in <module>
+    tisotry_post_checker.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\PostCheckr\tistory_post_checker.py", line 604, in run
+    googlesheet.vlookup_update(
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 83, in wrapper
+    return method(*args, **kwargs)  # 원래 메서드 실행
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 486, in vlookup_update
+    cell_list = sheet.range(cell_range) # 1차원 리스트 '셀' 객체(위치 값이 들어있음)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\gspread\utils.py", line 602, in wrapper
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\gspread\worksheet.py", line 409, in range
+    data = self.client.values_get(self.spreadsheet_id, range_label)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\gspread\http_client.py", line 236, in values_get
+    r = self.request("get", url, params=params)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\gspread\http_client.py", line 114, in request
+    response = self.session.request(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\google\auth\transport\requests.py", line 537, in request
+    response = super(AuthorizedSession, self).request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\ssl.py", line 1251, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\ssl.py", line 1103, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

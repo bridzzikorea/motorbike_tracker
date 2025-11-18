@@ -1,0 +1,200 @@
+2025-08-12 10:14:45,243 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 10:14:45,243 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 10:14:45,787 - INFO - 구글 시트 로드 - 완료
+2025-08-12 10:14:46,365 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 10:14:46,553 - INFO - C:\program_cookies 폴더 크기: 1.14 GB
+2025-08-12 10:14:46,578 - INFO - C:\program_cookies\Mobile_dlagkdud14 폴더 크기: 0.16 GB
+2025-08-12 10:14:46,578 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_dlagkdud14 폴더를 지정합니다.
+2025-08-12 10:14:46,578 - INFO - fixed UA가 있습니다.
+2025-08-12 10:14:46,578 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.1 Mobile Safari/537.36입니다.
+2025-08-12 10:14:46,578 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 10:14:46,578 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 10:14:50,736 - INFO - 크롬창을 열었습니다.
+2025-08-12 10:14:50,736 - INFO - Android
+2025-08-12 10:14:50,752 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 10:14:50,753 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 10:14:50,753 - INFO - FIXED gps 정보는 {'latitude': 37.6011568, 'longitude': 126.928083, 'accuracy': 100} 입니다.
+2025-08-12 10:14:51,100 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 10:14:51,100 - INFO - ~~~~~~~~~~
+2025-08-12 10:14:51,566 - INFO - [ NAVER_ID : dlagkdud14 ]
+2025-08-12 10:14:52,208 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 10:14:53,963 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 10:14:55,574 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 10:15:02,376 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 10:15:02,631 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 10:15:03,913 - INFO - 이미 읽어 본 메일이라 스킵하고 넘어갑니다.
+2025-08-12 10:15:04,325 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 10:15:08,010 - INFO - delete-6707 - 게시글이 없는 글입니다. 다음 단계로 넘어갑니다.
+2025-08-12 10:15:10,188 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 10:15:10,191 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 10:15:10,192 - INFO - 이 카페는 접근하실 수 없습니다. 이 카페는 네이버 이용약관 및 운영원칙에서 제한하고 있는 목적으로 개설되었거나 제한 대상 게시글을 다수 포함하고 있어 접근이 제한 되었습니다.
+2025-08-12 10:15:26,468 - ERROR - 1/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1091, in _send_output
+    self.send(msg)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1035, in send
+    self.connect()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000011EE5BDBB60>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 129, in start_delete_content
+    browser.get(row['게시완료링크'])
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\__init__.py", line 665, in get
+    return super().get(url)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 472, in get
+    self.execute(Command.GET, {"url": url})
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 445, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=61604): Max retries exceeded with url: /session/54dad762f6691fa960cf7a48c5563b3f/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000011EE5BDBB60>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 10:15:26,468 - ERROR - Traceback (most recent call last):
+2025-08-12 10:15:26,475 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,475 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+2025-08-12 10:15:26,475 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+2025-08-12 10:15:26,475 - ERROR - ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+2025-08-12 10:15:26,475 - ERROR - The above exception was the direct cause of the following exception:
+2025-08-12 10:15:26,475 - ERROR - Traceback (most recent call last):
+2025-08-12 10:15:26,475 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,476 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+2025-08-12 10:15:26,476 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+2025-08-12 10:15:26,476 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+2025-08-12 10:15:26,476 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1091, in _send_output
+    self.send(msg)
+2025-08-12 10:15:26,476 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1035, in send
+    self.connect()
+2025-08-12 10:15:26,476 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,476 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+2025-08-12 10:15:26,476 - ERROR - urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000011EE5BDBB60>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+2025-08-12 10:15:26,477 - ERROR - The above exception was the direct cause of the following exception:
+2025-08-12 10:15:26,477 - ERROR - Traceback (most recent call last):
+2025-08-12 10:15:26,477 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 249, in <module>
+    start_delete_content()
+2025-08-12 10:15:26,477 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 129, in start_delete_content
+    browser.get(row['게시완료링크'])
+2025-08-12 10:15:26,477 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\__init__.py", line 665, in get
+    return super().get(url)
+           ^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,478 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 472, in get
+    self.execute(Command.GET, {"url": url})
+2025-08-12 10:15:26,478 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 445, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,478 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,478 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,478 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,478 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,478 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,478 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+2025-08-12 10:15:26,479 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+2025-08-12 10:15:26,479 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+2025-08-12 10:15:26,479 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,479 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 10:15:26,479 - ERROR - urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=61604): Max retries exceeded with url: /session/54dad762f6691fa960cf7a48c5563b3f/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000011EE5BDBB60>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+2025-08-12 10:15:26,590 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 10:15:26,590 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 10:15:27,091 - INFO - ==================================
+2025-08-12 10:15:27,091 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 10:15:27,233 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 10:15:28,419 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 10:15:30,429 - INFO - ==================================
+2025-08-12 10:15:30,429 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 10:15:30,429 - INFO - -----------------------------
+2025-08-12 10:15:30,429 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 10:15:30,429 - INFO - ==================================

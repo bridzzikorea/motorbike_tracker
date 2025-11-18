@@ -1,0 +1,25 @@
+2025-11-14 10:08:30,255 - INFO - 로그인 응답 코드:
+2025-11-14 10:08:30,255 - INFO - 200
+2025-11-14 10:08:30,255 - INFO - 서버가 준 쿠키:
+2025-11-14 10:08:30,255 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=AB453BE0EDA9DFAFF49C8FFD776FB02C for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 10:08:30,282 - INFO - 로그인 응답 코드:
+2025-11-14 10:08:30,283 - INFO - 200
+2025-11-14 10:08:30,283 - INFO - 장비 개수:
+2025-11-14 10:08:30,283 - INFO - 29
+2025-11-14 10:08:30,288 - INFO - port   vehicle_number       ip_address        id                             client_id
+0  51908     경기 수원 거 7502     37.17.191.68  EAE28066  d3471980-9964-4fc9-979c-c3c0e84ae279
+1  43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc
+2  51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6
+3  55992     경기 수원 너 3432  130.195.194.238  C79651FC  c73df97f-4651-464f-b233-ac0c475bdf06
+4  41752     경기 수원 거 5286     5.35.166.165  C56CE8A4  4f36886d-b5fd-4403-a5ca-251b97b952fc
+2025-11-14 10:08:30,290 - INFO - Index(['port', 'vehicle_number', 'ip_address', 'id', 'client_id'], dtype='object')
+2025-11-14 10:08:30,290 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 95, in <module>
+    motobike_tracker_bot.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 80, in run
+    self._get_bike_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 74, in _get_bike_data
+    print(len(df.iterrows()))
+          ^^^^^^^^^^^^^^^^^^
+TypeError: object of type 'generator' has no len()

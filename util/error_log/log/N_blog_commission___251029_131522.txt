@@ -1,0 +1,515 @@
+2025-10-29 13:15:22,370 - INFO - 블로그 작성 시작: 시트명=의뢰블로그_배포바이럴, 예약작성 여부=False
+2025-10-29 13:15:30,429 - INFO - 사용 시트 : 의뢰블로그_배포바이럴
+2025-10-29 13:15:30,429 - INFO - ======================
+2025-10-29 13:15:30,429 - INFO - 시트이름: 대시보드
+2025-10-29 13:15:30,429 - INFO - 구글 시트 로드 - 시도중....
+2025-10-29 13:15:31,197 - INFO - 구글 시트 로드 - 완료
+2025-10-29 13:15:32,046 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-29 13:15:32,048 - INFO - [현재 시각] 13:15:30.429389
+2025-10-29 13:15:32,048 - INFO - 30
+2025-10-29 13:15:32,409 - INFO - C:\program_cookies 폴더 크기: 2.17 GB
+2025-10-29 13:15:32,428 - INFO - C:\program_cookies\PC_hs51987 폴더 크기: 0.11 GB
+2025-10-29 13:15:32,428 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_hs51987 폴더를 지정합니다.
+2025-10-29 13:15:32,429 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-10-29 13:15:32,429 - INFO - fixed UA가 있습니다.
+2025-10-29 13:15:32,429 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-10-29 13:15:32,429 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-29 13:15:32,430 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-10-29 13:15:38,480 - ERROR - 1/10번째 [ N_blog_commission.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1250, in <module>
+    write_blog_start("의뢰블로그_배포바이럴", 예약여부=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1184, in write_blog_start
+    browser = pcdriver.make_uc_driver(account_id=data['ID'], fixed_ua=UA, fixed_gps=GEO_data)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 792, in make_uc_driver
+    driver = uc.Chrome(options=options, user_data_dir=user_data_dir)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 47, in __init__
+    super().__init__(
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 257, in __init__
+    self.start_session(capabilities)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:52581
+from session not created: This version of ChromeDriver only supports Chrome version 142
+Current browser version is 141.0.7390.123
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd858c3
+	0xd85904
+	0xb9e76d
+	0xbdb20d
+	0xbda159
+	0xbd008f
+	0xbcfeb6
+	0xc18993
+	0xc1830a
+	0xc0c766
+	0xbddac0
+	0xbdede4
+	0x1007974
+	0x1002bea
+	0xdae5b4
+	0xd9dd28
+	0xda4d8d
+	0xd8ded8
+	0xd8e09c
+	0xd77d1a
+	0x76095d49
+	0x774ed6db
+	0x774ed661
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-29 13:15:38,481 - ERROR - Traceback (most recent call last):
+2025-10-29 13:15:38,481 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1250, in <module>
+    write_blog_start("의뢰블로그_배포바이럴", 예약여부=False)
+2025-10-29 13:15:38,481 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1184, in write_blog_start
+    browser = pcdriver.make_uc_driver(account_id=data['ID'], fixed_ua=UA, fixed_gps=GEO_data)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:15:38,481 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 792, in make_uc_driver
+    driver = uc.Chrome(options=options, user_data_dir=user_data_dir)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:15:38,483 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+2025-10-29 13:15:38,483 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 47, in __init__
+    super().__init__(
+2025-10-29 13:15:38,483 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+2025-10-29 13:15:38,483 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 257, in __init__
+    self.start_session(capabilities)
+2025-10-29 13:15:38,483 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\undetected_chromedriver\__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+2025-10-29 13:15:38,483 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:15:38,483 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-10-29 13:15:38,483 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-10-29 13:15:38,484 - ERROR - selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:52581
+from session not created: This version of ChromeDriver only supports Chrome version 142
+Current browser version is 141.0.7390.123
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd858c3
+	0xd85904
+	0xb9e76d
+	0xbdb20d
+	0xbda159
+	0xbd008f
+	0xbcfeb6
+	0xc18993
+	0xc1830a
+	0xc0c766
+	0xbddac0
+	0xbdede4
+	0x1007974
+	0x1002bea
+	0xdae5b4
+	0xd9dd28
+	0xda4d8d
+	0xd8ded8
+	0xd8e09c
+	0xd77d1a
+	0x76095d49
+	0x774ed6db
+	0x774ed661
+2025-10-29 13:15:38,673 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-29 13:15:38,673 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-29 13:15:39,675 - INFO - ==================================
+2025-10-29 13:15:39,675 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-29 13:15:40,001 - INFO - [현재 크롬 버전] : 141.0.7390.123
+2025-10-29 13:15:41,706 - INFO - Chrome 업데이트를 확인하는 중...
+2025-10-29 13:15:43,714 - INFO - ==================================
+2025-10-29 13:15:43,715 - INFO - Chrome 상태 : Chrome 업데이트 중(1%)
+2025-10-29 13:15:43,715 - INFO - -----------------------------
+2025-10-29 13:15:43,715 - INFO - 🔄 Chrome 업데이트 진행중
+2025-10-29 13:15:43,819 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(1%)
+2025-10-29 13:15:44,855 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(4%)
+2025-10-29 13:15:45,891 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(8%)
+2025-10-29 13:15:46,929 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(12%)
+2025-10-29 13:15:47,966 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(16%)
+2025-10-29 13:15:49,001 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(20%)
+2025-10-29 13:15:50,035 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(24%)
+2025-10-29 13:15:51,070 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(27%)
+2025-10-29 13:15:52,112 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(31%)
+2025-10-29 13:15:53,145 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(35%)
+2025-10-29 13:15:54,183 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(38%)
+2025-10-29 13:15:55,222 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(41%)
+2025-10-29 13:15:56,257 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(45%)
+2025-10-29 13:15:57,289 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(49%)
+2025-10-29 13:15:58,328 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-10-29 13:15:59,361 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-10-29 13:16:00,397 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-10-29 13:16:01,437 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-10-29 13:16:02,479 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-10-29 13:16:03,520 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-10-29 13:16:04,556 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-10-29 13:16:05,595 - INFO - Chrome 버전 상태 : Chrome 업데이트 중(50%)
+2025-10-29 13:16:06,219 - INFO - ✅ Chrome 업데이트 완료됨. 종료합니다.
+2025-10-29 13:16:06,219 - INFO - ==================================
+2025-10-29 13:16:06,361 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-29 13:16:06,362 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-29 13:16:07,363 - INFO - ==================================
+2025-10-29 13:16:07,363 - INFO - 블로그 작성 시작: 시트명=의뢰블로그_배포바이럴, 예약작성 여부=False
+2025-10-29 13:16:09,024 - INFO - 사용 시트 : 의뢰블로그_배포바이럴
+2025-10-29 13:16:09,024 - INFO - ======================
+2025-10-29 13:16:09,024 - INFO - 시트이름: 대시보드
+2025-10-29 13:16:09,024 - INFO - 구글 시트 로드 - 시도중....
+2025-10-29 13:16:09,761 - INFO - 구글 시트 로드 - 완료
+2025-10-29 13:16:10,304 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-29 13:16:10,304 - INFO - [현재 시각] 13:16:09.024811
+2025-10-29 13:16:10,311 - INFO - 30
+2025-10-29 13:16:10,720 - INFO - C:\program_cookies 폴더 크기: 2.17 GB
+2025-10-29 13:16:10,738 - INFO - C:\program_cookies\PC_hs51987 폴더 크기: 0.12 GB
+2025-10-29 13:16:10,738 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_hs51987 폴더를 지정합니다.
+2025-10-29 13:16:10,738 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-10-29 13:16:10,738 - INFO - fixed UA가 있습니다.
+2025-10-29 13:16:10,738 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-10-29 13:16:10,738 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-29 13:16:10,738 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-10-29 13:16:15,190 - INFO - ==================================
+2025-10-29 13:16:15,190 - INFO - devicemetrics를 override 합니다..
+2025-10-29 13:16:15,204 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-29 13:16:15,205 - INFO - FIXED gps 정보를 적용합니다.
+2025-10-29 13:16:15,205 - INFO - FIXED gps 정보는 {'latitude': 37.68076718, 'longitude': 127.1372141, 'accuracy': 100} 입니다.
+2025-10-29 13:16:15,253 - INFO - 모든 변경이 완료되었습니다...
+2025-10-29 13:16:15,253 - INFO - ~~~~~~~~~~
+2025-10-29 13:16:15,282 - INFO - [ NAVER__id : hs51987 ]
+2025-10-29 13:16:15,600 - INFO - [완료] 1. 네이버 PC 홈페이지 get
+2025-10-29 13:16:16,245 - INFO - [완료] 2. 네이버 계정 로그인 박스 - 확인
+2025-10-29 13:16:23,094 - ERROR - 2/10번째 [ N_blog_commission.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1250, in <module>
+    write_blog_start("의뢰블로그_배포바이럴", 예약여부=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1190, in write_blog_start
+    naver_util.naver_login_pc(browser, data['ID'], data['PW'])
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 774, in naver_login_pc
+    naver_login_ID_PW_pc(browser, _id, pw)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 790, in naver_login_ID_PW_pc
+    selenium_util.input_id_pw(browser, "#id", _id)  # 아이디
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 271, in input_id_pw
+    copy_paste(browser, user_input)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 259, in copy_paste
+    ActionChains(browser).key_down(Keys.LEFT_SHIFT).key_down(Keys.INSERT).perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7358c3
+	0x735904
+	0x54e76d
+	0x53d980
+	0x55c734
+	0x5c34c5
+	0x5de799
+	0x5bc766
+	0x58dac0
+	0x58ede4
+	0x9b7974
+	0x9b2bea
+	0x75e5b4
+	0x74dd28
+	0x754d8d
+	0x73ded8
+	0x73e09c
+	0x727d1a
+	0x76095d49
+	0x774ed6db
+	0x774ed661
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-29 13:16:23,095 - ERROR - Traceback (most recent call last):
+2025-10-29 13:16:23,095 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1250, in <module>
+    write_blog_start("의뢰블로그_배포바이럴", 예약여부=False)
+2025-10-29 13:16:23,095 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1190, in write_blog_start
+    naver_util.naver_login_pc(browser, data['ID'], data['PW'])
+2025-10-29 13:16:23,095 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 774, in naver_login_pc
+    naver_login_ID_PW_pc(browser, _id, pw)
+2025-10-29 13:16:23,095 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 790, in naver_login_ID_PW_pc
+    selenium_util.input_id_pw(browser, "#id", _id)  # 아이디
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:23,096 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 271, in input_id_pw
+    copy_paste(browser, user_input)
+2025-10-29 13:16:23,096 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 259, in copy_paste
+    ActionChains(browser).key_down(Keys.LEFT_SHIFT).key_down(Keys.INSERT).perform()
+2025-10-29 13:16:23,096 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 93, in perform
+    self.w3c_actions.perform()
+2025-10-29 13:16:23,096 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 168, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+2025-10-29 13:16:23,096 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-10-29 13:16:23,096 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-10-29 13:16:23,097 - ERROR - selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7358c3
+	0x735904
+	0x54e76d
+	0x53d980
+	0x55c734
+	0x5c34c5
+	0x5de799
+	0x5bc766
+	0x58dac0
+	0x58ede4
+	0x9b7974
+	0x9b2bea
+	0x75e5b4
+	0x74dd28
+	0x754d8d
+	0x73ded8
+	0x73e09c
+	0x727d1a
+	0x76095d49
+	0x774ed6db
+	0x774ed661
+2025-10-29 13:16:23,280 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-29 13:16:23,280 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-29 13:16:24,287 - INFO - ==================================
+2025-10-29 13:16:24,287 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-29 13:16:24,444 - INFO - [현재 크롬 버전] : 142.0.7444.60
+2025-10-29 13:16:27,454 - INFO - Chrome 업데이트를 확인하는 중...
+2025-10-29 13:16:29,458 - INFO - ==================================
+2025-10-29 13:16:29,458 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-10-29 13:16:29,458 - INFO - -----------------------------
+2025-10-29 13:16:29,458 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-10-29 13:16:29,458 - INFO - ==================================
+2025-10-29 13:16:29,602 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-29 13:16:29,602 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-29 13:16:30,603 - INFO - ==================================
+2025-10-29 13:16:30,603 - INFO - 블로그 작성 시작: 시트명=의뢰블로그_배포바이럴, 예약작성 여부=False
+2025-10-29 13:16:32,384 - INFO - 사용 시트 : 의뢰블로그_배포바이럴
+2025-10-29 13:16:32,384 - INFO - ======================
+2025-10-29 13:16:32,384 - INFO - 시트이름: 대시보드
+2025-10-29 13:16:32,384 - INFO - 구글 시트 로드 - 시도중....
+2025-10-29 13:16:33,173 - INFO - 구글 시트 로드 - 완료
+2025-10-29 13:16:33,781 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-29 13:16:33,781 - INFO - [현재 시각] 13:16:32.384158
+2025-10-29 13:16:33,781 - INFO - 30
+2025-10-29 13:16:34,190 - INFO - C:\program_cookies 폴더 크기: 2.20 GB
+2025-10-29 13:16:34,210 - INFO - C:\program_cookies\PC_hs51987 폴더 크기: 0.15 GB
+2025-10-29 13:16:34,211 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_hs51987 폴더를 지정합니다.
+2025-10-29 13:16:34,211 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-10-29 13:16:34,211 - INFO - fixed UA가 있습니다.
+2025-10-29 13:16:34,211 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-10-29 13:16:34,211 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-29 13:16:34,212 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-10-29 13:16:38,223 - INFO - ==================================
+2025-10-29 13:16:38,223 - INFO - devicemetrics를 override 합니다..
+2025-10-29 13:16:38,229 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-29 13:16:38,229 - INFO - FIXED gps 정보를 적용합니다.
+2025-10-29 13:16:38,230 - INFO - FIXED gps 정보는 {'latitude': 37.68076718, 'longitude': 127.1372141, 'accuracy': 100} 입니다.
+2025-10-29 13:16:38,237 - INFO - 모든 변경이 완료되었습니다...
+2025-10-29 13:16:38,237 - INFO - ~~~~~~~~~~
+2025-10-29 13:16:38,259 - INFO - [ NAVER__id : hs51987 ]
+2025-10-29 13:16:38,546 - INFO - [완료] 1. 네이버 PC 홈페이지 get
+2025-10-29 13:16:39,195 - INFO - [완료] 2. 네이버 계정 로그인 박스 - 확인
+2025-10-29 13:16:57,529 - ERROR - 3/10번째 [ N_blog_commission.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1091, in _send_output
+    self.send(msg)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1035, in send
+    self.connect()
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000192A3D75E50>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1250, in <module>
+    write_blog_start("의뢰블로그_배포바이럴", 예약여부=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1190, in write_blog_start
+    naver_util.naver_login_pc(browser, data['ID'], data['PW'])
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 772, in naver_login_pc
+    selenium_util.random_click(browser, naver_login_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 551, in random_click
+    element_random_click(browser, element)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 505, in element_random_click
+    el_width, el_height = element.size['width'], element.size['height']
+                          ^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 380, in size
+    size = self._execute(Command.GET_ELEMENT_RECT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 574, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 445, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\_request_methods.py", line 135, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\_request_methods.py", line 182, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=49215): Max retries exceeded with url: /session/1c3992d27fdbea697871f6d73aed73df/element/f.383D5E5E120BFBEFA23330ED4584E71D.d.8D5C534632A4E6ADA74DADC9DA5582BF.e.32/rect (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000192A3D75E50>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-29 13:16:57,531 - ERROR - Traceback (most recent call last):
+2025-10-29 13:16:57,531 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,532 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+2025-10-29 13:16:57,532 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+2025-10-29 13:16:57,532 - ERROR - ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+2025-10-29 13:16:57,532 - ERROR - The above exception was the direct cause of the following exception:
+2025-10-29 13:16:57,532 - ERROR - Traceback (most recent call last):
+2025-10-29 13:16:57,533 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,533 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+2025-10-29 13:16:57,533 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+2025-10-29 13:16:57,533 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+2025-10-29 13:16:57,533 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1091, in _send_output
+    self.send(msg)
+2025-10-29 13:16:57,533 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\http\client.py", line 1035, in send
+    self.connect()
+2025-10-29 13:16:57,533 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,534 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+2025-10-29 13:16:57,535 - ERROR - urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000192A3D75E50>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+2025-10-29 13:16:57,535 - ERROR - The above exception was the direct cause of the following exception:
+2025-10-29 13:16:57,535 - ERROR - Traceback (most recent call last):
+2025-10-29 13:16:57,536 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1250, in <module>
+    write_blog_start("의뢰블로그_배포바이럴", 예약여부=False)
+2025-10-29 13:16:57,536 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_commission.py", line 1190, in write_blog_start
+    naver_util.naver_login_pc(browser, data['ID'], data['PW'])
+2025-10-29 13:16:57,536 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver_util.py", line 772, in naver_login_pc
+    selenium_util.random_click(browser, naver_login_selector)
+2025-10-29 13:16:57,537 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 551, in random_click
+    element_random_click(browser, element)
+2025-10-29 13:16:57,538 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 505, in element_random_click
+    el_width, el_height = element.size['width'], element.size['height']
+                          ^^^^^^^^^^^^
+2025-10-29 13:16:57,538 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 380, in size
+    size = self._execute(Command.GET_ELEMENT_RECT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,538 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 574, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,538 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 445, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,538 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,539 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,539 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\_request_methods.py", line 135, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,539 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\_request_methods.py", line 182, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,539 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,539 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+2025-10-29 13:16:57,540 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+2025-10-29 13:16:57,540 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+2025-10-29 13:16:57,540 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,540 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-29 13:16:57,540 - ERROR - urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=49215): Max retries exceeded with url: /session/1c3992d27fdbea697871f6d73aed73df/element/f.383D5E5E120BFBEFA23330ED4584E71D.d.8D5C534632A4E6ADA74DADC9DA5582BF.e.32/rect (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000192A3D75E50>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+2025-10-29 13:16:57,724 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-29 13:16:57,725 - INFO - ✅ Chrome 종료 결과: Chrome 종료

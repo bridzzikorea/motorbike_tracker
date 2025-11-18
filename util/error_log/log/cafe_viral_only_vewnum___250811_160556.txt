@@ -1,0 +1,188 @@
+2025-08-11 16:05:57,899 - INFO - ==================================
+2025-08-11 16:05:57,899 - INFO - # (수동)조회수 작업을 시작합니다 #
+2025-08-11 16:05:57,899 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-11 16:05:57,899 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 16:05:58,344 - INFO - 구글 시트 로드 - 완료
+2025-08-11 16:05:58,715 - INFO - 조회수대시보드(수동) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-11 16:05:58,906 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-11 16:05:58,974 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-11 16:05:58,974 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-11 16:05:58,974 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-08-11 16:05:58,975 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-11 16:05:58,975 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-08-11 16:05:58,975 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-08-11 16:05:58,975 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-08-11 16:06:01,969 - INFO - ==================================
+2025-08-11 16:06:01,969 - INFO - devicemetrics를 override 합니다..
+2025-08-11 16:06:01,975 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-11 16:06:01,975 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-08-11 16:06:01,975 - INFO - RANDOM gps 정보는 {'latitude': 37.567705139236736, 'longitude': 126.9588573234736, 'accuracy': 100} 입니다.
+2025-08-11 16:06:01,984 - INFO - 모든 변경이 완료되었습니다...
+2025-08-11 16:06:01,984 - INFO - ~~~~~~~~~~
+2025-08-11 16:06:26,458 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-11 16:06:26,659 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 16:06:26,660 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 16:06:27,161 - INFO - ==================================
+2025-08-11 16:06:27,161 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 16:06:27,279 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 16:06:28,571 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 16:06:30,574 - INFO - ==================================
+2025-08-11 16:06:30,574 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 16:06:30,574 - INFO - -----------------------------
+2025-08-11 16:06:30,574 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 16:06:30,574 - INFO - ==================================
+2025-08-11 16:06:34,213 - INFO - ==================================
+2025-08-11 16:06:34,580 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-11 16:06:34,641 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-11 16:06:34,641 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-11 16:06:34,641 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-08-11 16:06:34,641 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-11 16:06:34,641 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36입니다.
+2025-08-11 16:06:34,641 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-08-11 16:06:34,641 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-08-11 16:06:37,759 - INFO - ==================================
+2025-08-11 16:06:37,760 - INFO - devicemetrics를 override 합니다..
+2025-08-11 16:06:37,764 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-11 16:06:37,764 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-08-11 16:06:37,764 - INFO - RANDOM gps 정보는 {'latitude': 37.572796896471026, 'longitude': 127.05389078581045, 'accuracy': 100} 입니다.
+2025-08-11 16:06:37,773 - INFO - 모든 변경이 완료되었습니다...
+2025-08-11 16:06:37,773 - INFO - ~~~~~~~~~~
+2025-08-11 16:06:59,291 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-11 16:06:59,430 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 16:06:59,432 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 16:06:59,933 - INFO - ==================================
+2025-08-11 16:06:59,933 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 16:07:00,069 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 16:07:01,273 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 16:07:03,276 - INFO - ==================================
+2025-08-11 16:07:03,276 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 16:07:03,276 - INFO - -----------------------------
+2025-08-11 16:07:03,276 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 16:07:03,276 - INFO - ==================================
+2025-08-11 16:07:06,901 - INFO - ==================================
+2025-08-11 16:07:07,276 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-11 16:07:07,345 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-11 16:07:07,345 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-11 16:07:07,345 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-08-11 16:07:07,345 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-11 16:07:07,345 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36입니다.
+2025-08-11 16:07:07,345 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-08-11 16:07:07,345 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-08-11 16:07:10,240 - INFO - ==================================
+2025-08-11 16:07:10,240 - INFO - devicemetrics를 override 합니다..
+2025-08-11 16:07:10,246 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-11 16:07:10,246 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-08-11 16:07:10,246 - INFO - RANDOM gps 정보는 {'latitude': 37.55047413381202, 'longitude': 127.07581429662501, 'accuracy': 100} 입니다.
+2025-08-11 16:07:10,253 - INFO - 모든 변경이 완료되었습니다...
+2025-08-11 16:07:10,253 - INFO - ~~~~~~~~~~
+2025-08-11 16:07:28,501 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-11 16:07:28,637 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 16:07:28,638 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 16:07:29,139 - INFO - ==================================
+2025-08-11 16:07:29,139 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 16:07:29,271 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 16:07:30,469 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 16:07:32,472 - INFO - ==================================
+2025-08-11 16:07:32,472 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 16:07:32,474 - INFO - -----------------------------
+2025-08-11 16:07:32,474 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 16:07:32,474 - INFO - ==================================
+2025-08-11 16:07:36,115 - INFO - ==================================
+2025-08-11 16:07:36,509 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-11 16:07:36,568 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-11 16:07:36,568 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-11 16:07:36,568 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-08-11 16:07:36,568 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-11 16:07:36,568 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6832.64 Safari/537.36입니다.
+2025-08-11 16:07:36,568 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-08-11 16:07:36,568 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-08-11 16:07:39,447 - INFO - ==================================
+2025-08-11 16:07:39,447 - INFO - devicemetrics를 override 합니다..
+2025-08-11 16:07:39,475 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-11 16:07:39,476 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-08-11 16:07:39,476 - INFO - RANDOM gps 정보는 {'latitude': 37.57277200821926, 'longitude': 126.95275002635785, 'accuracy': 100} 입니다.
+2025-08-11 16:07:39,487 - INFO - 모든 변경이 완료되었습니다...
+2025-08-11 16:07:39,488 - INFO - ~~~~~~~~~~
+2025-08-11 16:08:04,110 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-11 16:08:04,251 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 16:08:04,252 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 16:08:04,753 - INFO - ==================================
+2025-08-11 16:08:04,753 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 16:08:04,885 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 16:08:06,205 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 16:08:08,208 - INFO - ==================================
+2025-08-11 16:08:08,208 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 16:08:08,208 - INFO - -----------------------------
+2025-08-11 16:08:08,208 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 16:08:08,208 - INFO - ==================================
+2025-08-11 16:08:11,814 - INFO - ==================================
+2025-08-11 16:08:12,195 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-11 16:08:12,269 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-11 16:08:12,270 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-11 16:08:12,270 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-08-11 16:08:12,270 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-11 16:08:12,270 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6784.68 Safari/537.36입니다.
+2025-08-11 16:08:12,270 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-08-11 16:08:12,270 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-08-11 16:08:15,123 - INFO - ==================================
+2025-08-11 16:08:15,123 - INFO - devicemetrics를 override 합니다..
+2025-08-11 16:08:15,133 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-11 16:08:15,133 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-08-11 16:08:15,134 - INFO - RANDOM gps 정보는 {'latitude': 37.55847134617032, 'longitude': 127.09077973508867, 'accuracy': 100} 입니다.
+2025-08-11 16:08:15,138 - INFO - 모든 변경이 완료되었습니다...
+2025-08-11 16:08:15,138 - INFO - ~~~~~~~~~~
+2025-08-11 16:08:23,341 - INFO - 시트이름: 조회수대시보드(수동)
+2025-08-11 16:08:23,341 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 16:08:23,742 - INFO - 구글 시트 로드 - 완료
+2025-08-11 16:08:50,912 - INFO - -----------------------------
+2025-08-11 16:08:50,912 - INFO - ==================================
+2025-08-11 16:08:51,037 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 16:08:51,037 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 16:08:52,045 - INFO - ==================================
+2025-08-11 16:08:52,046 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 16:08:52,196 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 16:08:53,435 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 16:08:55,440 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_only_vewnum.py", line 138, in <module>
+    pcdriver.update_chromedriver()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 82, in update_chromedriver
+    update_chrome()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 40, in update_chrome
+    status = get_chrome_update_status(driver)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 29, in get_chrome_update_status
+    return driver.execute_script(script)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 544, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.67)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6a8c46b55+79621]
+	GetHandleVerifier [0x0x7ff6a8c46bb0+79712]
+	(No symbol) [0x0x7ff6a89dc0ea]
+	(No symbol) [0x0x7ff6a89c8355]
+	(No symbol) [0x0x7ff6a89ecefa]
+	(No symbol) [0x0x7ff6a8a62845]
+	(No symbol) [0x0x7ff6a8a82d02]
+	(No symbol) [0x0x7ff6a8a5af13]
+	(No symbol) [0x0x7ff6a8a24151]
+	(No symbol) [0x0x7ff6a8a24ee3]
+	GetHandleVerifier [0x0x7ff6a8f0686d+2962461]
+	GetHandleVerifier [0x0x7ff6a8f00b8d+2938685]
+	GetHandleVerifier [0x0x7ff6a8f1f74d+3064573]
+	GetHandleVerifier [0x0x7ff6a8c60c9e+186446]
+	GetHandleVerifier [0x0x7ff6a8c68a6f+218655]
+	GetHandleVerifier [0x0x7ff6a8c4f944+115956]
+	GetHandleVerifier [0x0x7ff6a8c4faf9+116393]
+	GetHandleVerifier [0x0x7ff6a8c35f28+10968]
+	BaseThreadInitThunk [0x0x7ff9559ee8d7+23]
+	RtlUserThreadStart [0x0x7ff95643c34c+44]
+

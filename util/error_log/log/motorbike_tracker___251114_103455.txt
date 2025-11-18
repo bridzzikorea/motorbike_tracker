@@ -1,0 +1,85 @@
+2025-11-14 10:34:55,805 - INFO - ==================================
+2025-11-14 10:34:55,805 - INFO - -----------------------------
+2025-11-14 10:34:55,989 - INFO - 로그인 응답 코드:
+2025-11-14 10:34:55,989 - INFO - 200
+2025-11-14 10:34:55,989 - INFO - 서버가 준 쿠키:
+2025-11-14 10:34:55,989 - INFO - <RequestsCookieJar[<Cookie JSESSIONID=1ABF4717922632C249E6C58706A1F600 for fms.owlsgrp.co.kr/owls-fms-admin>]>
+2025-11-14 10:34:55,989 - INFO - -----------------------------
+2025-11-14 10:34:56,022 - INFO - 로그인 응답 코드:
+2025-11-14 10:34:56,026 - INFO - 200
+2025-11-14 10:34:56,026 - INFO - 장비 개수:
+2025-11-14 10:34:56,026 - INFO - 42
+2025-11-14 10:34:56,034 - INFO - port   vehicle_number       ip_address        id                             client_id
+0   51908     경기 수원 거 7502     37.17.191.68  EAE28066  d3471980-9964-4fc9-979c-c3c0e84ae279
+1   43043  포르자350 블랙 세팅 차량  130.195.194.247  F1086AAE  cfa71676-57ec-4371-8a7b-d032235aeedc
+2   51431     경기 수원 너 3633  193.181.246.127  CB16F562  db3a6900-6c9e-4eb0-bbd2-5136e794b2a6
+3   61756              미지정     37.17.191.68  EBD1EB91  d840fe31-b0f1-412d-9a84-5097e224edb3
+4   56446     경기 수원 거 5749     37.17.191.68  FE7ACC2E  0e06a3ca-f3af-463e-b627-9814d1b062d8
+5   51031     경기 수원 너 3524  193.181.246.248  C4BC2DA0  6b408fb7-3b22-4da8-88ed-b7a5be2699ce
+6   27968     경기 수원 거 4897   195.226.133.46  FC633C52  fa99aa43-2196-43bb-bd8d-0c76d3754a8b
+7   49232     경기 수원 거 9533     37.17.191.68  FD1D0C84  b3764d25-7ffe-4695-a22c-a064de67e669
+8   62090     경기 수원 거 5801     37.17.191.68  E0459619  892c2cc6-e48e-47da-b68f-e47edef82e81
+9   57442     경기 수원 거 7627     37.17.191.68  D4CB32FA  6ac75a9d-3b08-474c-9c11-a6505e11e60a
+10  55712     경기 수원 거 5830   195.226.133.37  F433B5A4  39c1483e-ff30-4ff1-9050-29888d279187
+11  62557     경기 수원 거 5250   195.226.133.37  D3992722  1ae5ef97-8941-49cf-acc2-81d206f9329e
+12  64499     경기 수원 거 5295   195.226.133.38  E1C3ED9B  803abac9-4402-4ae4-a905-82a7bbaf7ab1
+13  58595     경기 수원 거 4869     5.35.166.167  CFE782BF  b8a1fa46-7af6-4264-984d-1b5599d438b8
+14   4808     경기 수원 거 5714   195.226.133.38  D29E7261  fcc07726-7531-4666-bd62-e65f32576d84
+15  59982     경기 수원 너 3652    193.181.246.8  D824C81C  ffa552c1-83ec-42e4-ae67-69911a1b07cc
+16  57662     경기 수원 거 4974     5.35.166.167  FAD1AF1B  fad8e959-066d-4577-b9db-4452160715f6
+17  54009     경기 수원 러 0160     37.17.191.68  F35F23D6  5950c36c-cadd-4b73-9a1e-15640e8debc6
+18  62315              미지정     37.17.191.68  EBD1EB91  b3c4b8d4-2560-44e8-b82c-32e152e878a6
+19  62941     경기 수원 러 0160     37.17.191.68  F35F23D6  9a204b71-979c-4476-935f-6a5ac57ef94d
+20  59856     경기 수원 러 0160     37.17.191.68  F35F23D6  8f18ee94-0aeb-4162-92dd-df28434d930f
+21  61534              미지정     37.17.191.68  EBD1EB91  91fc249f-6620-4aa0-a167-5783b7ab2703
+22  31830     경기 수원 거 4974     5.35.166.167  FAD1AF1B  38e577d7-4606-4d18-a922-21701847ed4f
+23  27966     경기 수원 거 5936     5.35.166.167  F570581E  38727207-33be-492b-bc45-a6f3a7a30270
+24  30381     경기 수원 거 5000   195.226.133.46  F4D162E2  94f49e21-2315-4c6d-b3b4-4a0283c1eeb5
+25  60985  PCX125 블랙 세팅 차량   193.181.246.72  D6D652EF  7368ce42-019c-465c-9af0-f1f60b769fca
+26  49688     경기 수원 거 9019     37.17.191.68  D8E32357  d06400f3-9fa7-4769-8ad0-7aa19506e0ec
+27  63339     경기 수원 거 5747     37.17.191.68  E6B659B3  504902e2-f014-4f0e-aa83-10b0204b5495
+28  51930     경기 수원 거 4995   195.226.133.40  D72D964E  17d07462-0fb2-4d92-b184-c56f213cd817
+29  55015     경기 수원 거 5894     37.17.191.68  EF495AEF  926c7fbe-ef6b-43b8-8873-e1d6c24548b7
+30  54668     경기 수원 거 7627     37.17.191.68  D4CB32FA  64fd7141-25b1-4f4b-b02f-8c1335914b0b
+31  61369     경기 수원 거 4891   195.226.133.39  CA02EF4C  d1ab8e22-e4df-4375-8414-1d49d3c1220b
+32  57068     경기 수원 거 5716     37.17.191.68  CF1FB646  d6725110-83af-4057-964b-6785b748dfa6
+33  32686     경기 수원 거 5791   195.226.133.37  D1B1E85A  756e0e10-5291-48f8-bf8a-6ec2f973bc80
+34  63558     경기 수원 거 7705     37.17.191.68  C3A128AB  3c5afbf2-3b7e-4819-9e6f-2e8c3204a40c
+35  58115     경기 수원 너 3582   193.181.246.67  F9D384D9  ab7f907d-bb35-4bd9-8e3d-197472048068
+36  56985     경기 수원 거 5948     5.35.166.165  CB830D7F  f3ab3cea-d3b7-4ce0-bd0c-dfb5e9800550
+37  29853     경기 수원 거 5275   195.226.133.60  C8753BFC  d6bb6c34-bc02-4ceb-8270-836cfbedf24b
+38  61775     경기 수원 거 5983   195.226.133.38  F227BD6C  13fb1ab2-3a31-46ff-b3a2-b804d83115c2
+39  42976     경기 수원 거 5210   195.226.133.60  E59D8D1C  9d90b792-2fab-4326-bd8c-c53e3ce61ca0
+40  50692     경기 수원 거 5715     5.35.166.166  F69D703A  4b536ca9-d3df-4d0c-b6f5-07f0d5101f72
+41  11837              미지정     5.35.166.164  E9A5C773  37336720-35ef-498b-9425-bd1e4818167d
+2025-11-14 10:34:56,035 - INFO - -----------------------------
+2025-11-14 10:34:56,065 - INFO - 로그인 응답 코드:
+2025-11-14 10:34:56,065 - INFO - 200
+2025-11-14 10:34:56,065 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 356, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 123, in <module>
+    motobike_tracker_bot.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 105, in run
+    self._get_motion_data()
+  File "C:\Users\user\Desktop\Bridzzi\src\etc\motorbike_tracker.py", line 82, in _get_motion_data
+    data = res.json()
+    ^^^^^^^^^^
+  File "c:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

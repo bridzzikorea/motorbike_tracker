@@ -1,0 +1,393 @@
+2025-09-17 13:23:22,164 - INFO - 사용 시트 : 블로그_공감댓글작업
+2025-09-17 13:23:22,164 - INFO - ==================================
+2025-09-17 13:23:22,164 - INFO - ======================
+2025-09-17 13:23:22,164 - INFO - 시트이름: 공감댓글_대시보드
+2025-09-17 13:23:22,164 - INFO - 구글 시트 로드 - 시도중....
+2025-09-17 13:23:22,781 - INFO - 구글 시트 로드 - 완료
+2025-09-17 13:23:23,347 - INFO - 공감댓글_대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-09-17 13:23:23,355 - INFO - [현재 시각] 13:23:23.355863
+2025-09-17 13:23:23,356 - INFO - ==================================
+2025-09-17 13:23:23,356 - INFO - ★★★ IP 변경 - START ★★★
+2025-09-17 13:23:23,356 - INFO - [#1 mobile_ip 전환 - try ]
+2025-09-17 13:23:23,516 - INFO - [ 모바일IP 전환 - 시도 ]
+2025-09-17 13:23:28,688 - INFO - --- ADB 모바일 연결 [진행]
+2025-09-17 13:23:28,773 - INFO - --- USB테더링 리미트 해제 [진행]
+2025-09-17 13:23:29,949 - INFO - --- USB테더링 활성화 - 성공
+2025-09-17 13:23:29,949 - INFO - -----------------------------
+2025-09-17 13:23:30,865 - INFO - --- 모바일 USB 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-09-17 13:23:31,345 - INFO - --- USB 어댑터 찾기 및 활성화 시도 [완료]
+2025-09-17 13:23:31,347 - INFO - --- 이더넷(WI-FI, 랜선) 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-09-17 13:23:34,532 - INFO - --- USB 어댑터 외의 모든 어댑터 비활성화 시도 [완료]
+2025-09-17 13:23:37,115 - INFO - --- USB 어뎁터가 활성화 [확인]
+2025-09-17 13:23:39,480 - INFO - --- 이더넷 어뎁터가 비활성화 [확인]
+2025-09-17 13:23:39,480 - INFO - -----------------------------
+2025-09-17 13:23:39,541 - INFO - --- WiFi off - 성공
+2025-09-17 13:23:39,620 - INFO - --- '모바일 데이터' on - 성공
+2025-09-17 13:23:40,276 - INFO - ★ 모바일IP 전환 - Success ★
+2025-09-17 13:23:40,276 - INFO - [# USB테더링 전환 #] - 성공
+2025-09-17 13:23:40,276 - INFO - [#1 mobile_ip 전환 - success ]
+2025-09-17 13:23:40,276 - INFO - -----------------------------
+2025-09-17 13:23:40,276 - INFO - [#2 before_ip 추출] - try
+2025-09-17 13:23:40,283 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-17 13:23:40,620 - INFO - -- 'https://ipinfo.io/ip' : 118.235.26.243
+2025-09-17 13:23:40,620 - INFO - [#2 before_ip 추출] - success : 118.235.26.243
+2025-09-17 13:23:40,620 - INFO - -----------------------------
+2025-09-17 13:23:41,008 - INFO - --- 모바일 데이터 off - 성공
+2025-09-17 13:23:41,411 - INFO - --- 비행기 모드 on - 성공
+2025-09-17 13:23:41,751 - INFO - --- 비행기 모드 off - 성공
+2025-09-17 13:23:42,083 - INFO - --- 모바일 데이터 on - 성공
+2025-09-17 13:23:42,083 - INFO - [#3 after_ip 추출] - try
+2025-09-17 13:23:42,083 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-17 13:23:43,088 - INFO - - 추출 실패 1/3 재시도
+2025-09-17 13:23:44,766 - INFO - - 추출 실패 2/3 재시도
+2025-09-17 13:23:46,950 - INFO - - 추출 실패 3/3 재시도
+2025-09-17 13:23:48,563 - INFO - -- 'https://api.ipify.org'에서 public IP를 추출합니다....
+2025-09-17 13:23:49,369 - INFO - -- 'https://api.ipify.org' : 118.235.24.193
+2025-09-17 13:23:49,369 - INFO - [#3 after_ip 추출] - success : 118.235.24.193
+2025-09-17 13:23:49,369 - INFO - Success -IP 변경(성공): before 118.235.26.243 => after 118.235.24.193
+2025-09-17 13:23:49,369 - INFO - ★★★ IP 변경 - Success ★★★
+2025-09-17 13:23:49,369 - INFO - ==================================
+2025-09-17 13:23:50,376 - INFO - 내부관리번호:N_Blog_Select_600
+2025-09-17 13:23:50,377 - INFO - 제목:정수기 추천 약정 끝나고 선택한 삼성 신제품 RWP70F15AN
+2025-09-17 13:23:50,377 - INFO - 링크:https://blog.naver.com/solmi_illustrator/223974274625
+2025-09-17 13:23:51,775 - INFO - C:\program_cookies 폴더 크기: 1.58 GB
+2025-09-17 13:23:51,775 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_vp30rt96 폴더를 지정합니다.
+2025-09-17 13:23:51,775 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-09-17 13:23:51,775 - INFO - fixed UA가 있습니다.
+2025-09-17 13:23:51,775 - INFO - fixed된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.205 Safari/537.36입니다.
+2025-09-17 13:23:51,775 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-09-17 13:23:51,791 - INFO - 크롬 드라이브 옵션 부여 완료!
+2025-09-17 13:24:32,165 - INFO - ==================================
+2025-09-17 13:24:32,165 - INFO - devicemetrics를 override 합니다..
+2025-09-17 13:24:32,171 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-09-17 13:24:32,172 - INFO - FIXED gps 정보를 적용합니다.
+2025-09-17 13:24:32,172 - INFO - FIXED gps 정보는 {'latitude': 37.49902411, 'longitude': 127.0502903, 'accuracy': 100} 입니다.
+2025-09-17 13:24:32,179 - INFO - 모든 변경이 완료되었습니다...
+2025-09-17 13:24:32,179 - INFO - ~~~~~~~~~~
+2025-09-17 13:24:32,203 - INFO - # Mobile 네이버 로그인 시작 --- [ NAVER__id : vp30rt96 ] #
+2025-09-17 13:24:40,286 - INFO - [완료] 1. 네이버 PC 홈페이지 get
+2025-09-17 13:24:40,314 - INFO - [완료] 2. 네이버 계정 로그인 박스 - 확인
+2025-09-17 13:24:58,370 - INFO - [완료] 3. 네이버 로그인
+2025-09-17 13:24:58,370 - INFO - (PC) 메일 로그인 인증 작업을 시작합니다
+2025-09-17 13:25:25,097 - INFO - 메일 내용 : 새로운 환경에서 로그인 되었습니다.
+2025-09-17 13:25:25,107 - INFO - 새로운 환경 로그인 예 버튼을 누르러 들어갑니다.
+2025-09-17 13:25:26,342 - INFO - '예' 버튼을 찾습니다.
+2025-09-17 13:25:27,282 - INFO - 예 버튼을 찾았습니다. 예 버튼을 누릅니다.
+2025-09-17 13:25:29,826 - INFO - [완료] 4. 네이버 메일 - 계정 로그인 확인
+2025-09-17 13:25:30,170 - INFO - [완료] 5. 네이버 로그인이 정상적으로 완료되었습니다
+2025-09-17 13:25:59,668 - INFO - 1. 관련도순 검색 - 진행중
+2025-09-17 13:25:59,747 - INFO - - 검색 성공 : 블로그 글을 찾았습니다.
+2025-09-17 13:26:01,852 - INFO - 1. 관련도순 검색 - 성공
+2025-09-17 13:26:14,784 - INFO - cur_scrollY:434, screen_height:1048, element_y:17192, element_height:54
+2025-09-17 13:26:14,785 - INFO - True
+2025-09-17 13:26:14,785 - INFO - cur_scrollY:434, element_y:17192
+2025-09-17 13:26:14,785 - INFO - False
+2025-09-17 13:26:18,111 - INFO - cur_scrollY:696, screen_height:1048, element_y:17192, element_height:54
+2025-09-17 13:26:18,112 - INFO - True
+2025-09-17 13:26:18,112 - INFO - cur_scrollY:696, element_y:17192
+2025-09-17 13:26:18,112 - INFO - False
+2025-09-17 13:26:20,400 - INFO - cur_scrollY:879, screen_height:1048, element_y:17192, element_height:54
+2025-09-17 13:26:20,401 - INFO - True
+2025-09-17 13:26:20,401 - INFO - cur_scrollY:879, element_y:17192
+2025-09-17 13:26:20,401 - INFO - False
+2025-09-17 13:26:22,484 - INFO - cur_scrollY:1206, screen_height:1048, element_y:17192, element_height:54
+2025-09-17 13:26:22,484 - INFO - True
+2025-09-17 13:26:22,484 - INFO - cur_scrollY:1206, element_y:17192
+2025-09-17 13:26:22,484 - INFO - False
+2025-09-17 13:26:24,837 - INFO - cur_scrollY:1589, screen_height:1048, element_y:17192, element_height:54
+2025-09-17 13:26:24,837 - INFO - True
+2025-09-17 13:26:24,837 - INFO - cur_scrollY:1589, element_y:17192
+2025-09-17 13:26:24,837 - INFO - False
+2025-09-17 13:26:27,727 - INFO - cur_scrollY:1848, screen_height:1048, element_y:17288, element_height:54
+2025-09-17 13:26:27,727 - INFO - True
+2025-09-17 13:26:27,727 - INFO - cur_scrollY:1848, element_y:17288
+2025-09-17 13:26:27,727 - INFO - False
+2025-09-17 13:26:30,961 - INFO - cur_scrollY:2108, screen_height:1048, element_y:17658, element_height:54
+2025-09-17 13:26:30,961 - INFO - True
+2025-09-17 13:26:30,961 - INFO - cur_scrollY:2108, element_y:17658
+2025-09-17 13:26:30,961 - INFO - False
+2025-09-17 13:26:33,621 - INFO - cur_scrollY:2493, screen_height:1048, element_y:17658, element_height:54
+2025-09-17 13:26:33,621 - INFO - True
+2025-09-17 13:26:33,621 - INFO - cur_scrollY:2493, element_y:17658
+2025-09-17 13:26:33,621 - INFO - False
+2025-09-17 13:26:36,892 - INFO - cur_scrollY:2598, screen_height:1048, element_y:17997, element_height:54
+2025-09-17 13:26:36,892 - INFO - True
+2025-09-17 13:26:36,892 - INFO - cur_scrollY:2598, element_y:17997
+2025-09-17 13:26:36,892 - INFO - False
+2025-09-17 13:26:38,888 - INFO - cur_scrollY:2792, screen_height:1048, element_y:17997, element_height:54
+2025-09-17 13:26:38,888 - INFO - True
+2025-09-17 13:26:38,888 - INFO - cur_scrollY:2792, element_y:17997
+2025-09-17 13:26:38,888 - INFO - False
+2025-09-17 13:26:41,036 - INFO - cur_scrollY:3037, screen_height:1048, element_y:17997, element_height:54
+2025-09-17 13:26:41,036 - INFO - True
+2025-09-17 13:26:41,036 - INFO - cur_scrollY:3037, element_y:17997
+2025-09-17 13:26:41,036 - INFO - False
+2025-09-17 13:26:43,700 - INFO - cur_scrollY:3213, screen_height:1048, element_y:17997, element_height:54
+2025-09-17 13:26:43,700 - INFO - True
+2025-09-17 13:26:43,700 - INFO - cur_scrollY:3213, element_y:17997
+2025-09-17 13:26:43,700 - INFO - False
+2025-09-17 13:26:45,504 - INFO - cur_scrollY:3319, screen_height:1048, element_y:17993, element_height:54
+2025-09-17 13:26:45,504 - INFO - True
+2025-09-17 13:26:45,504 - INFO - cur_scrollY:3319, element_y:17993
+2025-09-17 13:26:45,504 - INFO - False
+2025-09-17 13:26:48,471 - INFO - cur_scrollY:3537, screen_height:1048, element_y:17993, element_height:54
+2025-09-17 13:26:48,471 - INFO - True
+2025-09-17 13:26:48,471 - INFO - cur_scrollY:3537, element_y:17993
+2025-09-17 13:26:48,471 - INFO - False
+2025-09-17 13:26:50,552 - INFO - cur_scrollY:3828, screen_height:1048, element_y:17993, element_height:54
+2025-09-17 13:26:50,552 - INFO - True
+2025-09-17 13:26:50,552 - INFO - cur_scrollY:3828, element_y:17993
+2025-09-17 13:26:50,552 - INFO - False
+2025-09-17 13:26:52,855 - INFO - cur_scrollY:4147, screen_height:1048, element_y:17993, element_height:54
+2025-09-17 13:26:52,855 - INFO - True
+2025-09-17 13:26:52,855 - INFO - cur_scrollY:4147, element_y:17993
+2025-09-17 13:26:52,855 - INFO - False
+2025-09-17 13:26:55,246 - INFO - cur_scrollY:4455, screen_height:1048, element_y:17993, element_height:54
+2025-09-17 13:26:55,246 - INFO - True
+2025-09-17 13:26:55,246 - INFO - cur_scrollY:4455, element_y:17993
+2025-09-17 13:26:55,246 - INFO - False
+2025-09-17 13:26:57,370 - INFO - cur_scrollY:4813, screen_height:1048, element_y:17993, element_height:54
+2025-09-17 13:26:57,370 - INFO - True
+2025-09-17 13:26:57,370 - INFO - cur_scrollY:4813, element_y:17993
+2025-09-17 13:26:57,370 - INFO - False
+2025-09-17 13:27:00,609 - INFO - cur_scrollY:5006, screen_height:1048, element_y:17993, element_height:54
+2025-09-17 13:27:00,609 - INFO - True
+2025-09-17 13:27:00,609 - INFO - cur_scrollY:5006, element_y:17993
+2025-09-17 13:27:00,609 - INFO - False
+2025-09-17 13:27:02,884 - INFO - cur_scrollY:5357, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:02,884 - INFO - True
+2025-09-17 13:27:02,884 - INFO - cur_scrollY:5357, element_y:17990
+2025-09-17 13:27:02,884 - INFO - False
+2025-09-17 13:27:05,504 - INFO - cur_scrollY:5570, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:05,504 - INFO - True
+2025-09-17 13:27:05,504 - INFO - cur_scrollY:5570, element_y:17990
+2025-09-17 13:27:05,504 - INFO - False
+2025-09-17 13:27:07,188 - INFO - cur_scrollY:5812, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:07,188 - INFO - True
+2025-09-17 13:27:07,188 - INFO - cur_scrollY:5812, element_y:17990
+2025-09-17 13:27:07,188 - INFO - False
+2025-09-17 13:27:10,370 - INFO - cur_scrollY:6199, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:10,370 - INFO - True
+2025-09-17 13:27:10,370 - INFO - cur_scrollY:6199, element_y:17990
+2025-09-17 13:27:10,370 - INFO - False
+2025-09-17 13:27:12,300 - INFO - cur_scrollY:6325, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:12,300 - INFO - True
+2025-09-17 13:27:12,300 - INFO - cur_scrollY:6325, element_y:17990
+2025-09-17 13:27:12,300 - INFO - False
+2025-09-17 13:27:15,039 - INFO - cur_scrollY:6694, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:15,039 - INFO - True
+2025-09-17 13:27:15,039 - INFO - cur_scrollY:6694, element_y:17990
+2025-09-17 13:27:15,039 - INFO - False
+2025-09-17 13:27:18,061 - INFO - cur_scrollY:6802, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:18,061 - INFO - True
+2025-09-17 13:27:18,061 - INFO - cur_scrollY:6802, element_y:17990
+2025-09-17 13:27:18,061 - INFO - False
+2025-09-17 13:27:20,012 - INFO - cur_scrollY:7192, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:20,027 - INFO - True
+2025-09-17 13:27:20,027 - INFO - cur_scrollY:7192, element_y:17990
+2025-09-17 13:27:20,027 - INFO - False
+2025-09-17 13:27:22,632 - INFO - cur_scrollY:7468, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:22,632 - INFO - True
+2025-09-17 13:27:22,632 - INFO - cur_scrollY:7468, element_y:17990
+2025-09-17 13:27:22,632 - INFO - False
+2025-09-17 13:27:24,535 - INFO - cur_scrollY:7750, screen_height:1048, element_y:17990, element_height:54
+2025-09-17 13:27:24,535 - INFO - True
+2025-09-17 13:27:24,535 - INFO - cur_scrollY:7750, element_y:17990
+2025-09-17 13:27:24,535 - INFO - False
+2025-09-17 13:27:27,490 - INFO - cur_scrollY:7971, screen_height:1048, element_y:17986, element_height:54
+2025-09-17 13:27:27,490 - INFO - True
+2025-09-17 13:27:27,490 - INFO - cur_scrollY:7971, element_y:17986
+2025-09-17 13:27:27,490 - INFO - False
+2025-09-17 13:27:30,707 - INFO - cur_scrollY:8334, screen_height:1048, element_y:17986, element_height:54
+2025-09-17 13:27:30,707 - INFO - True
+2025-09-17 13:27:30,707 - INFO - cur_scrollY:8334, element_y:17986
+2025-09-17 13:27:30,707 - INFO - False
+2025-09-17 13:27:33,009 - INFO - cur_scrollY:8683, screen_height:1048, element_y:17986, element_height:54
+2025-09-17 13:27:33,009 - INFO - True
+2025-09-17 13:27:33,009 - INFO - cur_scrollY:8683, element_y:17986
+2025-09-17 13:27:33,009 - INFO - False
+2025-09-17 13:27:35,451 - INFO - cur_scrollY:9032, screen_height:1048, element_y:17986, element_height:54
+2025-09-17 13:27:35,451 - INFO - True
+2025-09-17 13:27:35,451 - INFO - cur_scrollY:9032, element_y:17986
+2025-09-17 13:27:35,451 - INFO - False
+2025-09-17 13:27:38,100 - INFO - cur_scrollY:9338, screen_height:1048, element_y:17986, element_height:54
+2025-09-17 13:27:38,100 - INFO - True
+2025-09-17 13:27:38,100 - INFO - cur_scrollY:9338, element_y:17986
+2025-09-17 13:27:38,100 - INFO - False
+2025-09-17 13:27:39,632 - INFO - cur_scrollY:9709, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:27:39,632 - INFO - True
+2025-09-17 13:27:39,632 - INFO - cur_scrollY:9709, element_y:17983
+2025-09-17 13:27:39,632 - INFO - False
+2025-09-17 13:27:41,758 - INFO - cur_scrollY:10108, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:27:41,758 - INFO - True
+2025-09-17 13:27:41,758 - INFO - cur_scrollY:10108, element_y:17983
+2025-09-17 13:27:41,758 - INFO - False
+2025-09-17 13:27:44,463 - INFO - cur_scrollY:10208, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:27:44,463 - INFO - True
+2025-09-17 13:27:44,463 - INFO - cur_scrollY:10208, element_y:17983
+2025-09-17 13:27:44,463 - INFO - False
+2025-09-17 13:27:47,429 - INFO - cur_scrollY:10595, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:27:47,429 - INFO - True
+2025-09-17 13:27:47,429 - INFO - cur_scrollY:10595, element_y:17983
+2025-09-17 13:27:47,429 - INFO - False
+2025-09-17 13:27:49,919 - INFO - cur_scrollY:10728, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:27:49,919 - INFO - True
+2025-09-17 13:27:49,919 - INFO - cur_scrollY:10728, element_y:17983
+2025-09-17 13:27:49,919 - INFO - False
+2025-09-17 13:27:52,586 - INFO - cur_scrollY:11070, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:27:52,586 - INFO - True
+2025-09-17 13:27:52,586 - INFO - cur_scrollY:11070, element_y:17983
+2025-09-17 13:27:52,586 - INFO - False
+2025-09-17 13:27:54,867 - INFO - cur_scrollY:11311, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:27:54,867 - INFO - True
+2025-09-17 13:27:54,867 - INFO - cur_scrollY:11311, element_y:17983
+2025-09-17 13:27:54,882 - INFO - False
+2025-09-17 13:27:56,735 - INFO - cur_scrollY:11679, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:27:56,735 - INFO - True
+2025-09-17 13:27:56,735 - INFO - cur_scrollY:11679, element_y:17983
+2025-09-17 13:27:56,735 - INFO - False
+2025-09-17 13:28:00,226 - INFO - cur_scrollY:11783, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:00,226 - INFO - True
+2025-09-17 13:28:00,226 - INFO - cur_scrollY:11783, element_y:17983
+2025-09-17 13:28:00,226 - INFO - False
+2025-09-17 13:28:03,585 - INFO - cur_scrollY:11890, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:03,585 - INFO - True
+2025-09-17 13:28:03,585 - INFO - cur_scrollY:11890, element_y:17983
+2025-09-17 13:28:03,585 - INFO - False
+2025-09-17 13:28:04,961 - INFO - cur_scrollY:12076, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:04,961 - INFO - True
+2025-09-17 13:28:04,961 - INFO - cur_scrollY:12076, element_y:17983
+2025-09-17 13:28:04,961 - INFO - False
+2025-09-17 13:28:07,029 - INFO - cur_scrollY:12229, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:07,029 - INFO - True
+2025-09-17 13:28:07,029 - INFO - cur_scrollY:12229, element_y:17983
+2025-09-17 13:28:07,029 - INFO - False
+2025-09-17 13:28:10,176 - INFO - cur_scrollY:12332, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:10,176 - INFO - True
+2025-09-17 13:28:10,176 - INFO - cur_scrollY:12332, element_y:17983
+2025-09-17 13:28:10,176 - INFO - False
+2025-09-17 13:28:11,673 - INFO - cur_scrollY:12679, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:11,673 - INFO - True
+2025-09-17 13:28:11,673 - INFO - cur_scrollY:12679, element_y:17983
+2025-09-17 13:28:11,673 - INFO - False
+2025-09-17 13:28:14,545 - INFO - cur_scrollY:12895, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:14,545 - INFO - True
+2025-09-17 13:28:14,545 - INFO - cur_scrollY:12895, element_y:17983
+2025-09-17 13:28:14,545 - INFO - False
+2025-09-17 13:28:16,369 - INFO - cur_scrollY:13007, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:16,369 - INFO - True
+2025-09-17 13:28:16,369 - INFO - cur_scrollY:13007, element_y:17983
+2025-09-17 13:28:16,369 - INFO - False
+2025-09-17 13:28:19,825 - INFO - cur_scrollY:13248, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:19,825 - INFO - True
+2025-09-17 13:28:19,825 - INFO - cur_scrollY:13248, element_y:17983
+2025-09-17 13:28:19,825 - INFO - False
+2025-09-17 13:28:22,748 - INFO - cur_scrollY:13466, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:22,748 - INFO - True
+2025-09-17 13:28:22,748 - INFO - cur_scrollY:13466, element_y:17983
+2025-09-17 13:28:22,748 - INFO - False
+2025-09-17 13:28:25,085 - INFO - cur_scrollY:13653, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:25,085 - INFO - True
+2025-09-17 13:28:25,085 - INFO - cur_scrollY:13653, element_y:17983
+2025-09-17 13:28:25,085 - INFO - False
+2025-09-17 13:28:28,382 - INFO - cur_scrollY:13897, screen_height:1048, element_y:17983, element_height:54
+2025-09-17 13:28:28,382 - INFO - True
+2025-09-17 13:28:28,382 - INFO - cur_scrollY:13897, element_y:17983
+2025-09-17 13:28:28,382 - INFO - False
+2025-09-17 13:28:31,437 - INFO - cur_scrollY:14269, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:31,437 - INFO - True
+2025-09-17 13:28:31,437 - INFO - cur_scrollY:14269, element_y:17980
+2025-09-17 13:28:31,437 - INFO - False
+2025-09-17 13:28:33,830 - INFO - cur_scrollY:14456, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:33,830 - INFO - True
+2025-09-17 13:28:33,830 - INFO - cur_scrollY:14456, element_y:17980
+2025-09-17 13:28:33,833 - INFO - False
+2025-09-17 13:28:35,381 - INFO - cur_scrollY:14789, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:35,381 - INFO - True
+2025-09-17 13:28:35,381 - INFO - cur_scrollY:14789, element_y:17980
+2025-09-17 13:28:35,381 - INFO - False
+2025-09-17 13:28:38,083 - INFO - cur_scrollY:14956, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:38,083 - INFO - True
+2025-09-17 13:28:38,083 - INFO - cur_scrollY:14956, element_y:17980
+2025-09-17 13:28:38,083 - INFO - False
+2025-09-17 13:28:40,164 - INFO - cur_scrollY:15089, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:40,164 - INFO - True
+2025-09-17 13:28:40,164 - INFO - cur_scrollY:15089, element_y:17980
+2025-09-17 13:28:40,164 - INFO - False
+2025-09-17 13:28:43,652 - INFO - cur_scrollY:15421, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:43,652 - INFO - True
+2025-09-17 13:28:43,652 - INFO - cur_scrollY:15421, element_y:17980
+2025-09-17 13:28:43,652 - INFO - False
+2025-09-17 13:28:45,888 - INFO - cur_scrollY:15636, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:45,888 - INFO - True
+2025-09-17 13:28:45,888 - INFO - cur_scrollY:15636, element_y:17980
+2025-09-17 13:28:45,888 - INFO - False
+2025-09-17 13:28:48,845 - INFO - cur_scrollY:15903, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:48,846 - INFO - True
+2025-09-17 13:28:48,846 - INFO - cur_scrollY:15903, element_y:17980
+2025-09-17 13:28:48,846 - INFO - False
+2025-09-17 13:28:51,944 - INFO - cur_scrollY:16068, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:51,944 - INFO - True
+2025-09-17 13:28:51,944 - INFO - cur_scrollY:16068, element_y:17980
+2025-09-17 13:28:51,944 - INFO - False
+2025-09-17 13:28:55,472 - INFO - cur_scrollY:16466, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:55,472 - INFO - True
+2025-09-17 13:28:55,472 - INFO - cur_scrollY:16466, element_y:17980
+2025-09-17 13:28:55,472 - INFO - False
+2025-09-17 13:28:57,261 - INFO - cur_scrollY:16594, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:57,261 - INFO - True
+2025-09-17 13:28:57,261 - INFO - cur_scrollY:16594, element_y:17980
+2025-09-17 13:28:57,261 - INFO - False
+2025-09-17 13:28:58,811 - INFO - cur_scrollY:16846, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:28:58,811 - INFO - True
+2025-09-17 13:28:58,811 - INFO - cur_scrollY:16846, element_y:17980
+2025-09-17 13:28:58,811 - INFO - False
+2025-09-17 13:29:00,986 - INFO - cur_scrollY:17078, screen_height:1048, element_y:17980, element_height:54
+2025-09-17 13:29:00,986 - INFO - True
+2025-09-17 13:29:00,986 - INFO - cur_scrollY:17078, element_y:17980
+2025-09-17 13:29:00,986 - INFO - False
+2025-09-17 13:29:15,151 - INFO - ==================================
+2025-09-17 13:29:15,151 - INFO - 현재시간 : 2025-09-17 13:29:15.151919 / 종료시간 : 2025-09-17 13:29:45.852779
+2025-09-17 13:29:15,151 - INFO - 3분의 체류시간이 넘지 않아서 잠시 대기 합니다
+2025-09-17 13:29:15,151 - INFO - ==================================
+2025-09-17 13:29:25,161 - INFO - ==================================
+2025-09-17 13:29:25,161 - INFO - 현재시간 : 2025-09-17 13:29:25.161904 / 종료시간 : 2025-09-17 13:29:45.852779
+2025-09-17 13:29:25,161 - INFO - 3분의 체류시간이 넘지 않아서 잠시 대기 합니다
+2025-09-17 13:29:25,161 - INFO - ==================================
+2025-09-17 13:29:35,172 - INFO - ==================================
+2025-09-17 13:29:35,172 - INFO - 현재시간 : 2025-09-17 13:29:35.172629 / 종료시간 : 2025-09-17 13:29:45.852779
+2025-09-17 13:29:35,172 - INFO - 3분의 체류시간이 넘지 않아서 잠시 대기 합니다
+2025-09-17 13:29:35,172 - INFO - ==================================
+2025-09-17 13:29:45,180 - INFO - ==================================
+2025-09-17 13:29:45,180 - INFO - 현재시간 : 2025-09-17 13:29:45.180845 / 종료시간 : 2025-09-17 13:29:45.852779
+2025-09-17 13:29:45,180 - INFO - 3분의 체류시간이 넘지 않아서 잠시 대기 합니다
+2025-09-17 13:29:45,180 - INFO - ==================================
+2025-09-17 13:29:46,185 - INFO - # 댓글 작업 - 시작 #
+2025-09-17 13:29:46,201 - INFO - [ERROR] 댓글 버튼이 없는 블로그 글 입니다.
+2025-09-17 13:29:46,201 - INFO - [!경고!] '댓글완료' 구글 시트에 저장 진행합니다. 만지지 마세요!!!
+2025-09-17 13:29:46,201 - INFO - 시트이름: 댓글완료
+2025-09-17 13:29:46,201 - INFO - 구글 시트 로드 - 시도중....
+2025-09-17 13:29:47,505 - INFO - 구글 시트 로드 - 완료
+2025-09-17 13:32:00,935 - INFO - [Succes] '댓글완료' 구글 시트 업로드 완료했습니다
+2025-09-17 13:32:01,157 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-17 13:32:01,157 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-17 13:32:01,157 - INFO - ~~~ 스댓공체(스크랩,댓글,공감,체류시간) - 작업 완료 ~~~
+2025-09-17 13:32:01,157 - INFO - ==================================
+2025-09-17 13:32:01,160 - INFO - [현재 시각] 13:32:01.160454
+2025-09-17 13:32:01,162 - INFO - ==================================
+2025-09-17 13:32:01,162 - INFO - ★★★ IP 변경 - START ★★★
+2025-09-17 13:32:01,162 - INFO - [#1 mobile_ip 전환 - try ]
+2025-09-17 13:32:01,405 - INFO - [# USB테더링 전환 #] - 성공
+2025-09-17 13:32:01,405 - INFO - [#1 mobile_ip 전환 - success ]
+2025-09-17 13:32:01,405 - INFO - -----------------------------
+2025-09-17 13:32:01,407 - INFO - [#2 before_ip 추출] - try
+2025-09-17 13:32:01,407 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-09-17 13:32:01,905 - INFO - -- 'https://ipinfo.io/ip' : 118.235.24.193
+2025-09-17 13:32:01,905 - INFO - [#2 before_ip 추출] - success : 118.235.24.193
+2025-09-17 13:32:01,905 - INFO - -----------------------------
+2025-09-17 13:32:02,414 - INFO - --- 모바일 데이터 off - 성공
+2025-09-17 13:32:02,795 - INFO - --- 비행기 모드 on - 성공
+2025-09-17 13:32:03,169 - INFO - --- 비행기 모드 off - 성공
+2025-09-17 13:32:03,571 - INFO - --- 모바일 데이터 on - 성공
+2025-09-17 13:32:03,571 - INFO - [#3 after_ip 추출] - try
+2025-09-17 13:32:03,571 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....

@@ -1,0 +1,82 @@
+2025-08-13 10:37:49,183 - INFO - 이미지 다운로드 - 시작
+2025-08-13 10:37:49,184 - INFO - -----------------------------
+2025-08-13 10:37:49,184 - INFO - -----------------------------
+2025-08-13 10:37:49,184 - INFO - 1. 폭풍우 속에서 거센 파도에 맞서 서 있는 외딴 등대
+2025-08-13 10:37:49,185 - INFO - 2. 네온 불빛이 반짝이는 미래형 한국 도시의 야경과 하늘을 나는 자동차들
+2025-08-13 10:37:49,185 - INFO - 3. 해 뜨는 아침, 안개가 피어오르는 산속 호수와 가운데 떠 있는 작은 나무배
+2025-08-13 10:37:49,185 - INFO - 4. 부드러운 봄빛 속 빗방울이 맺힌 벚꽃 꽃잎의 클로즈업
+2025-08-13 10:37:49,185 - INFO - 5. 따뜻한 조명과 나무 가구, 김이 오르는 커피가 있는 아늑한 카페 내부
+2025-08-13 10:37:49,185 - INFO - 6. 거대한 푸른빛과 보랏빛 성운 아래 사막 행성에 서 있는 우주비행사
+2025-08-13 10:37:49,185 - INFO - 7. 황금빛 햇살 아래 가을 단풍으로 둘러싸인 전통 한옥
+2025-08-13 10:37:49,185 - INFO - -----------------------------
+2025-08-13 10:37:49,186 - INFO - 프롬프트 텍스트 파일 경로: C:\image_downloader\image_prompt.txt
+2025-08-13 10:37:49,186 - INFO - 텍스트 파일 각 행마다 몇 개의 이미지를 생성할까요?
+2025-08-13 10:37:49,186 - INFO - -----------------------------
+2025-08-13 10:37:49,186 - INFO - 이미지 생성할 횟수를 입력하세요 (1~10):
+2025-08-13 10:37:56,274 - INFO - C:\program_cookies 폴더 크기: 1.37 GB
+2025-08-13 10:37:56,338 - INFO - random 폴더 초기화 - 'C:\program_cookies\PC_random'에서 폴더 삭제(완료)
+2025-08-13 10:37:56,338 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\PC_random 폴더를 지정합니다.
+2025-08-13 10:37:56,338 - INFO - PC랜덤화면 크기를 불러옵니다.
+2025-08-13 10:37:56,338 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-08-13 10:37:56,338 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6812.76 Safari/537.36입니다.
+2025-08-13 10:37:56,339 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-08-13 10:38:00,055 - INFO - ==================================
+2025-08-13 10:38:00,055 - INFO - devicemetrics를 override 합니다..
+2025-08-13 10:38:00,059 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-13 10:38:00,059 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-08-13 10:38:00,060 - INFO - RANDOM gps 정보는 {'latitude': 37.55012949325172, 'longitude': 126.98359757266215, 'accuracy': 100} 입니다.
+2025-08-13 10:38:00,068 - INFO - 모든 변경이 완료되었습니다...
+2025-08-13 10:38:00,068 - INFO - ~~~~~~~~~~
+2025-08-13 10:38:00,069 - INFO - -----------------------------
+2025-08-13 10:38:15,612 - INFO - > reCAPTCHA가 감지되지 않음, 비밀번호 입력 단계로 진행
+2025-08-13 10:38:19,334 - ERROR - Traceback (most recent call last):
+2025-08-13 10:38:19,335 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 301, in <module>
+    app.run()
+2025-08-13 10:38:19,335 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 102, in run
+    self.automate_process(contents, iterations)
+2025-08-13 10:38:19,335 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 159, in automate_process
+    self._init_get_whisk_site()
+2025-08-13 10:38:19,335 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 146, in _init_get_whisk_site
+    self.google_bot_login()
+2025-08-13 10:38:19,335 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\window_progrm\image_downloader_app.py", line 140, in google_bot_login
+    self.google_bot.login()
+2025-08-13 10:38:19,335 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\google_bot.py", line 151, in login
+    password_input.send_keys(char)
+2025-08-13 10:38:19,335 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 305, in send_keys
+    self._execute(
+2025-08-13 10:38:19,336 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 574, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-13 10:38:19,336 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-08-13 10:38:19,336 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-08-13 10:38:19,336 - ERROR - selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.128)
+Stacktrace:
+	GetHandleVerifier [0x0x9afd33+62915]
+	GetHandleVerifier [0x0x9afd74+62980]
+	(No symbol) [0x0x7e3e13]
+	(No symbol) [0x0x7d3760]
+	(No symbol) [0x0x7f15d2]
+	(No symbol) [0x0x857cac]
+	(No symbol) [0x0x871fc9]
+	(No symbol) [0x0x8511d6]
+	(No symbol) [0x0x820833]
+	(No symbol) [0x0x8216a4]
+	GetHandleVerifier [0x0xc18d23+2590131]
+	GetHandleVerifier [0x0xc13f6a+2570234]
+	GetHandleVerifier [0x0x9d59ea+217722]
+	GetHandleVerifier [0x0x9c6058+153832]
+	GetHandleVerifier [0x0x9cc4bd+179533]
+	GetHandleVerifier [0x0x9b7738+94152]
+	GetHandleVerifier [0x0x9b78c2+94546]
+	GetHandleVerifier [0x0x9a2bda+9322]
+	BaseThreadInitThunk [0x0x75e95d49+25]
+	RtlInitializeExceptionChain [0x0x779dd2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x779dd281+561]
+2025-08-13 10:38:19,451 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-13 10:38:19,451 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-13 10:38:20,452 - INFO - ==================================
+2025-08-13 10:38:20,452 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★

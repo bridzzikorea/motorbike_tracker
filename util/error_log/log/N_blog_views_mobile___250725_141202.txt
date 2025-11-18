@@ -1,0 +1,29 @@
+2025-07-25 14:12:02,448 - INFO - 조회수 작성 시: 시트명=조회수 작업
+2025-07-25 14:12:03,075 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-25 14:12:04,274 - INFO - [컴퓨터 내부 번호] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-25 14:12:04,909 - INFO - 조회수 대시보드(최종) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-25 14:12:04,922 - INFO - C:\program_cookies 폴더 크기: 0.04 GB
+2025-07-25 14:12:04,923 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_random 폴더를 지정합니다.
+2025-07-25 14:12:04,923 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-07-25 14:12:04,923 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Linux; Android 13; SM-N986U Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.5672.162 Mobile Safari/537.36입니다.
+2025-07-25 14:12:06,372 - INFO - [분류 - 자동검색키워드] - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-07-25 14:12:06,373 - INFO - 블로그 검색 키워드: 내 집 필터 성능 자가 테스트 - 시작
+2025-07-25 14:12:07,320 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views_mobile.py", line 401, in <module>
+    uc.loop().run_until_complete(main())
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\asyncio\base_events.py", line 686, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views_mobile.py", line 390, in main
+    await nodriver.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views_mobile.py", line 230, in run
+    await self.mobile_view()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_views_mobile.py", line 116, in mobile_view
+    await self.browser.random_click(input_select)
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 820, in random_click
+    await self.element_random_click(element)
+  File "C:\Users\user\Desktop\Bridzzi\util\nodriver\nodriver_bot.py", line 767, in element_random_click
+    pos = await element.get_position()
+                ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_position'

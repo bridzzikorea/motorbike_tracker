@@ -1,0 +1,135 @@
+2025-08-04 18:57:42,136 - INFO - ==================================
+2025-08-04 18:57:43,095 - INFO - 단순게시글(글)_대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-04 18:57:43,097 - INFO - 단순게시글(글)_대시보드 평범한 글 - 작업을 시작합니다.
+2025-08-04 18:57:43,097 - ERROR - 1/10번째 [ wrtie_normal_contents_new.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 399, in <module>
+    main_process(googlesheet)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 376, in main_process
+    cafe_normal_post_start(googlesheet, content_dashboard=f"단순게시글(글)_대시보드")
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 357, in cafe_normal_post_start
+    cafe_viral_post(googlesheet, postdata)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 151, in cafe_viral_post
+    latitude = float(data["위도"][0])
+               ^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-04 18:57:43,097 - ERROR - Traceback (most recent call last):
+2025-08-04 18:57:43,097 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 399, in <module>
+    main_process(googlesheet)
+2025-08-04 18:57:43,097 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 376, in main_process
+    cafe_normal_post_start(googlesheet, content_dashboard=f"단순게시글(글)_대시보드")
+2025-08-04 18:57:43,105 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 357, in cafe_normal_post_start
+    cafe_viral_post(googlesheet, postdata)
+2025-08-04 18:57:43,105 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 151, in cafe_viral_post
+    latitude = float(data["위도"][0])
+               ^^^^^^^^^^^^^^^^^^^^^^
+2025-08-04 18:57:43,105 - ERROR - ValueError: could not convert string to float: ''
+2025-08-04 18:57:43,252 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-04 18:57:43,252 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-04 18:57:44,254 - INFO - ==================================
+2025-08-04 18:57:44,254 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-04 18:57:44,396 - INFO - [현재 크롬 버전] : 138.0.7204.184
+2025-08-04 18:57:45,686 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-04 18:57:47,689 - INFO - ==================================
+2025-08-04 18:57:47,689 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-04 18:57:47,689 - INFO - -----------------------------
+2025-08-04 18:57:47,689 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-04 18:57:47,689 - INFO - ==================================
+2025-08-04 18:57:51,389 - INFO - ==================================
+2025-08-04 18:57:51,389 - INFO - ==================================
+2025-08-04 18:57:52,323 - INFO - 단순게시글(글)_대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-04 18:57:52,323 - INFO - 단순게시글(글)_대시보드 평범한 글 - 작업을 시작합니다.
+2025-08-04 18:57:52,323 - ERROR - 2/10번째 [ wrtie_normal_contents_new.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 399, in <module>
+    main_process(googlesheet)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 376, in main_process
+    cafe_normal_post_start(googlesheet, content_dashboard=f"단순게시글(글)_대시보드")
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 357, in cafe_normal_post_start
+    cafe_viral_post(googlesheet, postdata)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 151, in cafe_viral_post
+    latitude = float(data["위도"][0])
+               ^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-04 18:57:52,323 - ERROR - Traceback (most recent call last):
+2025-08-04 18:57:52,323 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 399, in <module>
+    main_process(googlesheet)
+2025-08-04 18:57:52,323 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 376, in main_process
+    cafe_normal_post_start(googlesheet, content_dashboard=f"단순게시글(글)_대시보드")
+2025-08-04 18:57:52,323 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 357, in cafe_normal_post_start
+    cafe_viral_post(googlesheet, postdata)
+2025-08-04 18:57:52,323 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 151, in cafe_viral_post
+    latitude = float(data["위도"][0])
+               ^^^^^^^^^^^^^^^^^^^^^^
+2025-08-04 18:57:52,323 - ERROR - ValueError: could not convert string to float: ''
+2025-08-04 18:57:52,323 - INFO - 텔레그램 에러 메시지 : [ wrtie_normal_contents_new.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 399, in <module>
+    main_process(googlesheet)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 376, in main_process
+    cafe_normal_post_start(googlesheet, content_dashboard=f"단순게시글(글)_대시보드")
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 357, in cafe_normal_post_start
+    cafe_viral_post(googlesheet, postdata)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 151, in cafe_viral_post
+    latitude = float(data["위도"][0])
+               ^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+2025-08-04 18:57:53,413 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-04 18:57:53,413 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-04 18:57:54,429 - INFO - ==================================
+2025-08-04 18:57:54,429 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-04 18:57:54,582 - INFO - [현재 크롬 버전] : 138.0.7204.184
+2025-08-04 18:57:55,848 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-04 18:57:57,849 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe\wrtie_normal_contents_new.py", line 471, in <module>
+    pcdriver.update_chromedriver()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 82, in update_chromedriver
+    update_chrome()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 40, in update_chrome
+    status = get_chrome_update_status(driver)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 29, in get_chrome_update_status
+    return driver.execute_script(script)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 544, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.184)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6c360e415+77285]
+	GetHandleVerifier [0x0x7ff6c360e470+77376]
+	(No symbol) [0x0x7ff6c33d9a6a]
+	(No symbol) [0x0x7ff6c33c5cf5]
+	(No symbol) [0x0x7ff6c33ea7fa]
+	(No symbol) [0x0x7ff6c345fc05]
+	(No symbol) [0x0x7ff6c3480192]
+	(No symbol) [0x0x7ff6c34583e3]
+	(No symbol) [0x0x7ff6c3421521]
+	(No symbol) [0x0x7ff6c34222b3]
+	GetHandleVerifier [0x0x7ff6c38f1efd+3107021]
+	GetHandleVerifier [0x0x7ff6c38ec29d+3083373]
+	GetHandleVerifier [0x0x7ff6c390bedd+3213485]
+	GetHandleVerifier [0x0x7ff6c362884e+184862]
+	GetHandleVerifier [0x0x7ff6c363055f+216879]
+	GetHandleVerifier [0x0x7ff6c3617084+113236]
+	GetHandleVerifier [0x0x7ff6c3617239+113673]
+	GetHandleVerifier [0x0x7ff6c35fe298+11368]
+	BaseThreadInitThunk [0x0x7ff9559ee8d7+23]
+	RtlUserThreadStart [0x0x7ff95643c34c+44]
+

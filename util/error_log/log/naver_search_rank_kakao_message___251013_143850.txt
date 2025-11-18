@@ -1,0 +1,191 @@
+2025-10-13 14:38:50,993 - INFO - 현재시간 : 14시 38분
+2025-10-13 14:38:55,841 - INFO - 시트이름: 프로그램/작동여부&보고멘트
+2025-10-13 14:38:55,841 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 14:38:57,329 - INFO - 구글 시트 로드 - 완료
+2025-10-13 14:38:57,660 - INFO - 프로그램/작동여부&보고멘트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 14:38:57,660 - INFO - ==================================
+2025-10-13 14:38:57,660 - INFO - N키워드 랭킹 - 수집 시작 ( 14시 38분 )
+2025-10-13 14:38:57,660 - INFO - 시트이름: N지식인(링크)(Ir)
+2025-10-13 14:38:57,660 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 14:38:59,952 - INFO - 구글 시트 로드 - 완료
+2025-10-13 14:39:00,542 - INFO - N지식인(링크)(Ir) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 14:39:00,560 - INFO - 시트이름: N블로그(통합)
+2025-10-13 14:39:00,560 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 14:39:02,104 - INFO - 구글 시트 로드 - 완료
+2025-10-13 14:39:02,663 - INFO - N블로그(통합) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 14:39:02,673 - INFO - ==================================
+2025-10-13 14:39:02,674 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-13 14:39:02,851 - INFO - [현재 크롬 버전] : 141.0.7390.77
+2025-10-13 14:39:07,002 - ERROR - 1/10번째 [ naver_search_rank_kakao_message.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 697, in <module>
+    main_process()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 616, in main_process
+    keyword_rank_search_start(keyword_rank__googlesheet)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 524, in keyword_rank_search_start
+    pcdriver.update_chromedriver()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 82, in update_chromedriver
+    update_chrome()
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 35, in update_chrome
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 47, in __init__
+    super().__init__(
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 257, in __init__
+    self.start_session(capabilities)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0x7ff63c081eb5+80197]
+	GetHandleVerifier [0x0x7ff63c081f10+80288]
+	(No symbol) [0x0x7ff63be002fa]
+	(No symbol) [0x0x7ff63be3f87b]
+	(No symbol) [0x0x7ff63be39bd0]
+	(No symbol) [0x0x7ff63be8e0ef]
+	(No symbol) [0x0x7ff63be8d870]
+	(No symbol) [0x0x7ff63be80153]
+	(No symbol) [0x0x7ff63be48b02]
+	(No symbol) [0x0x7ff63be498d3]
+	GetHandleVerifier [0x0x7ff63c33e83d+2949837]
+	GetHandleVerifier [0x0x7ff63c338c6a+2926330]
+	GetHandleVerifier [0x0x7ff63c3586c7+3055959]
+	GetHandleVerifier [0x0x7ff63c09cfee+191102]
+	GetHandleVerifier [0x0x7ff63c0a50af+224063]
+	GetHandleVerifier [0x0x7ff63c08af64+117236]
+	GetHandleVerifier [0x0x7ff63c08b119+117673]
+	GetHandleVerifier [0x0x7ff63c0710a8+11064]
+	BaseThreadInitThunk [0x0x7ffd10c9e8d7+23]
+	RtlUserThreadStart [0x0x7ffd11708d9c+44]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-13 14:39:07,002 - ERROR - Traceback (most recent call last):
+2025-10-13 14:39:07,002 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 697, in <module>
+    main_process()
+2025-10-13 14:39:07,002 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 616, in main_process
+    keyword_rank_search_start(keyword_rank__googlesheet)
+2025-10-13 14:39:07,002 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 524, in keyword_rank_search_start
+    pcdriver.update_chromedriver()
+2025-10-13 14:39:07,002 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 82, in update_chromedriver
+    update_chrome()
+2025-10-13 14:39:07,002 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\pcdriver.py", line 35, in update_chrome
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-13 14:39:07,002 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 47, in __init__
+    super().__init__(
+2025-10-13 14:39:07,002 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+2025-10-13 14:39:07,002 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 257, in __init__
+    self.start_session(capabilities)
+2025-10-13 14:39:07,002 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-13 14:39:07,002 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-10-13 14:39:07,002 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-10-13 14:39:07,002 - ERROR - selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0x7ff63c081eb5+80197]
+	GetHandleVerifier [0x0x7ff63c081f10+80288]
+	(No symbol) [0x0x7ff63be002fa]
+	(No symbol) [0x0x7ff63be3f87b]
+	(No symbol) [0x0x7ff63be39bd0]
+	(No symbol) [0x0x7ff63be8e0ef]
+	(No symbol) [0x0x7ff63be8d870]
+	(No symbol) [0x0x7ff63be80153]
+	(No symbol) [0x0x7ff63be48b02]
+	(No symbol) [0x0x7ff63be498d3]
+	GetHandleVerifier [0x0x7ff63c33e83d+2949837]
+	GetHandleVerifier [0x0x7ff63c338c6a+2926330]
+	GetHandleVerifier [0x0x7ff63c3586c7+3055959]
+	GetHandleVerifier [0x0x7ff63c09cfee+191102]
+	GetHandleVerifier [0x0x7ff63c0a50af+224063]
+	GetHandleVerifier [0x0x7ff63c08af64+117236]
+	GetHandleVerifier [0x0x7ff63c08b119+117673]
+	GetHandleVerifier [0x0x7ff63c0710a8+11064]
+	BaseThreadInitThunk [0x0x7ffd10c9e8d7+23]
+	RtlUserThreadStart [0x0x7ffd11708d9c+44]
+2025-10-13 14:39:07,002 - INFO - ==================================
+2025-10-13 14:39:07,002 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-13 14:39:07,184 - INFO - [현재 크롬 버전] : 141.0.7390.77
+2025-10-13 14:39:08,964 - INFO - Chrome 업데이트를 확인하는 중...
+2025-10-13 14:39:10,968 - INFO - ==================================
+2025-10-13 14:39:10,968 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-10-13 14:39:10,968 - INFO - -----------------------------
+2025-10-13 14:39:10,968 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-10-13 14:39:10,968 - INFO - ==================================
+2025-10-13 14:39:11,142 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-13 14:39:11,144 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-13 14:39:12,145 - INFO - ==================================
+2025-10-13 14:39:12,290 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-13 14:39:12,290 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-13 14:39:12,291 - INFO - 현재시간 : 14시 39분
+2025-10-13 14:39:17,277 - INFO - 시트이름: 프로그램/작동여부&보고멘트
+2025-10-13 14:39:17,277 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 14:39:19,013 - INFO - 구글 시트 로드 - 완료
+2025-10-13 14:39:19,556 - INFO - 프로그램/작동여부&보고멘트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 14:39:19,556 - INFO - ==================================
+2025-10-13 14:39:19,557 - INFO - N키워드 랭킹 - 수집 시작 ( 14시 39분 )
+2025-10-13 14:39:19,557 - INFO - 시트이름: N지식인(링크)(Ir)
+2025-10-13 14:39:19,557 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 14:39:21,274 - INFO - 구글 시트 로드 - 완료
+2025-10-13 14:39:22,007 - INFO - N지식인(링크)(Ir) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 14:39:22,026 - INFO - 시트이름: N블로그(통합)
+2025-10-13 14:39:22,026 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 14:39:23,724 - INFO - 구글 시트 로드 - 완료
+2025-10-13 14:39:24,451 - INFO - N블로그(통합) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 14:39:24,457 - INFO - ==================================
+2025-10-13 14:39:24,457 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-13 14:39:24,633 - INFO - [현재 크롬 버전] : 141.0.7390.77
+2025-10-13 14:39:25,869 - INFO - Chrome 업데이트를 확인하는 중...
+2025-10-13 14:39:27,871 - INFO - ==================================
+2025-10-13 14:39:27,871 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-10-13 14:39:27,871 - INFO - -----------------------------
+2025-10-13 14:39:27,871 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-10-13 14:39:27,871 - INFO - ==================================
+2025-10-13 14:39:28,032 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-13 14:39:28,035 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-13 14:39:29,036 - INFO - ==================================
+2025-10-13 14:39:31,037 - INFO - PC랜덤화면크기를 불러옵니다.
+2025-10-13 14:39:31,037 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-10-13 14:39:31,037 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36입니다.
+2025-10-13 14:39:31,037 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-13 14:39:31,037 - INFO - cookies 폴더 크기: 0.00 GB
+2025-10-13 14:39:34,322 - INFO - ==================================
+2025-10-13 14:39:34,332 - INFO - useragentdata를 cdp_cmd로 변경합니다..
+2025-10-13 14:39:34,334 - INFO - Windows
+2025-10-13 14:39:34,339 - INFO - navigator를 override 합니다..
+2025-10-13 14:39:34,341 - INFO - devicemetrics를 override 합니다..
+2025-10-13 14:39:34,346 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-13 14:39:34,346 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-10-13 14:39:34,347 - INFO - RANDOM gps 정보는 {'latitude': 37.5505840067926, 'longitude': 126.98322152981089, 'accuracy': 100} 입니다.
+2025-10-13 14:39:37,956 - INFO - 시트이름: 검색순위/입력&대시보드TEST
+2025-10-13 14:39:37,956 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 14:39:39,336 - INFO - 구글 시트 로드 - 완료
+2025-10-13 14:39:39,687 - INFO - 검색순위/입력&대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 14:39:39,689 - INFO - ==================================
+2025-10-13 14:39:39,689 - INFO - '프라이빗골프대리서비스' 키워드 검색 순위를 탐색합니다.
+2025-10-13 14:39:39,689 - INFO - 1. N통합검색 '프라이빗골프대리서비스' 키워드 검색 순위를 탐색합니다.
+2025-10-13 14:40:17,133 - INFO - ====> https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%EA%B3%A8%ED%94%84%EB%8C%80%EB%A6%AC%EC%84%9C%EB%B9%84%EC%8A%A4
+2025-10-13 14:43:55,567 - INFO - 시트이름: 통합+인기글_순위/데이터
+2025-10-13 14:43:55,568 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 14:43:56,956 - INFO - 구글 시트 로드 - 완료
+2025-10-13 14:48:36,393 - INFO - 2. N블로그 '프라이빗골프대리서비스' 키워드 검색 순위를 탐색합니다.
+2025-10-13 14:48:51,976 - INFO - ====> https://search.naver.com/search.naver?ssc=tab.blog.all&sm=tab_jum&query=%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%EA%B3%A8%ED%94%84%EB%8C%80%EB%A6%AC%EC%84%9C%EB%B9%84%EC%8A%A4
+2025-10-13 14:53:07,896 - INFO - 시트이름: 블로그_순위/데이터
+2025-10-13 14:53:07,896 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 14:53:09,672 - INFO - 구글 시트 로드 - 완료
+2025-10-13 14:53:28,316 - INFO - 3. N지식인 '프라이빗골프대리서비스' 키워드 검색 순위를 탐색합니다.
+2025-10-13 14:53:31,299 - INFO - ====> https://search.naver.com/search.naver?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%EA%B3%A8%ED%94%84%EB%8C%80%EB%A6%AC%EC%84%9C%EB%B9%84%EC%8A%A4
+2025-10-13 14:54:37,436 - INFO - AttributeError: 'NoneType' object has no attribute 'text'

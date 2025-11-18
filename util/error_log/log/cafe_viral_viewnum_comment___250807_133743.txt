@@ -1,0 +1,233 @@
+2025-08-07 13:37:45,953 - INFO - ==================================
+2025-08-07 13:37:45,953 - INFO - #2 댓글 달기를 시작합니다.
+2025-08-07 13:37:45,953 - INFO - 시트이름: 댓글대시보드
+2025-08-07 13:37:45,953 - INFO - 구글 시트 로드 - 시도중....
+2025-08-07 13:37:46,768 - INFO - 구글 시트 로드 - 완료
+2025-08-07 13:38:07,710 - INFO - 댓글대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-07 13:38:07,710 - INFO - ==================================
+2025-08-07 13:38:07,718 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-07 13:38:07,720 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-07 13:38:07,927 - INFO - [# USB테더링 전환 #] - 성공
+2025-08-07 13:38:07,927 - INFO - [#1 mobile_ip 전환 - success ]
+2025-08-07 13:38:07,927 - INFO - -----------------------------
+2025-08-07 13:38:07,927 - INFO - [#2 before_ip 추출] - try
+2025-08-07 13:38:07,927 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-07 13:38:08,344 - INFO - -- 'https://ipinfo.io/ip' : 39.7.51.205
+2025-08-07 13:38:08,344 - INFO - [#2 before_ip 추출] - success : 39.7.51.205
+2025-08-07 13:38:08,344 - INFO - -----------------------------
+2025-08-07 13:38:14,258 - INFO - --- 모바일 데이터 off - 성공
+2025-08-07 13:38:14,641 - INFO - --- 비행기 모드 on - 성공
+2025-08-07 13:38:15,022 - INFO - --- 비행기 모드 off - 성공
+2025-08-07 13:38:15,814 - INFO - --- 모바일 데이터 on - 성공
+2025-08-07 13:38:15,814 - INFO - [#3 after_ip 추출] - try
+2025-08-07 13:38:15,814 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-07 13:38:15,814 - INFO - - 추출 실패 1/3 재시도
+2025-08-07 13:38:16,836 - INFO - -- 'https://ipinfo.io/ip' : 175.223.35.234
+2025-08-07 13:38:16,836 - INFO - [#3 after_ip 추출] - success : 175.223.35.234
+2025-08-07 13:38:16,836 - INFO - Success -IP 변경(성공): before 39.7.51.205 => after 175.223.35.234
+2025-08-07 13:38:16,836 - INFO - ★★★ IP 변경 - Success ★★★
+2025-08-07 13:38:16,836 - INFO - ==================================
+2025-08-07 13:38:18,014 - INFO - C:\program_cookies 폴더 크기: 0.59 GB
+2025-08-07 13:38:18,036 - INFO - C:\program_cookies\Mobile_3362nisb 폴더 크기: 0.05 GB
+2025-08-07 13:38:18,036 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_3362nisb 폴더를 지정합니다.
+2025-08-07 13:38:18,036 - INFO - fixed UA가 있습니다.
+2025-08-07 13:38:18,036 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 10; SM-N950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4280.141 Mobile Safari/537.36입니다.
+2025-08-07 13:38:18,036 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-07 13:38:18,036 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-07 13:38:26,667 - INFO - 크롬창을 열었습니다.
+2025-08-07 13:38:26,667 - INFO - Android
+2025-08-07 13:38:26,675 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-07 13:38:26,676 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-07 13:38:26,676 - INFO - FIXED gps 정보는 {'latitude': 37.5346764, 'longitude': 126.994424, 'accuracy': 100} 입니다.
+2025-08-07 13:38:27,056 - INFO - 모든 변경이 완료되었습니다...
+2025-08-07 13:38:27,056 - INFO - ~~~~~~~~~~
+2025-08-07 13:38:27,614 - INFO - [ NAVER_ID : 3362nisb ]
+2025-08-07 13:38:31,682 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-07 13:38:35,576 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-07 13:38:38,693 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-07 13:38:46,391 - INFO - [완료] 4. 네이버 로그인
+2025-08-07 13:38:46,850 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-07 13:38:50,078 - INFO - 메일 내용 : 새로운 환경에서 로그인 되었습니다.
+2025-08-07 13:38:50,086 - INFO - 새로운 환경 로그인 예 버튼을 누르러 들어갑니다.
+2025-08-07 13:38:51,324 - INFO - 예 버튼을 찾습니다.
+2025-08-07 13:38:51,916 - INFO - 예 버튼을 찾았습니다. 예 버튼을 누릅니다.
+2025-08-07 13:38:53,379 - INFO - 예버튼을 눌렀습니다
+2025-08-07 13:38:55,767 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-07 13:39:09,756 - INFO - 댓글작성을 완료했습니다.
+2025-08-07 13:39:09,757 - INFO - [경고!] 구글 시트 '댓글작업완료'에 작업내역을 기입 중입니다 끄지마세요
+2025-08-07 13:39:09,758 - INFO - 시트이름: 댓글작업완료여부
+2025-08-07 13:39:09,758 - INFO - 구글 시트 로드 - 시도중....
+2025-08-07 13:39:09,865 - INFO - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) - 네트워크 오류 발생. 5초 후 재시작. 재시도: 1/10
+2025-08-07 13:39:14,878 - INFO - 시트이름: 댓글작업완료여부
+2025-08-07 13:39:14,878 - INFO - 구글 시트 로드 - 시도중....
+2025-08-07 13:39:15,856 - INFO - 구글 시트 로드 - 완료
+2025-08-07 13:42:35,335 - INFO - Success 구글 시트에 작성이 완료되었습니다
+2025-08-07 13:42:35,923 - INFO - 카페바이럴(댓글) :: 계정: 3362nisb - 작업 성공 / 댓글: 필터도 인증이 다 달라요. 저는 정수기 살때 상세페이지 꼼꼼히 보고 필터 인증 받은 걸로 사긴했어요
+2025-08-07 13:42:37,130 - INFO - ==================================
+2025-08-07 13:42:37,130 - INFO - ★★★ IP 변경 - START ★★★
+2025-08-07 13:42:37,130 - INFO - [#1 mobile_ip 전환 - try ]
+2025-08-07 13:42:37,524 - INFO - [# USB테더링 전환 #] - 성공
+2025-08-07 13:42:37,524 - INFO - [#1 mobile_ip 전환 - success ]
+2025-08-07 13:42:37,524 - INFO - -----------------------------
+2025-08-07 13:42:37,524 - INFO - [#2 before_ip 추출] - try
+2025-08-07 13:42:37,526 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-07 13:42:37,977 - INFO - -- 'https://ipinfo.io/ip' : 175.223.35.234
+2025-08-07 13:42:37,977 - INFO - [#2 before_ip 추출] - success : 175.223.35.234
+2025-08-07 13:42:37,977 - INFO - -----------------------------
+2025-08-07 13:42:38,812 - INFO - --- 모바일 데이터 off - 성공
+2025-08-07 13:42:39,186 - INFO - --- 비행기 모드 on - 성공
+2025-08-07 13:42:39,540 - INFO - --- 비행기 모드 off - 성공
+2025-08-07 13:42:40,337 - INFO - --- 모바일 데이터 on - 성공
+2025-08-07 13:42:40,337 - INFO - [#3 after_ip 추출] - try
+2025-08-07 13:42:40,337 - INFO - -- 'https://ipinfo.io/ip'에서 public IP를 추출합니다....
+2025-08-07 13:42:41,340 - INFO - - 추출 실패 1/3 재시도
+2025-08-07 13:42:42,367 - INFO - -- 'https://ipinfo.io/ip' : 39.7.47.42
+2025-08-07 13:42:42,367 - INFO - [#3 after_ip 추출] - success : 39.7.47.42
+2025-08-07 13:42:42,368 - INFO - Success -IP 변경(성공): before 175.223.35.234 => after 39.7.47.42
+2025-08-07 13:42:42,368 - INFO - ★★★ IP 변경 - Success ★★★
+2025-08-07 13:42:42,368 - INFO - ==================================
+2025-08-07 13:42:43,509 - INFO - C:\program_cookies 폴더 크기: 0.60 GB
+2025-08-07 13:42:43,529 - INFO - C:\program_cookies\Mobile_cd456efg 폴더 크기: 0.05 GB
+2025-08-07 13:42:43,530 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_cd456efg 폴더를 지정합니다.
+2025-08-07 13:42:43,530 - INFO - fixed UA가 있습니다.
+2025-08-07 13:42:43,530 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 10; SM-N950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4280.141 Mobile Safari/537.36입니다.
+2025-08-07 13:42:43,530 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-07 13:42:43,530 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-07 13:42:44,190 - INFO - 크롬창을 열었습니다.
+2025-08-07 13:42:44,191 - INFO - Android
+2025-08-07 13:42:44,202 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-07 13:42:44,202 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-07 13:42:44,203 - INFO - FIXED gps 정보는 {'latitude': 37.5389049, 'longitude': 127.044366, 'accuracy': 100} 입니다.
+2025-08-07 13:42:44,569 - INFO - 모든 변경이 완료되었습니다...
+2025-08-07 13:42:44,569 - INFO - ~~~~~~~~~~
+2025-08-07 13:42:44,995 - INFO - [ NAVER_ID : cd456efg ]
+2025-08-07 13:42:46,743 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-07 13:42:48,651 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-07 13:42:50,972 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-07 13:42:58,173 - INFO - [완료] 4. 네이버 로그인
+2025-08-07 13:42:58,483 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-07 13:43:01,695 - INFO - 메일 내용 : 새로운 환경에서 로그인 되었습니다.
+2025-08-07 13:43:01,730 - INFO - 새로운 환경 로그인 예 버튼을 누르러 들어갑니다.
+2025-08-07 13:43:03,235 - INFO - 예 버튼을 찾습니다.
+2025-08-07 13:43:03,708 - INFO - 예 버튼을 찾았습니다. 예 버튼을 누릅니다.
+2025-08-07 13:43:05,053 - INFO - 예버튼을 눌렀습니다
+2025-08-07 13:43:07,773 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-07 13:43:36,100 - ERROR - 1/10번째 [ cafe_viral_viewnum_comment.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1082, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start(googlesheet):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 845, in cafe_post_comment_start
+    is_completd_cafe_comment = self.cafe_viral_comment_process()
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 762, in cafe_viral_comment_process
+    if not self._cafe_comment_write(data):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 714, in _cafe_comment_write
+    self._write_comments(data['댓글'], data['게시완료링크'])
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 689, in _write_comments
+    selenium_util.wait_for_element(self.browser, 20, comment_textarea_select)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x50fd23+62915]
+	GetHandleVerifier [0x0x50fd64+62980]
+	(No symbol) [0x0x343e13]
+	(No symbol) [0x0x38c89e]
+	(No symbol) [0x0x38cc3b]
+	(No symbol) [0x0x3d4ec2]
+	(No symbol) [0x0x3b1424]
+	(No symbol) [0x0x3d26ea]
+	(No symbol) [0x0x3b11d6]
+	(No symbol) [0x0x380833]
+	(No symbol) [0x0x3816a4]
+	GetHandleVerifier [0x0x778d13+2590131]
+	GetHandleVerifier [0x0x773f5a+2570234]
+	GetHandleVerifier [0x0x5359da+217722]
+	GetHandleVerifier [0x0x526048+153832]
+	GetHandleVerifier [0x0x52c4ad+179533]
+	GetHandleVerifier [0x0x517728+94152]
+	GetHandleVerifier [0x0x5178b2+94546]
+	GetHandleVerifier [0x0x502bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-07 13:43:36,100 - ERROR - Traceback (most recent call last):
+2025-08-07 13:43:36,100 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\cafe_viral_viewnum_comment.py", line 1082, in <module>
+    if status := naver_cafe_bot.cafe_post_comment_start(googlesheet):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-07 13:43:36,100 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 845, in cafe_post_comment_start
+    is_completd_cafe_comment = self.cafe_viral_comment_process()
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-07 13:43:36,100 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 762, in cafe_viral_comment_process
+    if not self._cafe_comment_write(data):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-07 13:43:36,100 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 714, in _cafe_comment_write
+    self._write_comments(data['댓글'], data['게시완료링크'])
+2025-08-07 13:43:36,102 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_cafe_bot.py", line 689, in _write_comments
+    selenium_util.wait_for_element(self.browser, 20, comment_textarea_select)
+2025-08-07 13:43:36,102 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-07 13:43:36,102 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+2025-08-07 13:43:36,102 - ERROR - selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x50fd23+62915]
+	GetHandleVerifier [0x0x50fd64+62980]
+	(No symbol) [0x0x343e13]
+	(No symbol) [0x0x38c89e]
+	(No symbol) [0x0x38cc3b]
+	(No symbol) [0x0x3d4ec2]
+	(No symbol) [0x0x3b1424]
+	(No symbol) [0x0x3d26ea]
+	(No symbol) [0x0x3b11d6]
+	(No symbol) [0x0x380833]
+	(No symbol) [0x0x3816a4]
+	GetHandleVerifier [0x0x778d13+2590131]
+	GetHandleVerifier [0x0x773f5a+2570234]
+	GetHandleVerifier [0x0x5359da+217722]
+	GetHandleVerifier [0x0x526048+153832]
+	GetHandleVerifier [0x0x52c4ad+179533]
+	GetHandleVerifier [0x0x517728+94152]
+	GetHandleVerifier [0x0x5178b2+94546]
+	GetHandleVerifier [0x0x502bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-07 13:43:36,351 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-07 13:43:36,351 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-07 13:43:37,353 - INFO - ==================================
+2025-08-07 13:43:37,353 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-07 13:43:37,476 - INFO - ==================================
+2025-08-07 13:43:37,476 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - 시도 ★
+2025-08-07 13:43:37,602 - INFO - -----------------------------
+2025-08-07 13:43:37,602 - INFO - 모바일 USB 어뎁터 - 비활성화(시도 & 명령어 작동)
+2025-08-07 13:43:38,090 - INFO - -----------------------------
+2025-08-07 13:43:38,090 - INFO - 이더넷(WI-FI, 랜선) 어뎁터 - 활성화(시도 & 명령어 작동)
+2025-08-07 13:43:42,871 - INFO - 모바일 USB 어뎁터가 비활성화 되었습니다.
+2025-08-07 13:43:59,069 - INFO - 이더넷 어뎁터가 활성화 되었습니다.
+2025-08-07 13:43:59,552 - INFO - ★ 이더넷(유선 & Wi-Fi) 전환 - Success ★
+2025-08-07 13:43:59,553 - INFO - ==================================
+2025-08-07 13:43:59,687 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-07 13:44:01,387 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-07 13:44:03,391 - INFO - ==================================
+2025-08-07 13:44:03,391 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-07 13:44:03,391 - INFO - -----------------------------
+2025-08-07 13:44:03,391 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-07 13:44:03,391 - INFO - ==================================
+2025-08-07 13:44:07,088 - INFO - ==================================
+2025-08-07 13:44:07,089 - INFO - ==================================
+2025-08-07 13:44:07,090 - INFO - #2 댓글 달기를 시작합니다.
+2025-08-07 13:44:07,090 - INFO - 시트이름: 댓글대시보드
+2025-08-07 13:44:07,091 - INFO - 구글 시트 로드 - 시도중....
+2025-08-07 13:44:09,204 - INFO - 구글 시트 로드 - 완료

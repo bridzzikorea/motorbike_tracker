@@ -1,0 +1,105 @@
+2025-08-08 17:33:51,651 - INFO - 블로그 작성 시작: 시트명=브리찌블로그, 예약작성 여부=False
+2025-08-08 17:33:51,651 - INFO - 사용 시트 : 브리찌블로그
+2025-08-08 17:33:51,652 - INFO - ==================================
+2025-08-08 17:33:53,766 - INFO - 시트이름: 대시보드
+2025-08-08 17:33:53,767 - INFO - 구글 시트 로드 - 시도중....
+2025-08-08 17:33:54,617 - INFO - 구글 시트 로드 - 완료
+2025-08-08 17:33:55,227 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-08 17:33:55,227 - INFO - [현재 시각] 17:33:53.766881
+2025-08-08 17:33:55,229 - ERROR - 1/3번째 [ N_blog_Bridzzi.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\현성전자\\xn60fc94_정수기 정보\\랜덤사진'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-08 17:33:55,229 - ERROR - Traceback (most recent call last):
+2025-08-08 17:33:55,230 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+2025-08-08 17:33:55,230 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+2025-08-08 17:33:55,230 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+2025-08-08 17:33:55,230 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+2025-08-08 17:33:55,230 - ERROR - FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\현성전자\\xn60fc94_정수기 정보\\랜덤사진'
+2025-08-08 17:33:55,423 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-08 17:33:55,423 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-08 17:33:56,424 - INFO - ==================================
+2025-08-08 17:33:56,424 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-08 17:33:56,570 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-08 17:33:57,836 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-08 17:33:59,837 - INFO - ==================================
+2025-08-08 17:33:59,837 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-08 17:33:59,837 - INFO - -----------------------------
+2025-08-08 17:33:59,837 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-08 17:33:59,837 - INFO - ==================================
+2025-08-08 17:34:03,458 - INFO - ==================================
+2025-08-08 17:34:03,458 - INFO - 블로그 작성 시작: 시트명=브리찌블로그, 예약작성 여부=False
+2025-08-08 17:34:03,458 - INFO - 사용 시트 : 브리찌블로그
+2025-08-08 17:34:03,458 - INFO - ==================================
+2025-08-08 17:34:05,851 - INFO - 시트이름: 대시보드
+2025-08-08 17:34:05,851 - INFO - 구글 시트 로드 - 시도중....
+2025-08-08 17:34:06,955 - INFO - 구글 시트 로드 - 완료
+2025-08-08 17:34:07,755 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-08 17:34:07,755 - INFO - [현재 시각] 17:34:05.851640
+2025-08-08 17:34:07,755 - ERROR - 2/3번째 [ N_blog_Bridzzi.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\현성전자\\xn60fc94_정수기 정보\\랜덤사진'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-08 17:34:07,755 - ERROR - Traceback (most recent call last):
+2025-08-08 17:34:07,755 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+2025-08-08 17:34:07,755 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+2025-08-08 17:34:07,755 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+2025-08-08 17:34:07,755 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+2025-08-08 17:34:07,755 - ERROR - FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\현성전자\\xn60fc94_정수기 정보\\랜덤사진'
+2025-08-08 17:34:07,755 - INFO - 텔레그램 에러 메시지 : [ N_blog_Bridzzi.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\현성전자\\xn60fc94_정수기 정보\\랜덤사진'
+2025-08-08 17:34:08,935 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-08 17:34:08,935 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-08 17:34:09,936 - INFO - ==================================
+2025-08-08 17:34:09,936 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-08 17:34:10,071 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-08 17:34:11,321 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-08 17:34:13,327 - INFO - ==================================
+2025-08-08 17:34:13,327 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-08 17:34:13,327 - INFO - -----------------------------
+2025-08-08 17:34:13,327 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-08 17:34:13,328 - INFO - ==================================
+2025-08-08 17:34:16,984 - INFO - ==================================
+2025-08-08 17:34:16,984 - INFO - 블로그 작성 시작: 시트명=브리찌블로그, 예약작성 여부=False
+2025-08-08 17:34:16,984 - INFO - 사용 시트 : 브리찌블로그
+2025-08-08 17:34:16,984 - INFO - ==================================

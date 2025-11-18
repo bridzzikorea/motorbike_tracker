@@ -1,0 +1,207 @@
+2025-10-13 16:18:44,839 - INFO - 현재시간 : 16시 18분
+2025-10-13 16:18:50,696 - INFO - 시트이름: 프로그램/작동여부&보고멘트
+2025-10-13 16:18:50,697 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:18:52,384 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:18:52,766 - INFO - 프로그램/작동여부&보고멘트 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 16:18:52,766 - INFO - ==================================
+2025-10-13 16:18:52,766 - INFO - N키워드 랭킹 - 수집 시작 ( 16시 18분 )
+2025-10-13 16:18:52,767 - INFO - 시트이름: N지식인(링크)(Ir)
+2025-10-13 16:18:52,767 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:18:54,360 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:18:54,961 - INFO - N지식인(링크)(Ir) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 16:18:54,977 - INFO - 시트이름: N블로그(통합)
+2025-10-13 16:18:54,977 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:18:56,321 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:18:56,886 - INFO - N블로그(통합) - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 16:18:56,893 - INFO - ==================================
+2025-10-13 16:18:56,893 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-13 16:18:57,057 - INFO - [현재 크롬 버전] : 141.0.7390.77
+2025-10-13 16:18:58,303 - INFO - Chrome 업데이트를 확인하는 중...
+2025-10-13 16:19:00,308 - INFO - ==================================
+2025-10-13 16:19:00,308 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-10-13 16:19:00,308 - INFO - -----------------------------
+2025-10-13 16:19:00,308 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-10-13 16:19:00,308 - INFO - ==================================
+2025-10-13 16:19:00,461 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-10-13 16:19:00,461 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-10-13 16:19:01,462 - INFO - ==================================
+2025-10-13 16:19:03,462 - INFO - PC랜덤화면크기를 불러옵니다.
+2025-10-13 16:19:03,462 - INFO - fixed UA가 없어서 랜덤으로 PC UA 생성합니다.
+2025-10-13 16:19:03,462 - INFO - 랜덤으로 생성된 UA는 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6805.69 Safari/537.36입니다.
+2025-10-13 16:19:03,462 - INFO - 쿠기를 불러옵니다 쿠키가 없으면 cookies 폴더 안에 새로 생성합니다.
+2025-10-13 16:19:03,464 - INFO - cookies 폴더 크기: 0.00 GB
+2025-10-13 16:19:05,150 - INFO - ==================================
+2025-10-13 16:19:05,158 - INFO - useragentdata를 cdp_cmd로 변경합니다..
+2025-10-13 16:19:05,161 - INFO - Windows
+2025-10-13 16:19:05,164 - INFO - navigator를 override 합니다..
+2025-10-13 16:19:05,167 - INFO - devicemetrics를 override 합니다..
+2025-10-13 16:19:05,171 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-10-13 16:19:05,171 - INFO - FIXED gps 정보가 없어서 랜덤으로 생성합니다
+2025-10-13 16:19:05,172 - INFO - RANDOM gps 정보는 {'latitude': 37.58847290016523, 'longitude': 127.0765374131056, 'accuracy': 100} 입니다.
+2025-10-13 16:19:08,772 - INFO - 시트이름: 검색순위/입력&대시보드TEST
+2025-10-13 16:19:08,773 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:10,133 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:10,558 - INFO - 검색순위/입력&대시보드TEST - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 16:19:10,559 - INFO - ==================================
+2025-10-13 16:19:10,560 - INFO - '대리운전알바' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:10,560 - INFO - 3. N지식인 '대리운전알바' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:10,863 - INFO - ====> https://search.naver.com/search.naver?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%EB%8C%80%EB%A6%AC%EC%9A%B4%EC%A0%84%EC%95%8C%EB%B0%94
+2025-10-13 16:19:14,872 - INFO - 네이버 지식인 데이터 개수: 60
+2025-10-13 16:19:14,881 - INFO - 브리찌 지식인 데이터 개수: 3
+2025-10-13 16:19:14,881 - INFO - 시트이름: 지식인_순위/데이터
+2025-10-13 16:19:14,882 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:16,164 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:18,116 - INFO - 시트이름: 검색순위/작업내역
+2025-10-13 16:19:18,116 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:19,447 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:19,448 - INFO - 시트이름: 검색순위/작업내역
+2025-10-13 16:19:19,448 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:20,918 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:22,588 - INFO - 검색순위/작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 16:19:23,545 - INFO - 구글 시트에 기록이 완료되었습니다.
+2025-10-13 16:19:23,545 - INFO - ==================================
+2025-10-13 16:19:23,545 - INFO - ==================================
+2025-10-13 16:19:23,546 - INFO - '프라이빗골프대리서비스' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:23,546 - INFO - 3. N지식인 '프라이빗골프대리서비스' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:23,776 - INFO - ====> https://search.naver.com/search.naver?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%EA%B3%A8%ED%94%84%EB%8C%80%EB%A6%AC%EC%84%9C%EB%B9%84%EC%8A%A4
+2025-10-13 16:19:28,014 - INFO - 네이버 지식인 데이터 개수: 60
+2025-10-13 16:19:28,023 - INFO - 브리찌 지식인 데이터 개수: 0
+2025-10-13 16:19:28,023 - INFO - 시트이름: 검색순위/작업내역
+2025-10-13 16:19:28,024 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:29,746 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:29,746 - INFO - 시트이름: 검색순위/작업내역
+2025-10-13 16:19:29,747 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:31,119 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:31,480 - INFO - 검색순위/작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 16:19:32,085 - INFO - 구글 시트에 기록이 완료되었습니다.
+2025-10-13 16:19:32,085 - INFO - ==================================
+2025-10-13 16:19:32,085 - INFO - ==================================
+2025-10-13 16:19:32,085 - INFO - '대리기사모집' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:32,085 - INFO - 3. N지식인 '대리기사모집' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:32,471 - INFO - ====> https://search.naver.com/search.naver?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%EB%8C%80%EB%A6%AC%EA%B8%B0%EC%82%AC%EB%AA%A8%EC%A7%91
+2025-10-13 16:19:37,023 - INFO - 네이버 지식인 데이터 개수: 60
+2025-10-13 16:19:37,031 - INFO - 브리찌 지식인 데이터 개수: 3
+2025-10-13 16:19:37,032 - INFO - 시트이름: 지식인_순위/데이터
+2025-10-13 16:19:37,032 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:38,342 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:39,376 - INFO - 시트이름: 검색순위/작업내역
+2025-10-13 16:19:39,376 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:40,981 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:40,981 - INFO - 시트이름: 검색순위/작업내역
+2025-10-13 16:19:40,981 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:42,313 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:43,512 - INFO - 검색순위/작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 16:19:44,144 - INFO - 구글 시트에 기록이 완료되었습니다.
+2025-10-13 16:19:44,144 - INFO - ==================================
+2025-10-13 16:19:44,145 - INFO - ==================================
+2025-10-13 16:19:44,145 - INFO - '탁송기사모집' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:44,145 - INFO - 3. N지식인 '탁송기사모집' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:44,532 - INFO - ====> https://search.naver.com/search.naver?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%ED%83%81%EC%86%A1%EA%B8%B0%EC%82%AC%EB%AA%A8%EC%A7%91
+2025-10-13 16:19:49,010 - INFO - 네이버 지식인 데이터 개수: 60
+2025-10-13 16:19:49,018 - INFO - 브리찌 지식인 데이터 개수: 1
+2025-10-13 16:19:49,019 - INFO - 시트이름: 지식인_순위/데이터
+2025-10-13 16:19:49,019 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:50,249 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:51,238 - INFO - 시트이름: 검색순위/작업내역
+2025-10-13 16:19:51,238 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:53,128 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:53,128 - INFO - 시트이름: 검색순위/작업내역
+2025-10-13 16:19:53,128 - INFO - 구글 시트 로드 - 시도중....
+2025-10-13 16:19:54,615 - INFO - 구글 시트 로드 - 완료
+2025-10-13 16:19:55,087 - INFO - 검색순위/작업내역 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-10-13 16:19:55,674 - INFO - 구글 시트에 기록이 완료되었습니다.
+2025-10-13 16:19:55,674 - INFO - ==================================
+2025-10-13 16:19:55,674 - INFO - ==================================
+2025-10-13 16:19:55,674 - INFO - '법인대리운전' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:55,674 - INFO - 3. N지식인 '법인대리운전' 키워드 검색 순위를 탐색합니다.
+2025-10-13 16:19:55,680 - ERROR - 1/10번째 [ naver_search_rank_kakao_message.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 702, in <module>
+    main_process()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 621, in main_process
+    keyword_rank_search_start(keyword_rank__googlesheet)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 575, in keyword_rank_search_start
+    bridzzi_kin_rank_data = get_n_kin_rank_data(browser, bridzzi_kins, keyword)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 440, in get_n_kin_rank_data
+    browser.get(url)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 472, in get
+    self.execute(Command.GET, {"url": url})
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=141.0.7390.77)
+Stacktrace:
+	GetHandleVerifier [0x0x105fea3+66515]
+	GetHandleVerifier [0x0x105fee4+66580]
+	(No symbol) [0x0xe4dc48]
+	(No symbol) [0x0xe3ce80]
+	(No symbol) [0x0xe5b81b]
+	(No symbol) [0x0xec1c25]
+	(No symbol) [0x0xedc4d9]
+	(No symbol) [0x0xebafc6]
+	(No symbol) [0x0xe8c2ca]
+	(No symbol) [0x0xe8d154]
+	GetHandleVerifier [0x0x12b73d3+2521347]
+	GetHandleVerifier [0x0x12b2353+2500739]
+	GetHandleVerifier [0x0x1087cf4+229924]
+	GetHandleVerifier [0x0x1078258+165768]
+	GetHandleVerifier [0x0x107ed0d+193085]
+	GetHandleVerifier [0x0x10681b8+100072]
+	GetHandleVerifier [0x0x1068350+100480]
+	GetHandleVerifier [0x0x105260a+11066]
+	BaseThreadInitThunk [0x0x752f5d49+25]
+	RtlInitializeExceptionChain [0x0x7772d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7772d661+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-10-13 16:19:55,681 - ERROR - Traceback (most recent call last):
+2025-10-13 16:19:55,682 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 702, in <module>
+    main_process()
+2025-10-13 16:19:55,682 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 621, in main_process
+    keyword_rank_search_start(keyword_rank__googlesheet)
+2025-10-13 16:19:55,682 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 575, in keyword_rank_search_start
+    bridzzi_kin_rank_data = get_n_kin_rank_data(browser, bridzzi_kins, keyword)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-13 16:19:55,682 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Report\naver_search_rank_kakao_message.py", line 440, in get_n_kin_rank_data
+    browser.get(url)
+2025-10-13 16:19:55,682 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 472, in get
+    self.execute(Command.GET, {"url": url})
+2025-10-13 16:19:55,683 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+2025-10-13 16:19:55,683 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+2025-10-13 16:19:55,683 - ERROR - selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=141.0.7390.77)
+Stacktrace:
+	GetHandleVerifier [0x0x105fea3+66515]
+	GetHandleVerifier [0x0x105fee4+66580]
+	(No symbol) [0x0xe4dc48]
+	(No symbol) [0x0xe3ce80]
+	(No symbol) [0x0xe5b81b]
+	(No symbol) [0x0xec1c25]
+	(No symbol) [0x0xedc4d9]
+	(No symbol) [0x0xebafc6]
+	(No symbol) [0x0xe8c2ca]
+	(No symbol) [0x0xe8d154]
+	GetHandleVerifier [0x0x12b73d3+2521347]
+	GetHandleVerifier [0x0x12b2353+2500739]
+	GetHandleVerifier [0x0x1087cf4+229924]
+	GetHandleVerifier [0x0x1078258+165768]
+	GetHandleVerifier [0x0x107ed0d+193085]
+	GetHandleVerifier [0x0x10681b8+100072]
+	GetHandleVerifier [0x0x1068350+100480]
+	GetHandleVerifier [0x0x105260a+11066]
+	BaseThreadInitThunk [0x0x752f5d49+25]
+	RtlInitializeExceptionChain [0x0x7772d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7772d661+561]
+2025-10-13 16:19:55,683 - INFO - ==================================
+2025-10-13 16:19:55,683 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-10-13 16:19:55,859 - INFO - [현재 크롬 버전] : 141.0.7390.77

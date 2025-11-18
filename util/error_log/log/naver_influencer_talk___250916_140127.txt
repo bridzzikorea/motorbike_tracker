@@ -1,0 +1,9 @@
+2025-09-16 14:01:48,408 - ERROR - 1/3번째 [ naver_influencer_talk.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 95, in <module>
+    influencerTalk.run()
+TypeError: influencerTalk.run() missing 1 required positional argument: 'self'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다

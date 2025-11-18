@@ -1,0 +1,35 @@
+2025-09-16 14:03:36,493 - ERROR - 1/3번째 [ naver_influencer_talk.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 95, in <module>
+    influncer_talk.run()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 59, in run
+    self.init_browser()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 53, in init_browser
+    data = self.googlesheet.load_one_line("ID/PW", "B", "G", ["B", "C"])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 83, in wrapper
+    return method(*args, **kwargs)  # 원래 메서드 실행
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: GoogleSheet.load_one_line() takes 4 positional arguments but 5 were given
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-09-16 14:03:36,500 - ERROR - Traceback (most recent call last):
+2025-09-16 14:03:36,501 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 95, in <module>
+    influncer_talk.run()
+2025-09-16 14:03:36,501 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 59, in run
+    self.init_browser()
+2025-09-16 14:03:36,501 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\etc\naver_influencer_talk.py", line 53, in init_browser
+    data = self.googlesheet.load_one_line("ID/PW", "B", "G", ["B", "C"])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 14:03:36,502 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\data_load\google_sheet.py", line 83, in wrapper
+    return method(*args, **kwargs)  # 원래 메서드 실행
+           ^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 14:03:36,502 - ERROR - TypeError: GoogleSheet.load_one_line() takes 4 positional arguments but 5 were given
+2025-09-16 14:03:36,644 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-09-16 14:03:36,644 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-09-16 14:03:37,645 - INFO - ==================================
+2025-09-16 14:03:37,645 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-09-16 14:03:37,817 - INFO - [현재 크롬 버전] : 140.0.7339.128
+2025-09-16 14:03:39,088 - INFO - Chrome 업데이트를 확인하는 중...

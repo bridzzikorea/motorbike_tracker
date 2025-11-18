@@ -1,0 +1,160 @@
+2025-08-12 08:56:48,770 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 08:56:48,770 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 08:56:49,319 - INFO - 구글 시트 로드 - 완료
+2025-08-12 08:56:49,923 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 08:56:50,581 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-12 08:56:50,595 - INFO - C:\program_cookies\Mobile_3362nisb 폴더 크기: 0.06 GB
+2025-08-12 08:56:50,595 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_3362nisb 폴더를 지정합니다.
+2025-08-12 08:56:50,596 - INFO - fixed UA가 있습니다.
+2025-08-12 08:56:50,596 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 10; SM-N950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4280.141 Mobile Safari/537.36입니다.
+2025-08-12 08:56:50,596 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 08:56:50,596 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 08:56:54,270 - INFO - 크롬창을 열었습니다.
+2025-08-12 08:56:54,270 - INFO - Android
+2025-08-12 08:56:54,282 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 08:56:54,282 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 08:56:54,283 - INFO - FIXED gps 정보는 {'latitude': 37.5346764, 'longitude': 126.994424, 'accuracy': 100} 입니다.
+2025-08-12 08:56:54,636 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 08:56:54,636 - INFO - ~~~~~~~~~~
+2025-08-12 08:56:55,159 - INFO - [ NAVER_ID : 3362nisb ]
+2025-08-12 08:56:55,649 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 08:56:57,923 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 08:56:59,889 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 08:57:07,199 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 08:57:07,497 - INFO - (모바일) 메일 로그인 인증 작업을 시작합니다
+2025-08-12 08:57:09,380 - INFO - 이미 읽어 본 메일이라 스킵하고 넘어갑니다.
+2025-08-12 08:57:09,873 - INFO - [완료] 5. 네이버 메일 - 계정 로그인 확인
+2025-08-12 08:57:19,537 - INFO - delete-6587 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 08:57:26,167 - INFO - delete-6910 - 게시글을 정상적으로 삭제했습니다.
+2025-08-12 08:57:26,167 - INFO - delete-6583 - 새로운 아이디 데이터를 가지고 왔습니다. 새로 브라우저를 엽니다
+2025-08-12 08:57:26,912 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-12 08:57:26,932 - INFO - C:\program_cookies\Mobile_cd456efg 폴더 크기: 0.10 GB
+2025-08-12 08:57:26,933 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_cd456efg 폴더를 지정합니다.
+2025-08-12 08:57:26,933 - INFO - fixed UA가 있습니다.
+2025-08-12 08:57:26,933 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 10; SM-N950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4280.141 Mobile Safari/537.36입니다.
+2025-08-12 08:57:26,933 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 08:57:26,933 - INFO - 드라이브 옵션 기입 완료했습니다.
+2025-08-12 08:57:30,371 - INFO - 크롬창을 열었습니다.
+2025-08-12 08:57:30,372 - INFO - Android
+2025-08-12 08:57:30,377 - INFO - geo 정보를 랜덤으로 변경합니다..
+2025-08-12 08:57:30,378 - INFO - FIXED gps 정보를 적용합니다.
+2025-08-12 08:57:30,378 - INFO - FIXED gps 정보는 {'latitude': 37.5389049, 'longitude': 127.044366, 'accuracy': 100} 입니다.
+2025-08-12 08:57:30,747 - INFO - 모든 변경이 완료되었습니다...
+2025-08-12 08:57:30,747 - INFO - ~~~~~~~~~~
+2025-08-12 08:57:31,047 - INFO - [ NAVER_ID : cd456efg ]
+2025-08-12 08:57:31,548 - INFO - [완료] 1. 네이버 모바일 홈페이지 get
+2025-08-12 08:57:33,425 - INFO - [완료] 2. 네이버 사이드 메뉴
+2025-08-12 08:57:35,414 - INFO - [완료] 3. 네이버 로그인 화면 - 페이지 get
+2025-08-12 08:57:42,950 - INFO - [완료] 4. 네이버 로그인
+2025-08-12 08:57:43,195 - INFO - ==================================
+2025-08-12 08:57:50,461 - ERROR - 1/10번째 [ delete_viral_content.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 226, in <module>
+    start_delete_content()
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 94, in start_delete_content
+    browser = browser_load(row)
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 68, in browser_load
+    naver_bot.naver_login_mo(ID, PW)
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 177, in naver_login_mo
+    self._check_id_safety_mo()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 204, in _check_id_safety_mo
+    selenium_util.wait_for_element(self.browser, 5, form_label_selector)
+  File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3fd23+62915]
+	GetHandleVerifier [0x0xe3fd64+62980]
+	(No symbol) [0x0xc73e13]
+	(No symbol) [0x0xcbc89e]
+	(No symbol) [0x0xcbcc3b]
+	(No symbol) [0x0xd04ec2]
+	(No symbol) [0x0xce1424]
+	(No symbol) [0x0xd026ea]
+	(No symbol) [0x0xce11d6]
+	(No symbol) [0x0xcb0833]
+	(No symbol) [0x0xcb16a4]
+	GetHandleVerifier [0x0x10a8d13+2590131]
+	GetHandleVerifier [0x0x10a3f5a+2570234]
+	GetHandleVerifier [0x0xe659da+217722]
+	GetHandleVerifier [0x0xe56048+153832]
+	GetHandleVerifier [0x0xe5c4ad+179533]
+	GetHandleVerifier [0x0xe47728+94152]
+	GetHandleVerifier [0x0xe478b2+94546]
+	GetHandleVerifier [0x0xe32bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-12 08:57:50,461 - ERROR - Traceback (most recent call last):
+2025-08-12 08:57:50,461 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 226, in <module>
+    start_delete_content()
+2025-08-12 08:57:50,461 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 94, in start_delete_content
+    browser = browser_load(row)
+    ^^^^^^^^^^^^^^^^^
+2025-08-12 08:57:50,461 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Cafe_Viral\delete_viral_content.py", line 68, in browser_load
+    naver_bot.naver_login_mo(ID, PW)
+2025-08-12 08:57:50,461 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 177, in naver_login_mo
+    self._check_id_safety_mo()
+2025-08-12 08:57:50,461 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\base\naver_base.py", line 204, in _check_id_safety_mo
+    selenium_util.wait_for_element(self.browser, 5, form_label_selector)
+2025-08-12 08:57:50,461 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\selenium\helpers.py", line 2012, in wait_for_element
+    element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-08-12 08:57:50,461 - ERROR - File "c:\Users\user\anaconda3\envs\AutoPro\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+2025-08-12 08:57:50,461 - ERROR - selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3fd23+62915]
+	GetHandleVerifier [0x0xe3fd64+62980]
+	(No symbol) [0x0xc73e13]
+	(No symbol) [0x0xcbc89e]
+	(No symbol) [0x0xcbcc3b]
+	(No symbol) [0x0xd04ec2]
+	(No symbol) [0x0xce1424]
+	(No symbol) [0x0xd026ea]
+	(No symbol) [0x0xce11d6]
+	(No symbol) [0x0xcb0833]
+	(No symbol) [0x0xcb16a4]
+	GetHandleVerifier [0x0x10a8d13+2590131]
+	GetHandleVerifier [0x0x10a3f5a+2570234]
+	GetHandleVerifier [0x0xe659da+217722]
+	GetHandleVerifier [0x0xe56048+153832]
+	GetHandleVerifier [0x0xe5c4ad+179533]
+	GetHandleVerifier [0x0xe47728+94152]
+	GetHandleVerifier [0x0xe478b2+94546]
+	GetHandleVerifier [0x0xe32bca+9322]
+	BaseThreadInitThunk [0x0x76965d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d281+561]
+2025-08-12 08:57:50,665 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-12 08:57:50,666 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-12 08:57:51,168 - INFO - ==================================
+2025-08-12 08:57:51,168 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-12 08:57:51,308 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-12 08:57:52,582 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-12 08:57:54,584 - INFO - ==================================
+2025-08-12 08:57:54,584 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-12 08:57:54,600 - INFO - -----------------------------
+2025-08-12 08:57:54,600 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-12 08:57:54,600 - INFO - ==================================
+2025-08-12 08:57:58,219 - INFO - ==================================
+2025-08-12 08:58:00,228 - INFO - 시트이름: 게시글삭제/대시보드
+2025-08-12 08:58:00,228 - INFO - 구글 시트 로드 - 시도중....
+2025-08-12 08:58:00,852 - INFO - 구글 시트 로드 - 완료
+2025-08-12 08:58:01,468 - INFO - 게시글삭제/대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-12 08:58:01,677 - INFO - C:\program_cookies 폴더 크기: 0.92 GB
+2025-08-12 08:58:01,691 - INFO - C:\program_cookies\Mobile_3362nisb 폴더 크기: 0.06 GB
+2025-08-12 08:58:01,691 - INFO - 쿠키 기록을 남기도록 C:\program_cookies\Mobile_3362nisb 폴더를 지정합니다.
+2025-08-12 08:58:01,691 - INFO - fixed UA가 있습니다.
+2025-08-12 08:58:01,691 - INFO - fixed된 UA는 Mozilla/5.0 (Linux; Android 10; SM-N950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4280.141 Mobile Safari/537.36입니다.
+2025-08-12 08:58:01,691 - INFO - 옵션 수동설정을 시작합니다.
+2025-08-12 08:58:01,691 - INFO - 드라이브 옵션 기입 완료했습니다.

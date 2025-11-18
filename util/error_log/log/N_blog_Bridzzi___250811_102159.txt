@@ -1,0 +1,172 @@
+2025-08-11 10:21:59,683 - INFO - 블로그 작성 시작: 시트명=브리찌블로그, 예약작성 여부=False
+2025-08-11 10:21:59,683 - INFO - 사용 시트 : 브리찌블로그
+2025-08-11 10:21:59,683 - INFO - ==================================
+2025-08-11 10:22:01,937 - INFO - 시트이름: 대시보드
+2025-08-11 10:22:01,937 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 10:22:02,867 - INFO - 구글 시트 로드 - 완료
+2025-08-11 10:22:03,525 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-11 10:22:03,526 - INFO - [현재 시각] 10:22:01.937164
+2025-08-11 10:22:03,526 - ERROR - 1/3번째 [ N_blog_Bridzzi.py 프로그램 ] - < Exception 발생 >
+~~ 1번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\법무법인태하\\piucfqci\\랜덤사진'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-11 10:22:03,534 - ERROR - Traceback (most recent call last):
+2025-08-11 10:22:03,536 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+2025-08-11 10:22:03,537 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+2025-08-11 10:22:03,537 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+2025-08-11 10:22:03,538 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+2025-08-11 10:22:03,538 - ERROR - FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\법무법인태하\\piucfqci\\랜덤사진'
+2025-08-11 10:22:03,742 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 10:22:03,742 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 10:22:04,745 - INFO - ==================================
+2025-08-11 10:22:04,745 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 10:22:04,884 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 10:22:06,103 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 10:22:08,108 - INFO - ==================================
+2025-08-11 10:22:08,108 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 10:22:08,108 - INFO - -----------------------------
+2025-08-11 10:22:08,108 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 10:22:08,108 - INFO - ==================================
+2025-08-11 10:22:11,752 - INFO - ==================================
+2025-08-11 10:22:11,752 - INFO - 블로그 작성 시작: 시트명=브리찌블로그, 예약작성 여부=False
+2025-08-11 10:22:11,752 - INFO - 사용 시트 : 브리찌블로그
+2025-08-11 10:22:11,752 - INFO - ==================================
+2025-08-11 10:22:13,936 - INFO - 시트이름: 대시보드
+2025-08-11 10:22:13,936 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 10:22:15,052 - INFO - 구글 시트 로드 - 완료
+2025-08-11 10:22:15,721 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-11 10:22:15,721 - INFO - [현재 시각] 10:22:13.936769
+2025-08-11 10:22:15,721 - ERROR - 2/3번째 [ N_blog_Bridzzi.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\법무법인태하\\piucfqci\\랜덤사진'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-11 10:22:15,721 - ERROR - Traceback (most recent call last):
+2025-08-11 10:22:15,721 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+2025-08-11 10:22:15,721 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+2025-08-11 10:22:15,721 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+2025-08-11 10:22:15,721 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+2025-08-11 10:22:15,721 - ERROR - FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\법무법인태하\\piucfqci\\랜덤사진'
+2025-08-11 10:22:15,737 - INFO - 텔레그램 에러 메시지 : [ N_blog_Bridzzi.py 프로그램 ] - < Exception 발생 >
+~~ 2번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\법무법인태하\\piucfqci\\랜덤사진'
+2025-08-11 10:22:16,771 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 10:22:16,771 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 10:22:17,775 - INFO - ==================================
+2025-08-11 10:22:17,775 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 10:22:17,910 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 10:22:19,122 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 10:22:21,126 - INFO - ==================================
+2025-08-11 10:22:21,126 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 10:22:21,126 - INFO - -----------------------------
+2025-08-11 10:22:21,126 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 10:22:21,126 - INFO - ==================================
+2025-08-11 10:22:24,764 - INFO - ==================================
+2025-08-11 10:22:24,764 - INFO - 블로그 작성 시작: 시트명=브리찌블로그, 예약작성 여부=False
+2025-08-11 10:22:24,764 - INFO - 사용 시트 : 브리찌블로그
+2025-08-11 10:22:24,764 - INFO - ==================================
+2025-08-11 10:22:26,973 - INFO - 시트이름: 대시보드
+2025-08-11 10:22:26,973 - INFO - 구글 시트 로드 - 시도중....
+2025-08-11 10:22:27,870 - INFO - 구글 시트 로드 - 완료
+2025-08-11 10:22:28,546 - INFO - 대시보드 - Success 구글 시트에서 데이터를 성공적으로 가져왔습니다.
+2025-08-11 10:22:28,546 - INFO - [현재 시각] 10:22:26.973057
+2025-08-11 10:22:28,546 - ERROR - 3/3번째 [ N_blog_Bridzzi.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\법무법인태하\\piucfqci\\랜덤사진'
+
+
+오류가 발생하였습니다. 확인 부탁드립니다
+2025-08-11 10:22:28,546 - ERROR - Traceback (most recent call last):
+2025-08-11 10:22:28,546 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+2025-08-11 10:22:28,546 - ERROR - File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+2025-08-11 10:22:28,546 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+2025-08-11 10:22:28,546 - ERROR - File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+2025-08-11 10:22:28,546 - ERROR - FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\법무법인태하\\piucfqci\\랜덤사진'
+2025-08-11 10:22:28,546 - INFO - 텔레그램 에러 메시지 : [ N_blog_Bridzzi.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\법무법인태하\\piucfqci\\랜덤사진'
+2025-08-11 10:22:29,759 - INFO - 화면 캡처가 성공적으로 저장되었습니다: screenshot.png
+2025-08-11 10:22:29,759 - INFO - 텔레그램 에러 메시지 : [ N_blog_Bridzzi.py 프로그램 ] - < Exception 발생 >
+~~ 3번째 에러 도달 ~~
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 113, in <module>
+    write_blog_post(sheet_name="브리찌블로그", is_reservation=False)
+  File "C:\Users\user\Desktop\Bridzzi\src\naver\Blog\N_blog_Bridzzi.py", line 48, in write_blog_post
+    post_checker.path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 67, in path_checker
+    self._folder_path_checker()
+  File "C:\Users\user\Desktop\Bridzzi\util\platform\naver\n_blog_bot.py", line 74, in _folder_path_checker
+    os.mkdir(path)
+FileNotFoundError: [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\법무법인태하\\piucfqci\\랜덤사진'
+2025-08-11 10:22:30,844 - INFO - ✅ chromedriver 종료 결과: ChromeDriver 종료
+2025-08-11 10:22:30,844 - INFO - ✅ Chrome 종료 결과: Chrome 종료
+2025-08-11 10:22:31,859 - INFO - ==================================
+2025-08-11 10:22:31,859 - INFO - ★ 크롬 브라우저 - 자동 업데이트 ★
+2025-08-11 10:22:32,002 - INFO - [현재 크롬 버전] : 139.0.7258.67
+2025-08-11 10:22:33,242 - INFO - Chrome 업데이트를 확인하는 중...
+2025-08-11 10:22:35,245 - INFO - ==================================
+2025-08-11 10:22:35,245 - INFO - Chrome 상태 : Chrome이 최신 버전임
+2025-08-11 10:22:35,245 - INFO - -----------------------------
+2025-08-11 10:22:35,245 - INFO - ✅ Chrome이 최신 버전입니다. 종료합니다.
+2025-08-11 10:22:35,245 - INFO - ==================================
+2025-08-11 10:22:38,870 - INFO - ==================================
