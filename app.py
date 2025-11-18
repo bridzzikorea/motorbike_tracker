@@ -132,166 +132,166 @@ class SecureLoginApp:
         device_id = str(st.session_state.selected_device_id)
         car_number = str(st.session_state.selected_car_number)        
         
-        # 카카오 지도를 HTML로 렌더링해서 Streamlit에 표시
-        html_code = f"""
-        <!DOCTYPE html>
-        <html>
-        <head>
-            <meta charset="utf-8" />
-            <title>Kakao Map + Roadview</title>
-        </head>
-        <body>
-            <!-- 🔼 위: 로드뷰 / 🔽 아래: 지도 -->
-            <div id="roadview" style="width:100%;height:280px;"></div>
-            <div id="map" style="width:100%;height:280px;margin-top:5px;"></div>
-
-            <script type="text/javascript"
-                src="https://dapi.kakao.com/v2/maps/sdk.js?appkey={KAKAO_JAVASCRIPT_KEY}">
-            </script>
-            <script>
-                // 공통 중심 좌표
-                var mapCenter = new kakao.maps.LatLng({lat}, {lng});
-
-                // =====================
-                // 지도 영역 설정
-                // =====================
-                var mapContainer = document.getElementById('map');
-                var mapOption = {{
-                    center: mapCenter,
-                    level: {level}
-                }};
-                var map = new kakao.maps.Map(mapContainer, mapOption);
-
-                // 지도 타입 컨트롤
-                var mapTypeControl = new kakao.maps.MapTypeControl();
-                map.addControl(mapTypeControl, kakao.maps.ControlPosition.TOPRIGHT);
-
-                // 줌 컨트롤
-                var zoomControl = new kakao.maps.ZoomControl();
-                map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
-
-                // 지도 마커
-                var mMarker = new kakao.maps.Marker({{
-                    position: mapCenter,
-                    map: map
-                }});
-
-                // 지도 인포윈도우 (장비ID / 차량번호 / 큰지도보기 링크)
-                var iwContent = '<div style="padding:1px;">{device_id}<br>{car_number}<br>' +
-                                '<a href="https://map.kakao.com/link/map/{lat},{lng}" style="color:blue" target="_blank">큰 지도보기</a>' +
-                                '</div>';
-                var iwPosition = mapCenter;
-
-                var infowindow = new kakao.maps.InfoWindow({{
-                    position : iwPosition,
-                    content : iwContent
-                }});
-                infowindow.open(map, mMarker);
-
-                // =====================
-                // 로드뷰 영역 설정
-                // =====================
-                var rvContainer = document.getElementById('roadview'); // 로드뷰를 표시할 div
-                var rv = new kakao.maps.Roadview(rvContainer);         // 로드뷰 객체
-                var rc = new kakao.maps.RoadviewClient();              // 로드뷰 클라이언트
-                var rvResetValue = {{}};                               // 초기화 값 저장용
-
-                // 중심 좌표 근처에서 가장 가까운 로드뷰 panoId 찾기
-                rc.getNearestPanoId(mapCenter, 50, function(panoId) {{
-                    if (panoId) {{
-                        rv.setPanoId(panoId, mapCenter);
-                        rvResetValue.panoId = panoId;
-                    }}
-                }});
-
-                // 로드뷰 초기화 시 이벤트
-                kakao.maps.event.addListener(rv, 'init', function() {{
-                    // 로드뷰 마커
-                    var rMarker = new kakao.maps.Marker({{
-                        position: mapCenter,
-                        map: rv
-                    }});
-
-                    // 로드뷰 인포윈도우 (장비ID / 차량번호)
-                    var rLabelContent = '{device_id}<br>{car_number}';
-                    var rLabel = new kakao.maps.InfoWindow({{
-                        position: mapCenter,
-                        content: rLabelContent
-                    }});
-                    rLabel.open(rv, rMarker);
-
-                    // 마커가 화면 중앙 근처에 오도록 viewpoint 조정
-                    var projection = rv.getProjection();
-                    var viewpoint = projection.viewpointFromCoords(
-                        rMarker.getPosition(),
-                        rMarker.getAltitude()
-                    );
-                    rv.setViewpoint(viewpoint);
-
-                    // 초기값 저장 (나중에 필요하면 reset용으로 사용 가능)
-                    rvResetValue.pan = viewpoint.pan;
-                    rvResetValue.tilt = viewpoint.tilt;
-                    rvResetValue.zoom = viewpoint.zoom;
-                }});
-            </script>
-        </body>
-        </html>
-        """
-
-        components.html(html_code, height=590)        
-        
+        # # 카카오 지도를 HTML로 렌더링해서 Streamlit에 표시
         # html_code = f"""
         # <!DOCTYPE html>
         # <html>
         # <head>
         #     <meta charset="utf-8" />
-        #     <title>Kakao Map</title>
+        #     <title>Kakao Map + Roadview</title>
         # </head>
         # <body>
-        #     <div id="map" style="width:100%;height:350px;"></div>
+        #     <!-- 🔼 위: 로드뷰 / 🔽 아래: 지도 -->
+        #     <div id="roadview" style="width:100%;height:280px;"></div>
+        #     <div id="map" style="width:100%;height:280px;margin-top:5px;"></div>
+
         #     <script type="text/javascript"
         #         src="https://dapi.kakao.com/v2/maps/sdk.js?appkey={KAKAO_JAVASCRIPT_KEY}">
-        #     </script>            
+        #     </script>
         #     <script>
-        #         var container = document.getElementById('map');
-        #         var options = {{
-        #             center: new kakao.maps.LatLng({lat}, {lng}),
+        #         // 공통 중심 좌표
+        #         var mapCenter = new kakao.maps.LatLng({lat}, {lng});
+
+        #         // =====================
+        #         // 지도 영역 설정
+        #         // =====================
+        #         var mapContainer = document.getElementById('map');
+        #         var mapOption = {{
+        #             center: mapCenter,
         #             level: {level}
         #         }};
-        #         var map = new kakao.maps.Map(container, options);
-                
-        #         // 지도타입 컨트롤(일반, 스카이뷰)
+        #         var map = new kakao.maps.Map(mapContainer, mapOption);
+
+        #         // 지도 타입 컨트롤
         #         var mapTypeControl = new kakao.maps.MapTypeControl();
         #         map.addControl(mapTypeControl, kakao.maps.ControlPosition.TOPRIGHT);
-                
+
         #         // 줌 컨트롤
         #         var zoomControl = new kakao.maps.ZoomControl();
         #         map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
-                
-        #         // 마커 표시
-        #         var markerPosition  = new kakao.maps.LatLng({lat}, {lng});                 
-        #         var marker = new kakao.maps.Marker({{
-        #             position: markerPosition
-        #         }});                
-        #         marker.setMap(map);                
-                
-        #         // 인포윈도우(설명 및 링크)
-        #         var iwContent = '<div style="padding:1px;">{device_id}<br>{car_number}<br><a href="https://map.kakao.com/link/map/{device_id}__{car_number},{lat},{lng}" style="color:blue" target="_blank">큰 지도보기</a></div>',
-        #             iwPosition = new kakao.maps.LatLng({lat}, {lng}); //인포윈도우 표시 위치입니다
+
+        #         // 지도 마커
+        #         var mMarker = new kakao.maps.Marker({{
+        #             position: mapCenter,
+        #             map: map
+        #         }});
+
+        #         // 지도 인포윈도우 (장비ID / 차량번호 / 큰지도보기 링크)
+        #         var iwContent = '<div style="padding:1px;">{device_id}<br>{car_number}<br>' +
+        #                         '<a href="https://map.kakao.com/link/map/{lat},{lng}" style="color:blue" target="_blank">큰 지도보기</a>' +
+        #                         '</div>';
+        #         var iwPosition = mapCenter;
 
         #         var infowindow = new kakao.maps.InfoWindow({{
         #             position : iwPosition,
-        #             content : iwContent 
+        #             content : iwContent
         #         }});
-                
-        #         infowindow.open(map, marker);                                 
-                
+        #         infowindow.open(map, mMarker);
+
+        #         // =====================
+        #         // 로드뷰 영역 설정
+        #         // =====================
+        #         var rvContainer = document.getElementById('roadview'); // 로드뷰를 표시할 div
+        #         var rv = new kakao.maps.Roadview(rvContainer);         // 로드뷰 객체
+        #         var rc = new kakao.maps.RoadviewClient();              // 로드뷰 클라이언트
+        #         var rvResetValue = {{}};                               // 초기화 값 저장용
+
+        #         // 중심 좌표 근처에서 가장 가까운 로드뷰 panoId 찾기
+        #         rc.getNearestPanoId(mapCenter, 50, function(panoId) {{
+        #             if (panoId) {{
+        #                 rv.setPanoId(panoId, mapCenter);
+        #                 rvResetValue.panoId = panoId;
+        #             }}
+        #         }});
+
+        #         // 로드뷰 초기화 시 이벤트
+        #         kakao.maps.event.addListener(rv, 'init', function() {{
+        #             // 로드뷰 마커
+        #             var rMarker = new kakao.maps.Marker({{
+        #                 position: mapCenter,
+        #                 map: rv
+        #             }});
+
+        #             // 로드뷰 인포윈도우 (장비ID / 차량번호)
+        #             var rLabelContent = '{device_id}<br>{car_number}';
+        #             var rLabel = new kakao.maps.InfoWindow({{
+        #                 position: mapCenter,
+        #                 content: rLabelContent
+        #             }});
+        #             rLabel.open(rv, rMarker);
+
+        #             // 마커가 화면 중앙 근처에 오도록 viewpoint 조정
+        #             var projection = rv.getProjection();
+        #             var viewpoint = projection.viewpointFromCoords(
+        #                 rMarker.getPosition(),
+        #                 rMarker.getAltitude()
+        #             );
+        #             rv.setViewpoint(viewpoint);
+
+        #             // 초기값 저장 (나중에 필요하면 reset용으로 사용 가능)
+        #             rvResetValue.pan = viewpoint.pan;
+        #             rvResetValue.tilt = viewpoint.tilt;
+        #             rvResetValue.zoom = viewpoint.zoom;
+        #         }});
         #     </script>
         # </body>
         # </html>
         # """
 
-        # components.html(html_code, height=380)
+        # components.html(html_code, height=590)        
+        
+        html_code = f"""
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="utf-8" />
+            <title>Kakao Map</title>
+        </head>
+        <body>
+            <div id="map" style="width:100%;height:350px;"></div>
+            <script type="text/javascript"
+                src="https://dapi.kakao.com/v2/maps/sdk.js?appkey={KAKAO_JAVASCRIPT_KEY}">
+            </script>            
+            <script>
+                var container = document.getElementById('map');
+                var options = {{
+                    center: new kakao.maps.LatLng({lat}, {lng}),
+                    level: {level}
+                }};
+                var map = new kakao.maps.Map(container, options);
+                
+                // 지도타입 컨트롤(일반, 스카이뷰)
+                var mapTypeControl = new kakao.maps.MapTypeControl();
+                map.addControl(mapTypeControl, kakao.maps.ControlPosition.TOPRIGHT);
+                
+                // 줌 컨트롤
+                var zoomControl = new kakao.maps.ZoomControl();
+                map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
+                
+                // 마커 표시
+                var markerPosition  = new kakao.maps.LatLng({lat}, {lng});                 
+                var marker = new kakao.maps.Marker({{
+                    position: markerPosition
+                }});                
+                marker.setMap(map);                
+                
+                // 인포윈도우(설명 및 링크)
+                var iwContent = '<div style="padding:1px;">{device_id}<br>{car_number}<br><a href="https://map.kakao.com/link/map/{device_id}__{car_number},{lat},{lng}" style="color:blue" target="_blank">큰 지도보기</a></div>',
+                    iwPosition = new kakao.maps.LatLng({lat}, {lng}); //인포윈도우 표시 위치입니다
+
+                var infowindow = new kakao.maps.InfoWindow({{
+                    position : iwPosition,
+                    content : iwContent 
+                }});
+                
+                infowindow.open(map, marker);                                 
+                
+            </script>
+        </body>
+        </html>
+        """
+
+        components.html(html_code, height=380)
 
     def get_map_data(self):
         """
