@@ -305,7 +305,7 @@ class SecureLoginApp:
         지금은 예시 데이터고, 나중에 GoogleSheet에서 읽어오면 됨.
         """
         
-        data_df = self.googlesheet.load_as_dataframe("오토바이DB", "A", "N", "A")
+        data_df = self.googlesheet.load_as_dataframe("오토바이DB_최신", "A", "N", "A")
         map_data = []
         
         for _, data in data_df.iterrows():
