@@ -13,6 +13,39 @@ from util.data_load.google_sheet import GoogleSheet
 
 KAKAO_JAVASCRIPT_KEY = st.secrets["KAKAO_JAVASCRIPT_KEY"]
 
+
+def init_session_state() -> None:
+    """세션 상태 기본값 설정"""
+    if "logged_in" not in st.session_state:
+        st.session_state.logged_in = False
+
+    if "username" not in st.session_state:
+        st.session_state.username = None
+
+    if "fail_count" not in st.session_state:
+        st.session_state.fail_count = 0
+
+    if "selected_lat" not in st.session_state:
+        st.session_state.selected_lat = self.map_data[0]["위도"]  
+
+    if "selected_lng" not in st.session_state:
+        st.session_state.selected_lng = self.map_data[0]["경도"]
+
+    if "selected_device_id" not in st.session_state:
+        st.session_state.selected_device_id = self.map_data[0]["장비ID"]  
+
+    if "selected_car_number" not in st.session_state:
+        st.session_state.selected_car_number = self.map_data[0]["차량번호"]          
+        
+    if "selected_car_time" not in st.session_state:
+        st.session_state.selected_car_time = self.map_data[0]["시간"]
+
+    if "selected_level" not in st.session_state:
+        st.session_state.selected_level = 3     
+        
+    if "selected_menu" not in st.session_state:
+        st.session_state.selected_menu = "오토바이 최신 위치"
+
 class SecureLoginApp:
     """Streamlit 로그인/잠금 기능을 관리하는 클래스"""
 
@@ -47,39 +80,6 @@ class SecureLoginApp:
             login_dict = {}
 
         return login_dict
-
-    def _init_session_state(self) -> None:
-        """세션 상태 기본값 설정"""
-        if "logged_in" not in st.session_state:
-            st.session_state.logged_in = False
-
-        if "username" not in st.session_state:
-            st.session_state.username = None
-
-        if "fail_count" not in st.session_state:
-            st.session_state.fail_count = 0
-
-        if "selected_lat" not in st.session_state:
-            st.session_state.selected_lat = self.map_data[0]["위도"]  
-
-        if "selected_lng" not in st.session_state:
-            st.session_state.selected_lng = self.map_data[0]["경도"]
-
-        if "selected_device_id" not in st.session_state:
-            st.session_state.selected_device_id = self.map_data[0]["장비ID"]  
-
-        if "selected_car_number" not in st.session_state:
-            st.session_state.selected_car_number = self.map_data[0]["차량번호"]          
-            
-        if "selected_car_time" not in st.session_state:
-            st.session_state.selected_car_time = self.map_data[0]["시간"]
-
-        if "selected_level" not in st.session_state:
-            st.session_state.selected_level = 3     
-            
-        if "selected_menu" not in st.session_state:
-            st.session_state.selected_menu = "오토바이 최신 위치"
-            
             
     def _update_login_history(self, ID: str, PW: str, state: str) -> None:        
         time = get_now_datetime()
@@ -449,7 +449,7 @@ class SecureLoginApp:
     # -----------------------
     def run(self) -> None:
         # 세션 상태 초기화 (session_state는 rerun 사이에 유지)
-        self._init_session_state()
+        init_session_state()
         
         # 앱 실행 엔트리 포인트
         if st.session_state.logged_in:
