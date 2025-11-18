@@ -411,7 +411,6 @@ class SecureLoginApp:
 
         
         st.markdown("#### 오토바이 최신 위치")
-        # self.render_kakao_map()
         self.render_table_with_buttons()        
 
     def render_cumulative_page(self) -> None:
