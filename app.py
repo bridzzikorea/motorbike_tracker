@@ -246,6 +246,9 @@ class SecureLoginApp:
         <head>
             <meta charset="utf-8" />
             <title>Kakao Map</title>
+            
+            <!-- 🔥 여기 추가: HTTP 요청을 자동으로 HTTPS로 올려주는 CSP -->
+            <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
         </head>
         <body>
             <div id="map" style="width:100%;height:350px;"></div>
