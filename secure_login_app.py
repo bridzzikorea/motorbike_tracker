@@ -6,6 +6,7 @@ import streamlit.components.v1 as components
 from util.data_load.google_sheet import get_now_datetime
 from util.data_load.google_sheet import GoogleSheet
 
+KAKAO_JAVASCRIPT_KEY = st.secrets["KAKAO_JAVASCRIPT_KEY"]
 
 class SecureLoginApp:
     """Streamlit 로그인/잠금 기능을 관리하는 클래스"""
