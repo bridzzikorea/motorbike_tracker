@@ -407,9 +407,7 @@ class SecureLoginApp:
                     )
 
     def render_latest_page(self) -> None:
-        # --- 새로고침 ---
-
-        
+        # --- 새로고침 ---        
         st.markdown("#### 오토바이 최신 위치")
         self.render_kakao_map()
         self.render_table_with_buttons()        
