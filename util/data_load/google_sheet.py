@@ -111,9 +111,10 @@ class GoogleSheet:
         ]
 
         info = dict(st.secrets["google_service_account"])
+        print(info)
         self.credentials = None        
         try:
-            self.credentials = service_account.Credentials.from_service_account_file(
+            self.credentials = service_account.Credentials.from_service_account_info(
                 info, 
                 scopes=SCOPE
             )
