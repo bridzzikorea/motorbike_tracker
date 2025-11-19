@@ -287,7 +287,7 @@ class SecureLoginApp:
 
                 // 지도 인포윈도우 (장비ID / 차량번호 / 큰지도보기 링크)
                 var iwContent = '<div style="padding:1px;">{device_id}<br>{car_number}<br>' +
-                                '<a href="https://map.kakao.com/link/map/{lat},{lng}" style="color:blue" target="_blank">큰 지도보기</a>' +
+                                '<a href="https://map.kakao.com/link/map/{device_id}__{car_number},{lat},{lng}" style="color:blue" target="_blank">큰 지도보기</a>' +
                                 '</div>';
                 var iwPosition = mapCenter;
 
@@ -628,7 +628,7 @@ class SecureLoginApp:
                 
                 // (선택 데이터) 지도 인포윈도우 (장비ID / 차량번호 / 큰지도보기 링크)
                 var iwContent = '<div style="padding:1px;">{device_id}<br>{car_number}<br>' +
-                                '<a href="https://map.kakao.com/link/map/{lat},{lng}" style="color:blue" target="_blank">큰 지도보기</a>' +
+                                '<a href="https://map.kakao.com/link/map/{device_id}__{car_number},{lat},{lng}" style="color:blue" target="_blank">큰 지도보기</a>' +
                                 '</div>';
                 var iwPosition = mapCenter;
 
