@@ -747,7 +747,7 @@ class SecureLoginApp:
             header_cols[2].markdown("**시간**")
             header_cols[3].markdown("**위도**")
             header_cols[4].markdown("**경도**")
-            header_cols[5].markdown("**지도보기**")
+            header_cols[5].markdown("**상세추적**")
 
         # --- 내용 행들 ---
         with st.container(height=300, gap="small", border=True):  # border=True 주면 박스 테두리\
@@ -786,7 +786,7 @@ class SecureLoginApp:
             header_cols[2].markdown("**시간**")
             header_cols[3].markdown("**위도**")
             header_cols[4].markdown("**경도**")
-            header_cols[5].markdown("**지도보기**")
+            header_cols[5].markdown("**상세추적**")
 
         # --- 내용 행들 ---
         with st.container(height=300, gap="small", border=True):  # border=True 주면 박스 테두리\
